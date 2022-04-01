@@ -9,4 +9,5 @@ Here you will find a diverse set of global/international GHG emission figures.
 <p><img alt="" src="CDIAC_totals1.png" /></p><h1>Fig 2</h1>
 <p><img alt="" src="GCP_cons_prod_ratio.png" /></p><h1>Fig 3</h1>
 <p><img alt="" src="FAO_1.png" /></p><h1>Fig 4</h1>
+<p><img alt="" src="GCP_top20.png" /></p><h1>Fig 5</h1>
 <p><img alt="" src="ghg_and_co2_totals.png" /></p>

@@ -27,9 +27,13 @@ Created by Diego Acevedo Quintanilla
 <p><br>
 <br></p>
 <h1 align="center">
-    Random figure of the moment:
+    Random figure:
 <br>
 <br>
+<p style="font-size: 12px">
+Updated every 3 hours
+</p>
+
 <img width="1000" src="supplemental/random_daily_fig.png">
 <br>
 <br>
@@ -37,7 +41,7 @@ Created by Diego Acevedo Quintanilla
 <br>
 <br>
 <h1 align="center">
-    We hold a diverse set of inventories and figures ...:
+    We hold a diverse set of inventories and figures ...
 <br>
 <br>
 <img width="1000" src="global/ghg_and_co2_totals.png">
