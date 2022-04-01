@@ -34,11 +34,11 @@ Contact me at dquintani at student.ethz.ch, or feel free to clone the project & 
     Sources:
 </h1>
 
-<p align="center">Or view the Python source script <a href="https://nbviewer.org/github/dquintani/Greenhouse-Data/blob/master/scripts/Inventories_Main.ipynb">here</a>
+<p align="center">Or view the Python source script <a href="https://nbviewer.org/github/dquintani/GreenhouseData/blob/master/scripts/Inventories_Main.ipynb">here</a>
 </p>
 
 <p align="center">
     <iframe 
-        src="https://dquintani.github.io/Greenhouse-Data/pages/sources.html" width="94%" height="800px">
+        src="https://dquintani.github.io/GreenhouseData/pages/sources.html" width="94%" height="800px">
     </iframe>
 </p>

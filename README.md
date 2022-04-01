@@ -27,21 +27,27 @@ Created by Diego Acevedo Quintanilla
 <p><br>
 <br></p>
 <h1 align="center">
-    Random figure of the day:
-<img width="1000" src="country_data/MUS_Mauritius/figures/MUS_EIA_1.png">
+    Random figure of the moment:
+<br>
+<br>
+<img width="1000" src="supplemental/random_daily_fig.png">
 <br>
 <br>
 
 <br>
 <br>
 <h1 align="center">
-    We have a diverse set of inventories and figures 👇:
+    We hold a diverse set of inventories and figures ...:
+<br>
+<br>
 <img width="1000" src="global/ghg_and_co2_totals.png">
 
 <br>
 <br>
 <h1 align="center">
-    For all countries of the world 👍:
+    ... for all countries of the world.
+<br>
+<br>
 <img width="1000" src="global/GCP_top20.png">
 <br>
 <br><h1>Explore by Country:</h1><h1>
