@@ -42,5 +42,5 @@ jobs:
         run: |
           git add -A
           git commit -m "[ci] $(date +%H)"
-          git push -q "https://$GH_TOKEN@github.com/dquintani/GreenhouseData.git" main
+          git push -q "https://$GH_TOKEN@github.com/dquintani/GreenhouseData.git" master
         
