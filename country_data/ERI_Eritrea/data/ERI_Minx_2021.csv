@@ -1,0 +1,1560 @@
+code,name,region_ar6_6,region_ar6_10,region_ar6_22,region_ar6_dev,year,sector_title,subsector_title,gas,gwp100_ar5,gwp100_ar6,value_native,value_ar5,value_ar6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1970,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,467.34937,13085.78236,12618.43299
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1970,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,12.1164552,3210.8606280000004,3307.7922696
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1970,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,83029.1,2324814.8000000003,2241785.7
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1970,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,21.2737,21.2737,21.2737
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1970,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2912.4312266,771794.275049,795093.7248618001
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1970,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3140.9966,87947.9048,84806.9082
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1970,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.91369,507.12785,522.43737
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1970,Buildings,Non-residential,CH4,28,27.0,123.843,3467.6040000000003,3343.761
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1970,Buildings,Non-residential,N2O,265,273.0,1.65124,437.5786,450.78852
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1970,Buildings,Residential,CO2,1,1.0,1478.8,1478.8,1478.8
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1970,Buildings,Residential,CH4,28,27.0,3250.015675,91000.4389,87750.423225
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1970,Buildings,Residential,N2O,265,273.0,43.3431405,11485.9322325,11832.677356499998
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1970,Energy systems,Electricity & heat,CO2,1,1.0,139077.3,139077.3,139077.3
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1970,Energy systems,Electricity & heat,CH4,28,27.0,2.659079,74.45421200000001,71.795133
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1970,Energy systems,Electricity & heat,N2O,265,273.0,0.843124,223.42786,230.172852
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1970,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,0.299743,0.299743,0.299743
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1970,Energy systems,Oil and gas fugitive emissions,CH4,30,29.8,253.1219,7593.657,7543.032620000001
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1970,Energy systems,Other (energy systems),CH4,28,27.0,7187.47,201249.16,194061.69
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1970,Energy systems,Other (energy systems),N2O,265,273.0,58.2162,15427.293,15893.0226
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1970,Energy systems,Petroleum refining,CO2,1,1.0,136148.0,136148.0,136148.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1970,Energy systems,Petroleum refining,CH4,28,27.0,2.36368,66.18304,63.81936
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1970,Energy systems,Petroleum refining,N2O,265,273.0,0.236368,62.63752,64.528464
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1970,Industry,Cement,CO2,1,1.0,9237.8,9237.8,9237.8
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1970,Industry,Chemicals,CO2,1,1.0,10856.247,10856.247,10856.247
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1970,Industry,Chemicals,N2O,265,273.0,0.01993068,5.2816302,5.44107564
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1970,Industry,Other (industry),CO2,1,1.0,38481.6,38481.6,38481.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1970,Industry,Other (industry),CH4,28,27.0,1.4947406,41.8527368,40.3579962
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1970,Industry,Other (industry),N2O,265,273.0,0.2989471,79.22098150000001,81.6125583
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1970,Industry,Waste,CH4,28,27.0,9467.4943,265089.8404,255622.3461
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1970,Industry,Waste,N2O,265,273.0,48.228,12780.42,13166.244
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1970,Transport,Road,CO2,1,1.0,71504.943,71504.943,71504.943
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1970,Transport,Road,CH4,28,27.0,13.66554119,382.63515332,368.96961213
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1970,Transport,Road,N2O,265,273.0,0.970267,257.120755,264.882891
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1971,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,479.38237,13422.70636,12943.32399
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1971,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,12.428443,3293.537395,3392.964939
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1971,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,83615.4,2341231.2,2257615.8
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1971,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,21.2737,21.2737,21.2737
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1971,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2942.0157256,779634.1672840001,803170.2930888
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1971,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3182.2245005,89102.286014,85920.0615135
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1971,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,2.5464019,674.7965035000001,695.1677187
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1971,Buildings,Non-residential,CH4,28,27.0,123.843,3467.6040000000003,3343.761
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1971,Buildings,Non-residential,N2O,265,273.0,1.65124,437.5786,450.78852
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1971,Buildings,Residential,CO2,1,1.0,1478.8,1478.8,1478.8
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1971,Buildings,Residential,CH4,28,27.0,3250.015675,91000.4389,87750.423225
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1971,Buildings,Residential,N2O,265,273.0,43.3431405,11485.9322325,11832.677356499998
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1971,Energy systems,Electricity & heat,CO2,1,1.0,139077.3,139077.3,139077.3
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1971,Energy systems,Electricity & heat,CH4,28,27.0,2.659079,74.45421200000001,71.795133
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1971,Energy systems,Electricity & heat,N2O,265,273.0,0.843124,223.42786,230.172852
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1971,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,0.299743,0.299743,0.299743
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1971,Energy systems,Oil and gas fugitive emissions,CH4,30,29.8,253.1219,7593.657,7543.032620000001
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1971,Energy systems,Other (energy systems),CH4,28,27.0,7129.2,199617.6,192488.4
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1971,Energy systems,Other (energy systems),N2O,265,273.0,57.9979,15369.4435,15833.4267
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1971,Energy systems,Petroleum refining,CO2,1,1.0,136148.0,136148.0,136148.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1971,Energy systems,Petroleum refining,CH4,28,27.0,2.36368,66.18304,63.81936
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1971,Energy systems,Petroleum refining,N2O,265,273.0,0.236368,62.63752,64.528464
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1971,Industry,Cement,CO2,1,1.0,9770.9,9770.9,9770.9
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1971,Industry,Chemicals,CO2,1,1.0,8491.6855,8491.6855,8491.6855
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1971,Industry,Chemicals,N2O,265,273.0,0.0204732,5.425398,5.5891836
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1971,Industry,Other (industry),CO2,1,1.0,38481.6,38481.6,38481.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1971,Industry,Other (industry),CH4,28,27.0,1.4947406,41.8527368,40.3579962
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1971,Industry,Other (industry),N2O,265,273.0,0.2989471,79.22098150000001,81.6125583
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1971,Industry,Waste,CH4,28,27.0,9779.87927,273836.61956,264056.74029
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1971,Industry,Waste,N2O,265,273.0,48.657,12894.105,13283.361
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1971,Transport,Road,CO2,1,1.0,71504.943,71504.943,71504.943
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1971,Transport,Road,CH4,28,27.0,13.66554119,382.63515332,368.96961213
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1971,Transport,Road,N2O,265,273.0,0.9608962,254.637493,262.3246626
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1972,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,425.8236,11923.0608,11497.2372
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1972,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,11.0398589,2925.5626085000004,3013.8814797
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1972,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,82310.9,2304705.2,2222394.3
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1972,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,21.2737,21.2737,21.2737
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1972,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2921.3403787,774155.2003555001,797525.9233851001
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1972,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3154.5668327,88327.8713156,85173.3044829
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1972,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,3.1257414,828.321471,853.3274021999999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1972,Buildings,Non-residential,CH4,28,27.0,127.606,3572.968,3445.362
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1972,Buildings,Non-residential,N2O,265,273.0,1.70141,450.87365,464.48493
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1972,Buildings,Residential,CO2,1,1.0,2594.25,2594.25,2594.25
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1972,Buildings,Residential,CH4,28,27.0,3348.840813,93767.542764,90418.701951
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1972,Buildings,Residential,N2O,265,273.0,44.6680488,11837.032932,12194.3773224
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1972,Energy systems,Electricity & heat,CO2,1,1.0,139077.5,139077.5,139077.5
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1972,Energy systems,Electricity & heat,CH4,28,27.0,3.219013,90.132364,86.91335099999999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1972,Energy systems,Electricity & heat,N2O,265,273.0,0.896452,237.55978,244.731396
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1972,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,0.308013,0.308013,0.308013
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1972,Energy systems,Oil and gas fugitive emissions,CH4,30,29.8,224.46647,6733.9941,6689.100806
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1972,Energy systems,Other (energy systems),CH4,28,27.0,7281.02,203868.56,196587.54
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1972,Energy systems,Other (energy systems),N2O,265,273.0,60.52938,16040.2857,16524.52074
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1972,Energy systems,Petroleum refining,CO2,1,1.0,84249.8,84249.8,84249.8
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1972,Energy systems,Petroleum refining,CH4,28,27.0,1.46267,40.95476,39.49209
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1972,Energy systems,Petroleum refining,N2O,265,273.0,0.146267,38.760755,39.930891
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1972,Industry,Cement,CO2,1,1.0,10589.6,10589.6,10589.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1972,Industry,Chemicals,CO2,1,1.0,7103.1265,7103.1265,7103.1265
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1972,Industry,Chemicals,N2O,265,273.0,0.0210353,5.5743545,5.7426369
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1972,Industry,Other (industry),CO2,1,1.0,26428.94,26428.94,26428.94
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1972,Industry,Other (industry),CH4,28,27.0,1.0274757,28.769319600000003,27.741843900000003
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1972,Industry,Other (industry),N2O,265,273.0,0.2054955,54.4563075,56.1002715
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1972,Industry,Waste,CH4,28,27.0,10057.46805,281609.1054,271551.63735
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1972,Industry,Waste,N2O,265,273.0,47.3221,12540.3565,12918.9333
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1972,Transport,Road,CO2,1,1.0,68565.43,68565.43,68565.43
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1972,Transport,Road,CH4,28,27.0,12.66299903,354.56397284,341.90097381
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1972,Transport,Road,N2O,265,273.0,0.9108757,241.3820605,248.6690661
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1973,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,392.27915,10983.8162,10591.53705
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1973,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,10.1702003,2695.1030795,2776.4646819
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1973,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,83191.51,2329362.28,2246170.77
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1973,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,21.2737,21.2737,21.2737
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1973,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2933.696628,777429.6064200001,800899.179444
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1973,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3200.385181,89610.785068,86410.399887
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1973,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,3.6866747,976.9687955,1006.4621931
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1973,Buildings,Non-residential,CH4,28,27.0,131.368,3678.304,3546.936
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1973,Buildings,Non-residential,N2O,265,273.0,1.75158,464.1687,478.18134
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1973,Buildings,Residential,CO2,1,1.0,2957.61,2957.61,2957.61
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1973,Buildings,Residential,CH4,28,27.0,3448.01135,96544.3178,93096.30645
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1973,Buildings,Residential,N2O,265,273.0,45.992681,12188.060465,12556.001913
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1973,Energy systems,Electricity & heat,CO2,1,1.0,133176.2,133176.2,133176.2
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1973,Energy systems,Electricity & heat,CH4,28,27.0,3.147338,88.125464,84.978126
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1973,Energy systems,Electricity & heat,N2O,265,273.0,0.8645962,229.117993,236.0347626
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1973,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,0.324645,0.324645,0.324645
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1973,Energy systems,Oil and gas fugitive emissions,CH4,30,29.8,232.38563,6971.5689,6925.091774
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1973,Energy systems,Other (energy systems),CH4,28,27.0,7429.34,208021.52,200592.18
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1973,Energy systems,Other (energy systems),N2O,265,273.0,62.2574,16498.211,16996.2702
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1973,Energy systems,Petroleum refining,CO2,1,1.0,71309.4,71309.4,71309.4
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1973,Energy systems,Petroleum refining,CH4,28,27.0,1.23801,34.664280000000005,33.42627
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1973,Energy systems,Petroleum refining,N2O,265,273.0,0.123801,32.807265,33.797673
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1973,Industry,Cement,CO2,1,1.0,11009.5,11009.5,11009.5
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1973,Industry,Chemicals,CO2,1,1.0,5715.64,5715.64,5715.64
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1973,Industry,Chemicals,N2O,265,273.0,0.02161676,5.7284414,5.90137548
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1973,Industry,Other (industry),CO2,1,1.0,40543.61,40543.61,40543.61
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1973,Industry,Other (industry),CH4,28,27.0,1.5747592,44.0932576,42.5184984
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1973,Industry,Other (industry),N2O,265,273.0,0.3149518,83.462227,85.98184140000001
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1973,Industry,Waste,CH4,28,27.0,10345.68711,289679.23908,279333.55197000003
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1973,Industry,Waste,N2O,265,273.0,45.8845,12159.3925,12526.4685
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1973,Transport,Road,CO2,1,1.0,76699.698,76699.698,76699.698
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1973,Transport,Road,CH4,28,27.0,14.1771768,396.9609504,382.7837736
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1973,Transport,Road,N2O,265,273.0,1.0082662,267.190543,275.2566726
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1974,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,385.16193,10784.53404,10399.37211
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1974,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,9.9856735,2646.2034775,2726.0888655000003
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1974,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,82049.38,2297382.64,2215333.26
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1974,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,42.3405,42.3405,42.3405
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1974,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2878.9716212,762927.479618,785959.2525875999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1974,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3169.634179,88749.757012,85580.122833
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1974,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,4.1221702,1092.375103,1125.3524646
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1974,Buildings,Non-residential,CH4,28,27.0,134.853,3775.884,3641.031
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1974,Buildings,Non-residential,N2O,265,273.0,1.79804,476.4806,490.86492
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1974,Buildings,Residential,CO2,1,1.0,2594.25,2594.25,2594.25
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1974,Buildings,Residential,CH4,28,27.0,3539.850813,99115.822764,95575.971951
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1974,Buildings,Residential,N2O,265,273.0,47.2148488,12511.934932,12889.6537224
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1974,Energy systems,Electricity & heat,CO2,1,1.0,143243.6,143243.6,143243.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1974,Energy systems,Electricity & heat,CH4,28,27.0,3.421535,95.80298,92.381445
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1974,Energy systems,Electricity & heat,N2O,265,273.0,0.9334102,247.353703,254.8209846
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1974,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,0.349639,0.349639,0.349639
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1974,Energy systems,Oil and gas fugitive emissions,CH4,30,29.8,213.87338,6416.2014,6373.426724
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1974,Energy systems,Other (energy systems),CH4,28,27.0,7559.81,211674.68,204114.87
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1974,Energy systems,Other (energy systems),N2O,265,273.0,64.0029,16960.7685,17472.791699999998
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1974,Energy systems,Petroleum refining,CO2,1,1.0,97190.8,97190.8,97190.8
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1974,Energy systems,Petroleum refining,CH4,28,27.0,1.68734,47.24552,45.55818
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1974,Energy systems,Petroleum refining,N2O,265,273.0,0.168734,44.71451,46.064382
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1974,Industry,Cement,CO2,1,1.0,10989.6,10989.6,10989.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1974,Industry,Chemicals,CO2,1,1.0,4329.308,4329.308,4329.308
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1974,Industry,Chemicals,N2O,265,273.0,0.02221692,5.8874838,6.065219160000001
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1974,Industry,Other (industry),CO2,1,1.0,39806.9,39806.9,39806.9
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1974,Industry,Other (industry),CH4,28,27.0,1.5461006,43.2908168,41.7447162
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1974,Industry,Other (industry),N2O,265,273.0,0.3092201,81.9433265,84.4170873
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1974,Industry,Waste,CH4,28,27.0,10641.71033,297967.88924,287326.17891
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1974,Industry,Waste,N2O,265,273.0,46.1885,12239.9525,12609.4605
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1974,Transport,Road,CO2,1,1.0,78299.627,78299.627,78299.627
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1974,Transport,Road,CH4,28,27.0,15.47221423,433.22199844,417.74978421
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1974,Transport,Road,N2O,265,273.0,1.0245828,271.514442,279.71110439999995
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1975,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,360.33161,10089.28508,9728.95347
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1975,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,9.3419253,2475.6102045,2550.3456069
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1975,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,79375.16,2222504.48,2143129.3200000003
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1975,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,66.9556,66.9556,66.9556
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1975,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2814.8456657,745934.1014105,768452.8667361
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1975,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3086.996319,86435.896932,83348.90061299999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1975,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,4.6481033,1231.7473745,1268.9322009
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1975,Buildings,Non-residential,CH4,28,27.0,137.872,3860.416,3722.544
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1975,Buildings,Non-residential,N2O,265,273.0,1.83829,487.14685,501.85317
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1975,Buildings,Residential,CO2,1,1.0,1478.8,1478.8,1478.8
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1975,Buildings,Residential,CH4,28,27.0,3619.165675,101336.6389,97717.473225
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1975,Buildings,Residential,N2O,265,273.0,48.2651405,12790.2622325,13176.3833565
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1975,Energy systems,Electricity & heat,CO2,1,1.0,142165.0,142165.0,142165.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1975,Energy systems,Electricity & heat,CH4,28,27.0,3.408436,95.436208,92.027772
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1975,Energy systems,Electricity & heat,N2O,265,273.0,0.9275882,245.810873,253.2315786
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1975,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,0.283019,0.283019,0.283019
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1975,Energy systems,Oil and gas fugitive emissions,CH4,30,29.8,197.29573,5918.8719,5879.412754
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1975,Energy systems,Other (energy systems),CH4,28,27.0,7657.14,214399.92,206742.78
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1975,Energy systems,Other (energy systems),N2O,265,273.0,64.6502,17132.303,17649.5046
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1975,Energy systems,Petroleum refining,CO2,1,1.0,103796.0,103796.0,103796.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1975,Energy systems,Petroleum refining,CH4,28,27.0,1.80201,50.45628,48.65427
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1975,Energy systems,Petroleum refining,N2O,265,273.0,0.180201,47.753265,49.194873
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1975,Industry,Cement,CO2,1,1.0,10898.4,10898.4,10898.4
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1975,Industry,Chemicals,CO2,1,1.0,4369.208,4369.208,4369.208
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1975,Industry,Chemicals,N2O,265,273.0,0.02283567,6.05145255,6.234137909999999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1975,Industry,Other (industry),CO2,1,1.0,27829.6,27829.6,27829.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1975,Industry,Other (industry),CH4,28,27.0,1.0818706,30.2923768,29.2105062
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1975,Industry,Other (industry),N2O,265,273.0,0.2163731,57.3388715,59.069856300000005
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1975,Industry,Waste,CH4,28,27.0,10945.60916,306477.05648,295531.44732
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1975,Industry,Waste,N2O,265,273.0,46.4817,12317.6505,12689.504099999998
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1975,Transport,Road,CO2,1,1.0,72172.005,72172.005,72172.005
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1975,Transport,Road,CH4,28,27.0,12.24525163,342.86704564,330.62179401000003
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1975,Transport,Road,N2O,265,273.0,0.920273,243.872345,251.234529
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1976,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,386.774842,10829.695576,10442.920734
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1976,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,10.0275104,2657.290256,2737.5103392
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1976,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,79183.96,2217150.8800000004,2137966.9200000004
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1976,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,65.6253,65.6253,65.6253
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1976,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2794.1639704,740453.452156,762806.7639191999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1976,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3076.454302,86140.72045600001,83064.266154
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1976,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,5.150244,1364.81466,1406.016612
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1976,Buildings,Non-residential,CH4,28,27.0,140.334,3929.352,3789.018
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1976,Buildings,Non-residential,N2O,265,273.0,1.87112,495.8468,510.81576
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1976,Buildings,Residential,CO2,1,1.0,2957.61,2957.61,2957.61
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1976,Buildings,Residential,CH4,28,27.0,3683.84135,103147.5578,99463.71645
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1976,Buildings,Residential,N2O,265,273.0,49.137081,13021.326465,13414.423113
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1976,Energy systems,Electricity & heat,CO2,1,1.0,153049.7,153049.7,153049.7
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1976,Energy systems,Electricity & heat,CH4,28,27.0,3.696095,103.49066,99.794565
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1976,Energy systems,Electricity & heat,N2O,265,273.0,1.0011496,265.304644,273.3138408
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1976,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,0.316375,0.316375,0.316375
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1976,Energy systems,Oil and gas fugitive emissions,CH4,30,29.8,210.56006,6316.8018,6274.689788
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1976,Energy systems,Other (energy systems),CH4,28,27.0,7723.48,216257.44,208533.96
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1976,Energy systems,Other (energy systems),N2O,265,273.0,66.0519,17503.753500000003,18032.1687
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1976,Energy systems,Petroleum refining,CO2,1,1.0,97190.8,97190.8,97190.8
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1976,Energy systems,Petroleum refining,CH4,28,27.0,1.68734,47.24552,45.55818
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1976,Energy systems,Petroleum refining,N2O,265,273.0,0.168734,44.71451,46.064382
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1976,Industry,Cement,CO2,1,1.0,11352.5,11352.5,11352.5
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1976,Industry,Chemicals,CO2,1,1.0,5235.454,5235.454,5235.454
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1976,Industry,Chemicals,N2O,265,273.0,0.02347092,6.2197938,6.40756116
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1976,Industry,Other (industry),CO2,1,1.0,31763.14,31763.14,31763.14
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1976,Industry,Other (industry),CH4,28,27.0,1.2342277,34.5583756,33.3241479
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1976,Industry,Other (industry),N2O,265,273.0,0.2468455,65.4140575,67.38882149999999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1976,Industry,Waste,CH4,28,27.0,11263.70484,315383.73552,304120.03068
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1976,Industry,Waste,N2O,265,273.0,45.7911,12134.6415,12500.9703
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1976,Transport,Road,CO2,1,1.0,74654.768,74654.768,74654.768
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1976,Transport,Road,CH4,28,27.0,12.9805448,363.4552544,350.47470960000004
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1976,Transport,Road,N2O,265,273.0,0.9427673,249.8333345,257.3754729
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1977,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,358.830052,10047.241456,9688.411404
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1977,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,9.3030041,2465.2960865,2539.7201193
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1977,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,79518.35,2226513.8000000003,2146995.45
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1977,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,44.6241,44.6241,44.6241
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1977,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2807.4137441,743964.6421864999,766423.9521393
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1977,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3076.407641,86139.413948,83063.00630699999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1977,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,5.720318,1515.88427,1561.646814
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1977,Buildings,Non-residential,CH4,28,27.0,142.331,3985.268,3842.937
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1977,Buildings,Non-residential,N2O,265,273.0,1.89775,502.90375,518.08575
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1977,Buildings,Residential,CO2,1,1.0,2957.61,2957.61,2957.61
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1977,Buildings,Residential,CH4,28,27.0,3736.61135,104625.1178,100888.50645
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1977,Buildings,Residential,N2O,265,273.0,49.840681,13207.780465,13606.505913
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1977,Energy systems,Electricity & heat,CO2,1,1.0,174795.5,174795.5,174795.5
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1977,Energy systems,Electricity & heat,CH4,28,27.0,4.264055,119.39354,115.129485
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1977,Energy systems,Electricity & heat,N2O,265,273.0,1.1474736,304.080504,313.2602928
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1977,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,0.312194,0.312194,0.312194
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1977,Energy systems,Oil and gas fugitive emissions,CH4,30,29.8,207.19527,6215.8581,6174.419046
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1977,Energy systems,Other (energy systems),CH4,28,27.0,7772.61,217633.08,209860.47
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1977,Energy systems,Other (energy systems),N2O,265,273.0,67.9124,17996.786,18540.0852
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1977,Energy systems,Petroleum refining,CO2,1,1.0,64838.6,64838.6,64838.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1977,Energy systems,Petroleum refining,CH4,28,27.0,1.12567,31.51876,30.39309
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1977,Energy systems,Petroleum refining,N2O,265,273.0,0.112567,29.830255,30.730791
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1977,Industry,Cement,CO2,1,1.0,11894.4,11894.4,11894.4
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1977,Industry,Chemicals,CO2,1,1.0,5277.92,5277.92,5277.92
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1977,Industry,Chemicals,N2O,265,273.0,0.02412377,6.39279905,6.58578921
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1977,Industry,Other (industry),CO2,1,1.0,30611.73,30611.73,30611.73
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1977,Industry,Other (industry),CH4,28,27.0,1.1898978,33.3171384,32.1272406
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1977,Industry,Other (industry),N2O,265,273.0,0.2379806,63.064859,64.9687038
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1977,Industry,Waste,CH4,28,27.0,11590.88544,324544.79232,312953.90688
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1977,Industry,Waste,N2O,265,273.0,50.0355,13259.4075,13659.6915
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1977,Transport,Road,CO2,1,1.0,80543.461,80543.461,80543.461
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1977,Transport,Road,CH4,28,27.0,13.5310568,378.8695904,365.3385336
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1977,Transport,Road,N2O,265,273.0,0.9997772,264.940958,272.9391756
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1978,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,366.882818,10272.718904,9905.836086
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1978,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,9.5117744,2520.6202160000003,2596.7144112
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1978,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,80276.66,2247746.48,2167469.8200000003
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1978,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,46.3397,46.3397,46.3397
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1978,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2830.0263631,749956.9862215,772597.1971263
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1978,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3097.645437,86734.072236,83636.42679900001
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1978,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,6.288446,1666.43819,1716.745758
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1978,Buildings,Non-residential,CH4,28,27.0,144.236,4038.608,3894.372
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1978,Buildings,Non-residential,N2O,265,273.0,1.92315,509.63475,525.01995
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1978,Buildings,Residential,CO2,1,1.0,3701.23,3701.23,3701.23
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1978,Buildings,Residential,CH4,28,27.0,3786.274775,106015.6937,102229.418925
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1978,Buildings,Residential,N2O,265,273.0,50.5076865,13384.5369225,13788.5984145
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1978,Energy systems,Electricity & heat,CO2,1,1.0,173716.93,173716.93,173716.93
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1978,Energy systems,Electricity & heat,CH4,28,27.0,4.250954,119.026712,114.775758
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1978,Energy systems,Electricity & heat,N2O,265,273.0,1.1416512,302.537568,311.6707776
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1978,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,0.345457,0.345457,0.345457
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1978,Energy systems,Oil and gas fugitive emissions,CH4,30,29.8,221.19258,6635.7774,6591.538884
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1978,Energy systems,Other (energy systems),CH4,28,27.0,7805.86,218564.08,210758.22
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1978,Energy systems,Other (energy systems),N2O,265,273.0,69.074,18304.61,18857.202
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1978,Energy systems,Petroleum refining,CO2,1,1.0,97190.8,97190.8,97190.8
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1978,Energy systems,Petroleum refining,CH4,28,27.0,1.68734,47.24552,45.55818
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1978,Energy systems,Petroleum refining,N2O,265,273.0,0.168734,44.71451,46.064382
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1978,Industry,Cement,CO2,1,1.0,12522.3,12522.3,12522.3
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1978,Industry,Chemicals,CO2,1,1.0,5321.218,5321.218,5321.218
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1978,Industry,Chemicals,N2O,265,273.0,0.02479895,6.57172175,6.77011335
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1978,Industry,Other (industry),CO2,1,1.0,23620.83,23620.83,23620.83
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1978,Industry,Other (industry),CH4,28,27.0,0.9195336,25.7469408,24.8274072
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1978,Industry,Other (industry),N2O,265,273.0,0.1839067,48.7352755,50.2065291
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1978,Industry,Waste,CH4,28,27.0,11929.0199,334012.5572,322083.5373
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1978,Industry,Waste,N2O,265,273.0,51.3825,13616.3625,14027.4225
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1978,Transport,Road,CO2,1,1.0,94097.575,94097.575,94097.575
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1978,Transport,Road,CH4,28,27.0,14.9626871,418.9552388,403.9925517
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1978,Transport,Road,N2O,265,273.0,1.142809,302.844385,311.986857
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1979,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,377.284592,10563.968576,10186.683984
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1979,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,9.7814386,2592.081229,2670.3327378
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1979,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,80855.15,2263944.2,2183089.05
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1979,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,98.3705,98.3705,98.3705
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1979,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2843.2980502,753473.983303,776220.3677046
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1979,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3111.732105,87128.49894,84016.766835
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1979,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,6.820415,1807.409975,1861.973295
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1979,Buildings,Non-residential,CH4,28,27.0,146.466,4101.048000000001,3954.582
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1979,Buildings,Non-residential,N2O,265,273.0,1.95288,517.5132,533.1362399999999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1979,Buildings,Residential,CO2,1,1.0,371.814,371.814,371.814
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1979,Buildings,Residential,CH4,28,27.0,3843.8317126,107627.2879528,103783.4562402
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1979,Buildings,Residential,N2O,265,273.0,51.25350276,13582.1782314,13992.20625348
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1979,Energy systems,Electricity & heat,CO2,1,1.0,197346.43,197346.43,197346.43
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1979,Energy systems,Electricity & heat,CH4,28,27.0,4.845334,135.669352,130.824018
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1979,Energy systems,Electricity & heat,N2O,265,273.0,1.2984812,344.097518,354.4853676
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1979,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,0.349639,0.349639,0.349639
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1979,Energy systems,Oil and gas fugitive emissions,CH4,30,29.8,229.34838,6880.4514,6834.581724
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1979,Energy systems,Other (energy systems),CH4,28,27.0,7851.17,219832.76,211981.59
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1979,Energy systems,Other (energy systems),N2O,265,273.0,70.6382,18719.123,19284.2286
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1979,Energy systems,Petroleum refining,CO2,1,1.0,110267.0,110267.0,110267.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1979,Energy systems,Petroleum refining,CH4,28,27.0,1.91435,53.6018,51.68745
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1979,Energy systems,Petroleum refining,N2O,265,273.0,0.191435,50.730275,52.261755
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1979,Industry,Cement,CO2,1,1.0,12815.0,12815.0,12815.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1979,Industry,Chemicals,CO2,1,1.0,5364.83,5364.83,5364.83
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1979,Industry,Chemicals,N2O,265,273.0,0.02550339,6.75839835,6.96242547
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1979,Industry,Other (industry),CO2,1,1.0,22121.63,22121.63,22121.63
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1979,Industry,Other (industry),CH4,28,27.0,0.8611272,24.1115616,23.2504344
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1979,Industry,Other (industry),N2O,265,273.0,0.1722256,45.639784,47.0175888
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1979,Industry,Waste,CH4,28,27.0,12281.4643,343881.0004,331599.5361
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1979,Industry,Waste,N2O,265,273.0,60.117,15931.005,16411.941
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1979,Transport,Road,CO2,1,1.0,95046.249,95046.249,95046.249
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1979,Transport,Road,CH4,28,27.0,17.6788459,495.0076852,477.3288393
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1979,Transport,Road,N2O,265,273.0,1.1712463,310.3802695,319.7502399
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1980,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,464.855219,13015.946132,12551.090913
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1980,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,12.0517963,3193.7260195,3290.1403899
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1980,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,81500.3,2282008.4,2200508.1
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1980,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,100.796,100.796,100.796
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1980,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2851.7280574,755707.935211,778521.7596702001
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1980,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3126.37981,87538.63468,84412.25487
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1980,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,7.310608,1937.31112,1995.795984
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1980,Buildings,Non-residential,CH4,28,27.0,149.346,4181.688,4032.342
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1980,Buildings,Non-residential,N2O,265,273.0,1.99128,527.6892,543.6194399999999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1980,Buildings,Residential,CO2,1,1.0,371.814,371.814,371.814
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1980,Buildings,Residential,CH4,28,27.0,3918.8317126,109727.2879528,105808.4562402
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1980,Buildings,Residential,N2O,265,273.0,52.25350276,13847.1782314,14265.20625348
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1980,Energy systems,Electricity & heat,CO2,1,1.0,206881.09,206881.09,206881.09
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1980,Energy systems,Electricity & heat,CH4,28,27.0,5.1130448,143.1652544,138.0522096
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1980,Energy systems,Electricity & heat,N2O,265,273.0,1.3644157,361.5701605,372.4854861
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1980,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,0.337188,0.337188,0.337188
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1980,Energy systems,Oil and gas fugitive emissions,CH4,30,29.8,225.15701,6754.710300000001,6709.678898000001
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1980,Energy systems,Other (energy systems),CH4,28,27.0,7936.86,222232.08,214295.22
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1980,Energy systems,Other (energy systems),N2O,265,273.0,72.1532,19120.598,19697.8236
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1980,Energy systems,Petroleum refining,CO2,1,1.0,103796.0,103796.0,103796.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1980,Energy systems,Petroleum refining,CH4,28,27.0,1.80201,50.45628,48.65427
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1980,Energy systems,Petroleum refining,N2O,265,273.0,0.180201,47.753265,49.194873
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1980,Industry,Cement,CO2,1,1.0,12778.8,12778.8,12778.8
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1980,Industry,Chemicals,CO2,1,1.0,5408.354,5408.354,5408.354
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1980,Industry,Chemicals,N2O,265,273.0,0.02624094,6.9538491,7.16377662
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1980,Industry,Other (industry),CO2,1,1.0,30106.43,30106.43,30106.43
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1980,Industry,Other (industry),CH4,28,27.0,1.1706182,32.7773096,31.606691400000003
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1980,Industry,Other (industry),N2O,265,273.0,0.2341236,62.042754,63.9157428
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1980,Industry,Waste,CH4,28,27.0,12650.3748,354210.4944,341560.1196
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1980,Industry,Waste,N2O,265,273.0,65.976,17483.64,18011.448
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1980,Transport,Road,CO2,1,1.0,91382.723,91382.723,91382.723
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1980,Transport,Road,CH4,28,27.0,14.4586946,404.8434488,390.3847542
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1980,Transport,Road,N2O,265,273.0,1.0767927,285.3500655,293.9644071
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1981,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,442.229512,12382.426336,11940.196824
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1981,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,11.4652162,3038.282293,3130.0040226
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1981,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,81687.49,2287249.72,2205562.23
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1981,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,104.532,104.532,104.532
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1981,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2850.5120926,755385.7045389999,778189.8012798
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1981,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3142.932162,88002.100536,84859.168374
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1981,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,7.814227,2070.770155,2133.283971
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1981,Buildings,Non-residential,CH4,28,27.0,152.969,4283.132,4130.163
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1981,Buildings,Non-residential,N2O,265,273.0,2.03959,540.49135,556.80807
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1981,Buildings,Residential,CH4,28,27.0,4013.79,112386.12,108372.33
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1981,Buildings,Residential,N2O,265,273.0,53.5172,14182.058,14610.1956
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1981,Energy systems,Electricity & heat,CO2,1,1.0,206881.09,206881.09,206881.09
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1981,Energy systems,Electricity & heat,CH4,28,27.0,5.1130448,143.1652544,138.0522096
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1981,Energy systems,Electricity & heat,N2O,265,273.0,1.3644157,361.5701605,372.4854861
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1981,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,0.391265,0.391265,0.391265
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1981,Energy systems,Oil and gas fugitive emissions,CH4,30,29.8,256.32928,7689.8784,7638.612544
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1981,Energy systems,Other (energy systems),CH4,28,27.0,8061.31,225716.68,217655.37
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1981,Energy systems,Other (energy systems),N2O,265,273.0,73.9823,19605.3095,20197.1679
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1981,Energy systems,Petroleum refining,CO2,1,1.0,103796.0,103796.0,103796.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1981,Energy systems,Petroleum refining,CH4,28,27.0,1.80201,50.45628,48.65427
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1981,Energy systems,Petroleum refining,N2O,265,273.0,0.180201,47.753265,49.194873
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1981,Industry,Cement,CO2,1,1.0,12714.3,12714.3,12714.3
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1981,Industry,Chemicals,CO2,1,1.0,5450.96,5450.96,5450.96
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1981,Industry,Chemicals,N2O,265,273.0,0.02700247,7.15565455,7.37167431
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1981,Industry,Other (industry),CO2,1,1.0,55535.8,55535.8,55535.8
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1981,Industry,Other (industry),CH4,28,27.0,2.1564497,60.3805916,58.2241419
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1981,Industry,Other (industry),N2O,265,273.0,0.4312899,114.2918235,117.7421427
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1981,Industry,Waste,CH4,28,27.0,13033.5305,364938.8540000001,351905.3235
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1981,Industry,Waste,N2O,265,273.0,63.1445,16733.2925,17238.4485
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1981,Transport,Road,CO2,1,1.0,97716.078,97716.078,97716.078
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1981,Transport,Road,CH4,28,27.0,14.9106671,417.4986788,402.5880117
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1981,Transport,Road,N2O,265,273.0,1.129223749,299.244293485,308.27808347700005
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1982,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,415.79303,11642.20484,11226.41181
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1982,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,10.7798099,2856.6496235,2942.8881027
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1982,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,81873.15,2292448.2,2210575.05
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1982,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,79.9646,79.9646,79.9646
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1982,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2849.6104137,755146.7596305001,777943.6429401
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1982,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3159.484062,88465.553736,85306.069674
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1982,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,8.330521,2207.588065,2274.232233
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1982,Buildings,Non-residential,CH4,28,27.0,157.289,4404.092,4246.803
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1982,Buildings,Non-residential,N2O,265,273.0,2.09719,555.75535,572.53287
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1982,Buildings,Residential,CH4,28,27.0,4126.8,115550.4,111423.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1982,Buildings,Residential,N2O,265,273.0,55.024,14581.36,15021.552
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1982,Energy systems,Electricity & heat,CO2,1,1.0,172105.25,172105.25,172105.25
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1982,Energy systems,Electricity & heat,CH4,28,27.0,4.2313792,118.4786176,114.2472384
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1982,Energy systems,Electricity & heat,N2O,265,273.0,1.1329512,300.232068,309.2956776
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1982,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,0.412077,0.412077,0.412077
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1982,Energy systems,Oil and gas fugitive emissions,CH4,30,29.8,267.61423,8028.4269,7974.904054
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1982,Energy systems,Other (energy systems),CH4,28,27.0,8210.05,229881.4,221671.35
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1982,Energy systems,Other (energy systems),N2O,265,273.0,72.8386,19302.229,19884.9378
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1982,Energy systems,Petroleum refining,CO2,1,1.0,123207.0,123207.0,123207.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1982,Energy systems,Petroleum refining,CH4,28,27.0,2.13901,59.89228,57.75326999999999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1982,Energy systems,Petroleum refining,N2O,265,273.0,0.213901,56.683765,58.394973
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1982,Industry,Cement,CO2,1,1.0,12631.2,12631.2,12631.2
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1982,Industry,Chemicals,CO2,1,1.0,5492.717,5492.717,5492.717
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1982,Industry,Chemicals,N2O,265,273.0,0.02778072,7.361890799999999,7.584136559999999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1982,Industry,Other (industry),CO2,1,1.0,22610.33,22610.33,22610.33
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1982,Industry,Other (industry),CH4,28,27.0,0.8797698,24.6335544,23.753784600000003
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1982,Industry,Other (industry),N2O,265,273.0,0.1759536,46.627704,48.0353328
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1982,Industry,Waste,CH4,28,27.0,13426.8667,375952.2676,362525.4009
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1982,Industry,Waste,N2O,265,273.0,63.4691,16819.3115,17327.0643
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1982,Transport,Road,CO2,1,1.0,90493.17,90493.17,90493.17
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1982,Transport,Road,CH4,28,27.0,14.6557304,410.3604512,395.7047208
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1982,Transport,Road,N2O,265,273.0,1.046979913,277.449676945,285.825516249
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1983,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,448.905683,12569.359124,12120.453441
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1983,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,11.6382973,3084.1487845,3177.2551629
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1983,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,83908.55,2349439.4,2265530.85
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1983,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,108.711,108.711,108.711
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1983,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2951.5105954,782150.307781,805762.3925442001
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1983,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3242.2911,90784.1508,87541.8597
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1983,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,9.012156,2388.22134,2460.318588
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1983,Buildings,Non-residential,CH4,28,27.0,162.167,4540.676,4378.509
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1983,Buildings,Non-residential,N2O,265,273.0,2.16222,572.9883,590.28606
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1983,Buildings,Residential,CO2,1,1.0,4444.86,4444.86,4444.86
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1983,Buildings,Residential,CH4,28,27.0,4255.0982,119142.7496,114887.6514
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1983,Buildings,Residential,N2O,265,273.0,56.763492,15042.32538,15496.433316
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1983,Energy systems,Electricity & heat,CO2,1,1.0,138941.68,138941.68,138941.68
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1983,Energy systems,Electricity & heat,CH4,28,27.0,3.369286,94.340008,90.970722
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1983,Energy systems,Electricity & heat,N2O,265,273.0,0.9101882,241.199873,248.4813786
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1983,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,0.428709,0.428709,0.428709
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1983,Energy systems,Oil and gas fugitive emissions,CH4,30,29.8,279.96139,8398.841699999999,8342.849422
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1983,Energy systems,Other (energy systems),CH4,28,27.0,8381.85,234691.8,226309.95
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1983,Energy systems,Other (energy systems),N2O,265,273.0,72.7667,19283.1755,19865.3091
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1983,Energy systems,Petroleum refining,CO2,1,1.0,129678.0,129678.0,129678.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1983,Energy systems,Petroleum refining,CH4,28,27.0,2.25135,63.0378,60.78645
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1983,Energy systems,Petroleum refining,N2O,265,273.0,0.225135,59.660775,61.461855
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1983,Industry,Cement,CO2,1,1.0,12882.0,12882.0,12882.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1983,Industry,Chemicals,CO2,1,1.0,5535.221,5535.221,5535.221
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1983,Industry,Chemicals,N2O,265,273.0,0.02858251,7.574365149999999,7.803025229999999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1983,Industry,Other (industry),CO2,1,1.0,23273.03,23273.03,23273.03
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1983,Industry,Other (industry),CH4,28,27.0,0.9054528,25.3526784,24.4472256
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1983,Industry,Other (industry),N2O,265,273.0,0.1810906,47.989009,49.4377338
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1983,Industry,Waste,CH4,28,27.0,13832.9277,387321.9756,373489.0479
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1983,Industry,Waste,N2O,265,273.0,67.2443,17819.7395,18357.6939
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1983,Transport,Road,CO2,1,1.0,91173.14,91173.14,91173.14
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1983,Transport,Road,CH4,28,27.0,15.0535784,421.5001952,406.4466168
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1983,Transport,Road,N2O,265,273.0,1.047916619,277.697904035,286.081236987
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1984,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,415.734667,11640.570676,11224.836009
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1984,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,10.7783075,2856.2514875,2942.4779475
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1984,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,81522.4,2282627.2,2201104.8
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1984,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,80.893,80.893,80.893
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1984,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2828.4704656,749544.673384,772172.4371087999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1984,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3173.457833,88856.819324,85683.361491
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1984,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,9.321871,2470.295815,2544.870783
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1984,Buildings,Non-residential,CH4,28,27.0,167.37,4686.360000000001,4518.99
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1984,Buildings,Non-residential,N2O,265,273.0,2.2316,591.3739999999999,609.2267999999999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1984,Buildings,Residential,CO2,1,1.0,3701.23,3701.23,3701.23
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1984,Buildings,Residential,CH4,28,27.0,4392.004775,122976.1337,118584.128925
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1984,Buildings,Residential,N2O,265,273.0,58.5840865,15524.7829225,15993.4556145
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1984,Energy systems,Electricity & heat,CO2,1,1.0,138408.83,138408.83,138408.83
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1984,Energy systems,Electricity & heat,CH4,28,27.0,3.975433,111.312124,107.336691
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1984,Energy systems,Electricity & heat,N2O,265,273.0,0.9656562,255.898893,263.6241426
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1984,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,0.412077,0.412077,0.412077
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1984,Energy systems,Oil and gas fugitive emissions,CH4,30,29.8,270.19123,8105.736900000001,8051.698654000001
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1984,Energy systems,Other (energy systems),CH4,28,27.0,8576.45,240140.60000000003,231564.15
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1984,Energy systems,Other (energy systems),N2O,265,273.0,75.9221,20119.3565,20726.7333
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1984,Energy systems,Petroleum refining,CO2,1,1.0,116737.0,116737.0,116737.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1984,Energy systems,Petroleum refining,CH4,28,27.0,2.02668,56.74704,54.72035999999999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1984,Energy systems,Petroleum refining,N2O,265,273.0,0.202668,53.70702,55.32836399999999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1984,Industry,Cement,CO2,1,1.0,13200.6,13200.6,13200.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1984,Industry,Chemicals,CO2,1,1.0,5580.741,5580.741,5580.741
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1984,Industry,Chemicals,N2O,265,273.0,0.02941719,7.79555535,8.03089287
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1984,Industry,Other (industry),CO2,1,1.0,26371.42,26371.42,26371.42
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1984,Industry,Other (industry),CH4,28,27.0,1.0251468,28.7041104,27.6789636
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1984,Industry,Other (industry),N2O,265,273.0,0.2050298,54.332897,55.9731354
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1984,Industry,Waste,CH4,28,27.0,14251.2995,399036.386,384785.0865
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1984,Industry,Waste,N2O,265,273.0,58.1783,15417.2495,15882.6759
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1984,Transport,Road,CO2,1,1.0,83938.253,83938.253,83938.253
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1984,Transport,Road,CH4,28,27.0,14.4329063,404.1213764,389.6884701
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1984,Transport,Road,N2O,265,273.0,0.965112639,255.754849335,263.475750447
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1985,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,376.654137,10546.315836,10169.661699
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1985,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,9.7651144,2587.755316,2665.8762312
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1985,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,83349.7,2333791.6,2250441.9
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1985,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2915.5666433,772625.1604745,795949.6936209
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1985,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3240.365389,90730.230892,87489.86550300001
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1985,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,10.426739,2763.085835,2846.499747
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1985,Buildings,Non-residential,CH4,28,27.0,172.804,4838.512,4665.708
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1985,Buildings,Non-residential,N2O,265,273.0,2.30406,610.5759,629.0083800000001
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1985,Buildings,Residential,CO2,1,1.0,2594.25,2594.25,2594.25
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1985,Buildings,Residential,CH4,28,27.0,4534.200813,126957.622764,122423.421951
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1985,Buildings,Residential,N2O,265,273.0,60.4728488,16025.304932,16509.0877224
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1985,Energy systems,Electricity & heat,CO2,1,1.0,91420.93,91420.93,91420.93
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1985,Energy systems,Electricity & heat,CH4,28,27.0,2.570856,71.983968,69.413112
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1985,Energy systems,Electricity & heat,N2O,265,273.0,0.6325932,167.63719799999998,172.6979436
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1985,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,0.42044,0.42044,0.42044
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1985,Energy systems,Oil and gas fugitive emissions,CH4,30,29.8,269.18482,8075.5446,8021.707636
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1985,Energy systems,Other (energy systems),CH4,28,27.0,8779.55,245827.4,237047.85
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1985,Energy systems,Other (energy systems),N2O,265,273.0,74.8451,19833.9515,20432.7123
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1985,Energy systems,Petroleum refining,CO2,1,1.0,110267.0,110267.0,110267.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1985,Energy systems,Petroleum refining,CH4,28,27.0,1.91435,53.6018,51.68745
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1985,Energy systems,Petroleum refining,N2O,265,273.0,0.191435,50.730275,52.261755
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1985,Industry,Cement,CO2,1,1.0,13305.5,13305.5,13305.5
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1985,Industry,Chemicals,CO2,1,1.0,5630.514,5630.514,5630.514
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1985,Industry,Chemicals,N2O,265,273.0,0.03028465,8.02543225,8.26770945
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1985,Industry,Other (industry),CO2,1,1.0,31043.02,31043.02,31043.02
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1985,Industry,Other (industry),CH4,28,27.0,1.2062188,33.7741264,32.5679076
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1985,Industry,Other (industry),N2O,265,273.0,0.2412438,63.929607,65.8595574
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1985,Industry,Waste,CH4,28,27.0,14695.9995,411487.986,396791.9865
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1985,Industry,Waste,N2O,265,273.0,58.462,15492.43,15960.126
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1985,Transport,Road,CO2,1,1.0,86896.383,86896.383,86896.383
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1985,Transport,Road,CH4,28,27.0,16.1640063,452.5921764,436.4281701
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1985,Transport,Road,N2O,265,273.0,1.014126974,268.74364811000004,276.85666390200004
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1986,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,415.571358,11635.998024,11220.426666
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1986,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,10.7740569,2855.1250785,2941.3175337
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1986,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,85783.72,2401944.16,2316160.44
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1986,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,3029.4522116,802804.836074,827040.4537668
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1986,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3310.032772,92680.917616,89370.884844
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1986,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,11.752228,3114.34042,3208.358244
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1986,Buildings,Non-residential,CH4,28,27.0,178.379,4994.612,4816.233
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1986,Buildings,Non-residential,N2O,265,273.0,2.37838,630.2707,649.29774
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1986,Buildings,Residential,CO2,1,1.0,2957.61,2957.61,2957.61
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1986,Buildings,Residential,CH4,28,27.0,4681.04135,131069.15780000002,126388.11645000002
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1986,Buildings,Residential,N2O,265,273.0,62.433081,16544.766465,17044.231113
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1986,Energy systems,Electricity & heat,CO2,1,1.0,93032.6,93032.6,93032.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1986,Energy systems,Electricity & heat,CH4,28,27.0,2.590431,72.53206800000001,69.941637
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1986,Energy systems,Electricity & heat,N2O,265,273.0,0.6412932,169.942698,175.0730436
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1986,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,0.445434,0.445434,0.445434
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1986,Energy systems,Oil and gas fugitive emissions,CH4,30,29.8,279.40056,8382.0168,8326.136688
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1986,Energy systems,Other (energy systems),CH4,28,27.0,8977.49,251369.72,242392.23
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1986,Energy systems,Other (energy systems),N2O,265,273.0,77.9776,20664.064,21287.8848
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1986,Energy systems,Petroleum refining,CO2,1,1.0,123207.0,123207.0,123207.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1986,Energy systems,Petroleum refining,CH4,28,27.0,2.13901,59.89228,57.75326999999999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1986,Energy systems,Petroleum refining,N2O,265,273.0,0.213901,56.683765,58.394973
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1986,Industry,Cement,CO2,1,1.0,13878.8,13878.8,13878.8
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1986,Industry,Chemicals,CO2,1,1.0,5686.508,5686.508,5686.508
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1986,Industry,Chemicals,N2O,265,273.0,0.03120821,8.27017565,8.51984133
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1986,Industry,Other (industry),CO2,1,1.0,50359.02,50359.02,50359.02
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1986,Industry,Other (industry),CH4,28,27.0,1.9548988,54.7371664,52.7822676
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1986,Industry,Other (industry),N2O,265,273.0,0.3909798,103.609647,106.7374854
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1986,Industry,Waste,CH4,28,27.0,15205.9472,425766.5216,410560.5744
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1986,Industry,Waste,N2O,265,273.0,62.6287,16596.6055,17097.6351
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1986,Transport,Road,CO2,1,1.0,107012.301,107012.301,107012.301
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1986,Transport,Road,CH4,28,27.0,18.1812042,509.0737176,490.8925134
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1986,Transport,Road,N2O,265,273.0,1.19967218,317.9131277,327.51050514
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1987,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,406.455964,11380.766992,10974.311028
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1987,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,10.5377497,2792.5036705,2876.8056681000003
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1987,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,84047.91,2353341.48,2269293.5700000003
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1987,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2937.385965,778407.280725,801906.368445
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1987,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3255.799315,91162.38082,87906.58150500001
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1987,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,11.27697,2988.39705,3078.61281
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1987,Buildings,Non-residential,CH4,28,27.0,184.186,5157.2080000000005,4973.022
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1987,Buildings,Non-residential,N2O,265,273.0,2.45581,650.78965,670.43613
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1987,Buildings,Residential,CO2,1,1.0,4808.22,4808.22,4808.22
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1987,Buildings,Residential,CH4,28,27.0,4833.758737,135345.24463600002,130511.485899
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1987,Buildings,Residential,N2O,265,273.0,64.4813242,17087.550913,17603.4015066
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1987,Energy systems,Electricity & heat,CO2,1,1.0,117195.3,117195.3,117195.3
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1987,Energy systems,Electricity & heat,CH4,28,27.0,3.303247,92.490916,89.187669
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1987,Energy systems,Electricity & heat,N2O,265,273.0,0.8116642,215.091013,221.5843266
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1987,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,0.507873,0.507873,0.507873
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1987,Energy systems,Oil and gas fugitive emissions,CH4,30,29.8,306.25441,9187.6323,9126.381418
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1987,Energy systems,Other (energy systems),CH4,28,27.0,9183.02,257124.56,247941.54
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1987,Energy systems,Other (energy systems),N2O,265,273.0,83.4884,22124.426,22792.3332
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1987,Energy systems,Petroleum refining,CO2,1,1.0,25881.6,25881.6,25881.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1987,Energy systems,Petroleum refining,CH4,28,27.0,0.449333,12.581324,12.131991
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1987,Energy systems,Petroleum refining,N2O,265,273.0,0.0449333,11.9073245,12.2667909
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1987,Industry,Cement,CO2,1,1.0,14454.0,14454.0,14454.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1987,Industry,Chemicals,CO2,1,1.0,5747.298,5747.298,5747.298
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1987,Industry,Chemicals,N2O,265,273.0,0.03216785,8.52448025,8.78182305
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1987,Industry,Other (industry),CO2,1,1.0,44221.2,44221.2,44221.2
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1987,Industry,Other (industry),CH4,28,27.0,1.7178997,48.1011916,46.3832919
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1987,Industry,Other (industry),N2O,265,273.0,0.3435799,91.0486735,93.7973127
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1987,Industry,Waste,CH4,28,27.0,15705.0592,439741.6576,424036.5984
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1987,Industry,Waste,N2O,265,273.0,60.6422,16070.183,16555.3206
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1987,Transport,Road,CO2,1,1.0,149449.37,149449.37,149449.37
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1987,Transport,Road,CH4,28,27.0,17.3650598,486.2216744,468.8566146
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1987,Transport,Road,N2O,265,273.0,1.46882695,389.23914175,400.98975735
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1988,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,409.82425,11475.079,11065.25475
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1988,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,10.6250756,2815.645034,2900.6456388
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1988,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,84506.9,2366193.2,2281686.3
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1988,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,294.565,294.565,294.565
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1988,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2975.7021836,788561.078654,812366.6961228
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1988,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3266.9693,91475.1404,88208.1711
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1988,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,11.906497,3155.221705,3250.473681
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1988,Buildings,Non-residential,CH4,28,27.0,190.271,5327.588,5137.317
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1988,Buildings,Non-residential,N2O,265,273.0,2.53694,672.2891,692.58462
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1988,Buildings,Residential,CO2,1,1.0,4444.86,4444.86,4444.86
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1988,Buildings,Residential,CH4,28,27.0,4993.6082,139821.02959999998,134827.4214
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1988,Buildings,Residential,N2O,265,273.0,66.610292,17651.72738,18184.609716
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1988,Energy systems,Electricity & heat,CO2,1,1.0,105790.1,105790.1,105790.1
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1988,Energy systems,Electricity & heat,CH4,28,27.0,2.952636,82.67380800000001,79.721172
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1988,Energy systems,Electricity & heat,N2O,265,273.0,0.7298996,193.423394,199.2625908
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1988,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,0.412077,0.412077,0.412077
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1988,Energy systems,Oil and gas fugitive emissions,CH4,30,29.8,267.61423,8028.4269,7974.904054
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1988,Energy systems,Other (energy systems),CH4,28,27.0,9396.67,263106.76,253710.09
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1988,Energy systems,Other (energy systems),N2O,265,273.0,85.1248,22558.072,23239.0704
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1988,Energy systems,Petroleum refining,CO2,1,1.0,25881.6,25881.6,25881.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1988,Energy systems,Petroleum refining,CH4,28,27.0,0.449333,12.581324,12.131991
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1988,Energy systems,Petroleum refining,N2O,265,273.0,0.0449333,11.9073245,12.2667909
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1988,Industry,Cement,CO2,1,1.0,15268.5,15268.5,15268.5
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1988,Industry,Chemicals,CO2,1,1.0,5806.754,5806.754,5806.754
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1988,Industry,Chemicals,N2O,265,273.0,0.03306996,8.7635394,9.02809908
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1988,Industry,Other (industry),CO2,1,1.0,49545.91,49545.91,49545.91
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1988,Industry,Other (industry),CH4,28,27.0,1.926589,53.944492,52.017903
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1988,Industry,Other (industry),N2O,265,273.0,0.3853169,102.1089785,105.1915137
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1988,Industry,Waste,CH4,28,27.0,16198.7761,453565.7308,437366.9547
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1988,Industry,Waste,N2O,265,273.0,65.0331,17233.771500000003,17754.0363
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1988,Transport,Road,CO2,1,1.0,156455.786,156455.786,156455.786
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1988,Transport,Road,CH4,28,27.0,17.8520899,499.8585172,482.0064273
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1988,Transport,Road,N2O,265,273.0,1.49947831,397.36175215,409.35757863
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1989,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,370.534054,10374.953512,10004.419458
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1989,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,9.6064399,2545.7065735,2622.5580927
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1989,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,87337.18,2445441.04,2358103.86
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1989,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,293.371,293.371,293.371
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1989,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,3086.7909489,817999.6014585,842693.9290496999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1989,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3356.044509,93969.246252,90613.201743
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1989,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,13.183221,3493.553565,3599.019333
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1989,Buildings,Non-residential,CH4,28,27.0,196.728,5508.384,5311.656
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1989,Buildings,Non-residential,N2O,265,273.0,2.62304,695.1056,716.08992
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1989,Buildings,Residential,CO2,1,1.0,4444.86,4444.86,4444.86
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1989,Buildings,Residential,CH4,28,27.0,5163.2882,144572.0696,139408.7814
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1989,Buildings,Residential,N2O,265,273.0,68.872692,18251.26338,18802.244916
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1989,Energy systems,Electricity & heat,CO2,1,1.0,105790.1,105790.1,105790.1
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1989,Energy systems,Electricity & heat,CH4,28,27.0,2.952636,82.67380800000001,79.721172
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1989,Energy systems,Electricity & heat,N2O,265,273.0,0.7298996,193.423394,199.2625908
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1989,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,0.407896,0.407896,0.407896
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1989,Energy systems,Oil and gas fugitive emissions,CH4,30,29.8,271.62343,8148.702899999999,8094.378213999999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1989,Energy systems,Other (energy systems),CH4,28,27.0,9630.2,269645.60000000003,260015.4
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1989,Energy systems,Other (energy systems),N2O,265,273.0,87.5608,23203.612,23904.0984
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1989,Energy systems,Petroleum refining,CO2,1,1.0,25881.6,25881.6,25881.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1989,Energy systems,Petroleum refining,CH4,28,27.0,0.449333,12.581324,12.131991
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1989,Energy systems,Petroleum refining,N2O,265,273.0,0.0449333,11.9073245,12.2667909
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1989,Industry,Cement,CO2,1,1.0,15645.3,15645.3,15645.3
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1989,Industry,Chemicals,CO2,1,1.0,5856.491,5856.491,5856.491
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1989,Industry,Chemicals,N2O,265,273.0,0.03378947,8.95420955,9.22452531
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1989,Industry,Other (industry),CO2,1,1.0,51481.96,51481.96,51481.96
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1989,Industry,Other (industry),CH4,28,27.0,2.003826,56.107128,54.103302
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1989,Industry,Other (industry),N2O,265,273.0,0.4007652,106.202778,109.4088996
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1989,Industry,Waste,CH4,28,27.0,16612.2538,465143.10639999993,448530.8526
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1989,Industry,Waste,N2O,265,273.0,63.8332,16915.798,17426.4636
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1989,Transport,Road,CO2,1,1.0,162561.812,162561.812,162561.812
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1989,Transport,Road,CH4,28,27.0,18.1704775,508.77337,490.6028925
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1989,Transport,Road,N2O,265,273.0,1.51642417,401.85240505,413.98379841
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1990,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,409.000792,11452.022176,11043.021384
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1990,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,10.6037063,2809.9821695,2894.8118199
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1990,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,87971.74,2463208.72,2375236.98
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1990,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,293.224,293.224,293.224
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1990,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,3097.0560416,820719.851024,845496.2993567999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1990,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3370.780077,94381.842156,91011.062079
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1990,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,14.348736,3802.41504,3917.204928
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1990,Buildings,Non-residential,CH4,28,27.0,203.603,5700.884,5497.281
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1990,Buildings,Non-residential,N2O,265,273.0,2.7147,719.3955000000001,741.1131
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1990,Buildings,Residential,CO2,1,1.0,4444.86,4444.86,4444.86
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1990,Buildings,Residential,CH4,28,27.0,5344.1882,149637.2696,144293.0814
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1990,Buildings,Residential,N2O,265,273.0,71.284692,18890.44338,19460.720916
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1990,Energy systems,Electricity & heat,CO2,1,1.0,94111.2,94111.2,94111.2
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1990,Energy systems,Electricity & heat,CH4,28,27.0,2.603532,72.898896,70.29536399999999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1990,Energy systems,Electricity & heat,N2O,265,273.0,0.6471156,171.485634,176.6625588
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1990,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,0.457885,0.457885,0.457885
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1990,Energy systems,Oil and gas fugitive emissions,CH4,30,29.8,270.69293,8120.787899999999,8066.649314
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1990,Energy systems,Other (energy systems),CH4,28,27.0,9870.4,276371.2,266500.8
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1990,Energy systems,Other (energy systems),N2O,265,273.0,88.93,23566.45,24277.890000000003
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1990,Energy systems,Petroleum refining,CO2,1,1.0,45427.6,45427.6,45427.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1990,Energy systems,Petroleum refining,CH4,28,27.0,0.788674,22.082872,21.294198
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1990,Energy systems,Petroleum refining,N2O,265,273.0,0.0788674,20.899861,21.5308002
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1990,Industry,Cement,CO2,1,1.0,15622.0,15622.0,15622.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1990,Industry,Chemicals,CO2,1,1.0,5891.154,5891.154,5891.154
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1990,Industry,Chemicals,N2O,265,273.0,0.03424641,9.07529865,9.34926993
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1990,Industry,Other (industry),CO2,1,1.0,63592.24,63592.24,63592.24
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1990,Industry,Other (industry),CH4,28,27.0,2.473408,69.255424,66.782016
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1990,Industry,Other (industry),N2O,265,273.0,0.4946825,131.0908625,135.0483225
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1990,Industry,Waste,CH4,28,27.0,16895.3523,473069.8644,456174.51209999993
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1990,Industry,Waste,N2O,265,273.0,65.4672,17348.808,17872.5456
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1990,Transport,Road,CO2,1,1.0,158272.276,158272.276,158272.276
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1990,Transport,Road,CH4,28,27.0,18.9150849,529.6223772,510.7072923
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1990,Transport,Road,N2O,265,273.0,1.47844884,391.7889426,403.61653332
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1991,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,363.544352,10179.241856,9815.697504
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1991,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,9.4252126,2497.681339,2573.0830398
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1991,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,88851.38,2487838.64,2398987.26
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1991,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,293.609,293.609,293.609
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1991,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,3130.8418989,829673.1032085001,854719.8383997
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1991,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3403.738522,95304.678616,91900.940094
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1991,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,15.004956,3976.31334,4096.352988
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1991,Buildings,Non-residential,CH4,28,27.0,210.942,5906.376,5695.434
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1991,Buildings,Non-residential,N2O,265,273.0,2.81256,745.3284,767.82888
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1991,Buildings,Residential,CO2,1,1.0,4808.22,4808.22,4808.22
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1991,Buildings,Residential,CH4,28,27.0,5536.928737,155034.004636,149497.07589900002
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1991,Buildings,Residential,N2O,265,273.0,73.8569242,19572.084913,20162.9403066
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1991,Energy systems,Electricity & heat,CO2,1,1.0,104711.6,104711.6,104711.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1991,Energy systems,Electricity & heat,CH4,28,27.0,3.121969,87.415132,84.29316299999999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1991,Energy systems,Electricity & heat,N2O,265,273.0,0.7414522,196.484833,202.4164506
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1991,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,0.507873,0.507873,0.507873
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1991,Energy systems,Oil and gas fugitive emissions,CH4,30,29.8,270.87741,8126.3223,8072.146818
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1991,Energy systems,Other (energy systems),CH4,28,27.0,10228.2,286389.60000000003,276161.4
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1991,Energy systems,Other (energy systems),N2O,265,273.0,92.9727,24637.7655,25381.5471
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1991,Energy systems,Petroleum refining,CO2,1,1.0,25881.6,25881.6,25881.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1991,Energy systems,Petroleum refining,CH4,28,27.0,0.449333,12.581324,12.131991
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1991,Energy systems,Petroleum refining,N2O,265,273.0,0.0449333,11.9073245,12.2667909
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1991,Industry,Cement,CO2,1,1.0,15847.2,15847.2,15847.2
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1991,Industry,Chemicals,CO2,1,1.0,5908.256,5908.256,5908.256
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1991,Industry,Chemicals,N2O,265,273.0,0.0344003,9.1160795,9.3912819
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1991,Industry,Other (industry),CO2,1,1.0,69903.94,69903.94,69903.94
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1991,Industry,Other (industry),CH4,28,27.0,2.717457,76.088796,73.371339
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1991,Industry,Other (industry),N2O,265,273.0,0.5434914,144.025221,148.3731522
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1991,Industry,Waste,CH4,28,27.0,17193.9229,481429.8412,464235.9183
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1991,Industry,Waste,N2O,265,273.0,68.7218,18211.277,18761.0514
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1991,Transport,Road,CO2,1,1.0,159188.925,159188.925,159188.925
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1991,Transport,Road,CH4,28,27.0,19.0846522,534.3702616,515.2856094
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1991,Transport,Road,N2O,265,273.0,1.45224444,384.8447766000001,396.46273212
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1992,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,338.910587,9489.496436,9150.585849
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1992,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,8.7865765,2328.4427725,2398.7353845
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1992,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,90567.86,2535900.08,2445332.22
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1992,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,303.443,303.443,303.443
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1992,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,3188.1744136,844866.2196040001,870371.6149128
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1992,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3463.34115,96973.5522,93510.21105
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1992,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,16.041871,4251.095815,4379.430783
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1992,Buildings,Non-residential,CH4,28,27.0,218.7,6123.599999999999,5904.9
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1992,Buildings,Non-residential,N2O,265,273.0,2.916,772.74,796.068
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1992,Buildings,Residential,CO2,1,1.0,25165.0,25165.0,25165.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1992,Buildings,Residential,CH4,28,27.0,5742.8,160798.4,155055.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1992,Buildings,Residential,N2O,265,273.0,76.734,20334.51,20948.382
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1992,Energy systems,Electricity & heat,CO2,1,1.0,254464.8,254464.8,254464.8
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1992,Energy systems,Electricity & heat,CH4,28,27.0,4.7701729,133.56484120000002,128.7946683
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1992,Energy systems,Electricity & heat,N2O,265,273.0,1.3156402,348.644653,359.1697746
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1992,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,0.540514,0.540514,0.540514
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1992,Energy systems,Oil and gas fugitive emissions,CH4,30,29.8,182.32252,5469.6756,5433.211096
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1992,Energy systems,Other (energy systems),CH4,28,27.0,10598.9,296769.2,286170.3
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1992,Energy systems,Other (energy systems),N2O,265,273.0,96.0366,25449.699,26217.991800000003
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1992,Energy systems,Petroleum refining,CO2,1,1.0,19411.2,19411.2,19411.2
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1992,Energy systems,Petroleum refining,CH4,28,27.0,0.337,9.436,9.099
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1992,Energy systems,Petroleum refining,N2O,265,273.0,0.0337,8.9305,9.2001
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1992,Industry,Cement,CO2,1,1.0,16490.0,16490.0,16490.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1992,Industry,Chemicals,CO2,1,1.0,5911.531,5911.531,5911.531
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1992,Industry,Chemicals,N2O,265,273.0,0.03430438,9.0906607,9.36509574
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1992,Industry,Other (industry),CO2,1,1.0,21839.7,21839.7,21839.7
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1992,Industry,Other (industry),CH4,28,27.0,0.852,23.856,23.004
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1992,Industry,Other (industry),N2O,265,273.0,0.1704,45.156,46.5192
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1992,Industry,Waste,CH4,28,27.0,17388.1602,486868.4856,469480.3254
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1992,Industry,Waste,N2O,265,273.0,67.3187,17839.4555,18378.0051
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1992,Transport,Road,CO2,1,1.0,114897.514,114897.514,114897.514
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1992,Transport,Road,CH4,28,27.0,15.9283489,445.9937692,430.0654203
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1992,Transport,Road,N2O,265,273.0,1.08658587,287.94525555,296.63794251
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1993,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,330.908626,9265.441528,8934.532902
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1993,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,8.5791122,2273.4647330000003,2342.0976306
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1993,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,67733.2,1896529.6,1828796.4
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1993,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,304.603,304.603,304.603
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1993,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2490.5484762,659995.346193,679919.7340026001
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1993,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2497.55515,69931.5442,67433.98905
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1993,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,15.473279,4100.418935,4224.205167
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1993,Buildings,Non-residential,CO2,1,1.0,12529.0,12529.0,12529.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1993,Buildings,Non-residential,CH4,28,27.0,220.35,6169.8,5949.45
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1993,Buildings,Non-residential,N2O,265,273.0,3.015,798.975,823.095
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1993,Buildings,Residential,CO2,1,1.0,37819.4,37819.4,37819.4
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1993,Buildings,Residential,CH4,28,27.0,5744.56,160847.68000000002,155103.12000000002
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1993,Buildings,Residential,N2O,265,273.0,76.8396,20362.494,20977.2108
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1993,Energy systems,Electricity & heat,CO2,1,1.0,309286.82,309286.82,309286.82
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1993,Energy systems,Electricity & heat,CH4,28,27.0,6.9995483,195.9873524,188.9878041
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1993,Energy systems,Electricity & heat,N2O,265,273.0,1.7799716,471.692474,485.9322468
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1993,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,0.475365,0.475365,0.475365
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1993,Energy systems,Oil and gas fugitive emissions,CH4,30,29.8,161.269,4838.07,4805.8162
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1993,Energy systems,Other (energy systems),CH4,28,27.0,10598.9,296769.2,286170.3
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1993,Energy systems,Other (energy systems),N2O,265,273.0,106.2345,28152.1425,29002.0185
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1993,Energy systems,Petroleum refining,CO2,1,1.0,16646.4,16646.4,16646.4
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1993,Energy systems,Petroleum refining,CH4,28,27.0,0.289,8.091999999999999,7.802999999999999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1993,Energy systems,Petroleum refining,N2O,265,273.0,0.0289,7.658499999999999,7.889699999999999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1993,Industry,Cement,CO2,1,1.0,17341.6,17341.6,17341.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1993,Industry,Chemicals,CO2,1,1.0,5909.306,5909.306,5909.306
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1993,Industry,Chemicals,N2O,265,273.0,0.03408955,9.03373075,9.30644715
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1993,Industry,Other (industry),CO2,1,1.0,43753.5,43753.5,43753.5
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1993,Industry,Other (industry),CH4,28,27.0,1.707,47.796,46.089
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1993,Industry,Other (industry),N2O,265,273.0,0.3414,90.471,93.2022
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1993,Industry,Waste,CH4,28,27.0,17471.90486,489213.33608,471741.43122
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1993,Industry,Waste,N2O,265,273.0,67.1098,17784.097,18320.975400000003
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1993,Transport,Road,CO2,1,1.0,210738.608,210738.608,210738.608
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1993,Transport,Road,CH4,28,27.0,27.5383592,771.0740576,743.5356984
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1993,Transport,Road,N2O,265,273.0,1.89753022,502.8455083,518.02575006
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1994,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,429.434372,12024.162416,11594.728044
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1994,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,11.1334963,2950.3765195,3039.4444899
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1994,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,68813.9,1926789.2,1857975.3
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1994,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,306.244,306.244,306.244
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1994,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2559.9917683,678397.8185995,698877.7527459
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1994,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2543.48182,71217.49096,68674.00914
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1994,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,16.659523,4414.773595,4548.049779
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1994,Buildings,Non-residential,CO2,1,1.0,6192.0,6192.0,6192.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1994,Buildings,Non-residential,CH4,28,27.0,237.9,6661.2,6423.3
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1994,Buildings,Non-residential,N2O,265,273.0,3.056,809.84,834.288
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1994,Buildings,Residential,CO2,1,1.0,47040.4,47040.4,47040.4
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1994,Buildings,Residential,CH4,28,27.0,7020.285,196567.98,189547.695
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1994,Buildings,Residential,N2O,265,273.0,199.3685,52832.6525,54427.6005
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1994,Energy systems,Electricity & heat,CO2,1,1.0,302046.23,302046.23,302046.23
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1994,Energy systems,Electricity & heat,CH4,28,27.0,6.4996104,181.9890912,175.4894808
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1994,Energy systems,Electricity & heat,N2O,265,273.0,1.6729759,443.3386135,456.7224207
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1994,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,0.584533,0.584533,0.584533
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1994,Energy systems,Oil and gas fugitive emissions,CH4,30,29.8,197.47699,5924.3097,5884.814302
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1994,Energy systems,Other (energy systems),CH4,28,27.0,10598.9,296769.2,286170.3
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1994,Energy systems,Other (energy systems),N2O,265,273.0,119.1297,31569.3705,32522.4081
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1994,Energy systems,Petroleum refining,CO2,1,1.0,19411.2,19411.2,19411.2
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1994,Energy systems,Petroleum refining,CH4,28,27.0,0.337,9.436,9.099
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1994,Energy systems,Petroleum refining,N2O,265,273.0,0.0337,8.9305,9.2001
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1994,Industry,Cement,CO2,1,1.0,18400.5,18400.5,18400.5
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1994,Industry,Chemicals,CO2,1,1.0,6738.375,6738.375,6738.375
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1994,Industry,Chemicals,N2O,265,273.0,0.03393984,8.9940576,9.26557632
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1994,Industry,Other (industry),CO2,1,1.0,50640.3,50640.3,50640.3
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1994,Industry,Other (industry),CH4,28,27.0,1.95,54.6,52.65
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1994,Industry,Other (industry),N2O,265,273.0,0.39,103.35,106.47
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1994,Industry,Waste,CH4,28,27.0,17703.88214,495708.69992,478004.81778
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1994,Industry,Waste,N2O,265,273.0,74.335,19698.775,20293.455
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1994,Transport,Road,CO2,1,1.0,287519.286,287519.286,287519.286
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1994,Transport,Road,CH4,28,27.0,34.8668622,976.2721416,941.4052794
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1994,Transport,Road,N2O,265,273.0,2.43871652,646.2598777999999,665.7696099599999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1995,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,356.303621,9976.501388,9620.197767
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1995,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,9.23750439,2447.93866335,2521.83869847
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1995,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,69899.9,1957197.2,1887297.3
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1995,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,310.143,310.143,310.143
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1995,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2616.6698427,693417.5083155,714350.8670571
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1995,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2585.76771,72401.49588,69815.72817
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1995,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,17.732597,4699.138204999999,4840.998981
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1995,Buildings,Non-residential,CO2,1,1.0,21749.4,21749.4,21749.4
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1995,Buildings,Non-residential,CH4,28,27.0,246.81,6910.68,6663.87
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1995,Buildings,Non-residential,N2O,265,273.0,3.2686,866.1790000000001,892.3278
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1995,Buildings,Residential,CO2,1,1.0,56531.2,56531.2,56531.2
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1995,Buildings,Residential,CH4,28,27.0,7236.685,202627.18,195390.495
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1995,Buildings,Residential,N2O,265,273.0,205.6407,54494.785500000005,56139.911100000005
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1995,Energy systems,Electricity & heat,CO2,1,1.0,296031.92,296031.92,296031.92
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1995,Energy systems,Electricity & heat,CH4,28,27.0,6.7355334,188.5949352,181.8594018
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1995,Energy systems,Electricity & heat,N2O,265,273.0,1.6925349,448.5217485,462.0620277
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1995,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,0.48715,0.48715,0.48715
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1995,Energy systems,Oil and gas fugitive emissions,CH4,30,29.8,166.6962,5000.886,4967.54676
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1995,Energy systems,Other (energy systems),CH4,28,27.0,10980.2,307445.60000000003,296465.4
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1995,Energy systems,Other (energy systems),N2O,265,273.0,125.1931,33176.1715,34177.7163
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1995,Energy systems,Petroleum refining,CO2,1,1.0,16646.4,16646.4,16646.4
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1995,Energy systems,Petroleum refining,CH4,28,27.0,0.289,8.091999999999999,7.802999999999999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1995,Energy systems,Petroleum refining,N2O,265,273.0,0.0289,7.658499999999999,7.889699999999999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1995,Industry,Cement,CO2,1,1.0,19281.8,19281.8,19281.8
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1995,Industry,Chemicals,CO2,1,1.0,7507.502,7507.502,7507.502
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1995,Industry,Chemicals,N2O,265,273.0,0.03399176,9.0078164,9.27975048
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1995,Industry,Other (industry),CO2,1,1.0,57449.7,57449.7,57449.7
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1995,Industry,Other (industry),CH4,28,27.0,2.19,61.32,59.13
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1995,Industry,Other (industry),N2O,265,273.0,0.438,116.07,119.574
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1995,Industry,Waste,CH4,28,27.0,17888.55065,500879.4182,482990.86755
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1995,Industry,Waste,N2O,265,273.0,74.7181,19800.2965,20398.0413
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1995,Transport,Road,CO2,1,1.0,329100.17,329100.17,329100.17
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1995,Transport,Road,CH4,28,27.0,38.6605865,1082.496422,1043.8358355
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1995,Transport,Road,N2O,265,273.0,2.67412523,708.64318595,730.03618779
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1996,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,346.407735,9699.41658,9353.008845
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1996,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,8.9809458,2379.9506370000004,2451.7982034
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1996,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,79105.9,2214965.2,2135859.3
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1996,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,1250.22,1250.22,1250.22
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1996,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2979.8218908,789652.801062,813491.3761884
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1996,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2896.0274,81088.7672,78192.7398
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1996,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,22.277568,5903.55552,6081.776064
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1996,Buildings,Non-residential,CO2,1,1.0,24922.8,24922.8,24922.8
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1996,Buildings,Non-residential,CH4,28,27.0,254.12,7115.360000000001,6861.24
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1996,Buildings,Non-residential,N2O,265,273.0,3.3852,897.0780000000001,924.1596
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1996,Buildings,Residential,CO2,1,1.0,65950.1,65950.1,65950.1
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1996,Buildings,Residential,CH4,28,27.0,7401.175,207232.9,199831.725
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1996,Buildings,Residential,N2O,265,273.0,211.2203,55973.3795,57663.1419
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1996,Energy systems,Electricity & heat,CO2,1,1.0,310786.3,310786.3,310786.3
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1996,Energy systems,Electricity & heat,CH4,28,27.0,6.959989,194.879692,187.919703
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1996,Energy systems,Electricity & heat,N2O,265,273.0,1.7495727,463.6367655,477.6333471
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1996,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,0.526469,0.526469,0.526469
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1996,Energy systems,Oil and gas fugitive emissions,CH4,30,29.8,178.82227,5364.6681,5328.903646000001
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1996,Energy systems,Other (energy systems),CH4,28,27.0,11649.8,326194.4,314544.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1996,Energy systems,Other (energy systems),N2O,265,273.0,132.709,35167.885,36229.557
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1996,Energy systems,Petroleum refining,CO2,1,1.0,19411.2,19411.2,19411.2
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1996,Energy systems,Petroleum refining,CH4,28,27.0,0.337,9.436,9.099
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1996,Energy systems,Petroleum refining,N2O,265,273.0,0.0337,8.9305,9.2001
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1996,Industry,Cement,CO2,1,1.0,19740.0,19740.0,19740.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1996,Industry,Chemicals,CO2,1,1.0,11968.779,11968.779,11968.779
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1996,Industry,Chemicals,N2O,265,273.0,0.03428018,9.0842477,9.35848914
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1996,Industry,Other (industry),CO2,1,1.0,47997.3,47997.3,47997.3
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1996,Industry,Other (industry),CH4,28,27.0,1.818,50.904,49.086
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1996,Industry,Other (industry),N2O,265,273.0,0.3636,96.354,99.2628
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1996,Industry,Waste,CH4,28,27.0,18252.97032,511083.16896,492830.19864
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1996,Industry,Waste,N2O,265,273.0,75.6273,20041.2345,20646.252900000003
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1996,Transport,Road,CO2,1,1.0,383570.16,383570.16,383570.16
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1996,Transport,Road,CH4,28,27.0,43.1633605,1208.574094,1165.4107335
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1996,Transport,Road,N2O,265,273.0,2.96038123,784.50102595,808.18407579
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1997,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,390.167559,10924.691652,10534.524093
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1997,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,10.11544239,2680.59223335,2761.51577247
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1997,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,90005.1,2520142.8000000003,2430137.7
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1997,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,1606.39,1606.39,1606.39
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1997,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,3416.56214188,905388.9675982,932721.46473324
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1997,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3203.621,89701.388,86497.767
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1997,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,25.906695,6865.274175,7072.527735
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1997,Buildings,Non-residential,CO2,1,1.0,15625.0,15625.0,15625.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1997,Buildings,Non-residential,CH4,28,27.0,283.45,7936.599999999999,7653.15
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1997,Buildings,Non-residential,N2O,265,273.0,3.67,972.55,1001.91
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1997,Buildings,Residential,CO2,1,1.0,68978.9,68978.9,68978.9
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1997,Buildings,Residential,CH4,28,27.0,7610.725,213100.3,205489.575
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1997,Buildings,Residential,N2O,265,273.0,217.4341,57620.0365,59359.5093
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1997,Energy systems,Electricity & heat,CO2,1,1.0,293116.0,293116.0,293116.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1997,Energy systems,Electricity & heat,CH4,28,27.0,7.709628,215.869584,208.159956
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1997,Energy systems,Electricity & heat,N2O,265,273.0,1.8203711,482.3983415,496.9613103
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1997,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,0.31502,0.31502,0.31502
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1997,Energy systems,Oil and gas fugitive emissions,CH4,30,29.8,107.4346,3223.038,3201.55108
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1997,Energy systems,Other (energy systems),CH4,28,27.0,12031.1,336870.8,324839.7
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1997,Energy systems,Other (energy systems),N2O,265,273.0,136.5571,36187.6315,37280.0883
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1997,Energy systems,Petroleum refining,CO2,1,1.0,11059.2,11059.2,11059.2
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1997,Energy systems,Petroleum refining,CH4,28,27.0,0.192,5.376,5.184
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1997,Energy systems,Petroleum refining,N2O,265,273.0,0.0192,5.087999999999999,5.241599999999999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1997,Industry,Cement,CO2,1,1.0,20950.0,20950.0,20950.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1997,Industry,Chemicals,CO2,1,1.0,16520.366,16520.366,16520.366
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1997,Industry,Chemicals,N2O,265,273.0,0.03477485,9.21533525,9.49353405
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1997,Industry,Other (industry),CO2,1,1.0,51093.3,51093.3,51093.3
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1997,Industry,Other (industry),CH4,28,27.0,1.938,54.264,52.326
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1997,Industry,Other (industry),N2O,265,273.0,0.3876,102.714,105.8148
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1997,Industry,Waste,CH4,28,27.0,18716.88971,524072.91188,505356.02217
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1997,Industry,Waste,N2O,265,273.0,75.4876,20004.214,20608.1148
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1997,Transport,Road,CO2,1,1.0,360975.74,360975.74,360975.74
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1997,Transport,Road,CH4,28,27.0,43.6473186,1222.1249208,1178.4776022
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1997,Transport,Road,N2O,265,273.0,2.81145663,745.03600695,767.52765999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1998,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,634.034619,17752.969332,17118.934713000002
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1998,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,16.4379396,4356.053994,4487.5575108
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1998,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,95765.3,2681428.4,2585663.1
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1998,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,1650.67,1650.67,1650.67
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1998,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,3665.3265147,971311.5263955,1000634.1385131
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1998,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3395.077,95062.156,91667.079
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1998,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,28.199779,7472.941435,7698.539667
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1998,Buildings,Non-residential,CO2,1,1.0,21884.6,21884.6,21884.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1998,Buildings,Non-residential,CH4,28,27.0,200.09,5602.52,5402.43
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1998,Buildings,Non-residential,N2O,265,273.0,2.6494,702.091,723.2862
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1998,Buildings,Residential,CO2,1,1.0,62786.5,62786.5,62786.5
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1998,Buildings,Residential,CH4,28,27.0,4892.319,136984.932,132092.613
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1998,Buildings,Residential,N2O,265,273.0,143.3799,37995.6735,39142.7127
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1998,Energy systems,Electricity & heat,CO2,1,1.0,241310.0,241310.0,241310.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1998,Energy systems,Electricity & heat,CH4,28,27.0,8.032652,224.914256,216.881604
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1998,Energy systems,Electricity & heat,N2O,265,273.0,1.7548214,465.027671,479.0662422
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1998,Energy systems,Other (energy systems),CH4,28,27.0,6968.8,195126.4,188157.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1998,Energy systems,Other (energy systems),N2O,265,273.0,91.7057,24302.0105,25035.6561
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1998,Industry,Cement,CO2,1,1.0,18810.0,18810.0,18810.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1998,Industry,Chemicals,CO2,1,1.0,21012.29,21012.29,21012.29
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1998,Industry,Chemicals,N2O,265,273.0,0.03546642,9.3986013,9.68233266
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1998,Industry,Other (industry),CO2,1,1.0,39249.3,39249.3,39249.3
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1998,Industry,Other (industry),CH4,28,27.0,1.455,40.74,39.285
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1998,Industry,Other (industry),N2O,265,273.0,0.291,77.115,79.443
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1998,Industry,Waste,CH4,28,27.0,19233.3454,538533.6712,519300.32579999993
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1998,Industry,Waste,N2O,265,273.0,55.7883,14783.8995,15230.2059
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1998,Transport,Road,CO2,1,1.0,229380.318,229380.318,229380.318
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1998,Transport,Road,CH4,28,27.0,38.4472552,1076.5231456,1038.0758904
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1998,Transport,Road,N2O,265,273.0,2.14425134,568.2266050999999,585.38061582
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1999,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,549.545835,15387.28338,14837.737545
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1999,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,14.2474819,3775.5827035,3889.5625587
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1999,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,97708.7,2735843.6,2638134.9
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1999,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,1668.75,1668.75,1668.75
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1999,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,3725.6724579,987303.2013435,1017108.5810067
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1999,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3460.945,96906.46,93445.515
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1999,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,30.246004,8015.19106,8257.159092
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1999,Buildings,Non-residential,CO2,1,1.0,15610.9,15610.9,15610.9
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1999,Buildings,Non-residential,CH4,28,27.0,205.01,5740.28,5535.27
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1999,Buildings,Non-residential,N2O,265,273.0,2.6786,709.829,731.2578
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1999,Buildings,Residential,CO2,1,1.0,65950.1,65950.1,65950.1
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1999,Buildings,Residential,CH4,28,27.0,5043.559,141219.652,136176.093
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1999,Buildings,Residential,N2O,265,273.0,147.7423,39151.7095,40333.6479
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1999,Energy systems,Electricity & heat,CO2,1,1.0,292570.2,292570.2,292570.2
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1999,Energy systems,Electricity & heat,CH4,28,27.0,9.809857,274.675996,264.866139
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1999,Energy systems,Electricity & heat,N2O,265,273.0,2.1402024,567.153636,584.2752552000001
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1999,Energy systems,Other (energy systems),CH4,28,27.0,7161.0,200508.0,193347.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1999,Energy systems,Other (energy systems),N2O,265,273.0,96.5128,25575.892,26347.9944
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1999,Industry,Cement,CO2,1,1.0,18765.0,18765.0,18765.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1999,Industry,Chemicals,CO2,1,1.0,25518.414,25518.414,25518.414
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1999,Industry,Chemicals,N2O,265,273.0,0.03632486,9.6260879,9.91668678
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1999,Industry,Other (industry),CO2,1,1.0,45605.7,45605.7,45605.7
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1999,Industry,Other (industry),CH4,28,27.0,1.707,47.796,46.089
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1999,Industry,Other (industry),N2O,265,273.0,0.3414,90.471,93.2022
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1999,Industry,Waste,CH4,28,27.0,19804.6678,554530.6984,534726.0305999999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1999,Industry,Waste,N2O,265,273.0,56.5328,14981.192,15433.4544
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1999,Transport,Road,CO2,1,1.0,210114.966,210114.966,210114.966
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1999,Transport,Road,CH4,28,27.0,37.4425865,1048.392422,1010.9498355
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,1999,Transport,Road,N2O,265,273.0,2.01802223,534.7758909500001,550.9200687900001
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2000,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,374.893824,10497.027072,10122.133248
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2000,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,9.7194742,2575.660663,2653.4164566
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2000,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,100066.4,2801859.2,2701792.8
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2000,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,1683.18,1683.18,1683.18
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2000,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,3808.3366144,1009209.202816,1039675.8957312
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2000,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3539.384,99102.752,95563.368
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2000,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,32.016908,8484.48062,8740.615884
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2000,Buildings,Non-residential,CO2,1,1.0,21817.0,21817.0,21817.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2000,Buildings,Non-residential,CH4,28,27.0,209.95,5878.599999999999,5668.65
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2000,Buildings,Non-residential,N2O,265,273.0,2.779,736.435,758.667
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2000,Buildings,Residential,CO2,1,1.0,68978.9,68978.9,68978.9
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2000,Buildings,Residential,CH4,28,27.0,5189.066,145293.848,140104.782
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2000,Buildings,Residential,N2O,265,273.0,152.1721,40325.6065,41542.9833
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2000,Energy systems,Electricity & heat,CO2,1,1.0,282937.93,282937.93,282937.93
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2000,Energy systems,Electricity & heat,CH4,28,27.0,10.2206678,286.1786984,275.9580306
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2000,Energy systems,Electricity & heat,N2O,265,273.0,2.1479213,569.1991445,586.3825149
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2000,Energy systems,Other (energy systems),CH4,28,27.0,7257.1,203198.8,195941.7
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2000,Energy systems,Other (energy systems),N2O,265,273.0,99.2778,26308.617,27102.8394
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2000,Industry,Cement,CO2,1,1.0,18675.0,18675.0,18675.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2000,Industry,Chemicals,CO2,1,1.0,30112.353,30112.353,30112.353
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2000,Industry,Chemicals,N2O,265,273.0,0.0373208,9.890012,10.1885784
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2000,Industry,Other (industry),CO2,1,1.0,38631.9,38631.9,38631.9
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2000,Industry,Other (industry),CH4,28,27.0,1.455,40.74,39.285
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2000,Industry,Other (industry),N2O,265,273.0,0.291,77.115,79.443
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2000,Industry,Waste,CH4,28,27.0,20407.9336,571422.1408,551014.2072000001
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2000,Industry,Waste,N2O,265,273.0,97.2192,25763.088,26540.8416
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2000,Transport,Road,CO2,1,1.0,203877.956,203877.956,203877.956
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2000,Transport,Road,CH4,28,27.0,33.7928535,946.199898,912.4070445
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2000,Transport,Road,N2O,265,273.0,1.82371381,483.2841596500001,497.87387013
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2001,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,458.978372,12851.394416,12392.416044
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2001,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,11.8994423,3153.3522095000003,3248.5477479
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2001,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,94843.8,2655626.4,2560782.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2001,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,1370.81,1370.81,1370.81
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2001,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,3653.5905818,968201.504177,997430.2288314
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2001,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3346.259,93695.252,90348.993
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2001,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,32.412324,8589.26586,8848.564451999999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2001,Buildings,Non-residential,CO2,1,1.0,21754.3,21754.3,21754.3
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2001,Buildings,Non-residential,CH4,28,27.0,216.425,6059.900000000001,5843.475
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2001,Buildings,Non-residential,N2O,265,273.0,2.8501,755.2764999999999,778.0772999999999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2001,Buildings,Residential,CO2,1,1.0,72142.5,72142.5,72142.5
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2001,Buildings,Residential,CH4,28,27.0,5496.485,153901.58,148405.095
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2001,Buildings,Residential,N2O,265,273.0,166.4765,44116.2725,45448.0845
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2001,Energy systems,Electricity & heat,CO2,1,1.0,288684.8,288684.8,288684.8
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2001,Energy systems,Electricity & heat,CH4,28,27.0,10.5131302,294.3676456,283.8545154
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2001,Energy systems,Electricity & heat,N2O,265,273.0,2.1953112,581.757468,599.3199576
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2001,Energy systems,Other (energy systems),CH4,28,27.0,7638.4,213875.2,206236.8
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2001,Energy systems,Other (energy systems),N2O,265,273.0,106.1933,28141.2245,28990.7709
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2001,Industry,Cement,CO2,1,1.0,18720.0,18720.0,18720.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2001,Industry,Chemicals,CO2,1,1.0,34652.626,34652.626,34652.626
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2001,Industry,Chemicals,N2O,265,273.0,0.03846832,10.1941048,10.50185136
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2001,Industry,Other (industry),CO2,1,1.0,45605.7,45605.7,45605.7
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2001,Industry,Other (industry),CH4,28,27.0,1.707,47.796,46.089
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2001,Industry,Other (industry),N2O,265,273.0,0.3414,90.471,93.2022
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2001,Industry,Waste,CH4,28,27.0,21240.6736,594738.8607999999,573498.1871999999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2001,Industry,Waste,N2O,265,273.0,100.2082,26555.173000000003,27356.838600000003
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2001,Transport,Road,CO2,1,1.0,248505.339,248505.339,248505.339
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2001,Transport,Road,CH4,28,27.0,41.1068434,1150.9916152,1109.8847718000002
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2001,Transport,Road,N2O,265,273.0,2.21950985,588.17011025,605.9261890500001
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2002,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,356.389975,9978.9193,9622.529325
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2002,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,9.2397322,2448.5290330000003,2522.4468906
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2002,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,93182.8,2609118.4,2515935.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2002,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,1035.25,1035.25,1035.25
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2002,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,3586.7205773,950480.9529845,979174.7176029
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2002,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3274.749,91692.972,88418.223
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2002,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,33.779938,8951.683570000001,9221.923074
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2002,Buildings,Non-residential,CO2,1,1.0,15494.7,15494.7,15494.7
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2002,Buildings,Non-residential,CH4,28,27.0,221.285,6195.98,5974.695
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2002,Buildings,Non-residential,N2O,265,273.0,2.8757,762.0605,785.0661
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2002,Buildings,Residential,CO2,1,1.0,71944.6,71944.6,71944.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2002,Buildings,Residential,CH4,28,27.0,5674.9,158897.19999999998,153222.3
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2002,Buildings,Residential,N2O,265,273.0,171.6268,45481.102,46854.1164
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2002,Energy systems,Electricity & heat,CO2,1,1.0,262178.1,262178.1,262178.1
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2002,Energy systems,Electricity & heat,CH4,28,27.0,9.465125,265.0235,255.558375
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2002,Energy systems,Electricity & heat,N2O,265,273.0,1.9759434,523.625001,539.4325482
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2002,Energy systems,Other (energy systems),CH4,28,27.0,7830.6,219256.8,211426.2
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2002,Energy systems,Other (energy systems),N2O,265,273.0,107.0097,28357.5705,29213.6481
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2002,Industry,Cement,CO2,1,1.0,18720.0,18720.0,18720.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2002,Industry,Chemicals,CO2,1,1.0,38370.389,38370.389,38370.389
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2002,Industry,Chemicals,N2O,265,273.0,0.03976104,10.5366756,10.85476392
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2002,Industry,Other (industry),CO2,1,1.0,42509.7,42509.7,42509.7
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2002,Industry,Other (industry),CH4,28,27.0,1.587,44.436,42.849
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2002,Industry,Other (industry),N2O,265,273.0,0.3174,84.111,86.6502
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2002,Industry,Waste,CH4,28,27.0,22112.95572,619162.7601600001,597049.8044400001
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2002,Industry,Waste,N2O,265,273.0,103.5761,27447.6665,28276.2753
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2002,Transport,Road,CO2,1,1.0,267633.141,267633.141,267633.141
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2002,Transport,Road,CH4,28,27.0,43.7297576,1224.4332128,1180.7034552
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2002,Transport,Road,N2O,265,273.0,2.3681559,627.5613135,646.5065607
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2003,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,398.785193,11165.985404,10767.200211
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2003,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,10.33886169,2739.79834785,2822.50924137
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2003,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,95796.5,2682302.0,2586505.5
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2003,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,1047.01,1047.01,1047.01
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2003,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,3727.2223714,987713.928421,1017531.7073922
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2003,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3341.0129,93548.3612,90207.3483
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2003,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,36.849875,9765.216875,10060.015875
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2003,Buildings,Non-residential,CO2,1,1.0,15494.7,15494.7,15494.7
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2003,Buildings,Non-residential,CH4,28,27.0,227.585,6372.38,6144.795
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2003,Buildings,Non-residential,N2O,265,273.0,2.9597,784.3205,807.9981
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2003,Buildings,Residential,CO2,1,1.0,68781.0,68781.0,68781.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2003,Buildings,Residential,CH4,28,27.0,5826.38,163138.64,157312.26
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2003,Buildings,Residential,N2O,265,273.0,176.4164,46750.346000000005,48161.677200000006
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2003,Energy systems,Electricity & heat,CO2,1,1.0,267999.81,267999.81,267999.81
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2003,Energy systems,Electricity & heat,CH4,28,27.0,9.565875,267.8445,258.278625
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2003,Energy systems,Electricity & heat,N2O,265,273.0,2.0039624,531.050036,547.0817351999999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2003,Energy systems,Other (energy systems),CH4,28,27.0,8115.8,227242.4,219126.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2003,Energy systems,Other (energy systems),N2O,265,273.0,110.16,29192.4,30073.68
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2003,Industry,Cement,CO2,1,1.0,18720.0,18720.0,18720.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2003,Industry,Chemicals,CO2,1,1.0,7174.79,7174.79,7174.79
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2003,Industry,Chemicals,N2O,265,273.0,0.04112086,10.8970279,11.22599478
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2003,Industry,Other (industry),CO2,1,1.0,42509.7,42509.7,42509.7
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2003,Industry,Other (industry),CH4,28,27.0,1.587,44.436,42.849
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2003,Industry,Other (industry),N2O,265,273.0,0.3174,84.111,86.6502
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2003,Industry,Waste,CH4,28,27.0,22944.7556,642453.1568,619508.4012
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2003,Industry,Waste,N2O,265,273.0,108.7697,28823.9705,29694.1281
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2003,Transport,Road,CO2,1,1.0,274218.068,274218.068,274218.068
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2003,Transport,Road,CH4,28,27.0,42.4476985,1188.535558,1146.0878595
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2003,Transport,Road,N2O,265,273.0,2.32973407,617.37952855,636.01740111
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2004,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,422.826277,11839.135756,11416.309479
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2004,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,10.96214833,2904.96930745,2992.66649409
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2004,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,96774.1,2709674.8000000003,2612900.7
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2004,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,1050.41,1050.41,1050.41
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2004,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,3795.4208278,1005786.519367,1036149.8859894
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2004,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3356.407,93979.396,90622.989
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2004,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,39.094956,10360.16334,10672.922988
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2004,Buildings,Non-residential,CO2,1,1.0,15494.7,15494.7,15494.7
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2004,Buildings,Non-residential,CH4,28,27.0,177.185,4961.18,4783.995
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2004,Buildings,Non-residential,N2O,265,273.0,2.2877,606.2405,624.5421
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2004,Buildings,Residential,CO2,1,1.0,71746.7,71746.7,71746.7
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2004,Buildings,Residential,CH4,28,27.0,3550.663,99418.564,95867.901
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2004,Buildings,Residential,N2O,265,273.0,95.5921,25331.9065,26096.6433
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2004,Energy systems,Electricity & heat,CO2,1,1.0,286743.66,286743.66,286743.66
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2004,Energy systems,Electricity & heat,CH4,28,27.0,10.331624,289.285472,278.953848
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2004,Energy systems,Electricity & heat,N2O,265,273.0,2.1519253,570.2602045,587.4756069
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2004,Energy systems,Other (energy systems),CH4,28,27.0,10598.9,296769.2,286170.3
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2004,Energy systems,Other (energy systems),N2O,265,273.0,105.8233,28043.1745,28889.7609
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2004,Industry,Cement,CO2,1,1.0,18765.0,18765.0,18765.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2004,Industry,Chemicals,CO2,1,1.0,5257.607,5257.607,5257.607
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2004,Industry,Chemicals,N2O,265,273.0,0.04244482,11.2478773,11.58743586
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2004,Industry,Other (industry),CO2,1,1.0,39866.7,39866.7,39866.7
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2004,Industry,Other (industry),CH4,28,27.0,1.455,40.74,39.285
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2004,Industry,Other (industry),N2O,265,273.0,0.291,77.115,79.443
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2004,Industry,Waste,CH4,28,27.0,23806.0419,666569.1732,642763.1313
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2004,Industry,Waste,N2O,265,273.0,113.2459,30010.1635,30916.1307
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2004,Transport,Road,CO2,1,1.0,249128.89,249128.89,249128.89
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2004,Transport,Road,CH4,28,27.0,31.2027141,873.6759948,842.4732807
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2004,Transport,Road,N2O,265,273.0,1.81472216,480.9013724,495.41914968
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2005,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,572.315196,16024.825488,15452.510292
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2005,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,14.8377961,3932.0159665,4050.7183353
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2005,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,97806.5,2738582.0,2640775.5
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2005,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,1269.41,1269.41,1269.41
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2005,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,3863.2005631,1023748.1492215,1054653.7537263
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2005,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3382.546,94711.288,91328.742
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2005,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,40.776541,10805.783365,11131.995693
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2005,Buildings,Non-residential,CO2,1,1.0,12529.0,12529.0,12529.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2005,Buildings,Non-residential,CH4,28,27.0,181.75,5089.0,4907.25
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2005,Buildings,Non-residential,N2O,265,273.0,2.347,621.955,640.731
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2005,Buildings,Residential,CO2,1,1.0,71548.8,71548.8,71548.8
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2005,Buildings,Residential,CH4,28,27.0,3710.137,103883.836,100173.699
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2005,Buildings,Residential,N2O,265,273.0,99.0714,26253.921,27046.4922
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2005,Energy systems,Electricity & heat,CO2,1,1.0,283735.5,283735.5,283735.5
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2005,Energy systems,Electricity & heat,CH4,28,27.0,10.228446,286.396488,276.168042
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2005,Energy systems,Electricity & heat,N2O,265,273.0,2.1311428,564.752842,581.8019844
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2005,Energy systems,Other (energy systems),CH4,28,27.0,10884.1,304754.8,293870.7
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2005,Energy systems,Other (energy systems),N2O,265,273.0,104.5276,27699.814,28536.0348
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2005,Industry,Cement,CO2,1,1.0,18765.0,18765.0,18765.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2005,Industry,Chemicals,CO2,1,1.0,5442.79,5442.79,5442.79
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2005,Industry,Chemicals,N2O,265,273.0,0.04365911,11.56966415,11.91893703
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2005,Industry,Other (industry),CO2,1,1.0,33057.3,33057.3,33057.3
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2005,Industry,Other (industry),CH4,28,27.0,1.215,34.02,32.805
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2005,Industry,Other (industry),N2O,265,273.0,0.243,64.395,66.339
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2005,Industry,Waste,CH4,28,27.0,24651.378,690238.584,665587.206
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2005,Industry,Waste,N2O,265,273.0,118.239,31333.335000000003,32279.247
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2005,Transport,Road,CO2,1,1.0,179136.607,179136.607,179136.607
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2005,Transport,Road,CH4,28,27.0,17.6159661,493.2470508,475.6310847
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2005,Transport,Road,N2O,265,273.0,1.10721599,293.41223735,302.26996527
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2006,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,601.015953,16828.446684,16227.430731
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2006,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,15.58190298,4129.2042897,4253.85951354
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2006,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,95224.9,2666297.2,2571072.3
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2006,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,1335.51,1335.51,1335.51
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2006,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,3649.34311169,967075.92459785,996270.66949137
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2006,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3368.84302,94327.60456,90958.76154
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2006,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,33.181336,8793.05404,9058.504728
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2006,Buildings,Non-residential,CO2,1,1.0,12529.0,12529.0,12529.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2006,Buildings,Non-residential,CH4,28,27.0,186.55,5223.400000000001,5036.85
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2006,Buildings,Non-residential,N2O,265,273.0,2.411,638.915,658.203
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2006,Buildings,Residential,CO2,1,1.0,65617.4,65617.4,65617.4
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2006,Buildings,Residential,CH4,28,27.0,3828.227,107190.356,103362.129
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2006,Buildings,Residential,N2O,265,273.0,102.038,27040.07,27856.374
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2006,Energy systems,Electricity & heat,CO2,1,1.0,261462.92,261462.92,261462.92
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2006,Energy systems,Electricity & heat,CH4,28,27.0,9.39478,263.05384000000004,253.65906
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2006,Energy systems,Electricity & heat,N2O,265,273.0,1.959052,519.14878,534.821196
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2006,Energy systems,Other (energy systems),CH4,28,27.0,11172.4,312827.2,301654.8
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2006,Energy systems,Other (energy systems),N2O,265,273.0,102.0897,27053.7705,27870.4881
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2006,Industry,Cement,CO2,1,1.0,17910.0,17910.0,17910.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2006,Industry,Chemicals,CO2,1,1.0,6114.488,6114.488,6114.488
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2006,Industry,Chemicals,N2O,265,273.0,0.04473315,11.85428475,12.21214995
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2006,Industry,Other (industry),CO2,1,1.0,26170.5,26170.5,26170.5
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2006,Industry,Other (industry),CH4,28,27.0,0.972,27.216,26.244
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2006,Industry,Other (industry),N2O,265,273.0,0.1944,51.516,53.0712
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2006,Industry,Waste,CH4,28,27.0,25368.2034,710309.6952,684941.4918
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2006,Industry,Waste,N2O,265,273.0,122.4313,32444.2945,33423.7449
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2006,Transport,Road,CO2,1,1.0,137417.53,137417.53,137417.53
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2006,Transport,Road,CH4,28,27.0,15.4404509,432.3326252,416.8921743
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2006,Transport,Road,N2O,265,273.0,0.92837827,246.02024155,253.44726771
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2007,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,640.6568934,17938.3930152,17297.736121799997
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2007,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,16.609615532,4401.54811598,4534.425040235999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2007,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,99762.1,2793338.8000000003,2693576.7
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2007,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,466.906,466.906,466.906
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2007,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,3961.81748294,1049881.6329791,1081576.17284262
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2007,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3458.10834,96827.03352,93368.92518
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2007,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,42.384515,11231.896475,11570.972595
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2007,Buildings,Non-residential,CO2,1,1.0,9355.6,9355.6,9355.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2007,Buildings,Non-residential,CH4,28,27.0,191.24,5354.72,5163.4800000000005
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2007,Buildings,Non-residential,N2O,265,273.0,2.4544,650.416,670.0512
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2007,Buildings,Residential,CO2,1,1.0,65815.3,65815.3,65815.3
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2007,Buildings,Residential,CH4,28,27.0,3927.135,109959.78,106032.645
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2007,Buildings,Residential,N2O,265,273.0,104.8407,27782.7855,28621.5111
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2007,Energy systems,Electricity & heat,CO2,1,1.0,274014.98,274014.98,274014.98
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2007,Energy systems,Electricity & heat,CH4,28,27.0,9.854445,275.92446,266.070015
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2007,Energy systems,Electricity & heat,N2O,265,273.0,2.0533901,544.1483765,560.5754973
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2007,Energy systems,Other (energy systems),CH4,28,27.0,11553.7,323503.60000000003,311949.9
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2007,Energy systems,Other (energy systems),N2O,265,273.0,104.4881,27689.3465,28525.2513
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2007,Industry,Cement,CO2,1,1.0,17145.0,17145.0,17145.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2007,Industry,Chemicals,CO2,1,1.0,6201.9486,6201.9486,6201.9486
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2007,Industry,Chemicals,N2O,265,273.0,0.04568663,12.10695695,12.47244999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2007,Industry,Other (industry),CO2,1,1.0,23074.5,23074.5,23074.5
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2007,Industry,Other (industry),CH4,28,27.0,0.852,23.856,23.004
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2007,Industry,Other (industry),N2O,265,273.0,0.1704,45.156,46.5192
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2007,Industry,Waste,CH4,28,27.0,26069.7028,729951.6784,703881.9756
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2007,Industry,Waste,N2O,265,273.0,126.3514,33483.121,34493.9322
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2007,Transport,Road,CO2,1,1.0,121412.286,121412.286,121412.286
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2007,Transport,Road,CH4,28,27.0,14.5688081,407.9266268,393.3578187
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2007,Transport,Road,N2O,265,273.0,0.85707131,227.12389715,233.98046763
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2008,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,401.9615112,11254.9223136,10852.9608024
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2008,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,10.421218548,2761.6229152200003,2844.992663604
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2008,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,99796.0,2794288.0,2694492.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2008,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,523.769,523.769,523.769
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2008,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,3967.440259811,1051371.668849915,1083111.190928403
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2008,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3475.80003,97322.40084,93846.60081
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2008,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,42.596421,11288.051565,11628.822933
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2008,Buildings,Non-residential,CO2,1,1.0,6259.6,6259.6,6259.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2008,Buildings,Non-residential,CH4,28,27.0,195.94,5486.32,5290.38
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2008,Buildings,Non-residential,N2O,265,273.0,2.4984,662.076,682.0632
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2008,Buildings,Residential,CO2,1,1.0,56198.5,56198.5,56198.5
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2008,Buildings,Residential,CH4,28,27.0,4030.004,112840.112,108810.108
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2008,Buildings,Residential,N2O,265,273.0,107.6204,28519.406000000003,29380.3692
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2008,Energy systems,Electricity & heat,CO2,1,1.0,232564.01,232564.01,232564.01
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2008,Energy systems,Electricity & heat,CH4,28,27.0,8.2991495,232.376186,224.0770365
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2008,Energy systems,Electricity & heat,N2O,265,273.0,1.7321353,459.0158545,472.8729369
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2008,Energy systems,Other (energy systems),CH4,28,27.0,11935.0,334180.0,322245.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2008,Energy systems,Other (energy systems),N2O,265,273.0,102.4151,27140.0015,27959.3223
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2008,Industry,Cement,CO2,1,1.0,16920.0,16920.0,16920.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2008,Industry,Chemicals,CO2,1,1.0,6444.8782,6444.8782,6444.8782
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2008,Industry,Chemicals,N2O,265,273.0,0.04655904,12.3381456,12.71061792
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2008,Industry,Other (industry),CO2,1,1.0,19978.5,19978.5,19978.5
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2008,Industry,Other (industry),CH4,28,27.0,0.732,20.496,19.764
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2008,Industry,Other (industry),N2O,265,273.0,0.1464,38.796,39.9672
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2008,Industry,Waste,CH4,28,27.0,26466.7128,741067.9584,714601.2456
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2008,Industry,Waste,N2O,265,273.0,128.7649,34122.698500000006,35152.8177
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2008,Transport,Road,CO2,1,1.0,111779.036,111779.036,111779.036
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2008,Transport,Road,CH4,28,27.0,14.069827,393.955156,379.885329
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2008,Transport,Road,N2O,265,273.0,0.81602051,216.24543515,222.77359923
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2009,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,492.560749,13791.700972,13299.140223
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2009,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,12.7700957,3384.0753605,3486.2361261
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2009,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,99961.6,2798924.8000000003,2698963.2
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2009,AFOLU,"Managed soils and pasture (CO2, N2O)",CO2,1,1.0,603.057,603.057,603.057
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2009,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,3995.35711838,1058769.6363707,1090732.49331774
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2009,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3493.43369,97816.14332,94322.70963
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2009,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,42.809607,11344.545855,11687.022711
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2009,Buildings,Non-residential,CO2,1,1.0,6259.6,6259.6,6259.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2009,Buildings,Non-residential,CH4,28,27.0,201.34,5637.52,5436.18
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2009,Buildings,Non-residential,N2O,265,273.0,2.5704,681.156,701.7192
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2009,Buildings,Residential,CO2,1,1.0,52837.0,52837.0,52837.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2009,Buildings,Residential,CH4,28,27.0,4163.405,116575.34,112411.935
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2009,Buildings,Residential,N2O,265,273.0,110.8943,29386.9895,30274.1439
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2009,Energy systems,Electricity & heat,CO2,1,1.0,248376.07,248376.07,248376.07
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2009,Energy systems,Electricity & heat,CH4,28,27.0,8.8824091,248.7074548,239.8250457
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2009,Energy systems,Electricity & heat,N2O,265,273.0,1.8520712,490.798868,505.6154376
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2009,Energy systems,Other (energy systems),CH4,28,27.0,12220.2,342165.60000000003,329945.4
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2009,Energy systems,Other (energy systems),N2O,265,273.0,106.0497,28103.1705,28951.5681
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2009,Industry,Cement,CO2,1,1.0,15930.0,15930.0,15930.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2009,Industry,Chemicals,CO2,1,1.0,6597.3032,6597.3032,6597.3032
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2009,Industry,Chemicals,N2O,265,273.0,0.04741363,12.56461195,12.94392099
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2009,Industry,Other (industry),CO2,1,1.0,25553.1,25553.1,25553.1
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2009,Industry,Other (industry),CH4,28,27.0,0.972,27.216,26.244
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2009,Industry,Other (industry),N2O,265,273.0,0.1944,51.516,53.0712
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2009,Industry,Waste,CH4,28,27.0,27141.7262,759968.3336,732826.6074
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2009,Industry,Waste,N2O,265,273.0,132.7601,35181.4265,36243.5073
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2009,Transport,Road,CO2,1,1.0,114897.536,114897.536,114897.536
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2009,Transport,Road,CH4,28,27.0,15.894715,445.05202,429.157305
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2009,Transport,Road,N2O,265,273.0,0.89755051,237.85088515,245.03128923
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2010,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,490.9110842,13745.5103576,13254.5992734
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2010,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,12.727321613,3372.740227445,3474.558800349
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2010,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,98218.5,2750118.0,2651899.5
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2010,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,3814.61836204,1010873.8659406,1041390.81283692
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2010,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3522.01148,98616.32144,95094.30996
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2010,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,34.805239,9223.388335,9501.830247
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2010,Buildings,Non-residential,CO2,1,1.0,6259.6,6259.6,6259.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2010,Buildings,Non-residential,CH4,28,27.0,206.74,5788.72,5581.9800000000005
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2010,Buildings,Non-residential,N2O,265,273.0,2.6424,700.236,721.3752
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2010,Buildings,Residential,CO2,1,1.0,46905.6,46905.6,46905.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2010,Buildings,Residential,CH4,28,27.0,4229.318,118420.904,114191.586
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2010,Buildings,Residential,N2O,265,273.0,112.7699,29884.023500000003,30786.1827
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2010,Energy systems,Electricity & heat,CO2,1,1.0,267297.53,267297.53,267297.53
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2010,Energy systems,Electricity & heat,CH4,28,27.0,9.5015358,266.0430024,256.5414666
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2010,Energy systems,Electricity & heat,N2O,265,273.0,1.9886199,526.9842735,542.8932327
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2010,Energy systems,Other (energy systems),CH4,28,27.0,12889.8,360914.4,348024.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2010,Energy systems,Other (energy systems),N2O,265,273.0,111.6855,29596.6575,30490.1415
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2010,Industry,Cement,CO2,1,1.0,16380.0,16380.0,16380.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2010,Industry,Chemicals,CO2,1,1.0,6767.2392,6767.2392,6767.2392
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2010,Industry,Chemicals,N2O,265,273.0,0.04829924,12.7992986,13.18569252
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2010,Industry,Other (industry),CO2,1,1.0,19361.1,19361.1,19361.1
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2010,Industry,Other (industry),CH4,28,27.0,0.732,20.496,19.764
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2010,Industry,Other (industry),N2O,265,273.0,0.1464,38.796,39.9672
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2010,Industry,Waste,CH4,28,27.0,27832.8125,779318.75,751485.9375
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2010,Industry,Waste,N2O,265,273.0,136.9025,36279.1625,37374.3825
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2010,Transport,Road,CO2,1,1.0,140330.976,140330.976,140330.976
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2010,Transport,Road,CH4,28,27.0,20.5019072,574.0534016,553.5514944
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2010,Transport,Road,N2O,265,273.0,1.14089861,302.33813165000004,311.46532053
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2011,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,551.8983167,15453.1528676,14901.2545509
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2011,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,14.30846717,3791.74380005,3906.21153741
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2011,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,101244.0,2834832.0,2733588.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2011,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4047.92926178,1072701.2543717,1105084.68846594
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2011,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3545.537,99275.036,95729.499
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2011,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,43.611431,11557.029215,11905.920663
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2011,Buildings,Non-residential,CO2,1,1.0,6259.6,6259.6,6259.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2011,Buildings,Non-residential,CH4,28,27.0,222.94,6242.32,6019.38
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2011,Buildings,Non-residential,N2O,265,273.0,2.8584,757.476,780.3432
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2011,Buildings,Residential,CO2,1,1.0,46905.6,46905.6,46905.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2011,Buildings,Residential,CH4,28,27.0,4098.753,114765.084,110666.331
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2011,Buildings,Residential,N2O,265,273.0,111.8429,29638.3685,30533.1117
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2011,Energy systems,Electricity & heat,CO2,1,1.0,289226.34,289226.34,289226.34
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2011,Energy systems,Electricity & heat,CH4,28,27.0,10.3059745,288.567286,278.2613115
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2011,Energy systems,Electricity & heat,N2O,265,273.0,2.1537806,570.7518590000001,587.9821038
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2011,Energy systems,Other (energy systems),CH4,28,27.0,13844.6,387648.8,373804.2
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2011,Energy systems,Other (energy systems),N2O,265,273.0,117.3986,31110.629,32049.8178
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2011,Industry,Cement,CO2,1,1.0,67260.0,67260.0,67260.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2011,Industry,Chemicals,CO2,1,1.0,6537.6452,6537.6452,6537.6452
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2011,Industry,Chemicals,N2O,265,273.0,0.04922159,13.04372135,13.43749407
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2011,Industry,Other (industry),CO2,1,1.0,19361.1,19361.1,19361.1
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2011,Industry,Other (industry),CH4,28,27.0,0.732,20.496,19.764
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2011,Industry,Other (industry),N2O,265,273.0,0.1464,38.796,39.9672
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2011,Industry,Waste,CH4,28,27.0,28669.5504,802747.4112,774077.8608
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2011,Industry,Waste,N2O,265,273.0,142.3413,37720.4445,38859.1749
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2011,Transport,Road,CO2,1,1.0,153082.597,153082.597,153082.597
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2011,Transport,Road,CH4,28,27.0,22.8258054,639.1225512,616.2967458
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2011,Transport,Road,N2O,265,273.0,1.26348072,334.8223908,344.93023656
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2012,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,519.5017976,14546.0503328,14026.5485352
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2012,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,13.46856306,3569.1692109,3676.91771538
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2012,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,101933.4,2854135.2,2752201.8
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2012,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4063.05648293,1076709.96797645,1109214.41983989
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2012,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3575.389,100110.892,96535.503
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2012,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,43.752283,11594.354995,11944.373259
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2012,Buildings,Non-residential,CO2,1,1.0,6259.6,6259.6,6259.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2012,Buildings,Non-residential,CH4,28,27.0,237.04,6637.12,6400.08
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2012,Buildings,Non-residential,N2O,265,273.0,3.0464,807.296,831.6672000000001
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2012,Buildings,Residential,CO2,1,1.0,46905.6,46905.6,46905.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2012,Buildings,Residential,CH4,28,27.0,3972.745,111236.86,107264.115
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2012,Buildings,Residential,N2O,265,273.0,110.9069,29390.3285,30277.5837
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2012,Energy systems,Electricity & heat,CO2,1,1.0,308135.13,308135.13,308135.13
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2012,Energy systems,Electricity & heat,CH4,28,27.0,11.001249,308.034972,297.033723
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2012,Energy systems,Electricity & heat,N2O,265,273.0,2.296612,608.60218,626.9750760000001
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2012,Energy systems,Other (energy systems),CH4,28,27.0,14799.4,414383.2,399583.8
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2012,Energy systems,Other (energy systems),N2O,265,273.0,122.8301,32549.9765,33532.6173
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2012,Industry,Cement,CO2,1,1.0,81420.0,81420.0,81420.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2012,Industry,Chemicals,CO2,1,1.0,7230.4122,7230.4122,7230.4122
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2012,Industry,Chemicals,N2O,265,273.0,0.05017078,13.2952567,13.69662294
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2012,Industry,Other (industry),CO2,1,1.0,19361.1,19361.1,19361.1
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2012,Industry,Other (industry),CH4,28,27.0,0.732,20.496,19.764
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2012,Industry,Other (industry),N2O,265,273.0,0.1464,38.796,39.9672
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2012,Industry,Waste,CH4,28,27.0,29350.6458,821818.0824,792467.4365999999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2012,Industry,Waste,N2O,265,273.0,145.95,38676.75,39844.35
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2012,Transport,Road,CO2,1,1.0,165834.307,165834.307,165834.307
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2012,Transport,Road,CH4,28,27.0,25.1495985,704.188758,679.0391595
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2012,Transport,Road,N2O,265,273.0,1.38606122,367.3062233,378.39471306
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2013,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,519.5461025,14547.29087,14027.744767499998
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2013,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,13.46971394,3569.4741941,3677.23190562
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2013,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,102906.4,2881379.2,2778472.8
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2013,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4091.42536349,1084227.72132485,1116959.12423277
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2013,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3615.806,101242.568,97626.762
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2013,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,43.893966,11631.90099,11983.052718
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2013,Buildings,Non-residential,CO2,1,1.0,6259.6,6259.6,6259.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2013,Buildings,Non-residential,CH4,28,27.0,247.24,6922.72,6675.4800000000005
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2013,Buildings,Non-residential,N2O,265,273.0,3.1824,843.336,868.7952
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2013,Buildings,Residential,CO2,1,1.0,46905.6,46905.6,46905.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2013,Buildings,Residential,CH4,28,27.0,3934.47,110165.16,106230.69
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2013,Buildings,Residential,N2O,265,273.0,110.9779,29409.1435,30296.9667
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2013,Energy systems,Electricity & heat,CO2,1,1.0,320686.42,320686.42,320686.42
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2013,Energy systems,Electricity & heat,CH4,28,27.0,11.460852,320.903856,309.443004
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2013,Energy systems,Electricity & heat,N2O,265,273.0,2.3909337,633.5974305000001,652.7249001
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2013,Energy systems,Other (energy systems),CH4,28,27.0,15469.0,433132.0,417663.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2013,Energy systems,Other (energy systems),N2O,265,273.0,126.8559,33616.813500000004,34631.6607
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2013,Industry,Cement,CO2,1,1.0,77970.0,77970.0,77970.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2013,Industry,Chemicals,CO2,1,1.0,7382.3978,7382.3978,7382.3978
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2013,Industry,Chemicals,N2O,265,273.0,0.051161,13.557665,13.966953
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2013,Industry,Other (industry),CO2,1,1.0,19361.1,19361.1,19361.1
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2013,Industry,Other (industry),CH4,28,27.0,0.732,20.496,19.764
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2013,Industry,Other (industry),N2O,265,273.0,0.1464,38.796,39.9672
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2013,Industry,Waste,CH4,28,27.0,30022.4243,840627.8803999999,810605.4561
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2013,Industry,Waste,N2O,265,273.0,149.1238,39517.80699999999,40710.7974
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2013,Transport,Road,CO2,1,1.0,172206.623,172206.623,172206.623
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2013,Transport,Road,CH4,28,27.0,25.4796651,713.4306227999999,687.9509577
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2013,Transport,Road,N2O,265,273.0,1.41321459,374.50186635,385.80758307
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2014,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,526.4513263,14740.6371364,14214.1858101
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2014,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,13.64874433,3616.91724745,3726.10720209
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2014,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,103292.5,2892190.0,2788897.5
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2014,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4109.83771484,1089106.9944326002,1121985.69615132
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2014,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3628.804,101606.512,97977.708
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2014,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,44.089356,11683.67934,12036.394188
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2014,Buildings,Non-residential,CO2,1,1.0,6259.6,6259.6,6259.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2014,Buildings,Non-residential,CH4,28,27.0,253.54,7099.12,6845.58
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2014,Buildings,Non-residential,N2O,265,273.0,3.2664,865.596,891.7272
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2014,Buildings,Residential,CO2,1,1.0,46905.6,46905.6,46905.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2014,Buildings,Residential,CH4,28,27.0,3960.152,110884.256,106924.104
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2014,Buildings,Residential,N2O,265,273.0,111.8319,29635.4535,30530.1087
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2014,Energy systems,Electricity & heat,CO2,1,1.0,330065.38,330065.38,330065.38
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2014,Energy systems,Electricity & heat,CH4,28,27.0,11.805698,330.559544,318.753846
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2014,Energy systems,Electricity & heat,N2O,265,273.0,2.4617749,652.3703485,672.0645477
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2014,Energy systems,Other (energy systems),CH4,28,27.0,15946.4,446499.2,430552.8
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2014,Energy systems,Other (energy systems),N2O,265,273.0,130.0186,34454.929,35495.0778
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2014,Industry,Cement,CO2,1,1.0,76360.0,76360.0,76360.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2014,Industry,Chemicals,CO2,1,1.0,7883.2204,7883.2204,7883.2204
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2014,Industry,Chemicals,N2O,265,273.0,0.05220655,13.83473575,14.25238815
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2014,Industry,Other (industry),CO2,1,1.0,19361.1,19361.1,19361.1
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2014,Industry,Other (industry),CH4,28,27.0,0.732,20.496,19.764
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2014,Industry,Other (industry),N2O,265,273.0,0.1464,38.796,39.9672
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2014,Industry,Waste,CH4,28,27.0,30726.0867,860330.4276,829604.3409
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2014,Industry,Waste,N2O,265,273.0,153.37,40643.05,41870.01
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2014,Transport,Road,CO2,1,1.0,175392.68,175392.68,175392.68
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2014,Transport,Road,CH4,28,27.0,25.6447253,718.0523084,692.4075831
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2014,Transport,Road,N2O,265,273.0,1.42679312,378.1001768,389.51452176
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2015,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,515.8639533,14444.1906924,13928.3267391
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2015,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,13.37424798,3544.1757147,3651.16969854
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2015,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,103851.0,2907828.0,2803977.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2015,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4126.37880784,1093490.3840776,1126501.4145403202
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2015,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3646.7831,102109.9268,98463.1437
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2015,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,44.120362,11691.89593,12044.858826
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2015,Buildings,Non-residential,CO2,1,1.0,6259.6,6259.6,6259.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2015,Buildings,Non-residential,CH4,28,27.0,259.54,7267.120000000001,7007.580000000001
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2015,Buildings,Non-residential,N2O,265,273.0,3.3464,886.796,913.5672
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2015,Buildings,Residential,CO2,1,1.0,46905.6,46905.6,46905.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2015,Buildings,Residential,CH4,28,27.0,4022.696,112635.488,108612.792
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2015,Buildings,Residential,N2O,265,273.0,113.2239,30004.3335,30910.1247
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2015,Energy systems,Electricity & heat,CO2,1,1.0,339516.61,339516.61,339516.61
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2015,Energy systems,Electricity & heat,CH4,28,27.0,12.153294,340.292232,328.138938
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2015,Energy systems,Electricity & heat,N2O,265,273.0,2.5331921,671.2959065,691.5614433
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2015,Energy systems,Other (energy systems),CH4,28,27.0,16327.7,457175.6,440847.9
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2015,Energy systems,Other (energy systems),N2O,265,273.0,133.0442,35256.713,36321.0666
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2015,Industry,Cement,CO2,1,1.0,70800.0,70800.0,70800.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2015,Industry,Chemicals,CO2,1,1.0,4221.129,4221.129,4221.129
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2015,Industry,Chemicals,N2O,265,273.0,0.05331678,14.1289467,14.55548094
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2015,Industry,Other (industry),CO2,1,1.0,19361.1,19361.1,19361.1
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2015,Industry,Other (industry),CH4,28,27.0,0.732,20.496,19.764
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2015,Industry,Other (industry),N2O,265,273.0,0.1464,38.796,39.9672
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2015,Industry,Waste,CH4,28,27.0,31467.9315,881102.0819999999,849634.1505
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2015,Industry,Waste,N2O,265,273.0,158.1612,41912.718,43178.0076
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2015,Transport,Road,CO2,1,1.0,178653.675,178653.675,178653.675
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2015,Transport,Road,CH4,28,27.0,25.8135949,722.7806572,696.9670623
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2015,Transport,Road,N2O,265,273.0,1.44068666,381.7819649,393.30745818
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2016,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,522.2193413,14622.1415564,14099.9222151
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2016,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,13.53901395,3587.83869675,3696.15080835
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2016,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,105206.8,2945790.4,2840583.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2016,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4183.85349304,1108721.1756556,1142192.00359992
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2016,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3688.4284,103275.9952,99587.5668
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2016,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,44.613722,11822.63633,12179.546106000002
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2016,Buildings,Non-residential,CO2,1,1.0,6259.6,6259.6,6259.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2016,Buildings,Non-residential,CH4,28,27.0,264.04,7393.120000000001,7129.080000000001
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2016,Buildings,Non-residential,N2O,265,273.0,3.4064,902.696,929.9472
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2016,Buildings,Residential,CO2,1,1.0,46905.6,46905.6,46905.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2016,Buildings,Residential,CH4,28,27.0,4125.702,115519.656,111393.954
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2016,Buildings,Residential,N2O,265,273.0,115.2019,30528.5035,31450.1187
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2016,Energy systems,Electricity & heat,CO2,1,1.0,345877.3,345877.3,345877.3
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2016,Energy systems,Electricity & heat,CH4,28,27.0,12.388926,346.889928,334.501002
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2016,Energy systems,Electricity & heat,N2O,265,273.0,2.5817006,684.150659,704.8042638000001
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2016,Energy systems,Other (energy systems),CH4,28,27.0,16612.9,465161.20000000007,448548.3000000001
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2016,Energy systems,Other (energy systems),N2O,265,273.0,135.6329,35942.7185,37027.7817
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2016,Industry,Cement,CO2,1,1.0,80476.6,80476.6,80476.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2016,Industry,Chemicals,CO2,1,1.0,4325.5566,4325.5566,4325.5566
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2016,Industry,Chemicals,N2O,265,273.0,0.05450115,14.44280475,14.87881395
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2016,Industry,Other (industry),CO2,1,1.0,19361.1,19361.1,19361.1
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2016,Industry,Other (industry),CH4,28,27.0,0.732,20.496,19.764
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2016,Industry,Other (industry),N2O,265,273.0,0.1464,38.796,39.9672
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2016,Industry,Waste,CH4,28,27.0,32225.2763,902307.7364,870082.4601
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2016,Industry,Waste,N2O,265,273.0,164.4888,43589.532,44905.4424
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2016,Transport,Road,CO2,1,1.0,181839.733,181839.733,181839.733
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2016,Transport,Road,CH4,28,27.0,25.9786472,727.4021216,701.4234744
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2016,Transport,Road,N2O,265,273.0,1.45426529,385.38030185,397.01442417
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2017,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,521.1093516,14591.0618448,14069.9524932
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2017,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,13.51023822,3580.2131283,3688.29503406
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2017,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,105050.05,2941401.4,2836351.35
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2017,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4171.31429624,1105398.2885035998,1138768.80287352
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2017,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3685.8565,103203.982,99518.1255
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2017,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,44.485899,11788.763235,12144.650427
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2017,Buildings,Non-residential,CO2,1,1.0,8571.0,8571.0,8571.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2017,Buildings,Non-residential,CH4,28,27.0,277.65,7774.199999999999,7496.549999999999
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2017,Buildings,Non-residential,N2O,265,273.0,3.594,952.41,981.162
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2017,Buildings,Residential,CO2,1,1.0,48723.7,48723.7,48723.7
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2017,Buildings,Residential,CH4,28,27.0,4082.336,114305.408,110223.072
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2017,Buildings,Residential,N2O,265,273.0,115.295,30553.175,31475.535
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2017,Energy systems,Electricity & heat,CO2,1,1.0,363106.6,363106.6,363106.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2017,Energy systems,Electricity & heat,CH4,28,27.0,13.005334,364.149352,351.144018
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2017,Energy systems,Electricity & heat,N2O,265,273.0,2.7102365,718.2126725,739.8945645
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2017,Energy systems,Other (energy systems),CH4,28,27.0,17440.6,488336.79999999993,470896.2
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2017,Energy systems,Other (energy systems),N2O,265,273.0,140.7904,37309.456,38435.7792
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2017,Industry,Cement,CO2,1,1.0,84017.0,84017.0,84017.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2017,Industry,Chemicals,CO2,1,1.0,4432.3742,4432.3742,4432.3742
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2017,Industry,Chemicals,N2O,265,273.0,0.05575713,14.77563945,15.22169649
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2017,Industry,Other (industry),CO2,1,1.0,21555.9,21555.9,21555.9
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2017,Industry,Other (industry),CH4,28,27.0,0.81,22.68,21.87
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2017,Industry,Other (industry),N2O,265,273.0,0.162,42.93,44.226
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2017,Industry,Waste,CH4,28,27.0,33016.6384,924465.8752,891449.2368000001
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2017,Industry,Waste,N2O,265,273.0,168.6,44679.0,46027.8
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2017,Transport,Road,CO2,1,1.0,190923.228,190923.228,190923.228
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2017,Transport,Road,CH4,28,27.0,27.2624143,763.3476004,736.0851861
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2017,Transport,Road,N2O,265,273.0,1.52633416,404.4785524,416.68922568
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2018,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,531.2878345,14876.059366,14344.7715315
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2018,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,13.7741378,3650.146517,3760.3396194
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2018,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,105506.2,2954173.6,2848667.4
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2018,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4185.4512824,1109144.589836,1142628.2000952
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2018,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3703.2301,103690.4428,99987.2127
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2018,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,44.550372,11805.848580000002,12162.251556
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2018,Buildings,Non-residential,CO2,1,1.0,9557.5,9557.5,9557.5
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2018,Buildings,Non-residential,CH4,28,27.0,277.782361,7777.906107999999,7500.123747
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2018,Buildings,Non-residential,N2O,265,273.0,3.6019417,954.5145505,983.3300841
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2018,Buildings,Residential,CO2,1,1.0,54331.65,54331.65,54331.65
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2018,Buildings,Residential,CH4,28,27.0,4091.68359,114567.14052,110475.45693
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2018,Buildings,Residential,N2O,265,273.0,116.1642466,30783.525349,31712.8393218
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2018,Energy systems,Electricity & heat,CO2,1,1.0,404897.6,404897.6,404897.6
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2018,Energy systems,Electricity & heat,CH4,28,27.0,14.502194,406.061432,391.559238
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2018,Energy systems,Electricity & heat,N2O,265,273.0,3.0221778,800.877117,825.0545394000001
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2018,Energy systems,Other (energy systems),CH4,28,27.0,17968.9,503129.20000000007,485160.3000000001
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2018,Energy systems,Other (energy systems),N2O,265,273.0,147.8566,39181.999,40364.8518
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2018,Industry,Cement,CO2,1,1.0,111326.0,111326.0,111326.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2018,Industry,Chemicals,CO2,1,1.0,4541.6568,4541.6568,4541.6568
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2018,Industry,Chemicals,N2O,265,273.0,0.05706745,15.12287425,15.57941385
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2018,Industry,Other (industry),CO2,1,1.0,23985.83,23985.83,23985.83
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2018,Industry,Other (industry),CH4,28,27.0,0.903227,25.290356,24.387129
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2018,Industry,Other (industry),N2O,265,273.0,0.1806454,47.871031,49.316194200000005
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2018,Industry,Waste,CH4,28,27.0,33837.7903,947458.1284,913620.3381
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2018,Industry,Waste,N2O,265,273.0,172.5613,45728.74449999999,47109.2349
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2018,Transport,Road,CO2,1,1.0,212897.143,212897.143,212897.143
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2018,Transport,Road,CH4,28,27.0,30.4001771,851.2049588,820.8047817
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2018,Transport,Road,N2O,265,273.0,1.70200839,451.03222335,464.64829047
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2019,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,531.2878345,14876.059366,14344.7715315
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2019,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,13.7741378,3650.146517,3760.3396194
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2019,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,106077.14355812,2970160.01962736,2864082.8760692403
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2019,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4186.28062800703,1109364.366421863,1142854.6114459191
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2019,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3722.57945791533,104232.22482162924,100509.6453637139
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2019,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,44.672193326704,11838.13123157656,12195.508778190191
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2019,Buildings,Non-residential,CO2,1,1.0,9972.18,9972.18,9972.18
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2019,Buildings,Non-residential,CH4,28,27.0,288.228340544182,8070.393535237096,7782.165194692914
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2019,Buildings,Non-residential,N2O,265,273.0,3.74242548560919,991.7427536864352,1021.682157571309
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2019,Buildings,Residential,CO2,1,1.0,56689.08,56689.08,56689.08
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2019,Buildings,Residential,CH4,28,27.0,4185.92396851093,117205.87111830604,113019.9471497951
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2019,Buildings,Residential,N2O,265,273.0,118.841002677477,31492.865709531405,32443.59373095122
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2019,Energy systems,Electricity & heat,CO2,1,1.0,422465.0,422465.0,422465.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2019,Energy systems,Electricity & heat,CH4,28,27.0,14.9259800084303,417.9274402360484,403.00146022761805
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2019,Energy systems,Electricity & heat,N2O,265,273.0,3.11049248304925,824.2805080080514,849.1644478724453
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2019,Energy systems,Other (energy systems),CH4,28,27.0,18857.8845603233,528020.7676890524,509162.88312872907
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2019,Energy systems,Other (energy systems),N2O,265,273.0,152.390208110818,40383.40514936677,41602.52681425332
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2019,Industry,Cement,CO2,1,1.0,112605.0,112605.0,112605.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2019,Industry,Chemicals,CO2,1,1.0,4642.6387,4642.6387,4642.6387
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2019,Industry,Chemicals,N2O,265,273.0,0.0581273470253797,15.40374696172562,15.868765737928658
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2019,Industry,Other (industry),CO2,1,1.0,25043.908,25043.908,25043.908
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2019,Industry,Other (industry),CH4,28,27.0,0.92962308030636,26.02944624857808,25.09982316827172
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2019,Industry,Other (industry),N2O,265,273.0,0.185924616061272,49.27002325623708,50.75742018472726
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2019,Industry,Waste,CH4,28,27.0,34564.0812382638,967794.2746713863,933230.1934331228
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2019,Industry,Waste,N2O,265,273.0,175.766334289805,46578.07858679833,47984.20926111677
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2019,Transport,Road,CO2,1,1.0,222135.138,222135.138,222135.138
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2019,Transport,Road,CH4,28,27.0,31.288617661784,876.081294529952,844.792676868168
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2019,Transport,Road,N2O,265,273.0,1.75174932687673,464.2135716223334,478.2275662373473
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2020,Buildings,Non-residential,CO2,1,1.0,8233.78,8233.78,8233.78
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2020,Buildings,Residential,CO2,1,1.0,46806.66,46806.66,46806.66
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2020,Energy systems,Electricity & heat,CO2,1,1.0,348819.42,348819.42,348819.42
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2020,Industry,Cement,CO2,1,1.0,113885.0,113885.0,113885.0
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2020,Industry,Chemicals,CO2,1,1.0,4745.8787,4745.8787,4745.8787
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2020,Industry,Other (industry),CO2,1,1.0,20904.77,20904.77,20904.77
+ERI,Eritrea,Africa,Africa,Eastern Africa,ldc,2020,Transport,Road,CO2,1,1.0,183411.166,183411.166,183411.166

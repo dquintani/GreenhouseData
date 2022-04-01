@@ -1,0 +1,441 @@
+code,name,region_ar6_6,region_ar6_10,region_ar6_22,region_ar6_dev,year,sector_title,subsector_title,gas,gwp100_ar5,gwp100_ar6,value_native,value_ar5,value_ar6
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1970,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.03297281,0.92323868,0.8902658699999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1970,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000854851,0.226535515,0.233374323
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1970,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,20.964,586.992,566.028
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1970,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.07284689,284.30442585000003,292.88720097000004
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1970,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,20.2159997,566.0479916,545.8319919
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1970,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.130423319,34.562179535000006,35.605566087
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1970,Industry,Waste,CH4,28,27.0,24.584967133,688.379079724,663.7941125909999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1971,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.03466022,0.97048616,0.93582594
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1971,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000898598,0.23812847,0.245317254
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1971,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,25.3172,708.8815999999999,683.5644
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1971,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.2280119,325.4231535,335.2472487
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1971,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,21.976,615.328,593.352
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1971,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.147986252,39.216356780000005,40.400246796000005
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1971,Industry,Waste,CH4,28,27.0,6.96534986,195.02979608,188.06444622
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1972,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.03466022,0.97048616,0.93582594
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1972,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000898598,0.23812847,0.245317254
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1972,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,25.452,712.6560000000001,687.2040000000001
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1972,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.22599012,324.8873818,334.69530276
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1972,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,21.0068239,588.1910692,567.1842453
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1972,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.144612403,38.322286795,39.479186019
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1972,Industry,Waste,CH4,28,27.0,6.653097734,186.286736552,179.633638818
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1973,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.03481704,0.97487712,0.94006008
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1973,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000902664,0.23920596,0.246427272
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1973,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,42.52,1190.5600000000002,1148.0400000000002
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1973,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.78705882,473.5705873,487.86705786
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1973,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,21.21,593.88,572.6700000000001
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1973,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.178381677,47.271144405,48.698197821
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1973,Industry,Waste,CH4,28,27.0,6.310604354,176.696921912,170.386317558
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1974,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0510856,1.4303968,1.3793112
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1974,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.001324445,0.350977925,0.361573485
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1974,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,42.548,1191.344,1148.796
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1974,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.78045166,471.8196899,486.06330318
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1974,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,20.0200003,560.5600084,540.5400081
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1974,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.173584397,45.999865205,47.388540381
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1974,Industry,Waste,CH4,28,27.0,5.967240123,167.082723444,161.115483321
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1975,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0479365,1.342222,1.2942855
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1975,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.001242797,0.3293412049999999,0.339283581
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1975,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,44.872,1256.416,1211.544
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1975,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.83832741,487.15676365,501.86338293
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1975,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,18.8699998,528.3599944,509.4899946
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1975,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.172005977,45.581583905,46.957631721
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1975,Industry,Waste,CH4,28,27.0,5.679223862,159.018268136,153.339044274
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1976,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0461895,1.293306,1.2471165
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1976,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.001197504,0.31733856,0.326918592
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1976,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,47.1898,1321.3144,1274.1246
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1976,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.90081616,503.7162824,518.92281168
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1976,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,17.8950003,501.0600084,483.1650081
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1976,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.171313932,45.39819198,46.768703436
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1976,Industry,Waste,CH4,28,27.0,5.465508611,153.034241108,147.56873249699998
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1977,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0548597,1.5360716,1.4812119
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1977,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.001422288,0.37690632,0.388284624
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1977,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,49.9613,1398.9164,1348.9551
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1977,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2.01339566,533.5498499,549.65701518
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1977,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,18.136,507.808,489.672
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1977,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.179102406,47.46213759,48.894956838
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1977,Industry,Waste,CH4,28,27.0,5.326152954,149.132282712,143.806129758
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1978,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0959611,2.6869108,2.5909497
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1978,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.002487878,0.65928767,0.679190694
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1978,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,39.6116,1109.1248,1069.5132
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1978,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.69701462,449.7088743,463.28499126
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1978,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,17.8340002,499.3520056,481.5180054
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1978,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.16465566,43.633749900000005,44.95099518
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1978,Industry,Waste,CH4,28,27.0,5.210006471,145.880181188,140.670174717
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1979,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.09370084,2.62362352,2.52992268
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1979,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00242928,0.6437592,0.6631934399999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1979,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,40.0055,1120.154,1080.1485
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1979,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.70859113,452.77664945,466.44537849
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1979,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,17.8389996,499.49198880000006,481.6529892
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1979,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.16855942,44.6682463,46.01672166
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1979,Industry,Waste,CH4,28,27.0,5.062998598,141.763960744,136.700962146
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1980,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.09370084,2.62362352,2.52992268
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1980,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00242928,0.6437592,0.6631934399999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1980,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,31.373,878.4440000000001,847.071
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1980,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.43100416,379.2161024,390.66413568
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1980,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,17.5800004,492.2400112,474.6600108
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1980,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.155930204,41.32150406,42.568945692
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1980,Industry,Waste,CH4,28,27.0,4.986306304,139.616576512,134.630270208
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1981,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.09370084,2.62362352,2.52992268
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1981,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00242928,0.6437592,0.6631934399999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1981,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,31.5584,883.6351999999999,852.0767999999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1981,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.43724703,380.87046295,392.36843919
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1981,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,17.6899996,495.3199888,477.6299892
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1981,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.15482682,41.0291073,42.26772186
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1981,Industry,Waste,CH4,28,27.0,4.835462062,135.39293773600002,130.55747567400002
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1982,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.09370084,2.62362352,2.52992268
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1982,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00242928,0.6437592,0.6631934399999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1982,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,31.7498,888.9944,857.2446
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1982,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.44310673,382.42328345,393.96813729
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1982,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,17.6899999,495.3199972,477.6299973
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1982,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.15934048,42.2252272,43.49995104
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1982,Industry,Waste,CH4,28,27.0,4.586471732,128.421208496,123.83473676399998
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1983,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.09298545,2.6035926,2.51060715
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1983,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.002410733,0.638844245,0.658130109
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1983,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,31.9632,894.9696,863.0064
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1983,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.44672017,383.38084505,394.95460641
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1983,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,18.2750001,511.7000028,493.4250027
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1983,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.16508267,43.74690755,45.06756891
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1983,Industry,Waste,CH4,28,27.0,4.425281966,123.907895048,119.482613082
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1984,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.09227006,2.58356168,2.49129162
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1984,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.002392186,0.6339292900000001,0.653066778
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1984,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,29.1856,817.1968,788.0112
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1984,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.35465197,358.98277205,369.81998781
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1984,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,18.8100002,526.6800056000001,507.8700054
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1984,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.1638834,43.429101,44.74016820000001
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1984,Industry,Waste,CH4,28,27.0,4.166690978,116.667347384,112.500656406
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1985,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.09155466,2.56353048,2.47197582
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1985,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.002373638,0.62901407,0.648003174
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1985,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,26.32,736.96,710.64
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1985,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.2531141,332.0752365,342.1001493
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1985,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,18.7500003,525.0000084,506.2500081
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1985,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.15885054,42.0953931,43.366197420000006
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1985,Industry,Waste,CH4,28,27.0,3.993852697,111.827875516,107.834022819
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1986,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.09564747,2.67812916,2.58248169
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1986,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.002479751,0.657134015,0.676972023
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1986,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,23.36,654.0799999999999,630.72
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1986,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.15967815,307.31470975,316.59213495
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1986,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,19.2850004,539.9800112,520.6950108000001
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1986,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.15889359,42.10680135,43.37795007
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1986,Industry,Waste,CH4,28,27.0,3.840330965,107.52926702,103.688936055
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1987,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.09767956,2.73502768,2.63734812
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1987,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.002532432,0.6710944799999999,0.691353936
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1987,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,20.37,570.36,549.99
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1987,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.04932812,278.0719518,286.46657676
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1987,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,19.4529996,544.6839888,525.2309892
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1987,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.15397914,40.8044721,42.03630522
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1987,Industry,Waste,CH4,28,27.0,3.703220345,103.69016966,99.986949315
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1988,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.10125387,2.83510836,2.73385449
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1988,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.002625101,0.6956517649999999,0.716652573
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1988,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,17.39,486.92,469.53
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1988,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.95161079,252.17685935,259.78974567
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1988,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,19.7499998,552.9999944,533.2499946
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1988,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.150796,39.96094,41.167308000000006
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1988,Industry,Waste,CH4,28,27.0,3.5883230705,100.473045974,96.8847229035
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1989,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.10561752,2.95729056,2.85167304
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1989,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00273823,0.72563095,0.74753679
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1989,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,14.407,403.396,388.989
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1989,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.85442984,226.4239076,233.25934632
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1989,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,20.01129893,560.3163700399999,540.30507111
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1989,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.14793156,39.2018634,40.38531588
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1989,Industry,Waste,CH4,28,27.0,3.4819206132,97.4937771696,94.0118565564
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1990,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.12926972,3.61955216,3.49028244
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1990,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.003351436,0.88813054,0.914942028
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1990,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,9.1639,256.5892,247.4253
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1990,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.7139301,189.1914765,194.9029173
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1990,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,21.40791698,599.42167544,578.01375846
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1990,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.152205324,40.33441086,41.552053452
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1990,Buildings,Residential,CH4,28,27.0,0.0236,0.6607999999999999,0.6372
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1990,Buildings,Residential,N2O,265,273.0,0.000118,0.03127,0.032214
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1990,Energy systems,Other (energy systems),N2O,265,273.0,0.0002719671,0.0720712815,0.0742470183
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1990,Industry,Waste,CH4,28,27.0,3.39083083,94.94326324,91.55243241
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1991,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.10560202,2.9568565600000003,2.85125454
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1991,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.002737825,0.725523625,0.747426225
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1991,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,9.3246,261.0888,251.7642
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1991,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.70694187,187.33959555,192.99513051
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1991,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,21.76876399,609.52539172,587.75662773
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1991,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.15393283,40.79219995,42.02366259
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1991,Buildings,Residential,CH4,28,27.0,0.0236,0.6607999999999999,0.6372
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1991,Buildings,Residential,N2O,265,273.0,0.000118,0.03127,0.032214
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1991,Energy systems,Other (energy systems),N2O,265,273.0,0.0002719671,0.0720712815,0.0742470183
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1991,Industry,Waste,CH4,28,27.0,3.33253234,93.31090552,89.97837318
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1992,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.10770538,3.0157506400000003,2.90804526
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1992,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.002792366,0.7399769900000001,0.762315918
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1992,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,9.3546,261.9288,252.5742
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1992,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.71385889,189.17260585,194.88347697
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1992,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,22.00499999,616.1399997200001,594.13499973
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1992,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.15781135,41.82000775,43.08249855
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1992,Buildings,Residential,CH4,28,27.0,0.118,3.304,3.186
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1992,Buildings,Residential,N2O,265,273.0,0.00059,0.15635,0.16107
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1992,Energy systems,Other (energy systems),N2O,265,273.0,0.001359836,0.3603565399999999,0.371235228
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1992,Industry,Waste,CH4,28,27.0,3.33268059,93.31505652,89.98237592999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1993,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.10919308,3.05740624,2.94821316
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1993,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.002830934,0.7501975099999999,0.772844982
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1993,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,9.3546,261.9288,252.5742
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1993,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.71789328,190.2417192,195.98486544
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1993,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,22.00500001,616.14000028,594.13500027
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1993,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.15716147,41.64778955,42.90508131
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1993,Buildings,Residential,CH4,28,27.0,0.0236,0.6607999999999999,0.6372
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1993,Buildings,Residential,N2O,265,273.0,0.000118,0.03127,0.032214
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1993,Energy systems,Other (energy systems),N2O,265,273.0,0.0002719671,0.0720712815,0.0742470183
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1993,Industry,Waste,CH4,28,27.0,3.30661458,92.58520824,89.27859366
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1994,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.11196918,3.13513704,3.02316786
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1994,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.002902905,0.769269825,0.7924930649999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1994,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,9.4546,264.7288,255.2742
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1994,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.74047468,196.2257902,202.14958764
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1994,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,23.19500002,649.4600005599999,626.26500054
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1994,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.16716242,44.2980413,45.63534066
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1994,Buildings,Residential,CH4,28,27.0,0.0236,0.6607999999999999,0.6372
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1994,Buildings,Residential,N2O,265,273.0,0.000118,0.03127,0.032214
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1994,Energy systems,Other (energy systems),N2O,265,273.0,0.0002719671,0.0720712815,0.0742470183
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1994,Industry,Waste,CH4,28,27.0,3.26510036,91.42281008,88.15770972
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1995,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.04480476,1.25453328,1.20972852
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1995,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0011616055,0.3078254575,0.3171183015
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1995,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,9.4546,264.7288,255.2742
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1995,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.75126944,199.0864016,205.09655712
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1995,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,23.19500003,649.46000084,626.26500081
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1995,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.17087556,45.2820234,46.649027880000006
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1995,Buildings,Residential,CH4,28,27.0,0.0236,0.6607999999999999,0.6372
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1995,Buildings,Residential,N2O,265,273.0,0.000118,0.03127,0.032214
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1995,Energy systems,Other (energy systems),N2O,265,273.0,0.0002719671,0.0720712815,0.0742470183
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1995,Industry,Waste,CH4,28,27.0,3.2139377,89.9902556,86.7763179
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1996,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.04482176,1.25500928,1.21018752
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1996,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0011620465,0.3079423225,0.3172386945
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1996,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,9.4546,264.7288,255.2742
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1996,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.77006933,204.06837245,210.22892709
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1996,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,23.21500005,650.0200014,626.80500135
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1996,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.17272788,45.7728882,47.15471124
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1996,Buildings,Residential,CH4,28,27.0,0.0236,0.6607999999999999,0.6372
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1996,Buildings,Residential,N2O,265,273.0,0.000118,0.03127,0.032214
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1996,Energy systems,Other (energy systems),N2O,265,273.0,0.0002719671,0.0720712815,0.0742470183
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1996,Industry,Waste,CH4,28,27.0,3.15556973,88.35595244,85.20038271
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1997,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.04511368,1.26318304,1.21806936
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1997,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0011696145,0.3099478425,0.3193047585
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1997,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,9.4546,264.7288,255.2742
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1997,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.77173249,204.50910985,210.68296977
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1997,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,23.21499996,650.01999888,626.80499892
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1997,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.1749356,46.357934,47.7574188
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1997,Buildings,Residential,CH4,28,27.0,0.0236,0.6607999999999999,0.6372
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1997,Buildings,Residential,N2O,265,273.0,0.000118,0.03127,0.032214
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1997,Energy systems,Other (energy systems),N2O,265,273.0,0.0002719671,0.0720712815,0.0742470183
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1997,Industry,Waste,CH4,28,27.0,3.08647692,86.42135376,83.33487683999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1998,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.04512508,1.26350224,1.21837716
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1998,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0011699085,0.3100257525,0.3193850205
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1998,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,9.4546,264.7288,255.2742
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1998,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.77278829,204.78889685,210.97120317
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1998,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,23.21499997,650.01999916,626.80499919
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1998,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.17651219,46.77573035,48.18782787000001
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1998,Buildings,Residential,CH4,28,27.0,0.0236,0.6607999999999999,0.6372
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1998,Buildings,Residential,N2O,265,273.0,0.000118,0.03127,0.032214
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1998,Energy systems,Other (energy systems),N2O,265,273.0,0.0002719671,0.0720712815,0.0742470183
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1998,Industry,Waste,CH4,28,27.0,3.02201728,84.61648384,81.59446656
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1999,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.04513096,1.26366688,1.21853592
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1999,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0011700615,0.3100662975,0.3194267895
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1999,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,9.4546,264.7288,255.2742
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1999,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.77298793,204.84180145,211.02570489
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1999,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,23.21499999,650.01999972,626.80499973
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1999,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.17742105,47.01657825,48.43594665
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1999,Buildings,Residential,CH4,28,27.0,0.0236,0.6607999999999999,0.6372
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1999,Buildings,Residential,N2O,265,273.0,0.000118,0.03127,0.032214
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1999,Energy systems,Other (energy systems),N2O,265,273.0,0.0002719671,0.0720712815,0.0742470183
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1999,Industry,Waste,CH4,28,27.0,2.93560409,82.19691452,79.26131043
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2000,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.04514797,1.2641431600000002,1.21899519
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2000,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0011705033,0.3101833745,0.3195474009
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2000,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,9.4546,264.7288,255.2742
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2000,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.77423762,205.1729693,211.36687026
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2000,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,23.215,650.02,626.805
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2000,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.17931951,47.51967015,48.95422623
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2000,Buildings,Residential,CH4,28,27.0,0.0236,0.6607999999999999,0.6372
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2000,Buildings,Residential,N2O,265,273.0,0.000118,0.03127,0.032214
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2000,Energy systems,Other (energy systems),N2O,265,273.0,0.0002719671,0.0720712815,0.0742470183
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2000,Industry,Waste,CH4,28,27.0,2.86374215,80.1847802,77.32103805
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2001,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.04543412,1.27215536,1.22672124
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2001,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0011779205,0.3121489325,0.3215722965
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2001,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,9.5546,267.52880000000005,257.9742
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2001,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.82105189,217.57875085,224.14716597
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2001,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,24.435,684.18,659.745
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2001,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.18996724,50.3413186,51.861056520000005
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2001,Buildings,Residential,CH4,28,27.0,0.0236,0.6607999999999999,0.6372
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2001,Buildings,Residential,N2O,265,273.0,0.000118,0.03127,0.032214
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2001,Energy systems,Other (energy systems),N2O,265,273.0,0.0002719671,0.0720712815,0.0742470183
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2001,Industry,Waste,CH4,28,27.0,2.81443602,78.80420856,75.98977254
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2002,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.04572592,1.2803257600000002,1.23459984
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2002,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0011854875,0.3141541875,0.3236380875
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2002,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,9.5546,267.52880000000005,257.9742
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2002,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.82216127,217.87273655,224.45002671
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2002,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,24.435,684.18,659.745
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2002,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.19068511,50.53155415,52.05703503
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2002,Buildings,Residential,CH4,28,27.0,0.0236,0.6607999999999999,0.6372
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2002,Buildings,Residential,N2O,265,273.0,0.000118,0.03127,0.032214
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2002,Energy systems,Other (energy systems),N2O,265,273.0,0.0002719671,0.0720712815,0.0742470183
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2002,Industry,Waste,CH4,28,27.0,2.74926545,76.97943260000001,74.23016715
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2003,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.04545702,1.27279656,1.22733954
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2003,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0011785155,0.3123066075,0.3217347315
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2003,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,9.5546,267.52880000000005,257.9742
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2003,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.82131388,217.6481782,224.21868924
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2003,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,24.435,684.18,659.745
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2003,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.19129905,50.69424825,52.22464065
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2003,Buildings,Residential,CH4,28,27.0,0.0177,0.4956,0.4779
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2003,Buildings,Residential,N2O,265,273.0,8.85e-05,0.0234524999999999,0.0241604999999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2003,Energy systems,Other (energy systems),N2O,265,273.0,0.0002039748,0.054053322,0.0556851203999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2003,Industry,Waste,CH4,28,27.0,2.70363928,75.70189984,72.99826056
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2004,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.04576034,1.2812895199999998,1.23552918
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2004,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0011863784,0.314390276,0.3238813032
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2004,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,9.5546,267.52880000000005,257.9742
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2004,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.82173526,217.7598439,224.33372598
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2004,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,24.435,684.18,659.745
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2004,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.1903549,50.4440485,51.9668877
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2004,Buildings,Residential,CH4,28,27.0,0.0177,0.4956,0.4779
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2004,Buildings,Residential,N2O,265,273.0,8.85e-05,0.0234524999999999,0.0241604999999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2004,Energy systems,Other (energy systems),N2O,265,273.0,0.0002039748,0.054053322,0.0556851203999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2004,Industry,Waste,CH4,28,27.0,2.64680682,74.11059096,71.46378414
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2005,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.04655601,1.30356828,1.2570122700000002
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2005,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0012070054,0.319856431,0.3295124742
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2005,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,9.6688,270.7264,261.0576
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2005,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.84105927,222.88070655,229.60918071
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2005,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,25.625,717.5,691.875
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2005,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.19940435,52.84215275,54.43738755
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2005,Buildings,Residential,CH4,28,27.0,0.0177,0.4956,0.4779
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2005,Buildings,Residential,N2O,265,273.0,8.85e-05,0.0234524999999999,0.0241604999999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2005,Energy systems,Other (energy systems),N2O,265,273.0,0.0002039748,0.054053322,0.0556851203999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2005,Industry,Waste,CH4,28,27.0,2.59827789,72.75178092,70.15350303
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2006,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.04687643,1.31254004,1.2656636099999998
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2006,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0012153146,0.322058369,0.3317808858
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2006,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,9.62008,269.36224,259.74216
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2006,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.84334863,223.48738695,230.23417599
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2006,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,25.624,717.472,691.848
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2006,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.19925099,52.80151235,54.39552027
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2006,Buildings,Residential,CH4,28,27.0,0.0177,0.4956,0.4779
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2006,Buildings,Residential,N2O,265,273.0,8.85e-05,0.0234524999999999,0.0241604999999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2006,Energy systems,Other (energy systems),N2O,265,273.0,0.0002039748,0.054053322,0.0556851203999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2006,Industry,Waste,CH4,28,27.0,2.57093788,71.98626064,69.41532276
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2007,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.04784324,1.33961072,1.29176748
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2007,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00124038,0.3287006999999999,0.3386237399999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2007,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,9.9604,278.8912,268.9308
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2007,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.87079537,230.76077305,237.72713601
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2007,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,26.905,753.34,726.4350000000001
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2007,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.208172407,55.165687855,56.831067111
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2007,Buildings,Residential,CH4,28,27.0,0.0177,0.4956,0.4779
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2007,Buildings,Residential,N2O,265,273.0,8.85e-05,0.0234524999999999,0.0241604999999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2007,Energy systems,Other (energy systems),N2O,265,273.0,0.0002039748,0.054053322,0.0556851203999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2007,Industry,Waste,CH4,28,27.0,2.57596429,72.12700011999999,69.55103583
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2008,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.04722509,1.32230252,1.2750774299999998
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2008,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.001224353,0.324453545,0.334248369
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2008,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,9.79508,274.26224,264.46716000000004
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2008,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.8650501,229.2382765,236.1586773
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2008,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,26.707937,747.822236,721.1142990000001
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2008,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.20763987,55.02456555,56.68568451
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2008,Buildings,Residential,CH4,28,27.0,0.0177,0.4956,0.4779
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2008,Buildings,Residential,N2O,265,273.0,8.85e-05,0.0234524999999999,0.0241604999999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2008,Energy systems,Other (energy systems),N2O,265,273.0,0.0002039748,0.054053322,0.0556851203999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2008,Industry,Waste,CH4,28,27.0,2.54796083,71.34290324,68.79494241
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2009,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0472481,1.3229468,1.2756987
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2009,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0012249509,0.3246119885,0.3344115956999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2009,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,9.78784,274.05952,264.27168
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2009,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.87110905,230.84389825,237.81277065
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2009,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,26.491824,741.771072,715.279248
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2009,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.20668811,54.77234915,56.42585403
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2009,Buildings,Residential,CH4,28,27.0,0.0177,0.4956,0.4779
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2009,Buildings,Residential,N2O,265,273.0,8.85e-05,0.0234524999999999,0.0241604999999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2009,Energy systems,Other (energy systems),N2O,265,273.0,0.0002039748,0.054053322,0.0556851203999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2009,Industry,Waste,CH4,28,27.0,2.52642236,70.73982608,68.21340372
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2010,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0472594,1.3232632,1.2760038
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2010,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0012252429,0.3246893684999999,0.3344913117
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2010,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,9.8206,274.9768,265.1562
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2010,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.87120826,230.8701889,237.83985498
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2010,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,26.741691,748.767348,722.025657
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2010,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.20858922,55.2761433,56.94485706
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2010,Buildings,Residential,CH4,28,27.0,0.0177,0.4956,0.4779
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2010,Buildings,Residential,N2O,265,273.0,8.85e-05,0.0234524999999999,0.0241604999999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2010,Energy systems,Other (energy systems),N2O,265,273.0,0.0002039748,0.054053322,0.0556851203999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2010,Industry,Waste,CH4,28,27.0,2.55056687,71.41587236,68.86530549
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2011,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0470018,1.3160504000000002,1.2690486
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2011,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0012185629,0.3229191684999999,0.3326676717
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2011,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,9.82028,274.96784,265.14756
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2011,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.87868008,232.8502212,239.87966184
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2011,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,26.977784,755.377952,728.400168
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2011,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.21107659,55.93529635,57.62390907
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2011,Buildings,Residential,CH4,28,27.0,0.0177,0.4956,0.4779
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2011,Buildings,Residential,N2O,265,273.0,8.85e-05,0.0234524999999999,0.0241604999999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2011,Energy systems,Other (energy systems),N2O,265,273.0,0.0002039748,0.054053322,0.0556851203999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2011,Industry,Waste,CH4,28,27.0,2.553665884,71.502644752,68.948978868
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2012,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.04701884,1.31652752,1.26950868
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2012,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.001219004,0.32303606,0.332788092
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2012,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,9.81996,274.95888,265.13892
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2012,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.8840998,234.286447,241.3592454
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2012,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,27.203897,761.709116,734.505219
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2012,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.21279575,56.39087375,58.09323975
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2012,Buildings,Residential,CH4,28,27.0,0.0177,0.4956,0.4779
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2012,Buildings,Residential,N2O,265,273.0,8.85e-05,0.0234524999999999,0.0241604999999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2012,Energy systems,Other (energy systems),N2O,265,273.0,0.0002039748,0.054053322,0.0556851203999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2012,Industry,Waste,CH4,28,27.0,2.552551672,71.471446816,68.918895144
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2013,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.04733369,1.32534332,1.27800963
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2013,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0012271727,0.3252007655,0.3350181471
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2013,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,9.81964,274.94992,265.13028
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2013,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.88992617,235.83043505,242.94984441
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2013,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,27.43,768.04,740.61
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2013,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.21451482,56.8464273,58.56254586
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2013,Buildings,Residential,CH4,28,27.0,0.0177,0.4956,0.4779
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2013,Buildings,Residential,N2O,265,273.0,8.85e-05,0.0234524999999999,0.0241604999999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2013,Energy systems,Other (energy systems),N2O,265,273.0,0.0002039748,0.054053322,0.0556851203999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2013,Industry,Waste,CH4,28,27.0,2.55544349,71.55241772,68.99697423
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2014,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0470645,1.317806,1.2707415
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2014,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0012201885,0.3233499525,0.3331114605
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2014,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,9.82356,275.05968,265.23612
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2014,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.89569436,237.3590054,244.52456028
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2014,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,27.749545,776.98726,749.237715
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2014,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.216630979,57.407209435,59.140257267
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2014,Buildings,Residential,CH4,28,27.0,0.0177,0.4956,0.4779
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2014,Buildings,Residential,N2O,265,273.0,8.85e-05,0.0234524999999999,0.0241604999999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2014,Energy systems,Other (energy systems),N2O,265,273.0,0.0002039748,0.054053322,0.0556851203999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2014,Industry,Waste,CH4,28,27.0,2.551403588,71.439300464,68.887896876
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2015,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.04650925,1.302259,1.25574975
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2015,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0012057955,0.3195358075,0.3291821714999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2015,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,9.8277,275.17560000000003,265.3479
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2015,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.90285402,239.2563153,246.47914746
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2015,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,28.033156,784.9283680000001,756.895212
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2015,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.219480439,58.162316335,59.918159847
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2015,Buildings,Residential,CH4,28,27.0,0.0177,0.4956,0.4779
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2015,Buildings,Residential,N2O,265,273.0,8.85e-05,0.0234524999999999,0.0241604999999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2015,Energy systems,Other (energy systems),N2O,265,273.0,0.0002039748,0.054053322,0.0556851203999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2015,Industry,Waste,CH4,28,27.0,2.57813698,72.18783544,69.60969846
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2016,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0465151,1.3024228,1.2559076999999998
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2016,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0012059465,0.3195758225,0.3292233945
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2016,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,9.8417,275.5676,265.7259
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2016,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.9081191,240.6515615,247.9165143
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2016,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,28.199784,789.5939520000001,761.394168
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2016,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.220747579,58.498108435,60.264089067
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2016,Buildings,Residential,CH4,28,27.0,0.0236,0.6607999999999999,0.6372
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2016,Buildings,Residential,N2O,265,273.0,0.000118,0.03127,0.032214
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2016,Energy systems,Other (energy systems),N2O,265,273.0,0.0002719671,0.0720712815,0.0742470183
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2016,Industry,Waste,CH4,28,27.0,2.570856296,71.98397628800001,69.413119992
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2017,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0462459,1.2948852,1.2486393
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2017,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0011989675,0.3177263875,0.3273181275
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2017,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,9.8607,276.0996,266.2389
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2017,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.91341564,242.0551446,249.36246972
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2017,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,28.425897,795.925116,767.4992189999999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2017,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.222466649,58.953661985,60.733395177
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2017,Buildings,Residential,CH4,28,27.0,0.0236,0.6607999999999999,0.6372
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2017,Buildings,Residential,N2O,265,273.0,0.000118,0.03127,0.032214
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2017,Energy systems,Other (energy systems),N2O,265,273.0,0.0002719671,0.0720712815,0.0742470183
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2017,Industry,Waste,CH4,28,27.0,2.568132198,71.90770154399999,69.33956934599999
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2018,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0459827,1.2875156,1.2415329
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2018,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0011921434,0.315918001,0.3254551482
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2018,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,9.8797,276.6316,266.7519
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2018,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.91397846,242.2042919,249.51611958
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2018,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,28.652,802.2560000000001,773.604
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2018,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.224185809,59.40923938500001,61.202725857
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2018,Buildings,Residential,CH4,28,27.0,0.0295,0.826,0.7965
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2018,Buildings,Residential,N2O,265,273.0,0.0001475,0.0390875,0.0402675
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2018,Energy systems,Other (energy systems),N2O,265,273.0,0.0003399585,0.0900890025,0.0928086705
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2018,Industry,Waste,CH4,28,27.0,2.582061286,72.29771600800001,69.715654722
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2019,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0458958085390976,1.285082639094733,1.2391868305556353
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2019,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0011898924336288,0.3153214949116559,0.324840634380687
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2019,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,9.89885313148329,277.16788768153214,267.26903455004884
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2019,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.920113720973931,243.8301360580917,251.19104582588315
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2019,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,28.8825693234747,808.7119410572916,779.829371733817
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2019,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.226122455201735,59.92245062845977,61.73143027007365
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2019,Buildings,Residential,CH4,28,27.0,0.0295,0.826,0.7965
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2019,Buildings,Residential,N2O,265,273.0,0.0001475,0.0390875,0.0402675
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2019,Energy systems,Other (energy systems),N2O,265,273.0,0.0003399585,0.0900890025,0.0928086705
+NIU,Niue,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2019,Industry,Waste,CH4,28,27.0,2.5895742046788,72.5080777310064,69.9185035263276

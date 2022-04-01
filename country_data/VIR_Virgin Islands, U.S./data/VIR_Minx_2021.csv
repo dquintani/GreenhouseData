@@ -1,0 +1,301 @@
+code,name,region_ar6_6,region_ar6_10,region_ar6_22,region_ar6_dev,year,sector_title,subsector_title,gas,gwp100_ar5,gwp100_ar6,value_native,value_ar5,value_ar6
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,541.5305,15162.854,14621.3235
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.270072886,4046.56931479,4168.729897878
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,32.1176047,899.2929316,867.1753269000001
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.96586458,255.9541137,263.68103034
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,Industry,Chemicals,N2O,265,273.0,0.000711986,0.18867629,0.1943721779999999
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,Industry,Waste,CH4,28,27.0,687.372824,19246.439072,18559.066248000003
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,444.977,12459.356,12014.379
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,12.634631482,3348.17734273,3449.254394586
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,29.2037999,817.7063972,788.5025973
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.88550092,234.6577438,241.74175116
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,Industry,Chemicals,N2O,265,273.0,0.000756404,0.20044706,0.206498292
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,Industry,Waste,CH4,28,27.0,756.9025707,21193.2719796,20436.3694089
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,488.1853,13669.1884,13181.0031
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,13.638546927,3614.214935655,3723.323311071
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,31.8146573,890.8104044,858.9957471
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.91280406,241.8930759,249.19550838
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,Industry,Chemicals,N2O,265,273.0,0.000806014,0.21359371,0.220041822
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,Industry,Waste,CH4,28,27.0,815.5569336,22835.5941408,22020.0372072
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,496.74,13908.72,13411.98
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,13.701273727,3630.837537655,3740.447727471
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,32.2124083,901.9474324,869.7350241
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.91786356,243.2338434,250.57675188
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,Industry,Chemicals,N2O,265,273.0,0.000857813,0.227320445,0.234182949
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,Industry,Waste,CH4,28,27.0,878.9620045,24610.936126,23731.9741215
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,509.147,14256.116,13746.969
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,13.962482427,3700.057843155,3811.757702571
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,32.6148473,913.2157244,880.6008771
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.93860096,248.7292544,256.23806208
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,Industry,Chemicals,N2O,265,273.0,0.000907247,0.240420455,0.247678431
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,Industry,Waste,CH4,28,27.0,941.3026222,26356.4734216,25415.1707994
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,524.657,14690.396,14165.739
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,14.43049935,3824.08232775,3939.52632255
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,33.3333346,933.3333688,900.0000342000001
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.97181158,257.5300687,265.30456134
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,Industry,Chemicals,N2O,265,273.0,0.00095117,0.25206005,0.25966941
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,Industry,Waste,CH4,28,27.0,999.6056651,27988.9586228,26989.3529577
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,530.432,14852.096,14321.664
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,14.696652593,3894.612937145,4012.186157889
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,34.0134664,952.3770592,918.3635928
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.0158696,269.205444,277.3324008
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Industry,Chemicals,N2O,265,273.0,0.000988328,0.26190692,0.2698135439999999
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Industry,Waste,CH4,28,27.0,1050.5365356,29415.0229968,28364.4864612
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,536.724,15028.272,14491.548
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.065573379,3992.376945435,4112.901532467
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,34.8469805,975.715454,940.8684735
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.06827416,283.0926524,291.63884568000003
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,Industry,Chemicals,N2O,265,273.0,0.001019557,0.2701826049999999,0.278339061
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,Industry,Waste,CH4,28,27.0,1095.9283666,30685.9942648,29590.0658982
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,547.024,15316.672,14769.648
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.473364797,4100.441671205,4224.228589581
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,36.1237265,1011.464342,975.3406155
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.08098714,286.4615921,295.10948922
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,Industry,Chemicals,N2O,265,273.0,0.001045825,0.277143625,0.285510225
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,Industry,Waste,CH4,28,27.0,1136.5575514,31823.6114392,30687.0538878
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,554.941,15538.348000000002,14983.407
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.836191497,4196.590746705,4323.280278681
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,37.1636103,1040.5810884,1003.4174781
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.15543392,306.1899888,315.43346016
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,Industry,Chemicals,N2O,265,273.0,0.001068826,0.2832388899999999,0.291789498
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,Industry,Waste,CH4,28,27.0,1174.2180112,32878.1043136,31703.8863024
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,570.361,15970.108,15399.747
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,16.636984383,4408.800861495,4541.896736559001
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,39.9807196,1119.4601488,1079.4794292
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.36062542,360.5657363,371.45073966
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,Industry,Chemicals,N2O,265,273.0,0.00108988,0.2888182,0.29753724
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,Industry,Waste,CH4,28,27.0,1210.2309944,33886.4678432,32676.236848800003
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,571.818,16010.904,15439.086
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,17.096495633,4530.571342745,4667.343307809
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,43.5986316,1220.7616848,1177.1630532
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.72334472,456.6863508,470.47310856
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,Industry,Chemicals,N2O,265,273.0,0.001109592,0.29404188,0.302918616
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,Industry,Waste,CH4,28,27.0,1243.544683,34819.251124,33575.706441
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,607.05,16997.399999999998,16390.35
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,17.793382659,4715.246404635,4857.593465907
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,43.945853,1230.483884,1186.538031
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.68859446,447.4775319,460.98628758
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,Industry,Chemicals,N2O,265,273.0,0.001127214,0.29871171,0.307729422
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,Industry,Waste,CH4,28,27.0,1274.812803,35694.758484,34419.945681
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,626.448,17540.543999999998,16914.095999999998
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,18.029845559,4777.909073135001,4922.147837607001
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,42.845858,1199.684024,1156.838166
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.55415226,411.8503489,424.28356698
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,Industry,Chemicals,N2O,265,273.0,0.001142031,0.302638215,0.311774463
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,Industry,Waste,CH4,28,27.0,1303.133278,36487.731784,35184.598506
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,645.121,18063.388,17418.267
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,18.277199433,4843.457849745,4989.675445209
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,41.7549396,1169.1383088,1127.3833692
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.44167164,382.0429846,393.57635772
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,Industry,Chemicals,N2O,265,273.0,0.001152481,0.305407465,0.3146273129999999
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,Industry,Waste,CH4,28,27.0,1327.011222,37156.314216,35829.302994000005
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,671.98,18815.44,18143.46
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,18.612590307,4932.336431355,5081.237153811
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,39.47901,1105.41228,1065.93327
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.17169778,310.4999117,319.87349394
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,Industry,Chemicals,N2O,265,273.0,0.00115808,0.3068912,0.3161558399999999
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,Industry,Waste,CH4,28,27.0,1345.581874,37676.292472,36330.710598
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,711.913,19933.564,19221.651
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,18.935367899,5017.872493235,5169.355436426999
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,35.9314579,1006.0808212,970.1493633
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.75637798,200.4401647,206.49118854
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,Industry,Chemicals,N2O,265,273.0,0.00115819,0.3069203499999999,0.31618587
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,Industry,Waste,CH4,28,27.0,1355.952005,37966.65614000001,36610.704135
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,368.914,10329.592,9960.678
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,10.828984579,2869.680913435,2956.312790067
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,26.4316117,740.0851276000001,713.6535159
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.78929686,209.1636679,215.47804278
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,Industry,Chemicals,N2O,265,273.0,0.00115379,0.30575435,0.31498467
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,Industry,Waste,CH4,28,27.0,1359.0688832,38053.9287296,36694.8598464
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,548.997,15371.916,14822.918999999998
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.239386629,4038.437456685,4160.352549717
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,32.0791437,898.2160236000001,866.1368799
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.79699236,211.2029754,217.57891428
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,Industry,Chemicals,N2O,265,273.0,0.001147399,0.3040607349999999,0.313239927
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,Industry,Waste,CH4,28,27.0,1362.006664,38136.186592,36774.179928
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,550.976,15427.328,14876.352
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.296857609,4053.667266385,4176.042127257
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,31.5311469,882.8721132,851.3409663
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.7908638,209.578907,215.9058174
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,Industry,Chemicals,N2O,265,273.0,0.001142416,0.30274024,0.311879568
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,Industry,Waste,CH4,28,27.0,1365.598007,38236.744196,36871.146189
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,548.5734,15360.0552,14811.4818
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,14.993304709,3973.225747885,4093.172185557
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,28.7262083,804.3338324,775.6076241
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.76542352,202.8372328,208.96062096
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,Industry,Chemicals,N2O,265,273.0,0.001141316,0.30244874,0.311579268
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,Industry,Waste,CH4,28,27.0,1373.438814,38456.286792,37082.847978000005
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,550.046,15401.288,14851.242000000002
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.195750337,4026.873839305,4148.439842001
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,30.3566871,849.9872388,819.6305517
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.67879384,179.8803676,185.31071832
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,Industry,Chemicals,N2O,265,273.0,0.001144979,0.303419435,0.312579267
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,Industry,Waste,CH4,28,27.0,1385.077529,38782.170812,37397.093283
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,552.6775,15474.97,14922.2925
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.278589094,4048.82610991,4171.054822662
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,31.3288048,877.2065344,845.8777296000001
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.68587772,181.7575958,187.24461756
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,Industry,Chemicals,N2O,265,273.0,0.001152734,0.30547451,0.314696382
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,Industry,Waste,CH4,28,27.0,1401.334039,39237.353092000005,37836.019053
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,550.364,15410.192,14859.828
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.223285837,4034.170746805,4155.957033501
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,30.7984462,862.3564936,831.5580474000001
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.72190422,191.3046183,197.07985206
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,Industry,Chemicals,N2O,265,273.0,0.001162953,0.308182545,0.317486169
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,Industry,Waste,CH4,28,27.0,1420.7849986,39781.9799608,38361.1949622
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,552.543,15471.204,14918.661
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.304532937,4055.701228305,4178.137491801
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,31.246561,874.903708,843.657147
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.75009992,198.7764788,204.77727816
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,Industry,Chemicals,N2O,265,273.0,0.001173106,0.3108730899999999,0.3202579379999999
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,Industry,Waste,CH4,28,27.0,1440.5843766,40336.3625448,38895.7781682
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,552.7124,15475.9472,14923.2348
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.347870337,4067.185639305,4189.968602001
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,31.2521578,875.0604184,843.8082605999999
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.72765044,192.8273666,198.64857012
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Industry,Chemicals,N2O,265,273.0,0.001181312,0.31304768,0.3224981759999999
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Industry,Waste,CH4,28,27.0,1458.3495462,40833.787293600006,39375.4377474
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,552.7124,15475.9472,14923.2348
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.337289037,4064.381594805,4187.079907101
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,31.2521018,875.0588504,843.8067486
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.72449804,191.9919806,197.78796492
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Industry,Chemicals,N2O,265,273.0,0.001187241,0.3146188649999999,0.3241167929999999
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Industry,Waste,CH4,28,27.0,1471.8234838,41211.0575464,39739.2340626
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,552.7124,15475.9472,14923.2348
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.374337237,4074.199367805,4197.194065701
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,31.2521478,875.0601384,843.8079906
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.76917624,203.8317036,209.98511352
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Industry,Chemicals,N2O,265,273.0,0.001191421,0.315726565,0.325257933
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Industry,Waste,CH4,28,27.0,1482.8960488,41521.0893664,40038.1933176
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,552.7124,15475.9472,14923.2348
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.151669437,4015.192400805,4136.405756301
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,31.2521928,875.0613984,843.8092056
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.77591214,205.6167171,211.82401422
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Industry,Chemicals,N2O,265,273.0,0.001194116,0.31644074,0.325993668
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Industry,Waste,CH4,28,27.0,1492.2242564,41782.2791792,40290.0549228
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,552.7124,15475.9472,14923.2348
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.157850637,4016.830418805,4138.093223901
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,31.2521378,875.0598583999999,843.8077206
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.77307544,204.8649916,211.04959512
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Industry,Chemicals,N2O,265,273.0,0.001195491,0.3168051149999999,0.3263690429999999
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Industry,Waste,CH4,28,27.0,1499.7538926,41993.1089928,40493.3551002
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,552.7378,15476.6584,14923.9206
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.202205037,4028.584334805,4150.201975101
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,31.2577546,875.2171288,843.9593742
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.79184906,209.8400009,216.17479338
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Industry,Chemicals,N2O,265,273.0,0.001195942,0.31692463,0.326492166
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Industry,Waste,CH4,28,27.0,1506.1682636,42172.7113808,40666.5431172
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,553.4568,15496.790400000002,14943.333600000002
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.242495537,4039.261317305,4161.201281601
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,31.2577546,875.2171288,843.9593742
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.79070646,209.5372119,215.86286358
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Industry,Chemicals,N2O,265,273.0,0.00119559,0.31683135,0.32639607
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Industry,Waste,CH4,28,27.0,1508.6956766,42243.4789448,40734.7832682
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,554.1768,15516.950399999998,14962.7736
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.290677237,4052.029467805,4174.354885701
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,31.2577546,875.2171288,843.9593742
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.79313226,210.1800489,216.52510698
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Industry,Chemicals,N2O,265,273.0,0.001194127,0.316443655,0.3259966709999999
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Industry,Waste,CH4,28,27.0,1509.8912406,42276.9547368,40767.0634962
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,554.8958,15537.0824,14982.1866
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.354751637,4069.009183805,4191.847196901
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,31.2577546,875.2171288,843.9593742
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.82330076,218.1747014,224.76110748
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Industry,Chemicals,N2O,265,273.0,0.001191872,0.31584608,0.325381056
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Industry,Waste,CH4,28,27.0,1509.279097,42259.814716,40750.535619
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,555.6148,15557.2144,15001.599599999998
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.366547637,4072.135123805,4195.067504901
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,31.2577546,875.2171288,843.9593742
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.82093726,217.5483739,224.11587198
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Industry,Chemicals,N2O,265,273.0,0.001188946,0.31507069,0.324582258
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Industry,Waste,CH4,28,27.0,1512.9357448,42362.2008544,40849.265109600005
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,557.2215,15602.202,15044.9805
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.388085237,4077.842587805,4200.947269701
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,31.2577546,875.2171288,843.9593742
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.82100006,217.5650159,224.13301638
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Industry,Chemicals,N2O,265,273.0,0.001185723,0.314216595,0.323702379
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Industry,Waste,CH4,28,27.0,1517.8781828,42500.58911840001,40982.7109356
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,555.953,15566.684,15010.731
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.387998937,4077.819718305,4200.923709801
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,31.2633254,875.3731112,844.1097857999999
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.82100646,217.5667119,224.13476358
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Industry,Chemicals,N2O,265,273.0,0.001182192,0.31328088,0.322738416
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Industry,Waste,CH4,28,27.0,1523.4272575,42655.96321,41132.5359525
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,560.404,15691.312,15130.908
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.635385377,4143.3771249050005,4268.460207921
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,31.7510442,889.0292376,857.2781934
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.83967904,222.5149456,229.23237792
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Industry,Chemicals,N2O,265,273.0,0.001178551,0.3123160149999999,0.3217444229999999
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Industry,Waste,CH4,28,27.0,1529.3844937,42822.7658236,41293.3813299
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,560.888,15704.864,15143.976
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.652059577,4147.795787905,4273.012264520999
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,32.1151526,899.2242728000001,867.1091202
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.84009456,222.6250584,229.34581488
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Industry,Chemicals,N2O,265,273.0,0.001174778,0.31131617,0.320714394
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Industry,Waste,CH4,28,27.0,1530.4074543,42851.4087204,41321.0012661
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,559.576,15668.128,15108.552
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.650192177,4147.300926905,4272.502464321
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,32.1151526,899.2242728000001,867.1091202
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.84009456,222.6250584,229.34581488
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Industry,Chemicals,N2O,265,273.0,0.001171159,0.310357135,0.319726407
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Industry,Waste,CH4,28,27.0,1519.2647349,42539.4125772,41020.14784229999
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,558.3465,15633.702,15075.3555
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.649694177,4147.168956905,4272.3665103210005
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,32.1151526,899.2242728000001,867.1091202
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.84009456,222.6250584,229.34581488
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Industry,Chemicals,N2O,265,273.0,0.001167639,0.309424335,0.318765447
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Industry,Waste,CH4,28,27.0,1518.5852559,42520.3871652,41001.8019093
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,560.745,15700.86,15140.115
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.659675377,4149.813974905,4275.091377921
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,32.3112734,904.7156552,872.4043817999999
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.8403183,222.6843495,229.4068959
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Industry,Chemicals,N2O,265,273.0,0.001164273,0.308532345,0.317846529
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Industry,Waste,CH4,28,27.0,1504.4520282,42124.656789600005,40620.2047614
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,559.9,15677.2,15117.3
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.649931077,4147.231735405,4272.431184021
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,32.1208134,899.3827752000001,867.2619618000001
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.84010096,222.6267544,229.34756208
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Industry,Chemicals,N2O,265,273.0,0.001161127,0.307698655,0.316987671
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Industry,Waste,CH4,28,27.0,1476.9714399,41355.2003172,39878.2288773
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,562.9074,15761.4072,15198.4998
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.649720277,4147.175873405,4272.373635621
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,32.1208134,899.3827752000001,867.2619618000001
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.84010096,222.6267544,229.34756208
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Industry,Chemicals,N2O,265,273.0,0.001158421,0.306981565,0.316248933
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Industry,Waste,CH4,28,27.0,1464.0940129,40994.6323612,39530.5383483
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,567.571,15891.988,15324.417
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.695819877,4159.392267405,4284.958826421
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,32.9347252,922.1723056,889.2375804000001
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.842495,223.261175,230.001135
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Industry,Chemicals,N2O,265,273.0,0.00115621,0.3063956499999999,0.31564533
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Industry,Waste,CH4,28,27.0,1461.4250836,40919.90234080001,39458.4772572
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,566.3496,15857.7888,15291.4392
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.685055237,4156.539637805,4282.020079701
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,32.498762,909.965336,877.466574
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.8443235,223.7457275,230.5003155
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Industry,Chemicals,N2O,265,273.0,0.001154747,0.306007955,0.315245931
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Industry,Waste,CH4,28,27.0,1459.4568423,40864.7915844,39405.3347421
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,567.4148,15887.6144,15320.1996
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.707219927,4162.413280655001,4288.071040071
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,32.4695718,909.1480104,876.6784385999999
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.8455804,224.078806,230.8434492
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Industry,Chemicals,N2O,265,273.0,0.001154043,0.305821395,0.315053739
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Industry,Waste,CH4,28,27.0,1461.4063807,40919.3786596,39457.9722789
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,567.888,15900.864,15332.976
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.722103107,4166.3573233550005,4292.134148211
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,32.5003354,910.0093912,877.5090557999999
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.84676762,224.3934193,231.16756026
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Industry,Chemicals,N2O,265,273.0,0.001153911,0.305786415,0.315017703
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Industry,Waste,CH4,28,27.0,1459.9401871,40878.3252388,39418.3850517
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,568.262,15911.336,15343.074
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.732940507,4169.229234355,4295.092758411
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,32.5206754,910.5789112,878.0582358
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.84765602,224.6288453,231.41009346
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Industry,Chemicals,N2O,265,273.0,0.001154054,0.30582431,0.315056742
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Industry,Waste,CH4,28,27.0,1458.2844204,40831.9637712,39373.679350800005
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,568.380670913261,15914.65878557131,15346.278114658047
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,15.7472025731398,4173.008681882047,4298.986302467166
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,32.4446518030781,908.4502504861867,876.0055986831087
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.849005076285052,224.9863452155388,231.7783858258192
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Industry,Chemicals,N2O,265,273.0,0.0011519168015492,0.3052579524105406,0.3144732868229343
+VIR,Virgin Islands (U.S.),Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Industry,Waste,CH4,28,27.0,1456.82302709235,40791.0447585858,39334.22173149345

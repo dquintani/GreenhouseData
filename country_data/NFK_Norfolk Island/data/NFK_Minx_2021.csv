@@ -1,0 +1,14 @@
+code,name,region_ar6_6,region_ar6_10,region_ar6_22,region_ar6_dev,year,sector_title,subsector_title,gas,gwp100_ar5,gwp100_ar6,value_native,value_ar5,value_ar6
+NFK,Norfolk Island,Developed Countries,Asia-Pacific Developed,Asia-Pacific Developed (others),developed,1970,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,132.44,3708.32,3575.88
+NFK,Norfolk Island,Developed Countries,Asia-Pacific Developed,Asia-Pacific Developed (others),developed,1970,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4.32376736,1145.7983504,1180.38848928
+NFK,Norfolk Island,Developed Countries,Asia-Pacific Developed,Asia-Pacific Developed (others),developed,1970,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,4.15046,116.21288,112.06242
+NFK,Norfolk Island,Developed Countries,Asia-Pacific Developed,Asia-Pacific Developed (others),developed,1970,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.201328,53.35192,54.962544
+NFK,Norfolk Island,Developed Countries,Asia-Pacific Developed,Asia-Pacific Developed (others),developed,1970,Industry,Waste,CH4,28,27.0,17.4,487.19999999999993,469.8
+NFK,Norfolk Island,Developed Countries,Asia-Pacific Developed,Asia-Pacific Developed (others),developed,1971,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,138.46,3876.88,3738.42
+NFK,Norfolk Island,Developed Countries,Asia-Pacific Developed,Asia-Pacific Developed (others),developed,1971,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4.51770665,1197.19226225,1233.33391545
+NFK,Norfolk Island,Developed Countries,Asia-Pacific Developed,Asia-Pacific Developed (others),developed,1971,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,4.339121,121.495388,117.156267
+NFK,Norfolk Island,Developed Countries,Asia-Pacific Developed,Asia-Pacific Developed (others),developed,1971,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.215221,57.033565,58.755333
+NFK,Norfolk Island,Developed Countries,Asia-Pacific Developed,Asia-Pacific Developed (others),developed,1972,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,144.48,4045.44,3900.96
+NFK,Norfolk Island,Developed Countries,Asia-Pacific Developed,Asia-Pacific Developed (others),developed,1972,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4.70085421,1245.72636565,1283.33319933
+NFK,Norfolk Island,Developed Countries,Asia-Pacific Developed,Asia-Pacific Developed (others),developed,1972,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,4.527769,126.777532,122.249763
+NFK,Norfolk Island,Developed Countries,Asia-Pacific Developed,Asia-Pacific Developed (others),developed,1972,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.229526,60.82439,62.660598

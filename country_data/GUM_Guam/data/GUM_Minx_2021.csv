@@ -1,0 +1,401 @@
+code,name,region_ar6_6,region_ar6_10,region_ar6_22,region_ar6_dev,year,sector_title,subsector_title,gas,gwp100_ar5,gwp100_ar6,value_native,value_ar5,value_ar6
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1970,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.8521077,23.8590156,23.0069079
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1970,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.022091673,5.854293344999999,6.031026729
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1970,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,368.64,10321.92,9953.28
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1970,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,16.17697177,4286.8975190500005,4416.313293210001
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1970,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,112.612248,3153.142944,3040.530696
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1970,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.200696,318.18444,327.790008
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1970,Industry,Chemicals,N2O,265,273.0,1.707358,452.44987,466.108734
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1970,Industry,Waste,CH4,28,27.0,783.450115,21936.60322,21153.153105
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1971,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.8880918,24.8665704,23.9784786
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1971,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.023024626,6.10152589,6.285722898
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1971,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,281.324,7877.072,7595.748
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1971,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,12.65090464,3352.4897296,3453.69696672
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1971,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,86.378261,2418.591308,2332.213047
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1971,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.9415856,249.520184,257.0528688
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1971,Industry,Chemicals,N2O,265,273.0,1.745,462.425,476.3850000000001
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1971,Industry,Waste,CH4,28,27.0,851.034334,23828.961352,22977.927018
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1972,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.9241627,25.8765556,24.9523929
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1972,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.023959773,6.349339845,6.541018029
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1972,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,263.658,7382.424000000001,7118.7660000000005
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1972,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,12.17200056,3225.5801484000003,3322.95615288
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1972,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,105.157894,2944.421032,2839.263138
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1972,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.0182321,269.83150650000005,277.97736330000004
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1972,Industry,Chemicals,N2O,265,273.0,1.782875,472.461875,486.724875
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1972,Industry,Waste,CH4,28,27.0,913.928725,25590.0043,24676.075575
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1973,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.9590283,26.8527924,25.8937641
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1973,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.024863726,6.58888739,6.787797198
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1973,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,255.483,7153.524,6898.041
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1973,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,12.0978769,3205.9373785,3302.7203937
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1973,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,108.600315,3040.80882,2932.208505
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1973,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.0468629,277.4186685,285.79357170000003
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1973,Industry,Chemicals,N2O,265,273.0,1.821083,482.586995,497.155659
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1973,Industry,Waste,CH4,28,27.0,974.530786,27286.862008,26312.331222
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1974,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.9748317,27.2952876,26.3204559
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1974,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.025273352,6.69743828,6.899625095999999
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1974,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,185.415,5191.62,5006.205
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1974,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,10.12417358,2682.9059987,2763.8993873400004
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1974,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,129.324376,3621.082528,3491.758152
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1974,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.0766867,285.3219755,293.9354691
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1974,Industry,Chemicals,N2O,265,273.0,1.860028,492.90742,507.787644
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1974,Industry,Waste,CH4,28,27.0,1033.426204,28935.933712,27902.507508
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1975,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.9881886,27.6692808,26.6810922
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1975,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.025619674,6.78921361,6.994171002
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1975,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,171.812,4810.736000000001,4638.924
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1975,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,9.89000394,2620.8510441,2699.97107562
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1975,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,144.131845,4035.69166,3891.559815
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1975,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.1451891,303.4751115,312.6366243
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1975,Industry,Chemicals,N2O,265,273.0,1.90023,503.5609500000001,518.76279
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1975,Industry,Waste,CH4,28,27.0,1091.164513,30552.606364,29461.441851
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1976,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.9963482,27.8977496,26.9014014
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1976,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.025831234,6.84527701,7.051926882
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1976,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,129.46,3624.88,3495.42
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1976,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,7.36306063,1951.21106695,2010.11555199
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1976,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,103.772033,2905.616924,2801.844891
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1976,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.8314045,220.3221925,226.9734285
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1976,Industry,Chemicals,N2O,265,273.0,1.941609,514.526385,530.059257
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1976,Industry,Waste,CH4,28,27.0,1130.536406,31655.019368,30524.482962
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1977,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,1.0124912,28.3497536,27.3372624
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1977,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.026249763,6.956187195,7.166185299
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1977,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,119.7101,3351.8828,3232.1727
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1977,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,7.34295762,1945.8837693,2004.62743026
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1977,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,123.71323,3463.97044,3340.25721
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1977,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.945608,250.58612,258.150984
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1977,Industry,Chemicals,N2O,265,273.0,1.984198,525.81247,541.686054
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1977,Industry,Waste,CH4,28,27.0,1166.81701,32670.87628,31504.05927
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1978,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,1.034727,28.972356,27.937629
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1978,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.026826271,7.108961815,7.323571983
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1978,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,115.7168,3240.0704,3124.3536000000004
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1978,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,8.15411452,2160.8403478,2226.07326396
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1978,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,130.3319817,3649.2954876,3518.9635059
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1978,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.0220741,270.8496365,279.0262293
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1978,Industry,Chemicals,N2O,265,273.0,2.028021,537.425565,553.649733
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1978,Industry,Waste,CH4,28,27.0,1200.466175,33613.0529,32412.586725
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1979,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,1.0432656,29.2114368,28.1681712
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1979,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.02704771,7.16764315,7.384024829999999
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1979,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,113.17,3168.76,3055.59
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1979,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,8.24689468,2185.4270902000003,2251.40224764
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1979,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,137.9260413,3861.929156400001,3724.0031151
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1979,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.0866951,287.9742015,296.6677623
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1979,Industry,Chemicals,N2O,265,273.0,2.073089,549.3685849999999,565.953297
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1979,Industry,Waste,CH4,28,27.0,1232.782108,34517.899024000006,33285.116916000006
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1980,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,1.0518917,29.4529676,28.4010759
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1980,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.027271295,7.226893175,7.445063535
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1980,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,85.5933,2396.6124,2311.0191
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1980,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,7.5904375,2011.4659375,2072.1894375
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1980,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,157.9735601,4423.2596828,4265.286122699999
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1980,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.190127,315.383655,324.904671
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1980,Industry,Chemicals,N2O,265,273.0,2.119679,561.714935,578.672367
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1980,Industry,Waste,CH4,28,27.0,1262.367576,35346.292128,34083.924552000004
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1981,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,1.0604809,29.6934652,28.6329843
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1981,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.027493915,7.285887475,7.505838795
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1981,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,80.361,2250.108,2169.7470000000003
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1981,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,7.56166309,2003.84071885,2064.33402357
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1981,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,169.8172301,4754.8824428,4585.065212699999
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1981,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.2341955,327.0618075,336.9353715
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1981,Industry,Chemicals,N2O,265,273.0,2.167559,574.4031349999999,591.743607
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1981,Industry,Waste,CH4,28,27.0,1289.328725,36101.204300000005,34811.875575000005
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1982,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,1.05544316,29.55240848,28.49696532
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1982,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.02736327,7.251266549999999,7.47017271
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1982,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,58.52,1638.5600000000002,1580.0400000000002
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1982,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,6.878445526,1822.78806439,1877.815628598
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1982,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,169.4667005,4745.067614,4575.6009135
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1982,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.2377963,328.0160195,337.9183899
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1982,Industry,Chemicals,N2O,265,273.0,2.216836,587.4615399999999,605.1962279999999
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1982,Industry,Waste,CH4,28,27.0,1314.937702,36818.255656,35503.317954
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1983,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,1.05071248,29.419949440000003,28.36923696
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1983,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0272407198,7.218790747,7.4367165054
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1983,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,69.7972,1954.3216,1884.5244
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1983,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,7.16459884,1898.6186926,1955.93548332
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1983,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,169.5514999,4747.4419972000005,4577.8904973
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1983,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.2830929,340.0196185,350.2843617
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1983,Industry,Chemicals,N2O,265,273.0,2.267645,600.925925,619.067085
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1983,Industry,Waste,CH4,28,27.0,1341.234014,37554.552392,36213.318378
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1984,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,1.07513409,30.10375452,29.02862043
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1984,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.027873773,7.386549845,7.609540029000001
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1984,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,63.447,1776.516,1713.069
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1984,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,7.16209724,1897.9557686,1955.25254652
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1984,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,169.5505797,4747.416231599999,4577.8656519
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1984,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.2804021,339.3065565,349.5497733
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1984,Industry,Chemicals,N2O,265,273.0,2.319735,614.729775,633.287655
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1984,Industry,Waste,CH4,28,27.0,1368.244126,38310.835528,36942.591402
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1985,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,1.09089494,30.545058320000003,29.454163380000004
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1985,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0282825436,7.494874054,7.721134402800001
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1985,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,50.158,1404.424,1354.266
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1985,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,6.90129062,1828.8420143,1884.05233926
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1985,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,169.3100595,4740.681666,4571.3716065
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1985,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.2613058,334.246037,344.3364834
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1985,Industry,Chemicals,N2O,265,273.0,2.372884,628.81426,647.797332
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1985,Industry,Waste,CH4,28,27.0,1395.303425,39068.4959,37673.192475
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1986,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,1.09524221,30.66678188,29.571539670000003
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1986,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0283951988,7.524727682,7.7518892724
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1986,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,41.7987,1170.3636,1128.5649
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1986,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,7.00685987,1856.81786555,1912.87274451
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1986,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,169.3610403,4742.1091284,4572.7480881
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1986,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.2819591,339.7191615,349.9748343
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1986,Industry,Chemicals,N2O,265,273.0,2.427026,643.1618900000001,662.5780980000001
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1986,Industry,Waste,CH4,28,27.0,1422.605451,39832.952628,38410.347177
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1987,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,1.09555197,30.67545516,29.57990319
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1987,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0284032292,7.526855738,7.7540815716
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1987,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,38.754,1085.112,1046.358
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1987,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,6.87090785,1820.79058025,1875.75784305
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1987,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,169.1150504,4735.2214112,4566.1063608
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1987,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.2675435,335.8990275,346.0393755
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1987,Industry,Chemicals,N2O,265,273.0,2.481721,657.656065,677.509833
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1987,Industry,Waste,CH4,28,27.0,1450.674145,40618.87606,39168.201915
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1988,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,1.09601855,30.6885194,29.59250085
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1988,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0284153252,7.530061178,7.7573837796
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1988,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,40.5872,1136.4416,1095.8544000000002
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1988,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,7.17327174,1900.9170111,1958.30318502
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1988,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,172.7212796,4836.1958288000005,4663.4745492
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1988,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.3011096,344.794044,355.2029208
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1988,Industry,Chemicals,N2O,265,273.0,2.537777,672.5109050000001,692.813121
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1988,Industry,Waste,CH4,28,27.0,1479.030625,41412.857500000006,39933.826875000006
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1989,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,1.09645662,30.700785360000005,29.604328740000003
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1989,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.028426682,7.53307073,7.760484186
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1989,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,28.34504,793.66112,765.31608
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1989,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4.77513341,1265.41035365,1303.61142093
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1989,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,61.7856998,1729.9995944000002,1668.2138946
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1989,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.5499707,145.74223550000002,150.14200110000002
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1989,Industry,Chemicals,N2O,265,273.0,2.595769,687.8787850000001,708.644937
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1989,Industry,Waste,CH4,28,27.0,1507.4392249,42208.2982972,40700.8590723
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1990,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,1.18876112,33.285311359999994,32.09655024
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1990,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.030819722,8.16722633,8.413784106
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1990,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,16.4264,459.9392,443.5128
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1990,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,3.70508232,981.8468148,1011.48747336
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1990,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,49.64927997,1390.17983916,1340.53055919
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1990,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.4728663,125.3095695,129.0924999
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1990,Industry,Chemicals,N2O,265,273.0,2.656021,703.845565,725.093733
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1990,Industry,Waste,CH4,28,27.0,1538.3265809,43073.1442652,41534.8176843
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1991,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,1.41030243,39.48846804,38.07816561
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1991,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0365634022,9.689301583,9.9818088006
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1991,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,16.067,449.876,433.809
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1991,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,3.6581066,969.398249,998.6631018
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1991,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,49.34186005,1381.5720814,1332.23022135
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1991,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.45310344,120.0724116,123.69723912
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1991,Industry,Chemicals,N2O,265,273.0,2.718637,720.438805,742.187901
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1991,Industry,Waste,CH4,28,27.0,1578.5117494,44198.3289832,42619.8172338
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1992,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,1.42433243,39.88130804,38.45697561
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1992,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0369272022,9.785708583,10.0811262006
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1992,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,16.285,455.98,439.695
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1992,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,3.87078893,1025.75906645,1056.72537789
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1992,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,49.54735003,1387.3258008399998,1337.77845081
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1992,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.47443977,125.72653905,129.52205721
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1992,Industry,Chemicals,N2O,265,273.0,2.782438,737.3460699999999,759.605574
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1992,Industry,Waste,CH4,28,27.0,1620.2540954,45367.114671200005,43746.860575800005
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1993,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,1.43958878,40.30848584,38.86889706
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1993,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0373225876,9.890485714,10.1890664148
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1993,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,16.335,457.38,441.045
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1993,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4.21769316,1117.6886874,1151.4302326799998
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1993,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,49.84845001,1395.75660028,1345.90815027
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1993,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.49511828,131.20634420000002,135.16729044000002
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1993,Industry,Chemicals,N2O,265,273.0,2.846069,754.2082849999999,776.9768369999999
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1993,Industry,Waste,CH4,28,27.0,1662.0989774,46538.7713672,44876.6723898
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1994,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,1.45459478,40.72865384,39.27405906
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1994,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0377117896,9.993624244,10.295318560799998
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1994,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,16.335,457.38,441.045
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1994,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4.19163941,1110.78444365,1144.31755893
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1994,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,49.84845,1395.7566,1345.90815
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1994,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.50018504,132.5490356,136.55051591999998
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1994,Industry,Chemicals,N2O,265,273.0,2.906805,770.303325,793.557765
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1994,Industry,Waste,CH4,28,27.0,1702.4158974,47667.6451272,45965.2292298
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1995,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.58768889,16.45528892,15.86760003
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1995,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0152363855,4.0376421575,4.1595332415
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1995,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,16.335,457.38,441.045
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1995,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4.28666161,1135.9653266500002,1170.25861953
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1995,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,49.84844998,1395.75659944,1345.90814946
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1995,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.5083584,134.714976,138.7818432
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1995,Industry,Chemicals,N2O,265,273.0,2.962965,785.185725,808.889445
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1995,Industry,Waste,CH4,28,27.0,1740.2711674,48727.5926872,46987.3215198
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1996,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.59418653,16.63722284,16.043036309999998
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1996,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0154048285,4.0822795525,4.2055181805
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1996,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,16.403,459.284,442.881
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1996,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4.31457828,1143.3632442,1177.87987044
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1996,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,49.85063997,1395.8179191600002,1345.96727919
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1996,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.5093844,134.986866,139.06194119999998
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1996,Industry,Chemicals,N2O,265,273.0,3.013832,798.66548,822.776136
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1996,Industry,Waste,CH4,28,27.0,1774.7436174,49692.8212872,47918.0776698
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1997,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.60003179,16.80089012,16.20085833
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1997,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0155563505,4.1224328825,4.2468836865
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1997,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,16.635,465.78,449.145
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1997,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4.3575187,1154.7424555,1189.6026051
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1997,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,52.23065005,1462.4582014,1410.22755135
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1997,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.5331182,141.276323,145.5412686
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1997,Industry,Chemicals,N2O,265,273.0,3.059488,810.76432,835.240224
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1997,Industry,Waste,CH4,28,27.0,1806.2702371,50575.5666388,48769.2964017
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1998,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.60625703,16.97519684,16.36893981
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1998,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0157177968,4.165216152,4.2909585264
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1998,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,16.703,467.684,450.981
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1998,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4.37726168,1159.9743452,1194.99243864
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1998,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,52.23284003,1462.51952084,1410.28668081
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1998,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.5385739,142.72208350000002,147.03067470000002
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1998,Industry,Chemicals,N2O,265,273.0,3.099678,821.41467,846.212094
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1998,Industry,Waste,CH4,28,27.0,1834.6793071,51371.0205988,49536.3412917
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1999,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.61210801,17.13902428,16.52691627
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1999,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0158694666,4.205408649,4.3323643818
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1999,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,17.053,477.484,460.431
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1999,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4.44635045,1178.28286925,1213.8536728499998
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1999,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,55.80394002,1562.51032056,1506.70638054
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1999,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.5666112,150.15196799999998,154.6848576
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1999,Industry,Chemicals,N2O,265,273.0,3.133793,830.4551449999999,855.525489
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1999,Industry,Waste,CH4,28,27.0,1859.7178141,52072.0987948,50212.3809807
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2000,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.61402436,17.19268208,16.578657720000002
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2000,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0159191575,4.2185767375,4.3459299975
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2000,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,17.385,486.78,469.395
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2000,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4.54049727,1203.2317765500002,1239.5557547100002
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2000,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,59.37395,1662.4706,1603.09665
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2000,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.6003991,159.1057615,163.90895429999998
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2000,Industry,Chemicals,N2O,265,273.0,3.161798,837.87647,863.1708540000001
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2000,Industry,Waste,CH4,28,27.0,1881.1456006,52672.0768168,50790.9312162
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2001,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.48874694,13.68491432,13.19616738
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2001,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0126712316,3.357876374,3.4592462268
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2001,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,17.685,495.18,477.495
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2001,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4.43095079,1174.20195935,1209.64956567
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2001,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,61.75615,1729.1722,1667.41605
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2001,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.6168256,163.45878399999998,168.3933888
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2001,Industry,Chemicals,N2O,265,273.0,3.183623,843.660095,869.1290789999999
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2001,Industry,Waste,CH4,28,27.0,1896.7276991,53108.3755748,51211.6478757
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2002,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.52858195,14.8002946,14.27171265
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2002,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0137039692,3.631551838,3.7411835916
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2002,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,18.963,530.964,512.001
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2002,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4.56721497,1210.31196705,1246.84968681
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2002,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,62.9716,1763.2048,1700.2332
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2002,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.6319911,167.4776415,172.5335703
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2002,Industry,Chemicals,N2O,265,273.0,3.199373,847.833845,873.428829
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2002,Industry,Waste,CH4,28,27.0,1908.6567066,53442.3877848,51533.7310782
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2003,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.59936295,16.7821626,16.18279965
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2003,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0155390692,4.117853338,4.2421658916
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2003,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,18.963,530.964,512.001
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2003,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4.65608267,1233.86190755,1271.11056891
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2003,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,62.9716,1763.2048,1700.2332
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2003,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.6324782,167.606723,172.6665486
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2003,Industry,Chemicals,N2O,265,273.0,3.210348,850.7422200000001,876.4250040000001
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2003,Industry,Waste,CH4,28,27.0,1918.5745866,53720.0884248,51801.5138382
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2004,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.65879827,18.44635156,17.78755329
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2004,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0170799326,4.526182139,4.6628215998
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2004,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,19.507,546.196,526.6890000000001
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2004,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4.74966762,1258.6619193,1296.65926026
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2004,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,62.9816,1763.4848,1700.5032
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2004,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.633655,167.918575,172.98781499999998
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2004,Industry,Chemicals,N2O,265,273.0,3.218187,852.8195549999999,878.5650509999999
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2004,Industry,Waste,CH4,28,27.0,1934.2446778,54158.850978400005,52224.6063006
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2005,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.67640285,18.9392798,18.26287695
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2005,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0175363069,4.6471213285,4.7874117837
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2005,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,19.507,546.196,526.6890000000001
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2005,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4.7721204,1264.611906,1302.7888692
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2005,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,62.9816,1763.4848,1700.5032
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2005,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.6337666,167.948149,173.01828179999998
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2005,Industry,Chemicals,N2O,265,273.0,3.224355,854.454075,880.248915
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2005,Industry,Waste,CH4,28,27.0,1946.0205978,54488.5767384,52542.5561406
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2006,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.70297873,19.68340444,18.98042571
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2006,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.018225397,4.829730205000001,4.975533381
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2006,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,19.507,546.196,526.6890000000001
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2006,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4.80414345,1273.09801425,1311.53116185
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2006,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,62.9816,1763.4848,1700.5032
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2006,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.6337666,167.948149,173.01828179999998
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2006,Industry,Chemicals,N2O,265,273.0,3.22936,855.7804,881.61528
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2006,Industry,Waste,CH4,28,27.0,1946.3272321,54497.1624988,52550.8352667
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2007,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.73388268,20.54871504,19.81483236
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2007,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0190266254,5.0420557310000005,5.1942687342000005
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2007,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,20.706,579.768,559.062
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2007,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.00395975,1326.04933375,1366.08101175
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2007,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,64.1997,1797.5916000000002,1733.3919
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2007,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.644246,170.72519,175.879158
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2007,Industry,Chemicals,N2O,265,273.0,3.233568,856.89552,882.764064
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2007,Industry,Waste,CH4,28,27.0,1951.6286831,54645.6031268,52693.9744437
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2008,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.73921174,20.69792872,19.95871698
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2008,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.019164764,5.07866246,5.231980572
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2008,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,20.706,579.768,559.062
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2008,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4.91862799,1303.43641735,1342.78544127
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2008,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,64.1997,1797.5916000000002,1733.3919
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2008,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.644246,170.72519,175.879158
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2008,Industry,Chemicals,N2O,265,273.0,3.237234,857.8670099999999,883.764882
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2008,Industry,Waste,CH4,28,27.0,1958.6383231,54841.8730468,52883.2347237
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2009,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.71055068,19.89541904,19.18486836
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2009,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.018421661,4.881740165,5.029113453
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2009,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,20.706,579.768,559.062
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2009,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4.97488018,1318.3432477,1358.1422891400002
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2009,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,64.1997,1797.5916000000002,1733.3919
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2009,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.644246,170.72519,175.879158
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2009,Industry,Chemicals,N2O,265,273.0,3.241224,858.92436,884.854152
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2009,Industry,Waste,CH4,28,27.0,1963.8322431,54987.3028068,53023.4705637
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2010,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.70358723,19.70044244,18.99685521
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2010,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.01824118,4.8339127,4.97984214
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2010,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,20.706,579.768,559.062
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2010,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4.87579593,1292.08592145,1331.09228889
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2010,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,64.1997,1797.5916000000002,1733.3919
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2010,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.644246,170.72519,175.879158
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2010,Industry,Chemicals,N2O,265,273.0,3.245559,860.073135,886.037607
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2010,Industry,Waste,CH4,28,27.0,1971.5179752,55202.5033056,53230.9853304
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2011,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.69675688,19.50919264,18.81243576
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2011,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.018064067,4.786977755,4.931490291
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2011,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,23.01,644.2800000000001,621.2700000000001
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2011,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.04620714,1337.2448921,1377.61454922
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2011,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,65.448,1832.544,1767.0959999999998
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2011,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.6547242,173.501913,178.7397066
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2011,Industry,Chemicals,N2O,265,273.0,3.250321,861.335065,887.337633
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2011,Industry,Waste,CH4,28,27.0,1976.8062161,55350.5740508,53373.7678347
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2012,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.68334102,19.13354856,18.45020754
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2012,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.017716186,4.694789289999999,4.836518777999999
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2012,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,22.86,640.0799999999999,617.22
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2012,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,6.04684886,1602.4149479,1650.78973878
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2012,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,67.6325,1893.71,1826.0775
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2012,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.7406077,196.2610405,202.1859021
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2012,Industry,Chemicals,N2O,265,273.0,3.256327,862.9266550000001,888.9772710000001
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2012,Industry,Waste,CH4,28,27.0,1985.076415,55582.13962,53597.063205
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2013,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.70067028,19.61876784,18.91809756
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2013,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.018165548,4.81387022,4.959194604
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2013,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,23.135,647.7800000000001,624.6450000000001
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2013,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,6.07667388,1610.3185782,1658.9319692400002
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2013,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,67.6375,1893.85,1826.2125
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2013,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.7406077,196.2610405,202.1859021
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2013,Industry,Chemicals,N2O,265,273.0,3.264512,865.09568,891.211776
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2013,Industry,Waste,CH4,28,27.0,1994.402015,55843.25642,53848.854405
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2014,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.71427248,19.99962944,19.28535696
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2014,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.018518112,4.90729968,5.055444576
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2014,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,23.485,657.5799999999999,634.095
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2014,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,6.14388795,1628.13030675,1677.28141035
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2014,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,68.833,1927.324,1858.491
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2014,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.7496571,198.6591315,204.6563883
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2014,Industry,Chemicals,N2O,265,273.0,3.276561,868.288665,894.501153
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2014,Industry,Waste,CH4,28,27.0,2005.682135,56159.09978,54153.417645
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2015,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.70828495,19.8319786,19.12369365
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2015,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.018362943,4.866179895,5.013083439
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2015,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,23.637,661.836,638.1990000000001
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2015,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,6.02351394,1596.2311941,1644.41930562
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2015,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,69.4768,1945.3504,1875.8736
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2015,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.7462281,197.7504465,203.7202713
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2015,Industry,Chemicals,N2O,265,273.0,3.293462,872.76743,899.1151259999999
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2015,Industry,Waste,CH4,28,27.0,2016.86541,56472.23148,54455.36607
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2016,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.70508813,19.74246764,19.03737951
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2016,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.018280092,4.84422438,4.990465116
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2016,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,23.9456,670.4767999999999,646.5312
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2016,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.96800028,1581.5200742,1629.26407644
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2016,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,69.69677,1951.50956,1881.81279
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2016,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.7435945,197.0525425,203.0012985
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2016,Industry,Chemicals,N2O,265,273.0,3.315829,878.6946849999999,905.221317
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2016,Industry,Waste,CH4,28,27.0,2030.99553,56867.87484,54836.87931
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2017,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.70503793,19.741062040000003,19.03602411
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2017,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.018278775,4.8438753750000005,4.990105575
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2017,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,24.3184,680.9152,656.5968
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2017,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,6.0932706,1614.716709,1663.4628738
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2017,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,69.95032,1958.60896,1888.65864
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2017,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.7512931,199.0926715,205.1030163
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2017,Industry,Chemicals,N2O,265,273.0,3.342968,885.88652,912.630264
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2017,Industry,Waste,CH4,28,27.0,2047.62944,57333.62432,55285.99488
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2018,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.70566913,19.75873564,19.05306651
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2018,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.018295096,4.84820044,4.994561208
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2018,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,24.5718,688.0104,663.4386
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2018,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,6.12031333,1621.88303245,1670.84553909
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2018,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,70.29025,1968.127,1897.83675
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2018,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.757449,200.723985,206.783577
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2018,Industry,Chemicals,N2O,265,273.0,3.373269,893.916285,920.902437
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2018,Industry,Waste,CH4,28,27.0,2066.06081,57849.70268,55783.64187
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2019,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.693680794621077,19.42306224939016,18.72938145476908
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2019,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0179842878077278,4.765836269047867,4.909710571509689
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2019,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,24.7574460041525,693.20848811627,668.4510421121174
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2019,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,6.18907174578356,1640.1040126326434,1689.6165865989117
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2019,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,70.6601008523297,1978.482823865232,1907.822723012902
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2019,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.759296586070059,201.21359530856563,207.2879679971261
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2019,Industry,Chemicals,N2O,265,273.0,3.38580592599296,897.2385703881345,924.325017796078
+GUM,Guam,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2019,Industry,Waste,CH4,28,27.0,2074.36222478816,58082.14229406848,56007.78006928032

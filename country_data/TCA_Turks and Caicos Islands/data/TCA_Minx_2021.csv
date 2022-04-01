@@ -1,0 +1,991 @@
+code,name,region_ar6_6,region_ar6_10,region_ar6_22,region_ar6_dev,year,sector_title,subsector_title,gas,gwp100_ar5,gwp100_ar6,value_native,value_ar5,value_ar6
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,Buildings,Residential,CH4,28,27.0,0.012583,0.352324,0.339741
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,Buildings,Residential,N2O,265,273.0,0.000167773,0.044459845,0.045802029
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,Energy systems,Electricity & heat,CH4,28,27.0,3.58725e-05,0.00100443,0.0009685574999999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,Energy systems,Electricity & heat,N2O,265,273.0,4.783e-06,0.001267495,0.0013057589999999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,Energy systems,Other (energy systems),CH4,28,27.0,0.1170574856,3.2776095968,3.1605521112
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,Energy systems,Other (energy systems),N2O,265,273.0,0.00199267461,0.52805877165,0.54400016853
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,Industry,Chemicals,CO2,1,1.0,0.2816,0.2816,0.2816
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,Industry,Chemicals,N2O,265,273.0,6.1963e-05,0.016420195,0.016915899
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,Industry,Other (industry),CH4,28,27.0,0.0185829,0.5203211999999999,0.5017383
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,Industry,Other (industry),N2O,265,273.0,0.00247772,0.6565958000000001,0.67641756
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,Industry,Waste,CH4,28,27.0,81.2747937,2275.6942236,2194.4194299
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,Buildings,Residential,CH4,28,27.0,0.0124631,0.3489667999999999,0.3365036999999999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,Buildings,Residential,N2O,265,273.0,0.000166174,0.0440361099999999,0.045365502
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,Energy systems,Electricity & heat,CH4,28,27.0,3.55308e-05,0.0009948624,0.0009593316
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,Energy systems,Electricity & heat,N2O,265,273.0,4.73744e-06,0.0012554216,0.00129332112
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,Energy systems,Other (energy systems),CH4,28,27.0,0.1109632003,3.1069696084,2.9960064081
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,Energy systems,Other (energy systems),N2O,265,273.0,0.0019538951,0.5177822015,0.5334133622999999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,Industry,Chemicals,CO2,1,1.0,0.2875,0.2875,0.2875
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,Industry,Chemicals,N2O,265,273.0,6.3316e-05,0.01677874,0.017285268
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,Industry,Other (industry),CH4,28,27.0,0.0184058,0.5153624,0.4969565999999999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,Industry,Other (industry),N2O,265,273.0,0.00245411,0.65033915,0.6699720299999999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,Industry,Waste,CH4,28,27.0,66.8710951,1872.3906628,1805.5195677
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,Buildings,Residential,CH4,28,27.0,0.0117539,0.3291092,0.3173553
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,Buildings,Residential,N2O,265,273.0,0.000156719,0.0415305349999999,0.042784287
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,Energy systems,Electricity & heat,CH4,28,27.0,3.35088e-05,0.0009382464,0.0009047376
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,Energy systems,Electricity & heat,N2O,265,273.0,4.46784e-06,0.0011839776,0.00121972032
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,Energy systems,Other (energy systems),CH4,28,27.0,0.1050474913,2.9413297564,2.8362822651
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,Energy systems,Other (energy systems),N2O,265,273.0,0.00159361548,0.4223081022,0.43505702604
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,Industry,Chemicals,CO2,1,1.0,0.2962,0.2962,0.2962
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,Industry,Chemicals,N2O,265,273.0,6.5142e-05,0.0172626299999999,0.017783766
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,Industry,Other (industry),CH4,28,27.0,0.0140875,0.3944499999999999,0.3803625
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,Industry,Other (industry),N2O,265,273.0,0.00187833,0.49775745,0.51278409
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,Industry,Waste,CH4,28,27.0,69.1817698,1937.0895544,1867.9077846
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,Buildings,Residential,CH4,28,27.0,0.0133775,0.37457,0.3611925
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,Buildings,Residential,N2O,265,273.0,0.000178367,0.047267255,0.048694191
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,Energy systems,Electricity & heat,CH4,28,27.0,3.84186e-05,0.0010757208,0.0010373022
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,Energy systems,Electricity & heat,N2O,265,273.0,5.12248e-06,0.0013574572,0.00139843704
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,Energy systems,Other (energy systems),CH4,28,27.0,0.1366186832,3.8253231296,3.6887044464
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,Energy systems,Other (energy systems),N2O,265,273.0,0.00187003228,0.4955585542,0.51051881244
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,Industry,Chemicals,CO2,1,1.0,0.3066,0.3066,0.3066
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,Industry,Chemicals,N2O,265,273.0,6.7386e-05,0.0178572899999999,0.0183963779999999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,Industry,Other (industry),CH4,28,27.0,0.0158472,0.4437215999999999,0.4278744
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,Industry,Other (industry),N2O,265,273.0,0.00211296,0.5599344,0.57683808
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,Industry,Waste,CH4,28,27.0,71.9683801,2015.1146428,1943.1462627
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,Buildings,Residential,CH4,28,27.0,0.0134991,0.3779748,0.3644757
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,Buildings,Residential,N2O,265,273.0,0.000179988,0.04769682,0.049136724
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,Energy systems,Electricity & heat,CH4,28,27.0,3.84843e-05,0.0010775604,0.0010390761
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,Energy systems,Electricity & heat,N2O,265,273.0,5.13124e-06,0.0013597786,0.00140082852
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,Energy systems,Other (energy systems),CH4,28,27.0,0.1325218348,3.7106113744,3.5780895396
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,Energy systems,Other (energy systems),N2O,265,273.0,0.00195431046,0.5178922719,0.53352675558
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,Industry,Chemicals,CO2,1,1.0,0.3173,0.3173,0.3173
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,Industry,Chemicals,N2O,265,273.0,6.9806e-05,0.01849859,0.019057038
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,Industry,Other (industry),CH4,28,27.0,0.0171472,0.4801216,0.4629744
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,Industry,Other (industry),N2O,265,273.0,0.0022863,0.6058695,0.6241599
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,Industry,Waste,CH4,28,27.0,74.9888536,2099.6879008,2024.6990472
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,Buildings,Residential,CH4,28,27.0,0.0132389,0.3706892,0.3574503
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,Buildings,Residential,N2O,265,273.0,0.000176519,0.046777535,0.048189687
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,Energy systems,Electricity & heat,CH4,28,27.0,0.000143308,0.004012624,0.003869316
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,Energy systems,Electricity & heat,N2O,265,273.0,1.91077e-05,0.0050635405,0.0052164021
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,Energy systems,Other (energy systems),CH4,28,27.0,0.1263204903,3.5369737284,3.4106532381
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,Energy systems,Other (energy systems),N2O,265,273.0,0.0017844813,0.4728875445,0.4871633949
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,Industry,Chemicals,CO2,1,1.0,0.3273,0.3273,0.3273
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,Industry,Chemicals,N2O,265,273.0,7.2028e-05,0.0190874199999999,0.0196636439999999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,Industry,Other (industry),CH4,28,27.0,0.0152238,0.4262664,0.4110426
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,Industry,Other (industry),N2O,265,273.0,0.00202984,0.5379076,0.5541463200000001
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,Industry,Waste,CH4,28,27.0,77.8514928,2179.8417984,2101.9903056000003
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Buildings,Residential,CH4,28,27.0,0.0133348,0.3733744,0.3600396
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Buildings,Residential,N2O,265,273.0,0.000177797,0.047116205,0.048538581
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Energy systems,Electricity & heat,CH4,28,27.0,0.000142354,0.003985912,0.003843558
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Energy systems,Electricity & heat,N2O,265,273.0,1.89805e-05,0.0050298324999999,0.0051816764999999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Energy systems,Other (energy systems),CH4,28,27.0,0.1453744791,4.0704854148,3.9251109357
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Energy systems,Other (energy systems),N2O,265,273.0,0.00188003789,0.49821004085,0.51325034397
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Industry,Chemicals,CO2,1,1.0,0.33615,0.33615,0.33615
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Industry,Chemicals,N2O,265,273.0,7.3953e-05,0.019597545,0.020189169
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Industry,Other (industry),CH4,28,27.0,0.015564,0.435792,0.420228
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Industry,Other (industry),N2O,265,273.0,0.0020752,0.5499280000000001,0.5665296000000001
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Industry,Waste,CH4,28,27.0,80.4745599,2253.2876772,2172.8131173
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,Buildings,Residential,CH4,28,27.0,0.0132634,0.3713752,0.3581118
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,Buildings,Residential,N2O,265,273.0,0.000176845,0.046863925,0.0482786849999999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,Energy systems,Electricity & heat,CH4,28,27.0,0.000180335,0.00504938,0.004869045
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,Energy systems,Electricity & heat,N2O,265,273.0,2.40447e-05,0.0063718455,0.0065642031
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,Energy systems,Other (energy systems),CH4,28,27.0,0.1407817853,3.9418899884,3.8011082031
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,Energy systems,Other (energy systems),N2O,265,273.0,0.0017687419,0.4687166035,0.4828665387
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,Industry,Chemicals,CO2,1,1.0,0.3443,0.3443,0.3443
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,Industry,Chemicals,N2O,265,273.0,7.5746e-05,0.02007269,0.020678658
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,Industry,Other (industry),CH4,28,27.0,0.0143318,0.4012904,0.3869586
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,Industry,Other (industry),N2O,265,273.0,0.0019109,0.5063885,0.5216757000000001
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,Industry,Waste,CH4,28,27.0,82.9785176,2323.3984928,2240.4199752
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,Buildings,Residential,CH4,28,27.0,0.0132921,0.3721788,0.3588867
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,Buildings,Residential,N2O,265,273.0,0.000177228,0.04696542,0.048383244
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,Energy systems,Electricity & heat,CH4,28,27.0,0.000179545,0.00502726,0.004847715
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,Energy systems,Electricity & heat,N2O,265,273.0,2.39393e-05,0.0063439145,0.0065354289
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,Energy systems,Other (energy systems),CH4,28,27.0,0.1354668025,3.79307047,3.6576036675
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,Energy systems,Other (energy systems),N2O,265,273.0,0.0018859577,0.4997787905,0.5148664521
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,Industry,Chemicals,CO2,1,1.0,0.35285,0.35285,0.35285
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,Industry,Chemicals,N2O,265,273.0,7.7583e-05,0.020559495,0.021180159
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,Industry,Other (industry),CH4,28,27.0,0.016133,0.451724,0.435591
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,Industry,Other (industry),N2O,265,273.0,0.00215106,0.5700309,0.5872393800000001
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,Industry,Waste,CH4,28,27.0,85.5489712,2395.3711936,2309.8222224
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,Buildings,Residential,CH4,28,27.0,0.0157909,0.4421452,0.4263543
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,Buildings,Residential,N2O,265,273.0,0.000210545,0.055794425,0.057478785
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,Energy systems,Electricity & heat,CH4,28,27.0,0.00025616,0.00717248,0.00691632
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,Energy systems,Electricity & heat,N2O,265,273.0,3.41547e-05,0.0090509955,0.0093242331
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,Energy systems,Other (energy systems),CH4,28,27.0,0.171596888,4.804712864,4.633115976
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,Energy systems,Other (energy systems),N2O,265,273.0,0.00227626371,0.60320988315,0.6214199928299999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,Industry,Chemicals,CO2,1,1.0,0.3631,0.3631,0.3631
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,Industry,Chemicals,N2O,265,273.0,7.9904e-05,0.02117456,0.021813792
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,Industry,Other (industry),CH4,28,27.0,0.0191335,0.535738,0.5166045
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,Industry,Other (industry),N2O,265,273.0,0.00255113,0.6760494499999999,0.69645849
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,Industry,Waste,CH4,28,27.0,88.6567556,2482.3891568,2393.7324012
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,Buildings,Residential,CH4,28,27.0,0.0177329,0.4965212,0.4787883
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,Buildings,Residential,N2O,265,273.0,0.000236439,0.062656335,0.0645478469999999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,Energy systems,Electricity & heat,CH4,28,27.0,4.45323e-05,0.0012469044,0.0012023721
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,Energy systems,Electricity & heat,N2O,265,273.0,5.93764e-06,0.0015734746,0.00162097572
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,Energy systems,Other (energy systems),CH4,28,27.0,0.119028607,3.332800996,3.213772389
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,Energy systems,Other (energy systems),N2O,265,273.0,0.00202576163,0.53682683195,0.55303292499
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,Industry,Chemicals,CO2,1,1.0,0.37625,0.37625,0.37625
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,Industry,Chemicals,N2O,265,273.0,8.2709e-05,0.0219178849999999,0.022579557
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,Industry,Other (industry),CH4,28,27.0,0.0183964,0.5150992,0.4967028
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,Industry,Other (industry),N2O,265,273.0,0.00245285,0.65000525,0.66962805
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,Industry,Waste,CH4,28,27.0,92.3558976,2585.9651328,2493.6092352
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,Buildings,Residential,CH4,28,27.0,0.0179398,0.5023143999999999,0.4843746
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,Buildings,Residential,N2O,265,273.0,0.000239198,0.06338747,0.065301054
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,Energy systems,Electricity & heat,CH4,28,27.0,4.47636e-05,0.0012533808,0.0012086172
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,Energy systems,Electricity & heat,N2O,265,273.0,5.96848e-06,0.0015816472,0.00162939504
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,Energy systems,Other (energy systems),CH4,28,27.0,0.116141691,3.251967348,3.1358256570000003
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,Energy systems,Other (energy systems),N2O,265,273.0,0.00198992702,0.5273306603000001,0.54325007646
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,Industry,Chemicals,CO2,1,1.0,0.39275,0.39275,0.39275
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,Industry,Chemicals,N2O,265,273.0,8.6438e-05,0.02290607,0.023597574
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,Industry,Other (industry),CH4,28,27.0,0.0180569,0.5055932000000001,0.4875363
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,Industry,Other (industry),N2O,265,273.0,0.00240759,0.63801135,0.65727207
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,Industry,Waste,CH4,28,27.0,99.1881022,2777.2668616,2678.0787594000003
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,Buildings,Residential,CH4,28,27.0,0.0207604,0.5812911999999999,0.5605308
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,Buildings,Residential,N2O,265,273.0,0.000276805,0.073353325,0.075567765
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,Energy systems,Electricity & heat,CH4,28,27.0,5.11791e-05,0.0014330148,0.0013818357
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,Energy systems,Electricity & heat,N2O,265,273.0,6.82388e-06,0.0018083282,0.00186291924
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,Energy systems,Other (energy systems),CH4,28,27.0,0.122714518,3.436006504,3.313291986
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,Energy systems,Other (energy systems),N2O,265,273.0,0.00225017282,0.5962957973,0.61429717986
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,Industry,Chemicals,CO2,1,1.0,0.41225,0.41225,0.41225
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,Industry,Chemicals,N2O,265,273.0,9.0684e-05,0.02403126,0.024756732
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,Industry,Other (industry),CH4,28,27.0,0.0208273,0.5831644,0.5623371
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,Industry,Other (industry),N2O,265,273.0,0.00277697,0.73589705,0.7581128100000001
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,Industry,Waste,CH4,28,27.0,107.1982125,3001.54995,2894.3517375
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,Buildings,Residential,CH4,28,27.0,0.0217707,0.6095796,0.5878089
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,Buildings,Residential,N2O,265,273.0,0.000290276,0.07692314,0.079245348
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,Energy systems,Electricity & heat,CH4,28,27.0,5.29998e-05,0.0014839944,0.0014309946
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,Energy systems,Electricity & heat,N2O,265,273.0,7.06664e-06,0.0018726595999999,0.0019291927199999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,Energy systems,Other (energy systems),CH4,28,27.0,0.133548039,3.739345092,3.605797053
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,Energy systems,Other (energy systems),N2O,265,273.0,0.00220733066,0.5849426248999999,0.60260127018
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,Industry,Chemicals,CO2,1,1.0,0.43355,0.43355,0.43355
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,Industry,Chemicals,N2O,265,273.0,9.5359e-05,0.025270135,0.026033007
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,Industry,Other (industry),CH4,28,27.0,0.0195896,0.5485088,0.5289191999999999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,Industry,Other (industry),N2O,265,273.0,0.00261194,0.6921641000000001,0.71305962
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,Industry,Waste,CH4,28,27.0,116.1003729,3250.8104412,3134.7100683
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,Buildings,Residential,CH4,28,27.0,0.0223138,0.6247864000000001,0.6024726
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,Buildings,Residential,N2O,265,273.0,0.000297518,0.0788422699999999,0.0812224139999999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,Energy systems,Electricity & heat,CH4,28,27.0,5.271e-05,0.00147588,0.00142317
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,Energy systems,Electricity & heat,N2O,265,273.0,7.028e-06,0.00186242,0.001918644
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,Energy systems,Other (energy systems),CH4,28,27.0,0.15637363,4.37846164,4.22208801
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,Energy systems,Other (energy systems),N2O,265,273.0,0.00227900362,0.6039359593,0.62216798826
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,Industry,Chemicals,CO2,1,1.0,0.45485,0.45485,0.45485
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,Industry,Chemicals,N2O,265,273.0,0.000100045,0.026511925,0.027312285
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,Industry,Other (industry),CH4,28,27.0,0.0187553,0.5251484,0.5063930999999999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,Industry,Other (industry),N2O,265,273.0,0.0025007,0.6626854999999999,0.6826911
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,Industry,Waste,CH4,28,27.0,125.452704,3512.675712,3387.223008
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,Buildings,Residential,CH4,28,27.0,0.0257703,0.7215684,0.6957981
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,Buildings,Residential,N2O,265,273.0,0.000343604,0.09105506,0.093803892
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,Energy systems,Electricity & heat,CH4,28,27.0,5.94699e-05,0.0016651571999999,0.0016056872999999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,Energy systems,Electricity & heat,N2O,265,273.0,7.92932e-06,0.0021012698,0.00216470436
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,Energy systems,Other (energy systems),CH4,28,27.0,0.166625525,4.6655147,4.498889175
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,Energy systems,Other (energy systems),N2O,265,273.0,0.00253748256,0.6724328784,0.6927327388800001
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,Industry,Chemicals,CO2,1,1.0,0.4751,0.4751,0.4751
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,Industry,Chemicals,N2O,265,273.0,0.000104566,0.02770999,0.028546518
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,Industry,Other (industry),CH4,28,27.0,0.0212079,0.5938211999999999,0.5726133
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,Industry,Other (industry),N2O,265,273.0,0.00282772,0.7493458000000001,0.77196756
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,Industry,Waste,CH4,28,27.0,135.0220473,3780.6173244,3645.5952771
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,Buildings,Residential,CH4,28,27.0,0.0272253,0.7623084,0.7350831
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,Buildings,Residential,N2O,265,273.0,0.000363004,0.09619606,0.099100092
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,Energy systems,Electricity & heat,CH4,28,27.0,6.17676e-05,0.0017294927999999,0.0016677251999999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,Energy systems,Electricity & heat,N2O,265,273.0,8.23568e-06,0.0021824552,0.00224834064
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,Energy systems,Other (energy systems),CH4,28,27.0,0.159724612,4.472289136,4.312564524
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,Energy systems,Other (energy systems),N2O,265,273.0,0.00270616056,0.7171325484,0.73878183288
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,Industry,Chemicals,CO2,1,1.0,0.49365,0.49365,0.49365
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,Industry,Chemicals,N2O,265,273.0,0.000108625,0.028785625,0.029654625
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,Industry,Other (industry),CH4,28,27.0,0.0236776,0.6629728,0.6392952
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,Industry,Other (industry),N2O,265,273.0,0.00315701,0.83660765,0.86186373
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,Industry,Waste,CH4,28,27.0,143.9657006,4031.0396168,3887.0739162
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,Buildings,Residential,CH4,28,27.0,0.0231475,0.6481300000000001,0.6249825
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,Buildings,Residential,N2O,265,273.0,0.000308634,0.08178801,0.084257082
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,Energy systems,Other (energy systems),CH4,28,27.0,0.127112997,3.559163916,3.432050919
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,Energy systems,Other (energy systems),N2O,265,273.0,0.00228173356,0.6046593934000001,0.6229132618800001
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,Industry,Chemicals,CO2,1,1.0,0.5112,0.5112,0.5112
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,Industry,Chemicals,N2O,265,273.0,0.000112464,0.02980296,0.030702672
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,Industry,Other (industry),CH4,28,27.0,0.0201937,0.5654235999999999,0.5452298999999999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,Industry,Other (industry),N2O,265,273.0,0.0026925,0.7135125,0.7350525
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,Industry,Waste,CH4,28,27.0,152.8731273,4280.4475644,4127.5744371
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,Buildings,Residential,CH4,28,27.0,0.027606,0.772968,0.745362
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,Buildings,Residential,N2O,265,273.0,0.00036808,0.0975412,0.10048584
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,Energy systems,Other (energy systems),CH4,28,27.0,0.179615933,5.029246124,4.849630191
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,Energy systems,Other (energy systems),N2O,265,273.0,0.00260796744,0.6911113716,0.71197511112
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,Industry,Chemicals,CO2,1,1.0,0.5294,0.5294,0.5294
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,Industry,Chemicals,N2O,265,273.0,0.000116402,0.03084653,0.031777746
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,Industry,Other (industry),CH4,28,27.0,0.0212425,0.59479,0.5735475
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,Industry,Other (industry),N2O,265,273.0,0.00283234,0.7505701,0.77322882
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,Industry,Waste,CH4,28,27.0,162.2108021,4541.9024588,4379.6916567
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,Buildings,Residential,CH4,28,27.0,0.0294844,0.8255632,0.7960788
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,Buildings,Residential,N2O,265,273.0,0.000393126,0.10417839,0.107323398
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,Energy systems,Other (energy systems),CH4,28,27.0,0.168838804,4.7274865120000005,4.5586477080000005
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,Energy systems,Other (energy systems),N2O,265,273.0,0.00249616032,0.6614824847999999,0.68145176736
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,Industry,Chemicals,CO2,1,1.0,0.55095,0.55095,0.55095
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,Industry,Chemicals,N2O,265,273.0,0.000121187,0.032114555,0.033084051
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,Industry,Other (industry),CH4,28,27.0,0.0202277,0.5663756,0.5461479
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,Industry,Other (industry),N2O,265,273.0,0.00269703,0.71471295,0.73628919
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,Industry,Waste,CH4,28,27.0,173.0231078,4844.6470184,4671.623910599999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,Buildings,Residential,CH4,28,27.0,0.139966,3.919048,3.779082
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,Buildings,Residential,N2O,265,273.0,0.00186621,0.49454565,0.50947533
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,Energy systems,Electricity & heat,CH4,28,27.0,0.00259139,0.07255892,0.06996753
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,Energy systems,Electricity & heat,N2O,265,273.0,0.000345518,0.09156227,0.094326414
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,Energy systems,Other (energy systems),CH4,28,27.0,0.257965145,7.22302406,6.965058915
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,Energy systems,Other (energy systems),N2O,265,273.0,0.0033394974,0.884966811,0.9116827902
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,Industry,Chemicals,CO2,1,1.0,0.5775,0.5775,0.5775
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,Industry,Chemicals,N2O,265,273.0,0.000127072,0.0336740799999999,0.034690656
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,Industry,Other (industry),CH4,28,27.0,0.0159818,0.4474904,0.4315086
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,Industry,Other (industry),N2O,265,273.0,0.00213091,0.56469115,0.58173843
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,Industry,Waste,CH4,28,27.0,185.8131241,5202.7674748,5016.9543507
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,Buildings,Residential,CH4,28,27.0,0.0590484,1.6533552,1.5943068
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,Buildings,Residential,N2O,265,273.0,0.000787312,0.20863768,0.2149361759999999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,Energy systems,Electricity & heat,CH4,28,27.0,0.00255702,0.07159656,0.06903954
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,Energy systems,Electricity & heat,N2O,265,273.0,0.000340936,0.09034804,0.093075528
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,Energy systems,Other (energy systems),CH4,28,27.0,0.263881655,7.38868634,7.124804685
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,Energy systems,Other (energy systems),N2O,265,273.0,0.0029051734,0.769870951,0.7931123382
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,Industry,Chemicals,CO2,1,1.0,0.61025,0.61025,0.61025
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,Industry,Chemicals,N2O,265,273.0,0.000134266,0.03558049,0.036654618
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,Industry,Other (industry),CH4,28,27.0,0.0169473,0.4745243999999999,0.4575770999999999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,Industry,Other (industry),N2O,265,273.0,0.00225964,0.5988045999999999,0.61688172
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,Industry,Waste,CH4,28,27.0,199.8848994,5596.7771832,5396.8922838
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,Buildings,Residential,CH4,28,27.0,0.0642273,1.7983644,1.7341371
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,Buildings,Residential,N2O,265,273.0,0.000856364,0.22693646,0.233787372
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,Energy systems,Electricity & heat,CH4,28,27.0,0.00260678,0.07298984,0.07038306
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,Energy systems,Electricity & heat,N2O,265,273.0,0.00034757,0.09210605,0.09488661
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,Energy systems,Other (energy systems),CH4,28,27.0,0.215866253,6.044255084,5.828388831
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,Energy systems,Other (energy systems),N2O,265,273.0,0.0030803094,0.816281991,0.8409244661999999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,Industry,Chemicals,CO2,1,1.0,0.6485,0.6485,0.6485
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,Industry,Chemicals,N2O,265,273.0,0.000142648,0.03780172,0.038942904
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,Industry,Other (industry),CH4,28,27.0,0.021233,0.5945239999999999,0.573291
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,Industry,Other (industry),N2O,265,273.0,0.00283107,0.75023355,0.7728821100000001
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,Industry,Waste,CH4,28,27.0,215.5418925,6035.17299,5819.6310975
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,Buildings,Residential,CH4,28,27.0,0.0876972,2.4555216,2.3678244
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,Buildings,Residential,N2O,265,273.0,0.0011693,0.3098645,0.3192189
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,Energy systems,Electricity & heat,CH4,28,27.0,0.00314145,0.0879606,0.08481915
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,Energy systems,Electricity & heat,N2O,265,273.0,0.00041886,0.1109979,0.11434878
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,Energy systems,Other (energy systems),CH4,28,27.0,0.262587883,7.352460724,7.089872841000001
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,Energy systems,Other (energy systems),N2O,265,273.0,0.0037587678,0.996073467,1.0261436094
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,Industry,Chemicals,CO2,1,1.0,0.68965,0.68965,0.68965
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,Industry,Chemicals,N2O,265,273.0,0.000151679,0.040194935,0.041408367
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,Industry,Other (industry),CH4,28,27.0,0.0253431,0.7096068,0.6842637
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,Industry,Other (industry),N2O,265,273.0,0.00337908,0.8954562,0.92248884
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,Industry,Waste,CH4,28,27.0,233.6706994,6542.779583199999,6309.1088838
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,Buildings,Residential,CH4,28,27.0,0.0941406,2.6359368,2.5417962000000003
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,Buildings,Residential,N2O,265,273.0,0.00125521,0.33263065,0.34267233
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,Energy systems,Electricity & heat,CH4,28,27.0,0.00312348,0.08745744,0.08433396
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,Energy systems,Electricity & heat,N2O,265,273.0,0.000416464,0.11036296,0.113694672
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,Energy systems,Other (energy systems),CH4,28,27.0,0.29877893,8.36581004,8.06703111
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,Energy systems,Other (energy systems),N2O,265,273.0,0.0041272452,1.093719978,1.1267379396
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,Industry,Chemicals,CO2,1,1.0,0.72985,0.72985,0.72985
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,Industry,Chemicals,N2O,265,273.0,0.000160567,0.042550255,0.043834791
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,Industry,Other (industry),CH4,28,27.0,0.0269032,0.7532896,0.7263864
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,Industry,Other (industry),N2O,265,273.0,0.00358709,0.95057885,0.97927557
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,Industry,Waste,CH4,28,27.0,252.1230267,7059.4447476,6807.3217209
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Buildings,Residential,CO2,1,1.0,570.03108,570.03108,570.03108
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Buildings,Residential,CH4,28,27.0,0.159325189,4.461105292,4.3017801030000005
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Buildings,Residential,N2O,265,273.0,0.004812682,1.27536073,1.3138621860000002
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Energy systems,Electricity & heat,CO2,1,1.0,5526.4243,5526.4243,5526.4243
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Energy systems,Electricity & heat,CH4,28,27.0,0.06445998,1.80487944,1.74041946
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Energy systems,Electricity & heat,N2O,265,273.0,0.02476333,6.56228245,6.76038909
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Energy systems,Other (energy systems),CO2,1,1.0,3068.09939,3068.09939,3068.09939
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Energy systems,Other (energy systems),CH4,28,27.0,0.7229151,20.2416228,19.5187077
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Energy systems,Other (energy systems),N2O,265,273.0,0.212816522,56.396378330000005,58.098910506
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Industry,Chemicals,CO2,1,1.0,0.7667,0.7667,0.7667
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Industry,Chemicals,N2O,265,273.0,0.000168652,0.04469278,0.046041996
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Industry,Other (industry),CO2,1,1.0,510.81453,510.81453,510.81453
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Industry,Other (industry),CH4,28,27.0,0.046118805,1.29132654,1.245207735
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Industry,Other (industry),N2O,265,273.0,0.0074133843,1.9645468395,2.0238539139
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Industry,Waste,CH4,28,27.0,269.9451183,7558.463312399999,7288.5181941
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Transport,Domestic Aviation,CO2,1,1.0,305.0254,305.0254,305.0254
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Transport,Domestic Aviation,CH4,28,27.0,0.002159161,0.060456508,0.058297347
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Transport,Domestic Aviation,N2O,265,273.0,0.00863665,2.28871225,2.35780545
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Transport,Inland Shipping,CO2,1,1.0,2.90285,2.90285,2.90285
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Transport,Inland Shipping,CH4,28,27.0,0.000274223,0.0076782439999999,0.0074040209999999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Transport,Inland Shipping,N2O,265,273.0,7.83494e-05,0.020762591,0.0213893862
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Transport,Other (transport),CO2,1,1.0,403.86162,403.86162,403.86162
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Transport,Other (transport),CH4,28,27.0,0.018681643,0.523086004,0.5044043610000001
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Transport,Other (transport),N2O,265,273.0,0.0497561686,13.185384679,13.5834340278
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Transport,Road,CO2,1,1.0,1764.61766,1764.61766,1764.61766
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Transport,Road,CH4,28,27.0,0.5433269195,15.213153746,14.6698268265
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Transport,Road,N2O,265,273.0,0.0581986867,15.4226519755,15.8882414691
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Buildings,Residential,CO2,1,1.0,612.60475,612.60475,612.60475
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Buildings,Residential,CH4,28,27.0,0.17049026,4.77372728,4.60323702
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Buildings,Residential,N2O,265,273.0,0.0052431855,1.3894441574999998,1.4313896415
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Energy systems,Electricity & heat,CO2,1,1.0,5547.8916,5547.8916,5547.8916
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Energy systems,Electricity & heat,CH4,28,27.0,0.0653763,1.8305364,1.7651601
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Energy systems,Electricity & heat,N2O,265,273.0,0.025050009,6.638252385,6.838652457
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Energy systems,Other (energy systems),CO2,1,1.0,3086.5928,3086.5928,3086.5928
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Energy systems,Other (energy systems),CH4,28,27.0,0.731478923,20.481409844,19.749930921
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Energy systems,Other (energy systems),N2O,265,273.0,0.2128563986,56.406945629,58.1097968178
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Industry,Chemicals,CO2,1,1.0,0.79835,0.79835,0.79835
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Industry,Chemicals,N2O,265,273.0,0.000175626,0.0465408899999999,0.0479458979999999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Industry,Other (industry),CO2,1,1.0,491.25508,491.25508,491.25508
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Industry,Other (industry),CH4,28,27.0,0.048825589,1.367116492,1.318290903
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Industry,Other (industry),N2O,265,273.0,0.0077209457,2.0460506105,2.1078181761
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Industry,Waste,CH4,28,27.0,281.5325858,7882.912402399999,7601.3798166
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Transport,Domestic Aviation,CO2,1,1.0,306.2957,306.2957,306.2957
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Transport,Domestic Aviation,CH4,28,27.0,0.002167716,0.060696048,0.058528332
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Transport,Domestic Aviation,N2O,265,273.0,0.00867087,2.29778055,2.36714751
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Transport,Inland Shipping,CO2,1,1.0,2.91435,2.91435,2.91435
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Transport,Inland Shipping,CH4,28,27.0,0.000275309,0.007708652,0.007433343
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Transport,Inland Shipping,N2O,265,273.0,7.86598e-05,0.020844847,0.0214741254
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Transport,Other (transport),CO2,1,1.0,408.12035,408.12035,408.12035
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Transport,Other (transport),CH4,28,27.0,0.018832838,0.5273194640000001,0.508486626
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Transport,Other (transport),N2O,265,273.0,0.0488511676,12.945559414,13.3363687548
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Transport,Road,CO2,1,1.0,1803.030572,1803.030572,1803.030572
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Transport,Road,CH4,28,27.0,0.51217102163,14.340788605639998,13.82861758401
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Transport,Road,N2O,265,273.0,0.06114271482,16.2028194273,16.69196114586
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Buildings,Residential,CO2,1,1.0,599.92708,599.92708,599.92708
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Buildings,Residential,CH4,28,27.0,0.168064811,4.705814708,4.537749897
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Buildings,Residential,N2O,265,273.0,0.0051372981,1.3613839965,1.4024823813
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Energy systems,Electricity & heat,CO2,1,1.0,5018.8959,5018.8959,5018.8959
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Energy systems,Electricity & heat,CH4,28,27.0,0.059841639,1.675565892,1.615724253
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Energy systems,Electricity & heat,N2O,265,273.0,0.022909732,6.071078979999999,6.254356836
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Energy systems,Other (energy systems),CO2,1,1.0,2987.32297,2987.32297,2987.32297
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Energy systems,Other (energy systems),CH4,28,27.0,0.766743917,21.468829676,20.702085759
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Energy systems,Other (energy systems),N2O,265,273.0,0.20312018678,53.8268494967,55.45181099094
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Industry,Chemicals,CO2,1,1.0,0.82635,0.82635,0.82635
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Industry,Chemicals,N2O,265,273.0,0.000181808,0.04817912,0.0496335839999999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Industry,Other (industry),CO2,1,1.0,412.6992,412.6992,412.6992
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Industry,Other (industry),CH4,28,27.0,0.045823383,1.283054724,1.237231341
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Industry,Other (industry),N2O,265,273.0,0.0071139457,1.8851956105,1.9421071761
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Industry,Waste,CH4,28,27.0,286.4091385,8019.455878,7733.0467395
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Transport,Domestic Aviation,CO2,1,1.0,289.4503,289.4503,289.4503
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Transport,Domestic Aviation,CH4,28,27.0,0.002047863,0.057340164,0.055292301
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Transport,Domestic Aviation,N2O,265,273.0,0.008191452,2.17073478,2.236266396
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Transport,Inland Shipping,CO2,1,1.0,2.72789,2.72789,2.72789
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Transport,Inland Shipping,CH4,28,27.0,0.000257695,0.00721546,0.006957765
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Transport,Inland Shipping,N2O,265,273.0,7.36272e-05,0.019511208,0.0201002256
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Transport,Other (transport),CO2,1,1.0,376.4907,376.4907,376.4907
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Transport,Other (transport),CH4,28,27.0,0.017702835,0.49567938,0.477976545
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Transport,Other (transport),N2O,265,273.0,0.0529444649,14.0302831985,14.4538389177
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Transport,Road,CO2,1,1.0,1938.596568,1938.596568,1938.596568
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Transport,Road,CH4,28,27.0,0.5117161856,14.3280531968,13.8163370112
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Transport,Road,N2O,265,273.0,0.06681720725,17.706559921249998,18.24109757925
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Buildings,Residential,CO2,1,1.0,1240.97496,1240.97496,1240.97496
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Buildings,Residential,CH4,28,27.0,0.237418612,6.647721136,6.410302524
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Buildings,Residential,N2O,265,273.0,0.0099596903,2.6393179295,2.7189954519
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Energy systems,Electricity & heat,CO2,1,1.0,5590.4837,5590.4837,5590.4837
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Energy systems,Electricity & heat,CH4,28,27.0,0.06954183,1.94717124,1.87762941
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Energy systems,Electricity & heat,N2O,265,273.0,0.027077211,7.175460915,7.392078603
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Energy systems,Other (energy systems),CO2,1,1.0,791.94437,791.94437,791.94437
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Energy systems,Other (energy systems),CH4,28,27.0,0.535032251,14.980903027999998,14.445870777
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Energy systems,Other (energy systems),N2O,265,273.0,0.2264058776,59.997557564,61.8088045848
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Industry,Chemicals,CO2,1,1.0,0.8557,0.8557,0.8557
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Industry,Chemicals,N2O,265,273.0,0.000188265,0.0498902249999999,0.0513963449999999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Industry,Other (industry),CO2,1,1.0,966.68672,966.68672,966.68672
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Industry,Other (industry),CH4,28,27.0,0.066648751,1.866165028,1.7995162770000002
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Industry,Other (industry),N2O,265,273.0,0.0113109182,2.9973933230000003,3.0878806686
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Industry,Waste,CH4,28,27.0,296.2102434,8293.886815200001,7997.676571800001
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Transport,Domestic Aviation,CO2,1,1.0,235.6684,235.6684,235.6684
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Transport,Domestic Aviation,CH4,28,27.0,0.00166405,0.0465934,0.04492935
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Transport,Domestic Aviation,N2O,265,273.0,0.006656204,1.76389406,1.817143692
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Transport,Inland Shipping,CO2,1,1.0,2.85908,2.85908,2.85908
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Transport,Inland Shipping,CH4,28,27.0,0.000270089,0.007562492,0.007292403
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Transport,Inland Shipping,N2O,265,273.0,7.71682e-05,0.020449573,0.0210669186
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Transport,Other (transport),CO2,1,1.0,498.19417,498.19417,498.19417
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Transport,Other (transport),CH4,28,27.0,0.023873809,0.668466652,0.644592843
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Transport,Other (transport),N2O,265,273.0,0.0835410598,22.138380847,22.8067093254
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Transport,Road,CO2,1,1.0,3074.09791,3074.09791,3074.09791
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Transport,Road,CH4,28,27.0,0.6783840014,18.9947520392,18.3163680378
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Transport,Road,N2O,265,273.0,0.1007335167,26.6943819255,27.5002500591
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Buildings,Residential,CO2,1,1.0,1272.02514,1272.02514,1272.02514
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Buildings,Residential,CH4,28,27.0,0.246290801,6.896142428,6.649851627
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Buildings,Residential,N2O,265,273.0,0.0101735889,2.6960010585000003,2.7773897697
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Energy systems,Electricity & heat,CO2,1,1.0,4832.2374,4832.2374,4832.2374
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Energy systems,Electricity & heat,CH4,28,27.0,0.06767154,1.89480312,1.82713158
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Energy systems,Electricity & heat,N2O,265,273.0,0.024687319,6.542139535,6.739638087
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Energy systems,Other (energy systems),CO2,1,1.0,982.45919,982.45919,982.45919
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Energy systems,Other (energy systems),CH4,28,27.0,0.557703383,15.615694724,15.057991341
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Energy systems,Other (energy systems),N2O,265,273.0,0.2335227031,61.8835163215,63.7516979463
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Industry,Chemicals,CO2,1,1.0,0.8933,0.8933,0.8933
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Industry,Chemicals,N2O,265,273.0,0.000196504,0.05207356,0.053645592
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Industry,Other (industry),CO2,1,1.0,958.98555,958.98555,958.98555
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Industry,Other (industry),CH4,28,27.0,0.065920228,1.845766384,1.7798461559999998
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Industry,Other (industry),N2O,265,273.0,0.0111937859,2.9663532635,3.0559035507
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Industry,Waste,CH4,28,27.0,315.9927221,8847.7962188,8531.8034967
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Transport,Domestic Aviation,CO2,1,1.0,243.1096,243.1096,243.1096
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Transport,Domestic Aviation,CH4,28,27.0,0.0017170575,0.04807761,0.0463605525
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Transport,Domestic Aviation,N2O,265,273.0,0.006868232,1.82008148,1.875027336
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Transport,Inland Shipping,CO2,1,1.0,31.80224,31.80224,31.80224
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Transport,Inland Shipping,CH4,28,27.0,0.002992987,0.083803636,0.080810649
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Transport,Inland Shipping,N2O,265,273.0,0.0008551402,0.2266121529999999,0.2334532745999999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Transport,Other (transport),CO2,1,1.0,899.16702,899.16702,899.16702
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Transport,Other (transport),CH4,28,27.0,0.046218985,1.29413158,1.2479125949999998
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Transport,Other (transport),N2O,265,273.0,0.235319779,62.359741435,64.242299667
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Transport,Road,CO2,1,1.0,3474.21456,3474.21456,3474.21456
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Transport,Road,CH4,28,27.0,0.6845059248,19.1661658944,18.481659969600003
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Transport,Road,N2O,265,273.0,0.1155572491,30.6226710115,31.5471290043
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Buildings,Residential,CO2,1,1.0,4725.2058,4725.2058,4725.2058
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Buildings,Residential,CH4,28,27.0,0.63994955,17.9185874,17.27863785
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Buildings,Residential,N2O,265,273.0,0.031815775,8.431180374999999,8.685706575
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Energy systems,Electricity & heat,CO2,1,1.0,22991.37,22991.37,22991.37
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Energy systems,Electricity & heat,CH4,28,27.0,0.26831355,7.5127794,7.24446585
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Energy systems,Electricity & heat,N2O,265,273.0,0.11011332,29.1800298,30.06093636
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Energy systems,Other (energy systems),CO2,1,1.0,3518.9498,3518.9498,3518.9498
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Energy systems,Other (energy systems),CH4,28,27.0,1.08565201,30.39825628,29.31260427
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Energy systems,Other (energy systems),N2O,265,273.0,0.969526064,256.92440696,264.680615472
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Industry,Chemicals,CO2,1,1.0,0.9438,0.9438,0.9438
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Industry,Chemicals,N2O,265,273.0,0.000207603,0.055014795,0.0566756189999999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Industry,Other (industry),CO2,1,1.0,4072.8759,4072.8759,4072.8759
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Industry,Other (industry),CH4,28,27.0,0.184478351,5.165393828,4.980915477
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Industry,Other (industry),N2O,265,273.0,0.0349796853,9.2696166045,9.5494540869
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Industry,Waste,CH4,28,27.0,341.7390042,9568.6921176,9226.9531134
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Transport,Domestic Aviation,CO2,1,1.0,442.8177,442.8177,442.8177
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Transport,Domestic Aviation,CH4,28,27.0,0.003114498,0.087205944,0.084091446
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Transport,Domestic Aviation,N2O,265,273.0,0.012458008,3.30137212,3.401036184
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Transport,Inland Shipping,CO2,1,1.0,148.7743,148.7743,148.7743
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Transport,Inland Shipping,CH4,28,27.0,0.01400146,0.39204088,0.37803942
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Transport,Inland Shipping,N2O,265,273.0,0.004000422,1.06011183,1.092115206
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Transport,Other (transport),CO2,1,1.0,2455.4205,2455.4205,2455.4205
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Transport,Other (transport),CH4,28,27.0,0.134068455,3.75391674,3.619848285
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Transport,Other (transport),N2O,265,273.0,0.865875487,229.45700405500003,236.384007951
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Transport,Road,CO2,1,1.0,16771.43891,16771.43891,16771.43891
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Transport,Road,CH4,28,27.0,2.904795376,81.334270528,78.429475152
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Transport,Road,N2O,265,273.0,0.568134571,150.55566131499998,155.100737883
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Buildings,Residential,CO2,1,1.0,4768.3375,4768.3375,4768.3375
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Buildings,Residential,CH4,28,27.0,0.64132093,17.95698604,17.31566511
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Buildings,Residential,N2O,265,273.0,0.031175569,8.261525785,8.510930337
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Energy systems,Electricity & heat,CO2,1,1.0,24617.11,24617.11,24617.11
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Energy systems,Electricity & heat,CH4,28,27.0,0.28723932,8.042700960000001,7.755461640000001
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Energy systems,Electricity & heat,N2O,265,273.0,0.118039856,31.28056184,32.224880688
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Energy systems,Other (energy systems),CO2,1,1.0,4054.829,4054.829,4054.829
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Energy systems,Other (energy systems),CH4,28,27.0,2.00410418,56.11491704,54.11081286
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Energy systems,Other (energy systems),N2O,265,273.0,0.983052286,260.50885579000004,268.373274078
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Industry,Chemicals,CO2,1,1.0,1.0093,1.0093,1.0093
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Industry,Chemicals,N2O,265,273.0,0.000222035,0.058839275,0.060615555
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Industry,Other (industry),CO2,1,1.0,3828.4134,3828.4134,3828.4134
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Industry,Other (industry),CH4,28,27.0,0.175453569,4.912699932,4.737246363
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Industry,Other (industry),N2O,265,273.0,0.0331111477,8.774454140500001,9.0393433221
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Industry,Waste,CH4,28,27.0,363.9275488,10189.9713664,9826.0438176
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Transport,Domestic Aviation,CO2,1,1.0,459.0905,459.0905,459.0905
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Transport,Domestic Aviation,CH4,28,27.0,0.003228955,0.09041074,0.087181785
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Transport,Domestic Aviation,N2O,265,273.0,0.012915828,3.42269442,3.526021044
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Transport,Inland Shipping,CO2,1,1.0,154.2415,154.2415,154.2415
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Transport,Inland Shipping,CH4,28,27.0,0.01451608,0.40645024,0.39193416
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Transport,Inland Shipping,N2O,265,273.0,0.004147456,1.09907584,1.132255488
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Transport,Other (transport),CO2,1,1.0,2616.1517,2616.1517,2616.1517
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Transport,Other (transport),CH4,28,27.0,0.14272209,3.99621852,3.85349643
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Transport,Other (transport),N2O,265,273.0,0.91950302,243.6683003,251.02432446
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Transport,Road,CO2,1,1.0,17828.34589,17828.34589,17828.34589
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Transport,Road,CH4,28,27.0,2.7144529225,76.00468183,73.2902289075
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Transport,Road,N2O,265,273.0,0.612019848,162.18525972,167.081418504
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Buildings,Residential,CO2,1,1.0,6349.7426,6349.7426,6349.7426
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Buildings,Residential,CH4,28,27.0,0.8307741,23.2616748,22.4309007
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Buildings,Residential,N2O,265,273.0,0.041249977,10.931243905,11.261243721
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Energy systems,Electricity & heat,CO2,1,1.0,32563.93,32563.93,32563.93
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Energy systems,Electricity & heat,CH4,28,27.0,0.37862983,10.60163524,10.22300541
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Energy systems,Electricity & heat,N2O,265,273.0,0.15622058,41.3984537,42.64821834
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Energy systems,Other (energy systems),CO2,1,1.0,4821.881,4821.881,4821.881
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Energy systems,Other (energy systems),CH4,28,27.0,2.40517528,67.34490783999999,64.93973256
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Energy systems,Other (energy systems),N2O,265,273.0,1.169906371,310.025188315,319.384439283
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Industry,Chemicals,CO2,1,1.0,1.087,1.087,1.087
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Industry,Chemicals,N2O,265,273.0,0.000239162,0.06337793,0.065291226
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Industry,Other (industry),CO2,1,1.0,5099.6158,5099.6158,5099.6158
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Industry,Other (industry),CH4,28,27.0,0.227584265,6.37235942,6.1447751550000005
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Industry,Other (industry),N2O,265,273.0,0.0432578245,11.4633234925,11.8093860885
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Industry,Waste,CH4,28,27.0,397.9252209,11141.9061852,10743.9809643
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Transport,Domestic Aviation,CO2,1,1.0,525.8477,525.8477,525.8477
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Transport,Domestic Aviation,CH4,28,27.0,0.003696054,0.1034895119999999,0.099793458
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Transport,Domestic Aviation,N2O,265,273.0,0.01478422,3.9178183,4.0360920600000005
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Transport,Inland Shipping,CO2,1,1.0,219.0096,219.0096,219.0096
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Transport,Inland Shipping,CH4,28,27.0,0.020618,0.577304,0.556686
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Transport,Inland Shipping,N2O,265,273.0,0.005890856,1.56107684,1.608203688
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Transport,Other (transport),CO2,1,1.0,3039.9058,3039.9058,3039.9058
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Transport,Other (transport),CH4,28,27.0,0.16530772,4.62861616,4.46330844
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Transport,Other (transport),N2O,265,273.0,1.055813333,279.79053324499995,288.237039909
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Transport,Road,CO2,1,1.0,20511.13313,20511.13313,20511.13313
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Transport,Road,CH4,28,27.0,2.9959728834,83.8872407352,80.8912678518
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Transport,Road,N2O,265,273.0,0.690970183,183.107098495,188.634859959
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Buildings,Residential,CO2,1,1.0,6793.9161,6793.9161,6793.9161
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Buildings,Residential,CH4,28,27.0,0.889042095,24.89317866,24.004136565
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Buildings,Residential,N2O,265,273.0,0.042793907,11.340385355,11.682736611
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Energy systems,Electricity & heat,CO2,1,1.0,37148.62,37148.62,37148.62
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Energy systems,Electricity & heat,CH4,28,27.0,0.42950092,12.02602576,11.59652484
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Energy systems,Electricity & heat,N2O,265,273.0,0.177239236,46.96839754,48.386311428
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Energy systems,Other (energy systems),CO2,1,1.0,4768.6021,4768.6021,4768.6021
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Energy systems,Other (energy systems),CH4,28,27.0,2.50828115,70.2318722,67.72359105000001
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Energy systems,Other (energy systems),N2O,265,273.0,1.26232501,334.51612765000004,344.61472773
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Industry,Chemicals,CO2,1,1.0,1.1706,1.1706,1.1706
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Industry,Chemicals,N2O,265,273.0,0.00025751,0.06824015,0.07030023
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Industry,Other (industry),CO2,1,1.0,4928.9102,4928.9102,4928.9102
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Industry,Other (industry),CH4,28,27.0,0.219487018,6.1456365040000005,5.926149486
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Industry,Other (industry),N2O,265,273.0,0.0417179863,11.0552663695,11.3890102599
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Industry,Waste,CH4,28,27.0,239.8681726,6716.3088328,6476.4406602
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Transport,Domestic Aviation,CO2,1,1.0,644.6863,644.6863,644.6863
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Transport,Domestic Aviation,CH4,28,27.0,0.004531404,0.126879312,0.122347908
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Transport,Domestic Aviation,N2O,265,273.0,0.018125624,4.80329036,4.948295352
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Transport,Inland Shipping,CO2,1,1.0,216.4575,216.4575,216.4575
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Transport,Inland Shipping,CH4,28,27.0,0.02037133,0.57039724,0.55002591
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Transport,Inland Shipping,N2O,265,273.0,0.00582039,1.54240335,1.58896647
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Transport,Other (transport),CO2,1,1.0,3118.3973,3118.3973,3118.3973
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Transport,Other (transport),CH4,28,27.0,0.16870971,4.723871880000001,4.55516217
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Transport,Other (transport),N2O,265,273.0,1.062134942,281.46575963,289.962839166
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Transport,Road,CO2,1,1.0,22964.78392,22964.78392,22964.78392
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Transport,Road,CH4,28,27.0,3.11491401,87.21759228,84.10267827
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Transport,Road,N2O,265,273.0,0.7542250275,199.8696322875,205.9034325075
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Buildings,Residential,CO2,1,1.0,6131.6728,6131.6728,6131.6728
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Buildings,Residential,CH4,28,27.0,0.81992275,22.957837,22.13791425
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Buildings,Residential,N2O,265,273.0,0.039562087,10.483953055,10.800449751
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Energy systems,Electricity & heat,CO2,1,1.0,38942.22,38942.22,38942.22
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Energy systems,Electricity & heat,CH4,28,27.0,0.45034893,12.60977004,12.15942111
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Energy systems,Electricity & heat,N2O,265,273.0,0.18511898,49.0565297,50.53748154
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Energy systems,Other (energy systems),CO2,1,1.0,4132.8882,4132.8882,4132.8882
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Energy systems,Other (energy systems),CH4,28,27.0,1.37973953,38.63270684,37.25296731
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Energy systems,Other (energy systems),N2O,265,273.0,1.301991419,345.027726035,355.443657387
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Industry,Chemicals,CO2,1,1.0,1.25125,1.25125,1.25125
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Industry,Chemicals,N2O,265,273.0,0.000275308,0.07295662,0.075159084
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Industry,Other (industry),CO2,1,1.0,5771.7624,5771.7624,5771.7624
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Industry,Other (industry),CH4,28,27.0,0.256566545,7.183863259999999,6.927296715
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Industry,Other (industry),N2O,265,273.0,0.0489011466,12.958803849,13.3500130218
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Industry,Waste,CH4,28,27.0,351.0756103,9830.1170884,9479.0414781
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Transport,Domestic Aviation,CO2,1,1.0,851.0151,851.0151,851.0151
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Transport,Domestic Aviation,CH4,28,27.0,0.005965769,0.167041532,0.161075763
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Transport,Domestic Aviation,N2O,265,273.0,0.023863034,6.32370401,6.514608282
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Transport,Inland Shipping,CO2,1,1.0,218.7426,218.7426,218.7426
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Transport,Inland Shipping,CH4,28,27.0,0.02058642,0.5764197600000001,0.5558333400000001
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Transport,Inland Shipping,N2O,265,273.0,0.005881826,1.55868389,1.605738498
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Transport,Other (transport),CO2,1,1.0,3430.5142,3430.5142,3430.5142
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Transport,Other (transport),CH4,28,27.0,0.18489121,5.17695388,4.99206267
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Transport,Other (transport),N2O,265,273.0,1.150992053,305.012894045,314.220830469
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Transport,Road,CO2,1,1.0,24794.73088,24794.73088,24794.73088
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Transport,Road,CH4,28,27.0,2.87768752196,80.57525061488,77.69756309292
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Transport,Road,N2O,265,273.0,0.7281404639,192.9572229335,198.7823466447
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Buildings,Residential,CO2,1,1.0,7136.7687,7136.7687,7136.7687
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Buildings,Residential,CH4,28,27.0,0.937722064,26.256217792,25.318495728
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Buildings,Residential,N2O,265,273.0,0.045357225,12.019664625,12.382522425
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Energy systems,Electricity & heat,CO2,1,1.0,45543.71,45543.71,45543.71
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Energy systems,Electricity & heat,CH4,28,27.0,0.52467001,14.69076028,14.16609027
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Energy systems,Electricity & heat,N2O,265,273.0,0.217128488,57.53904932,59.276077224000005
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Energy systems,Other (energy systems),CO2,1,1.0,2868.7082,2868.7082,2868.7082
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Energy systems,Other (energy systems),CH4,28,27.0,1.30338745,36.4948486,35.19146115
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Energy systems,Other (energy systems),N2O,265,273.0,1.440997652,381.86437778,393.392358996
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Industry,Chemicals,CO2,1,1.0,1.3225,1.3225,1.3225
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Industry,Chemicals,N2O,265,273.0,0.000290928,0.07709592,0.0794233439999999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Industry,Other (industry),CO2,1,1.0,4943.6666,4943.6666,4943.6666
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Industry,Other (industry),CH4,28,27.0,0.218337369,6.1134463320000005,5.895108963
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Industry,Other (industry),N2O,265,273.0,0.0415295937,11.0053423305,11.3375790801
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Industry,Waste,CH4,28,27.0,391.4625632,10960.9517696,10569.4892064
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Transport,Domestic Aviation,CO2,1,1.0,1030.1686,1030.1686,1030.1686
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Transport,Domestic Aviation,CH4,28,27.0,0.007221255,0.20219514,0.194973885
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Transport,Domestic Aviation,N2O,265,273.0,0.028885022,7.65453083,7.885611005999999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Transport,Inland Shipping,CO2,1,1.0,164.5254,164.5254,164.5254
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Transport,Inland Shipping,CH4,28,27.0,0.01545046,0.43261288,0.41716242
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Transport,Inland Shipping,N2O,265,273.0,0.00441443,1.1698239499999998,1.2051393899999998
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Transport,Other (transport),CO2,1,1.0,3728.1776,3728.1776,3728.1776
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Transport,Other (transport),CH4,28,27.0,0.19979904,5.59437312,5.39457408
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Transport,Other (transport),N2O,265,273.0,1.225389198,324.72813747,334.531251054
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Transport,Road,CO2,1,1.0,30151.21059,30151.21059,30151.21059
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Transport,Road,CH4,28,27.0,3.4832548029,97.5311344812,94.0478796783
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Transport,Road,N2O,265,273.0,0.876370172,232.23809558,239.249056956
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Buildings,Residential,CO2,1,1.0,7332.6328,7332.6328,7332.6328
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Buildings,Residential,CH4,28,27.0,0.943015666,26.404438648,25.461422982
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Buildings,Residential,N2O,265,273.0,0.044761158,11.86170687,12.219796134
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Energy systems,Electricity & heat,CO2,1,1.0,50626.36,50626.36,50626.36
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Energy systems,Electricity & heat,CH4,28,27.0,0.58286027,16.320087559999997,15.737227289999998
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Energy systems,Electricity & heat,N2O,265,273.0,0.241489636,63.994753540000005,65.926670628
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Energy systems,Other (energy systems),CO2,1,1.0,3541.259,3541.259,3541.259
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Energy systems,Other (energy systems),CH4,28,27.0,1.46266057,40.95449596,39.49183539
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Energy systems,Other (energy systems),N2O,265,273.0,1.619994571,429.298561315,442.258517883
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Industry,Chemicals,CO2,1,1.0,1.3821,1.3821,1.3821
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Industry,Chemicals,N2O,265,273.0,0.000304062,0.08057643,0.083008926
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Industry,Other (industry),CO2,1,1.0,5277.7692,5277.7692,5277.7692
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Industry,Other (industry),CH4,28,27.0,0.231989627,6.495709556,6.2637199290000005
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Industry,Other (industry),N2O,265,273.0,0.0441913907,11.7107185355,12.0642496611
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Industry,Waste,CH4,28,27.0,391.8066806,10970.5870568,10578.7803762
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Transport,Domestic Aviation,CO2,1,1.0,1201.3467,1201.3467,1201.3467
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Transport,Domestic Aviation,CH4,28,27.0,0.008420291,0.235768148,0.227347857
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Transport,Domestic Aviation,N2O,265,273.0,0.033681274,8.92553761,9.194987802
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Transport,Inland Shipping,CO2,1,1.0,235.7073,235.7073,235.7073
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Transport,Inland Shipping,CH4,28,27.0,0.02216432,0.62060096,0.5984366400000001
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Transport,Inland Shipping,N2O,265,273.0,0.006332654,1.67815331,1.728814542
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Transport,Other (transport),CO2,1,1.0,3447.3311,3447.3311,3447.3311
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Transport,Other (transport),CH4,28,27.0,0.181961242,5.094914776,4.912953534
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Transport,Other (transport),N2O,265,273.0,1.062153838,281.47076707,289.967997774
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Transport,Road,CO2,1,1.0,34126.86997,34126.86997,34126.86997
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Transport,Road,CH4,28,27.0,3.9638835067,110.9887381876,107.0248546809
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Transport,Road,N2O,265,273.0,0.9963111265,264.0224485225,271.9929375345
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Buildings,Residential,CO2,1,1.0,7729.7433,7729.7433,7729.7433
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Buildings,Residential,CH4,28,27.0,1.001379568,28.038627904,27.037248336
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Buildings,Residential,N2O,265,273.0,0.048130404,12.75455706,13.139600292
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Energy systems,Electricity & heat,CO2,1,1.0,58485.06,58485.06,58485.06
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Energy systems,Electricity & heat,CH4,28,27.0,0.67329144,18.85216032,18.17886888
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Energy systems,Electricity & heat,N2O,265,273.0,0.279391152,74.03865528,76.27378449599999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Energy systems,Other (energy systems),CO2,1,1.0,4378.3301,4378.3301,4378.3301
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Energy systems,Other (energy systems),CH4,28,27.0,1.75687689,49.19255292,47.43567603
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Energy systems,Other (energy systems),N2O,265,273.0,1.854808406,491.52422759,506.362694838
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Industry,Chemicals,CO2,1,1.0,1.4319,1.4319,1.4319
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Industry,Chemicals,N2O,265,273.0,0.00031504,0.0834856,0.08600592
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Industry,Other (industry),CO2,1,1.0,5853.453,5853.453,5853.453
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Industry,Other (industry),CH4,28,27.0,0.253509885,7.09827678,6.844766894999999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Industry,Other (industry),N2O,265,273.0,0.0485068695,12.8543204175,13.2423753735
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Industry,Waste,CH4,28,27.0,403.8251661,11307.1046508,10903.2794847
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Transport,Domestic Aviation,CO2,1,1.0,1358.0058,1358.0058,1358.0058
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Transport,Domestic Aviation,CH4,28,27.0,0.009517424,0.266487872,0.256970448
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Transport,Domestic Aviation,N2O,265,273.0,0.03806978,10.0884917,10.39304994
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Transport,Inland Shipping,CO2,1,1.0,255.3495,255.3495,255.3495
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Transport,Inland Shipping,CH4,28,27.0,0.02401121,0.67231388,0.6483026700000001
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Transport,Inland Shipping,N2O,265,273.0,0.006860358,1.81799487,1.872877734
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Transport,Other (transport),CO2,1,1.0,4447.7414,4447.7414,4447.7414
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Transport,Other (transport),CH4,28,27.0,0.23750292,6.65008176,6.41257884
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Transport,Other (transport),N2O,265,273.0,1.436612384,380.70228176,392.195180832
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Transport,Road,CO2,1,1.0,38981.9649,38981.9649,38981.9649
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Transport,Road,CH4,28,27.0,4.3977156311,123.1360376708,118.7383220397
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Transport,Road,N2O,265,273.0,1.1113166565,294.4989139725,303.38944722450003
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Buildings,Non-residential,CO2,1,1.0,29.465,29.465,29.465
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Buildings,Non-residential,CH4,28,27.0,0.00380685,0.1065918,0.10278495
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Buildings,Non-residential,N2O,265,273.0,0.000228411,0.060528915,0.062356203
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Buildings,Residential,CO2,1,1.0,8248.9941,8248.9941,8248.9941
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Buildings,Residential,CH4,28,27.0,1.073007493,30.044209804,28.971202311
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Buildings,Residential,N2O,265,273.0,0.051501174,13.64781111,14.059820502
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Energy systems,Electricity & heat,CO2,1,1.0,64269.34,64269.34,64269.34
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Energy systems,Electricity & heat,CH4,28,27.0,0.73759877,20.65276556,19.91516679
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Energy systems,Electricity & heat,N2O,265,273.0,0.305736496,81.02017144000001,83.46606340800001
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Energy systems,Other (energy systems),CO2,1,1.0,2603.0362,2603.0362,2603.0362
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Energy systems,Other (energy systems),CH4,28,27.0,1.51020706,42.28579768,40.77559062
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Energy systems,Other (energy systems),N2O,265,273.0,1.963213208,520.25150012,535.957205784
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Industry,Chemicals,CO2,1,1.0,1.47405,1.47405,1.47405
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Industry,Chemicals,N2O,265,273.0,0.000324291,0.085937115,0.088531443
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Industry,Other (industry),CO2,1,1.0,5794.2792,5794.2792,5794.2792
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Industry,Other (industry),CH4,28,27.0,0.250770065,7.02156182,6.770791754999999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Industry,Other (industry),N2O,265,273.0,0.0479918825,12.7178488625,13.1017839225
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Industry,Waste,CH4,28,27.0,446.6676516,12506.6942448,12060.0265932
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Transport,Domestic Aviation,CO2,1,1.0,1575.5413,1575.5413,1575.5413
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Transport,Domestic Aviation,CH4,28,27.0,0.011044621,0.3092493879999999,0.298204767
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Transport,Domestic Aviation,N2O,265,273.0,0.044178566,11.70731999,12.060748518
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Transport,Inland Shipping,CO2,1,1.0,273.471,273.471,273.471
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Transport,Inland Shipping,CH4,28,27.0,0.02571529,0.7200281199999999,0.69431283
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Transport,Inland Shipping,N2O,265,273.0,0.00734723,1.94701595,2.00579379
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Transport,Other (transport),CO2,1,1.0,4640.6753,4640.6753,4640.6753
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Transport,Other (transport),CH4,28,27.0,0.2479674,6.9430872,6.6951198000000005
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Transport,Other (transport),N2O,265,273.0,1.502925671,398.275302815,410.298708183
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Transport,Road,CO2,1,1.0,41230.6718,41230.6718,41230.6718
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Transport,Road,CH4,28,27.0,4.6887688556,131.2855279568,126.5967591012
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Transport,Road,N2O,265,273.0,1.183100962,313.52175493,322.986562626
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Buildings,Non-residential,CO2,1,1.0,31.4543,31.4543,31.4543
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Buildings,Non-residential,CH4,28,27.0,0.00406386,0.11378808,0.10972422
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Buildings,Non-residential,N2O,265,273.0,0.000243832,0.06461548,0.066566136
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Buildings,Residential,CO2,1,1.0,8687.0262,8687.0262,8687.0262
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Buildings,Residential,CH4,28,27.0,1.134876423,31.776539844,30.641663421
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Buildings,Residential,N2O,265,273.0,0.054956094,14.56336491,15.003013662
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Energy systems,Electricity & heat,CO2,1,1.0,69727.19,69727.19,69727.19
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Energy systems,Electricity & heat,CH4,28,27.0,0.79939994,22.38319832,21.58379838
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Energy systems,Electricity & heat,N2O,265,273.0,0.331274532,87.78775098,90.437947236
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Energy systems,Other (energy systems),CO2,1,1.0,4744.6805,4744.6805,4744.6805
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Energy systems,Other (energy systems),CH4,28,27.0,1.94413936,54.435902080000005,52.49176272
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Energy systems,Other (energy systems),N2O,265,273.0,2.189886396,580.3198949399999,597.838986108
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Industry,Chemicals,CO2,1,1.0,1.51235,1.51235,1.51235
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Industry,Chemicals,N2O,265,273.0,0.000332695,0.088164175,0.0908257349999999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Industry,Other (industry),CO2,1,1.0,6133.3096,6133.3096,6133.3096
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Industry,Other (industry),CH4,28,27.0,0.262549184,7.351377151999999,7.088827968
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Industry,Other (industry),N2O,265,273.0,0.0502931254,13.327678231,13.7300232342
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Industry,Waste,CH4,28,27.0,448.0080874,12544.2264472,12096.2183598
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Transport,Domestic Aviation,CO2,1,1.0,1551.8817,1551.8817,1551.8817
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Transport,Domestic Aviation,CH4,28,27.0,0.010880979,0.304667412,0.293786433
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Transport,Domestic Aviation,N2O,265,273.0,0.043523878,11.53382767,11.882018694
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Transport,Inland Shipping,CO2,1,1.0,291.9333,291.9333,291.9333
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Transport,Inland Shipping,CH4,28,27.0,0.0274514,0.7686392,0.7411878000000001
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Transport,Inland Shipping,N2O,265,273.0,0.007843252,2.07846178,2.141207796
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Transport,Other (transport),CO2,1,1.0,4889.2334,4889.2334,4889.2334
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Transport,Other (transport),CH4,28,27.0,0.26158468,7.324371040000001,7.0627863600000005
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Transport,Other (transport),N2O,265,273.0,1.591639136,421.78437104,434.517484128
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Transport,Road,CO2,1,1.0,46649.555,46649.555,46649.555
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Transport,Road,CH4,28,27.0,5.3661729164,150.2528416592,144.8866687428
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Transport,Road,N2O,265,273.0,1.351165226,358.05878489,368.868106698
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Buildings,Non-residential,CO2,1,1.0,564.9536,564.9536,564.9536
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Buildings,Non-residential,CH4,28,27.0,0.07605727,2.12960356,2.05354629
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Buildings,Non-residential,N2O,265,273.0,0.004563438,1.20931107,1.245818574
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Buildings,Residential,CO2,1,1.0,3961.79,3961.79,3961.79
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Buildings,Residential,CH4,28,27.0,0.468402878,13.115280584,12.646877706
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Buildings,Residential,N2O,265,273.0,0.015077422,3.99551683,4.116136206
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Energy systems,Electricity & heat,CO2,1,1.0,84495.746,84495.746,84495.746
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Energy systems,Electricity & heat,CH4,28,27.0,0.96550165,27.0340462,26.06854455
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Energy systems,Electricity & heat,N2O,265,273.0,0.39329443,104.22302395,107.36937939
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Energy systems,Other (energy systems),CO2,1,1.0,1551.2351,1551.2351,1551.2351
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Energy systems,Other (energy systems),CH4,28,27.0,0.99769282,27.93539896,26.93770614
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Energy systems,Other (energy systems),N2O,265,273.0,2.472053973,655.094302845,674.870734629
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Industry,Chemicals,CO2,1,1.0,1.54965,1.54965,1.54965
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Industry,Chemicals,N2O,265,273.0,0.000340934,0.0903475099999999,0.093074982
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Industry,Other (industry),CO2,1,1.0,5073.4342,5073.4342,5073.4342
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Industry,Other (industry),CH4,28,27.0,0.22352398,6.2586714400000005,6.03514746
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Industry,Other (industry),N2O,265,273.0,0.042325821,11.216342565,11.554949133
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Industry,Waste,CH4,28,27.0,438.484517,12277.566476,11839.081959
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Transport,Domestic Aviation,CO2,1,1.0,1189.3983,1189.3983,1189.3983
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Transport,Domestic Aviation,CH4,28,27.0,0.008332057,0.233297596,0.224965539
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Transport,Domestic Aviation,N2O,265,273.0,0.033328214,8.831976710000001,9.098602422
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Transport,Inland Shipping,CO2,1,1.0,351.3966,351.3966,351.3966
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Transport,Inland Shipping,CH4,28,27.0,0.03384703,0.94771684,0.91386981
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Transport,Inland Shipping,N2O,265,273.0,0.009670574,2.56270211,2.640066702
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Transport,Other (transport),CO2,1,1.0,5953.171,5953.171,5953.171
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Transport,Other (transport),CH4,28,27.0,0.29947631,8.38533668,8.08586037
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Transport,Other (transport),N2O,265,273.0,1.46979562,389.4958393,401.25420426
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Transport,Road,CO2,1,1.0,49766.3296,49766.3296,49766.3296
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Transport,Road,CH4,28,27.0,5.428925941,152.009926348,146.581000407
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Transport,Road,N2O,265,273.0,1.380655224,365.87363436,376.918876152
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Buildings,Non-residential,CO2,1,1.0,3594.406,3594.406,3594.406
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Buildings,Non-residential,CH4,28,27.0,0.49777913,13.93781564,13.44003651
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Buildings,Non-residential,N2O,265,273.0,0.029866668,7.914667019999999,8.153600363999999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Buildings,Residential,CO2,1,1.0,5042.3508,5042.3508,5042.3508
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Buildings,Residential,CH4,28,27.0,0.540443852,15.132427856,14.591984004
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Buildings,Residential,N2O,265,273.0,0.018753946,4.96979569,5.119827258
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Energy systems,Electricity & heat,CO2,1,1.0,90632.846,90632.846,90632.846
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Energy systems,Electricity & heat,CH4,28,27.0,1.05235267,29.46587476,28.413522090000004
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Energy systems,Electricity & heat,N2O,265,273.0,0.435419316,115.38611874,118.869473268
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Energy systems,Other (energy systems),CO2,1,1.0,1164.9123,1164.9123,1164.9123
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Energy systems,Other (energy systems),CH4,28,27.0,0.4865727,13.6240356,13.1374629
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Energy systems,Other (energy systems),N2O,265,273.0,2.542279431,673.7040492149999,694.0422846629999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Industry,Chemicals,CO2,1,1.0,1.58635,1.58635,1.58635
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Industry,Chemicals,N2O,265,273.0,0.000349041,0.092495865,0.095288193
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Industry,Other (industry),CO2,1,1.0,7000.8029,7000.8029,7000.8029
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Industry,Other (industry),CH4,28,27.0,0.30795503,8.62274084,8.31478581
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Industry,Other (industry),N2O,265,273.0,0.058880898,15.60343797,16.074485154
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Industry,Waste,CH4,28,27.0,453.9090664,12709.4538592,12255.5447928
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Transport,Domestic Aviation,CO2,1,1.0,1831.8597,1831.8597,1831.8597
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Transport,Domestic Aviation,CH4,28,27.0,0.012840227,0.359526356,0.3466861289999999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Transport,Domestic Aviation,N2O,265,273.0,0.05136095,13.61065175,14.02153935
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Transport,Inland Shipping,CO2,1,1.0,306.626,306.626,306.626
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Transport,Inland Shipping,CH4,28,27.0,0.02876659,0.80546452,0.7766979300000001
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Transport,Inland Shipping,N2O,265,273.0,0.00821903,2.17804295,2.24379519
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Transport,Other (transport),CO2,1,1.0,8661.171,8661.171,8661.171
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Transport,Other (transport),CH4,28,27.0,0.4383499,12.2737972,11.8354473
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Transport,Other (transport),N2O,265,273.0,2.20268558,583.7116787,601.3331633399999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Transport,Road,CO2,1,1.0,49384.70911,49384.70911,49384.70911
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Transport,Road,CH4,28,27.0,6.4642779372,180.9997822416,174.5355043044
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Transport,Road,N2O,265,273.0,1.5914021965,421.7215820725,434.4527996445
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Buildings,Non-residential,CO2,1,1.0,6121.2005,6121.2005,6121.2005
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Buildings,Non-residential,CH4,28,27.0,0.8427617,23.5973276,22.7545659
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Buildings,Non-residential,N2O,265,273.0,0.050565642,13.39989513,13.804420266
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Buildings,Residential,CO2,1,1.0,6109.7018,6109.7018,6109.7018
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Buildings,Residential,CH4,28,27.0,0.635768423,17.801515844,17.165747421
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Buildings,Residential,N2O,265,273.0,0.021890847,5.801074455,5.976201231
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Energy systems,Electricity & heat,CO2,1,1.0,89181.631,89181.631,89181.631
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Energy systems,Electricity & heat,CH4,28,27.0,1.02612419,28.73147732,27.70535313
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Energy systems,Electricity & heat,N2O,265,273.0,0.422868782,112.06022723,115.443177486
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Energy systems,Other (energy systems),CO2,1,1.0,1908.546,1908.546,1908.546
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Energy systems,Other (energy systems),CH4,28,27.0,0.60074144,16.820760319999998,16.220018879999998
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Energy systems,Other (energy systems),N2O,265,273.0,2.7606806398,731.5803695469999,753.6658146653999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Industry,Chemicals,CO2,1,1.0,1.6215,1.6215,1.6215
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Industry,Chemicals,N2O,265,273.0,0.000356741,0.094536365,0.097390293
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Industry,Other (industry),CO2,1,1.0,11242.0994,11242.0994,11242.0994
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Industry,Other (industry),CH4,28,27.0,0.46952971,13.14683188,12.67730217
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Industry,Other (industry),N2O,265,273.0,0.091415257,24.225043105,24.956365161
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Industry,Waste,CH4,28,27.0,468.6153044,13121.2285232,12652.6132188
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Transport,Domestic Aviation,CO2,1,1.0,1745.8946,1745.8946,1745.8946
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Transport,Domestic Aviation,CH4,28,27.0,0.012243886,0.342828808,0.330584922
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Transport,Domestic Aviation,N2O,265,273.0,0.048975586,12.97853029,13.370334978
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Transport,Inland Shipping,CO2,1,1.0,284.4163,284.4163,284.4163
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Transport,Inland Shipping,CH4,28,27.0,0.02668299,0.74712372,0.72044073
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Transport,Inland Shipping,N2O,265,273.0,0.00762371,2.02028315,2.08127283
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Transport,Other (transport),CO2,1,1.0,9983.06,9983.06,9983.06
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Transport,Other (transport),CH4,28,27.0,0.5099106,14.2774968,13.7675862
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Transport,Other (transport),N2O,265,273.0,2.65239452,702.8845478000001,724.1037039600001
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Transport,Road,CO2,1,1.0,52823.7555,52823.7555,52823.7555
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Transport,Road,CH4,28,27.0,6.0846436275,170.37002157,164.28537794250002
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Transport,Road,N2O,265,273.0,1.531688812,405.89753518,418.151045676
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Buildings,Non-residential,CO2,1,1.0,12584.1062,12584.1062,12584.1062
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Buildings,Non-residential,CH4,28,27.0,1.7203674,48.1702872,46.4499198
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Buildings,Non-residential,N2O,265,273.0,0.103222044,27.35384166,28.179618012
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Buildings,Residential,CO2,1,1.0,6912.6871,6912.6871,6912.6871
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Buildings,Residential,CH4,28,27.0,0.715696139,20.039491892,19.323795753
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Buildings,Residential,N2O,265,273.0,0.025429589,6.738841085,6.942277797
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Energy systems,Electricity & heat,CO2,1,1.0,91728.941,91728.941,91728.941
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Energy systems,Electricity & heat,CH4,28,27.0,1.05933146,29.66128088,28.60194942
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Energy systems,Electricity & heat,N2O,265,273.0,0.435756128,115.47537392,118.961422944
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Energy systems,Other (energy systems),CO2,1,1.0,1969.658,1969.658,1969.658
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Energy systems,Other (energy systems),CH4,28,27.0,1.04337668,29.21454704,28.17117036
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Energy systems,Other (energy systems),N2O,265,273.0,2.93226845,777.05113925,800.50928685
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Industry,Chemicals,CO2,1,1.0,1.62392,1.62392,1.62392
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Industry,Chemicals,N2O,265,273.0,0.000364188,0.09650982,0.099423324
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Industry,Other (industry),CO2,1,1.0,13367.6878,13367.6878,13367.6878
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Industry,Other (industry),CH4,28,27.0,0.55349209,15.49777852,14.94428643
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Industry,Other (industry),N2O,265,273.0,0.108626421,28.786001565,29.655012933
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Industry,Waste,CH4,28,27.0,480.5729562,13456.0427736,12975.4698174
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Transport,Domestic Aviation,CO2,1,1.0,1753.1231,1753.1231,1753.1231
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Transport,Domestic Aviation,CH4,28,27.0,0.012288332,0.344073296,0.331784964
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Transport,Domestic Aviation,N2O,265,273.0,0.049153348,13.02563722,13.418864004
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Transport,Inland Shipping,CO2,1,1.0,293.4462,293.4462,293.4462
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Transport,Inland Shipping,CH4,28,27.0,0.02753015,0.7708442,0.74331405
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Transport,Inland Shipping,N2O,265,273.0,0.00786576,2.0844264,2.14735248
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Transport,Other (transport),CO2,1,1.0,9023.193,9023.193,9023.193
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Transport,Other (transport),CH4,28,27.0,0.457636,12.813808,12.356172
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Transport,Other (transport),N2O,265,273.0,2.3179237,614.2497805,632.7931701
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Transport,Road,CO2,1,1.0,56313.295,56313.295,56313.295
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Transport,Road,CH4,28,27.0,6.54195507,183.17474196,176.63278689
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Transport,Road,N2O,265,273.0,1.644250122,435.72628233,448.880283306
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Buildings,Non-residential,CO2,1,1.0,7620.32,7620.32,7620.32
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Buildings,Non-residential,CH4,28,27.0,1.0495969,29.3887132,28.3391163
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Buildings,Non-residential,N2O,265,273.0,0.06297589,16.688610850000003,17.19241797
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Buildings,Residential,CO2,1,1.0,7399.8684,7399.8684,7399.8684
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Buildings,Residential,CH4,28,27.0,0.79322397,22.21027116,21.41704719
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Buildings,Residential,N2O,265,273.0,0.029902856,7.92425684,8.163479687999999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Energy systems,Electricity & heat,CO2,1,1.0,96683.202,96683.202,96683.202
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Energy systems,Electricity & heat,CH4,28,27.0,1.11894244,31.330388320000004,30.211445880000003
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Energy systems,Electricity & heat,N2O,265,273.0,0.46188856,122.4004684,126.09557688
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Energy systems,Other (energy systems),CO2,1,1.0,2801.492,2801.492,2801.492
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Energy systems,Other (energy systems),CH4,28,27.0,1.5263637,42.7381836,41.2118199
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Energy systems,Other (energy systems),N2O,265,273.0,3.115895072,825.7121940799999,850.6393546559999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Industry,Chemicals,CO2,1,1.0,1.65743,1.65743,1.65743
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Industry,Chemicals,N2O,265,273.0,0.000371129,0.0983491849999999,0.101318217
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Industry,Other (industry),CO2,1,1.0,12970.2121,12970.2121,12970.2121
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Industry,Other (industry),CH4,28,27.0,0.53366335,14.9425738,14.40891045
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Industry,Other (industry),N2O,265,273.0,0.104744866,27.75738949,28.595348418
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Industry,Waste,CH4,28,27.0,427.3431182,11965.6073096,11538.2641914
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Transport,Domestic Aviation,CO2,1,1.0,1896.8652,1896.8652,1896.8652
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Transport,Domestic Aviation,CH4,28,27.0,0.013295878,0.372284584,0.358988706
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Transport,Domestic Aviation,N2O,265,273.0,0.053183554,14.09364181,14.519110242
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Transport,Inland Shipping,CO2,1,1.0,423.0229,423.0229,423.0229
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Transport,Inland Shipping,CH4,28,27.0,0.03975518,1.11314504,1.07338986
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Transport,Inland Shipping,N2O,265,273.0,0.01135862,3.0100343,3.10090326
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Transport,Other (transport),CO2,1,1.0,10669.047,10669.047,10669.047
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Transport,Other (transport),CH4,28,27.0,0.5441931,15.2374068,14.6932137
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Transport,Other (transport),N2O,265,273.0,2.81665651,746.41397515,768.9472272300001
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Transport,Road,CO2,1,1.0,61238.0803,61238.0803,61238.0803
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Transport,Road,CH4,28,27.0,7.1363626832,199.8181551296,192.6817924464
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Transport,Road,N2O,265,273.0,1.792627627,475.046321155,489.387342171
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Buildings,Non-residential,CO2,1,1.0,6648.343,6648.343,6648.343
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Buildings,Non-residential,CH4,28,27.0,0.90674158,25.38876424,24.48202266
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Buildings,Non-residential,N2O,265,273.0,0.054404515,14.417196475,14.852432595
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Buildings,Residential,CO2,1,1.0,8386.8101,8386.8101,8386.8101
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Buildings,Residential,CH4,28,27.0,0.86669984,24.26759552,23.40089568
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Buildings,Residential,N2O,265,273.0,0.032562302,8.62901003,8.889508446
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Energy systems,Electricity & heat,CO2,1,1.0,99681.24,99681.24,99681.24
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Energy systems,Electricity & heat,CH4,28,27.0,1.1448808,32.0566624,30.9117816
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Energy systems,Electricity & heat,N2O,265,273.0,0.47368854,125.5274631,129.31697142
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Energy systems,Other (energy systems),CO2,1,1.0,2542.107,2542.107,2542.107
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Energy systems,Other (energy systems),CH4,28,27.0,1.6246325,45.48971,43.8650775
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Energy systems,Other (energy systems),N2O,265,273.0,3.136008252,831.04218678,856.1302527959999
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Industry,Chemicals,CO2,1,1.0,1.69163,1.69163,1.69163
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Industry,Chemicals,N2O,265,273.0,0.000377729,0.1000981849999999,0.103120017
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Industry,Other (industry),CO2,1,1.0,12128.9616,12128.9616,12128.9616
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Industry,Other (industry),CH4,28,27.0,0.49766006,13.93448168,13.43682162
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Industry,Other (industry),N2O,265,273.0,0.097567145,25.855293425,26.635830585
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Industry,Waste,CH4,28,27.0,440.9873788,12347.6466064,11906.6592276
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Transport,Domestic Aviation,CO2,1,1.0,1940.5354,1940.5354,1940.5354
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Transport,Domestic Aviation,CH4,28,27.0,0.013601986,0.380855608,0.367253622
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Transport,Domestic Aviation,N2O,265,273.0,0.054407986,14.41811629,14.853380178
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Transport,Inland Shipping,CO2,1,1.0,378.789,378.789,378.789
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Transport,Inland Shipping,CH4,28,27.0,0.03557181,0.99601068,0.96043887
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Transport,Inland Shipping,N2O,265,273.0,0.01016338,2.6932957,2.77460274
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Transport,Other (transport),CO2,1,1.0,10751.483,10751.483,10751.483
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Transport,Other (transport),CH4,28,27.0,0.5433554,15.2139512,14.6705958
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Transport,Other (transport),N2O,265,273.0,2.71559437,719.63250805,741.35726301
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Transport,Road,CO2,1,1.0,60393.9055,60393.9055,60393.9055
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Transport,Road,CH4,28,27.0,6.8915315522,192.9628834616,186.0713519094
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Transport,Road,N2O,265,273.0,1.737819181,460.522082965,474.424636413
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Buildings,Non-residential,CO2,1,1.0,6098.4659,6098.4659,6098.4659
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Buildings,Non-residential,CH4,28,27.0,0.83048754,23.25365112,22.42316358
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Buildings,Non-residential,N2O,265,273.0,0.049829292,13.20476238,13.603396716
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Buildings,Residential,CO2,1,1.0,9654.4429,9654.4429,9654.4429
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Buildings,Residential,CH4,28,27.0,0.96218184,26.94109152,25.97890968
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Buildings,Residential,N2O,265,273.0,0.03535536,9.3691704,9.65201328
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Energy systems,Electricity & heat,CO2,1,1.0,99061.69,99061.69,99061.69
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Energy systems,Electricity & heat,CH4,28,27.0,1.1367611,31.8293108,30.6925497
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Energy systems,Electricity & heat,N2O,265,273.0,0.4703392,124.639888,128.4026016
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Energy systems,Other (energy systems),CO2,1,1.0,2517.463,2517.463,2517.463
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Energy systems,Other (energy systems),CH4,28,27.0,1.6302009,45.6456252,44.0154243
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Energy systems,Other (energy systems),N2O,265,273.0,3.10885723,823.84716595,848.71802379
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Industry,Chemicals,CO2,1,1.0,1.72003,1.72003,1.72003
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Industry,Chemicals,N2O,265,273.0,0.0003839,0.1017335,0.1048047
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Industry,Other (industry),CO2,1,1.0,11185.7851,11185.7851,11185.7851
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Industry,Other (industry),CH4,28,27.0,0.45727159,12.80360452,12.34633293
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Industry,Other (industry),N2O,265,273.0,0.089545582,23.72957923,24.445943886
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Industry,Waste,CH4,28,27.0,395.2556661,11067.1586508,10671.9029847
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Transport,Domestic Aviation,CO2,1,1.0,1972.105,1972.105,1972.105
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Transport,Domestic Aviation,CH4,28,27.0,0.013830307,0.387248596,0.373418289
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Transport,Domestic Aviation,N2O,265,273.0,0.05532123,14.66012595,15.10269579
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Transport,Inland Shipping,CO2,1,1.0,428.0319,428.0319,428.0319
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Transport,Inland Shipping,CH4,28,27.0,0.04022598,1.12632744,1.08610146
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Transport,Inland Shipping,N2O,265,273.0,0.01149311,3.0456741500000004,3.13761903
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Transport,Other (transport),CO2,1,1.0,12193.3,12193.3,12193.3
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Transport,Other (transport),CH4,28,27.0,0.6272522,17.5630616,16.9358094
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Transport,Other (transport),N2O,265,273.0,3.34874154,887.4165081,914.20644042
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Transport,Road,CO2,1,1.0,60034.6645,60034.6645,60034.6645
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Transport,Road,CH4,28,27.0,6.692522611,187.390633108,180.698110497
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Transport,Road,N2O,265,273.0,1.695004947,449.176310955,462.736350531
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Buildings,Non-residential,CO2,1,1.0,8567.013,8567.013,8567.013
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Buildings,Non-residential,CH4,28,27.0,1.16663815,32.6658682,31.49923005
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Buildings,Non-residential,N2O,265,273.0,0.069998249,18.549535985,19.109521977
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Buildings,Residential,CO2,1,1.0,13618.7392,13618.7392,13618.7392
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Buildings,Residential,CH4,28,27.0,1.3314207,37.2797796,35.9483589
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Buildings,Residential,N2O,265,273.0,0.049438796,13.10128094,13.496791308
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Energy systems,Electricity & heat,CO2,1,1.0,85867.74,85867.74,85867.74
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Energy systems,Electricity & heat,CH4,28,27.0,0.9825245,27.510686,26.5281615
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Energy systems,Electricity & heat,N2O,265,273.0,0.4054771,107.4514315,110.6952483
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Energy systems,Other (energy systems),CO2,1,1.0,3756.069,3756.069,3756.069
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Energy systems,Other (energy systems),CH4,28,27.0,1.7731857,49.6491996,47.8760139
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Energy systems,Other (energy systems),N2O,265,273.0,3.762431294,997.04429291,1027.143743262
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Industry,Chemicals,CO2,1,1.0,1.7489,1.7489,1.7489
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Industry,Chemicals,N2O,265,273.0,0.000389906,0.10332509,0.106444338
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Industry,Other (industry),CO2,1,1.0,15714.7576,15714.7576,15714.7576
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Industry,Other (industry),CH4,28,27.0,0.6329549,17.7227372,17.0897823
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Industry,Other (industry),N2O,265,273.0,0.124541939,33.003613835,33.999949347000005
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Industry,Waste,CH4,28,27.0,382.129214,10699.617992,10317.488778
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Transport,Domestic Aviation,CO2,1,1.0,2769.7405,2769.7405,2769.7405
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Transport,Domestic Aviation,CH4,28,27.0,0.0194241,0.5438748,0.5244507
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Transport,Domestic Aviation,N2O,265,273.0,0.07769642,20.5895513,21.21112266
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Transport,Inland Shipping,CO2,1,1.0,602.205,602.205,602.205
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Transport,Inland Shipping,CH4,28,27.0,0.056591,1.584548,1.527957
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Transport,Inland Shipping,N2O,265,273.0,0.01616883,4.28473995,4.41409059
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Transport,Other (transport),CO2,1,1.0,17126.614,17126.614,17126.614
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Transport,Other (transport),CH4,28,27.0,0.8810491,24.6693748,23.7883257
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Transport,Other (transport),N2O,265,273.0,4.70405002,1246.5732553,1284.20565546
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Transport,Road,CO2,1,1.0,84328.2424,84328.2424,84328.2424
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Transport,Road,CH4,28,27.0,9.4006958828,263.2194847184,253.8187888356
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Transport,Road,N2O,265,273.0,2.380902607,630.939190855,649.986411711
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Buildings,Non-residential,CO2,1,1.0,8319.5403,8319.5403,8319.5403
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Buildings,Non-residential,CH4,28,27.0,1.1329386,31.7222808,30.5893422
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Buildings,Non-residential,N2O,265,273.0,0.067976356,18.01373434,18.557545188
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Buildings,Residential,CO2,1,1.0,13225.3247,13225.3247,13225.3247
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Buildings,Residential,CH4,28,27.0,1.29472493,36.25229804,34.957573110000006
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Buildings,Residential,N2O,265,273.0,0.04803415,12.72904975,13.11332295
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Energy systems,Electricity & heat,CO2,1,1.0,83387.35,83387.35,83387.35
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Energy systems,Electricity & heat,CH4,28,27.0,0.9544394,26.7243032,25.769863800000003
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Energy systems,Electricity & heat,N2O,265,273.0,0.3938036,104.357954,107.5083828
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Energy systems,Other (energy systems),CO2,1,1.0,3647.571,3647.571,3647.571
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Energy systems,Other (energy systems),CH4,28,27.0,1.9306306,54.0576568,52.1270262
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Energy systems,Other (energy systems),N2O,265,273.0,3.654640414,968.47970971,997.716833022
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Industry,Chemicals,CO2,1,1.0,1.77826,1.77826,1.77826
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Industry,Chemicals,N2O,265,273.0,0.000395593,0.104832145,0.107996889
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Industry,Other (industry),CO2,1,1.0,15293.7152,15293.7152,15293.7152
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Industry,Other (industry),CH4,28,27.0,0.61536017,17.23008476,16.614724589999998
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Industry,Other (industry),N2O,265,273.0,0.121036422,32.07465183,33.042943206000004
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Industry,Waste,CH4,28,27.0,385.6901183,10799.3233124,10413.6331941
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Transport,Domestic Aviation,CO2,1,1.0,2689.7385,2689.7385,2689.7385
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Transport,Domestic Aviation,CH4,28,27.0,0.018863019,0.528164532,0.509301513
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Transport,Domestic Aviation,N2O,265,273.0,0.07545207,19.99479855,20.59841511
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Transport,Inland Shipping,CO2,1,1.0,584.8083,584.8083,584.8083
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Transport,Inland Shipping,CH4,28,27.0,0.05495632,1.53877696,1.48382064
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Transport,Inland Shipping,N2O,265,273.0,0.01570182,4.1609823,4.28659686
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Transport,Other (transport),CO2,1,1.0,16631.791,16631.791,16631.791
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Transport,Other (transport),CH4,28,27.0,0.8555992,23.9567776,23.1011784
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Transport,Other (transport),N2O,265,273.0,4.56816914,1210.5648221,1247.11017522
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Transport,Road,CO2,1,1.0,81892.345,81892.345,81892.345
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Transport,Road,CH4,28,27.0,9.1291476644,255.6161346032,246.4869869388
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Transport,Road,N2O,265,273.0,2.312127816,612.71387124,631.210893768
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Buildings,Non-residential,CO2,1,1.0,8120.3335,8120.3335,8120.3335
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Buildings,Non-residential,CH4,28,27.0,1.10535651655021,30.94998246340588,29.84462594685567
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Buildings,Non-residential,N2O,265,273.0,0.0663214300191883,17.5751789550849,18.10575039523841
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Buildings,Residential,CO2,1,1.0,12908.6896,12908.6896,12908.6896
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Buildings,Residential,CH4,28,27.0,1.24829760254514,34.95233287126392,33.70403526871878
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Buildings,Residential,N2O,265,273.0,0.0467930662455955,12.400162555082806,12.77450708504757
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Energy systems,Electricity & heat,CO2,1,1.0,81390.76,81390.76,81390.76
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Energy systems,Electricity & heat,CH4,28,27.0,0.930458348437177,26.05283375624096,25.12237540780378
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Energy systems,Electricity & heat,N2O,265,273.0,0.383629022603225,101.66169098985463,104.73072317068043
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Energy systems,Other (energy systems),CO2,1,1.0,3560.231,3560.231,3560.231
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Energy systems,Other (energy systems),CH4,28,27.0,1.51011406670975,42.283193867873,40.77307980116325
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Energy systems,Other (energy systems),N2O,265,273.0,3.50381965234261,928.5122078707916,956.5427650895326
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Industry,Chemicals,CO2,1,1.0,1.80912,1.80912,1.80912
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Industry,Chemicals,N2O,265,273.0,0.0004025341854222,0.1066715591368941,0.109891832620272
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Industry,Other (industry),CO2,1,1.0,14960.979,14960.979,14960.979
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Industry,Other (industry),CH4,28,27.0,0.59850682179187,16.75819101017236,16.15968418838049
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Industry,Other (industry),N2O,265,273.0,0.117770097386454,31.209075807410308,32.151236586501945
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Industry,Waste,CH4,28,27.0,393.276979276587,11011.755419744435,10618.478440467848
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Transport,Domestic Aviation,CO2,1,1.0,2625.3275,2625.3275,2625.3275
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Transport,Domestic Aviation,CH4,28,27.0,0.0183692845729117,0.5143399680415276,0.4959706834686159
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Transport,Domestic Aviation,N2O,265,273.0,0.073477132448695,19.47144009890417,20.059257158493736
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Transport,Inland Shipping,CO2,1,1.0,570.8065,570.8065,570.8065
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Transport,Inland Shipping,CH4,28,27.0,0.0535178531686787,1.4984998887230037,1.4449820355543248
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Transport,Inland Shipping,N2O,265,273.0,0.0152908291028406,4.052069712252759,4.174396345075484
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Transport,Other (transport),CO2,1,1.0,16233.598,16233.598,16233.598
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Transport,Other (transport),CH4,28,27.0,0.834406040973184,23.363369147249152,22.52896310627597
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Transport,Other (transport),N2O,265,273.0,4.45688165266248,1181.0736379555572,1216.728691176857
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Transport,Road,CO2,1,1.0,79931.5235,79931.5235,79931.5235
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Transport,Road,CH4,28,27.0,8.89019469022935,248.9254513264218,240.03525663619249
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Transport,Road,N2O,265,273.0,2.25160849496301,596.6762511651978,614.6891191249018
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2020,Buildings,Non-residential,CO2,1,1.0,7021.0293,7021.0293,7021.0293
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2020,Buildings,Residential,CO2,1,1.0,11161.1457,11161.1457,11161.1457
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2020,Energy systems,Electricity & heat,CO2,1,1.0,70372.3,70372.3,70372.3
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2020,Energy systems,Other (energy systems),CO2,1,1.0,3078.254,3078.254,3078.254
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2020,Industry,Chemicals,CO2,1,1.0,1.84053,1.84053,1.84053
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2020,Industry,Other (industry),CO2,1,1.0,13012.5488,13012.5488,13012.5488
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2020,Transport,Domestic Aviation,CO2,1,1.0,2269.9197,2269.9197,2269.9197
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2020,Transport,Inland Shipping,CO2,1,1.0,493.5323,493.5323,493.5323
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2020,Transport,Other (transport),CO2,1,1.0,14035.971,14035.971,14035.971
+TCA,Turks and Caicos Islands,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2020,Transport,Road,CO2,1,1.0,69110.6213,69110.6213,69110.6213

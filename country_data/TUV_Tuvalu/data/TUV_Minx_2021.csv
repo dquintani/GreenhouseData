@@ -1,0 +1,301 @@
+code,name,region_ar6_6,region_ar6_10,region_ar6_22,region_ar6_dev,year,sector_title,subsector_title,gas,gwp100_ar5,gwp100_ar6,value_native,value_ar5,value_ar6
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1970,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,5.5,154.0,148.5
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1970,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.03810445,275.09767925,283.40251485000005
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1970,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,16.086139,450.411892,434.325753
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1970,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.37349958,98.9773887,101.96538534
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1970,Industry,Chemicals,N2O,265,273.0,0.1486561,39.3938665,40.5831153
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1970,Industry,Waste,CH4,28,27.0,73.53755495,2059.0515386,1985.51398365
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1971,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,5.5,154.0,148.5
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1971,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.03978538,275.5431257,283.86140874
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1971,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,16.086139,450.411892,434.325753
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1971,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.37636157,99.73581605,102.74670861
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1971,Industry,Chemicals,N2O,265,273.0,0.1502437,39.814580500000005,41.0165301
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1971,Industry,Waste,CH4,28,27.0,57.72716295,1616.3605626,1558.63339965
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1972,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,5.5,154.0,148.5
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1972,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.04072238,275.79143070000003,284.11720974
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1972,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,16.086139,450.411892,434.325753
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1972,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.37798277,100.16543405,103.18929621
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1972,Industry,Chemicals,N2O,265,273.0,0.1518116,40.230074,41.4445668
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1972,Industry,Waste,CH4,28,27.0,58.70433095,1643.7212666,1585.01693565
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1973,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,5.5,154.0,148.5
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1973,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.0426268,276.296102,284.6371164
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1973,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,16.086139,450.411892,434.325753
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1973,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.38142531,101.07770715,104.12910963
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1973,Industry,Chemicals,N2O,265,273.0,0.1534199,40.6562735,41.8836327
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1973,Industry,Waste,CH4,28,27.0,59.71149295,1671.9218026,1612.21030965
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1974,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,5.5,154.0,148.5
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1974,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.04376095,276.59665175,284.94673935000003
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1974,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,16.086139,450.411892,434.325753
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1974,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.38352327,101.63366655,104.70185271
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1974,Industry,Chemicals,N2O,265,273.0,0.1550272,41.082208,42.3224256
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1974,Industry,Waste,CH4,28,27.0,60.73430495,1700.5605386,1639.82623365
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1975,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,5.5,154.0,148.5
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1975,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.04362132,276.5596498,284.90862036
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1975,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,16.086139,450.411892,434.325753
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1975,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.38302776,101.5023564,104.56657848
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1975,Industry,Chemicals,N2O,265,273.0,0.1562689,41.4112585,42.6614097
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1975,Industry,Waste,CH4,28,27.0,61.62781695,1725.5788746,1663.9510576500002
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1976,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,5.5,154.0,148.5
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1976,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.0469571,277.4436315,285.8192883
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1976,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,16.086139,450.411892,434.325753
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1976,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.38903788,103.0950382,106.20734124
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1976,Industry,Chemicals,N2O,265,273.0,0.1577343,41.7995895,43.0614639
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1976,Industry,Waste,CH4,28,27.0,62.64543695,1754.0722346,1691.42679765
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1977,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,5.6,156.79999999999998,151.2
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1977,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.07975202,286.1342853,294.77230146
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1977,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,16.450385,460.61078,444.160395
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1977,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.40116477,106.30866405,109.51798221
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1977,Industry,Chemicals,N2O,265,273.0,0.1590982,42.161023,43.4338086
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1977,Industry,Waste,CH4,28,27.0,63.654355,1782.32194,1718.667585
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1978,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,5.731,160.468,154.737
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1978,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.102442681,292.14731046500003,300.966851913
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1978,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,16.64829167,466.15216676,449.50387509
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1978,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.41170418,109.1016077,112.39524114
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1978,Industry,Chemicals,N2O,265,273.0,0.1605646,42.549619,43.8341358
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1978,Industry,Waste,CH4,28,27.0,64.706899,1811.793172,1747.086273
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1979,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,6.095,170.66,164.565
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1979,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.17724317,311.96944004999995,321.38738541
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1979,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,17.64669639,494.10749892,476.46080253
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1979,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.44502275,117.93102875,121.49121075
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1979,Industry,Chemicals,N2O,265,273.0,0.1620704,42.948656,44.2452192
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1979,Industry,Waste,CH4,28,27.0,65.79576,1842.28128,1776.48552
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1980,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,6.52,182.56,176.04
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1980,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.26249906,334.5622509,344.66224337999995
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1980,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,18.62206256,521.41775168,502.79568912
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1980,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.47702953,126.41282545,130.22906168999998
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1980,Industry,Chemicals,N2O,265,273.0,0.1639024,43.434136,44.7453552
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1980,Industry,Waste,CH4,28,27.0,67.0306195,1876.857346,1809.8267265
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1981,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,5.948,166.544,160.596
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1981,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.20194669,318.51587285,328.13144637
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1981,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,17.54180828,491.17063184000006,473.62882356000006
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1981,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.4331388,114.781782,118.2468924
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1981,Industry,Chemicals,N2O,265,273.0,0.1659788,43.984382,45.3122124
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1981,Industry,Waste,CH4,28,27.0,68.4134095,1915.575466,1847.1620565
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1982,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,7.332,205.296,197.964
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1982,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.46463895,388.12932175,399.84643335
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1982,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,21.28411767,595.95529476,574.67117709
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1982,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.5463261,144.7764165,149.14702530000002
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1982,Industry,Chemicals,N2O,265,273.0,0.1686248,44.685572,46.0345704
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1982,Industry,Waste,CH4,28,27.0,70.0551321,1961.5436988,1891.4885667
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1983,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,7.057,197.596,190.539
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1983,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.38476367,366.96237255,378.04048191
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1983,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,19.7127782,551.9577896,532.2450114
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1983,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.5156492,136.647038,140.7722316
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1983,Industry,Chemicals,N2O,265,273.0,0.1712511,45.3815415,46.7515503
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1983,Industry,Waste,CH4,28,27.0,71.7175336,2008.0909408,1936.3734072
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1984,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,8.647,242.116,233.469
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1984,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.64269666,435.3146149,448.45618818
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1984,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,23.2193905,650.142934,626.9235434999999
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1984,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.6145963,162.8680195,167.7847899
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1984,Industry,Chemicals,N2O,265,273.0,0.173632,46.01248,47.401536
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1984,Industry,Waste,CH4,28,27.0,73.3183248,2052.9130944,1979.5947696
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1985,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,9.458,264.824,255.366
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1985,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.86291761,493.67316665,508.57650753
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1985,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,27.1194229,759.3438412,732.2244183
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1985,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.7184905,190.3999825,196.1479065
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1985,Industry,Chemicals,N2O,265,273.0,0.176075,46.659875,48.068475
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1985,Industry,Waste,CH4,28,27.0,74.9816438,2099.4860264,2024.5043826
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1986,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,9.148,256.144,246.996
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1986,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.852125994,490.81338841,505.63039636200006
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1986,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,27.273063167,763.645768676,736.372705509
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1986,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.7338946,194.482069,200.3532258
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1986,Industry,Chemicals,N2O,265,273.0,0.1780499,47.1832235,48.6076227
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1986,Industry,Waste,CH4,28,27.0,76.7166409,2148.0659452,2071.3493043
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1987,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,8.215,230.02,221.805
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1987,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.624876091,430.592164115,443.591172843
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1987,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,24.166793167,676.670208676,652.5034155090001
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1987,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.6597473,174.8330345,180.11101290000002
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1987,Industry,Chemicals,N2O,265,273.0,0.179536,47.57704,49.013328
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1987,Industry,Waste,CH4,28,27.0,78.2572719,2191.2036132000003,2112.9463413000003
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1988,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,8.134,227.752,219.618
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1988,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,1.69940299,450.34179235,463.93701627
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1988,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,24.685524,691.1946720000001,666.509148
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1988,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.6657664,176.42809599999998,181.7542272
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1988,Industry,Chemicals,N2O,265,273.0,0.1808181,47.9167965,49.3633413
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1988,Industry,Waste,CH4,28,27.0,79.7986754,2234.3629112,2154.5642358
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1989,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,11.155,312.34,301.185
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1989,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2.3020946,610.055069,628.4718258
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1989,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,33.565681,939.839068,906.273387
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1989,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.9239607,244.8495855,252.2412711
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1989,Industry,Chemicals,N2O,265,273.0,0.1821209,48.2620385,49.7190057
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1989,Industry,Waste,CH4,28,27.0,81.2636355,2275.3817940000004,2194.1181585000004
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1990,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,11.277,315.756,304.479
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1990,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2.300369,609.5977849999999,628.000737
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1990,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,33.552232,939.462496,905.910264
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1990,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.9594715,254.2599475,261.9357195
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1990,Industry,Chemicals,N2O,265,273.0,0.1832601,48.5639265,50.0300073
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1990,Industry,Waste,CH4,28,27.0,82.7790488,2317.8133664,2235.0343176
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1991,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,12.905,361.34,348.435
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1991,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2.6025943,689.6874895,710.5082438999999
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1991,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,38.1418,1067.9704000000002,1029.8286
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1991,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.0985527,291.1164655,299.9048871
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1991,Industry,Chemicals,N2O,265,273.0,0.1842781,48.8336965,50.3079213
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1991,Industry,Waste,CH4,28,27.0,84.2751701,2359.7047628,2275.4295927
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1992,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,13.0,364.0,351.0
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1992,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2.6529282,703.0259729999999,724.2493986
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1992,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,38.57995,1080.2386,1041.65865
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1992,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.12599,298.38735,307.39527000000004
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1992,Industry,Chemicals,N2O,265,273.0,0.1854183,49.1358495,50.6191959
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1992,Industry,Waste,CH4,28,27.0,85.5795793,2396.2282204000003,2310.6486411
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1993,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,12.6,352.8,340.2
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1993,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2.5454094,674.533491,694.8967662
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1993,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,37.21073,1041.90044,1004.68971
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1993,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.0842194,287.318141,295.99189620000004
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1993,Industry,Chemicals,N2O,265,273.0,0.1863752,49.389428,50.8804296
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1993,Industry,Waste,CH4,28,27.0,86.4284373,2419.9962444,2333.5678071
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1994,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,12.8,358.40000000000003,345.6
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1994,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2.6203795,694.4005675,715.3636035
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1994,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,38.02686,1064.75208,1026.72522
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1994,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.1133235,295.03072749999995,303.93731549999995
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1994,Industry,Chemicals,N2O,265,273.0,0.187067,49.572755,51.069291
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1994,Industry,Waste,CH4,28,27.0,87.960549,2462.895372,2374.934823
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1995,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,12.8,358.40000000000003,345.6
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1995,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2.6425379,700.2725435000001,721.4128467
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1995,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,38.02686,1064.75208,1026.72522
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1995,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.1391292,301.869238,310.9822716
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1995,Industry,Chemicals,N2O,265,273.0,0.187881,49.788465,51.291513
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1995,Industry,Waste,CH4,28,27.0,88.6715541,2482.8035148,2394.1319607
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1996,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,12.8,358.40000000000003,345.6
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1996,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2.6919879,713.3767935,734.9126967
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1996,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,38.46541,1077.03148,1038.56607
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1996,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.1448907,303.3960355,312.5551611
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1996,Industry,Chemicals,N2O,265,273.0,0.1884102,49.928703,51.4359846
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1996,Industry,Waste,CH4,28,27.0,88.7349366,2484.5782248,2395.8432882
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1997,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,13.0,364.0,351.0
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1997,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2.7367452,725.237478,747.1314396
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1997,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,39.0185,1092.518,1053.4995
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1997,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.177365,312.001725,321.420645
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1997,Industry,Chemicals,N2O,265,273.0,0.1888379,50.0420435,51.5527467
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1997,Industry,Waste,CH4,28,27.0,89.7952378,2514.2666584,2424.4714206
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1998,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,13.0,364.0,351.0
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1998,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2.7431734,726.9409509999999,748.8863382
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1998,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,39.0185,1092.518,1053.4995
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1998,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.1875885,314.7109525,324.2116605
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1998,Industry,Chemicals,N2O,265,273.0,0.1894282,50.198473,51.7138986
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1998,Industry,Waste,CH4,28,27.0,91.4269938,2559.9558264,2468.5288326
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1999,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,13.2,369.6,356.4
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1999,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2.8390719,752.3540535,775.0666287
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1999,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,40.01009,1120.28252,1080.27243
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1999,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.2155162,322.111793,331.8359226
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1999,Industry,Chemicals,N2O,265,273.0,0.1902225,50.4089625,51.9307425
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,1999,Industry,Waste,CH4,28,27.0,92.2576458,2583.2140824000003,2490.9564366
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2000,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,13.2,369.6,356.4
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2000,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2.8409622,752.854983,775.5826806
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2000,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,40.01009,1120.28252,1080.27243
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2000,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.2282831,325.4950215,335.3212863
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2000,Industry,Chemicals,N2O,265,273.0,0.191749,50.813485,52.347477
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2000,Industry,Waste,CH4,28,27.0,93.311872,2612.732416,2519.420544
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2001,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,13.2,369.6,356.4
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2001,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2.8384105,752.1787825,774.8860665000001
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2001,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,40.01009,1120.28252,1080.27243
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2001,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.2234736,324.220504,334.0082928
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2001,Industry,Chemicals,N2O,265,273.0,0.1936214,51.309671,52.8586422
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2001,Industry,Waste,CH4,28,27.0,94.7252372,2652.3066416,2557.5814044
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2002,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,13.5,378.0,364.5
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2002,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2.9556017,783.2344505,806.8792641
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2002,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,41.27827,1155.79156,1114.51329
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2002,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.2589629,333.6251685,343.6968717
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2002,Industry,Chemicals,N2O,265,273.0,0.1961255,51.9732575,53.5422615
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2002,Industry,Waste,CH4,28,27.0,96.9305745,2714.056086,2617.1255115000004
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2003,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,13.5,378.0,364.5
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2003,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2.9573412,783.695418,807.3541476
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2003,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,41.27827,1155.79156,1114.51329
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2003,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.2638144,334.910816,345.0213312
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2003,Industry,Chemicals,N2O,265,273.0,0.1988119,52.685153500000006,54.275648700000005
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2003,Industry,Waste,CH4,28,27.0,98.6749445,2762.898446,2664.2235015
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2004,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,13.5,378.0,364.5
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2004,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2.9547924,783.019986,806.6583252
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2004,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,41.27827,1155.79156,1114.51329
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2004,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.2562593,332.9087145,342.9587889
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2004,Industry,Chemicals,N2O,265,273.0,0.2013978,53.370417,54.98159939999999
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2004,Industry,Waste,CH4,28,27.0,100.5835025,2816.33807,2715.7545675
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2005,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,13.5,378.0,364.5
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2005,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2.9453497,780.5176705,804.0804681
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2005,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,41.27827,1155.79156,1114.51329
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2005,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.2562593,332.9087145,342.9587889
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2005,Industry,Chemicals,N2O,265,273.0,0.2041049,54.0877985,55.720637700000005
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2005,Industry,Waste,CH4,28,27.0,102.3258545,2865.123926,2762.7980715000003
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2006,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,13.5,378.0,364.5
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2006,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2.9453969,780.5301785,804.0933537
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2006,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,41.27827,1155.79156,1114.51329
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2006,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.2562593,332.9087145,342.9587889
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2006,Industry,Chemicals,N2O,265,273.0,0.2063439,54.6811335,56.3318847
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2006,Industry,Waste,CH4,28,27.0,104.3035525,2920.49947,2816.1959175
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2007,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,13.6,380.8,367.2
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2007,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2.9636677,785.3719404999999,809.0812821
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2007,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,41.55474,1163.5327200000002,1121.97798
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2007,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.2653088,335.306832,345.4293024
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2007,Industry,Chemicals,N2O,265,273.0,0.2085011,55.2527915,56.9208003
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2007,Industry,Waste,CH4,28,27.0,106.9178649,2993.7002172,2886.7823523
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2008,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,13.721,384.188,370.467
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2008,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,2.9977535,794.4046774999999,818.3867055
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2008,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,41.97708,1175.35824,1133.38116
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2008,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.2770266,338.412049,348.6282618
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2008,Industry,Chemicals,N2O,265,273.0,0.210476,55.77614,57.459948
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2008,Industry,Waste,CH4,28,27.0,109.7813369,3073.8774332,2964.0960963
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2009,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,13.821,386.988,373.167
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2009,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,3.0672511,812.8215415,837.3595503
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2009,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,42.51669,1190.46732,1147.9506299999998
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2009,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.2883821,341.4212565,351.7283133
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2009,Industry,Chemicals,N2O,265,273.0,0.2125317,56.3209005,58.0211541
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2009,Industry,Waste,CH4,28,27.0,111.4007774,3119.2217672,3007.8209898
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2010,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,13.847,387.716,373.869
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2010,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,3.047515,807.5914750000001,831.9715950000001
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2010,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,42.58852,1192.47856,1149.89004
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2010,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.2907353,342.0448545,352.3707369
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2010,Industry,Chemicals,N2O,265,273.0,0.2143637,56.8063805,58.5212901
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2010,Industry,Waste,CH4,28,27.0,112.99535,3163.8698,3050.8744500000003
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2011,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,13.91,389.48,375.57
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2011,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,3.0670395,812.7654675,837.3017834999999
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2011,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,42.8505,1199.814,1156.9634999999998
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2011,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.297205,343.759325,354.136965
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2011,Industry,Chemicals,N2O,265,273.0,0.2163386,57.329729,59.0604378
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2011,Industry,Waste,CH4,28,27.0,115.8908972,3244.9451216,3129.0542244
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2012,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,13.973,391.244,377.271
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2012,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,3.0842419,817.3241035,841.9980386999999
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2012,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,43.02476,1204.69328,1161.66852
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2012,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.3029053,345.2699045,355.6931469
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2012,Industry,Chemicals,N2O,265,273.0,0.2183125,57.8528125,59.5993125
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2012,Industry,Waste,CH4,28,27.0,117.7693875,3297.54285,3179.7734625
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2013,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,14.036,393.008,378.972
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2013,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,3.1040414,822.570971,847.4033022
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2013,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,43.28672,1212.02816,1168.74144
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2013,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.309375,346.984375,357.459375
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2013,Industry,Chemicals,N2O,265,273.0,0.2202263,58.359969500000005,60.12177990000001
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2013,Industry,Waste,CH4,28,27.0,120.1029425,3362.88239,3242.7794475
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2014,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,14.133,395.724,381.591
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2014,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,3.1252328,828.186692,853.1885544
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2014,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,43.64262,1221.99336,1178.35074
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2014,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.3189219,349.51430350000004,360.06567870000003
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2014,Industry,Chemicals,N2O,265,273.0,0.2220376,58.839964,60.6162648
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2014,Industry,Waste,CH4,28,27.0,122.1768607,3420.9520996,3298.7752389
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2015,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,14.25,399.0,384.75
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2015,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,3.1473987,834.0606555,859.2398451
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2015,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,44.05387,1233.50836,1189.45449
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2015,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.3302774,352.523511,363.1657302
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2015,Industry,Chemicals,N2O,265,273.0,0.2239307,59.3416355,61.133081100000005
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2015,Industry,Waste,CH4,28,27.0,125.5353934,3514.9910152,3389.4556218
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2016,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,14.299,400.372,386.073
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2016,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,3.1638112,838.409968,863.7204576
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2016,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,44.18935,1237.3018,1193.11245
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2016,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.334712,353.69868,364.376376
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2016,Industry,Chemicals,N2O,265,273.0,0.2258849,59.8594985,61.6665777
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2016,Industry,Waste,CH4,28,27.0,127.8062086,3578.5738408,3450.7676322
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2017,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,14.366,402.248,387.882
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2017,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,3.18508,844.0462,869.52684
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2017,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,44.46231,1244.94468,1200.4823700000002
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2017,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.3415441,355.5091865,366.2415393
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2017,Industry,Chemicals,N2O,265,273.0,0.2278184,60.371876,62.1944232
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2017,Industry,Waste,CH4,28,27.0,129.9186078,3637.7210184,3507.8024106
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2018,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,14.434,404.152,389.718
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2018,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,3.1907287,845.5431055,871.0689351000001
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2018,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,44.73807,1252.66596,1207.92789
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2018,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.3484659,357.34346350000004,368.1311907000001
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2018,Industry,Chemicals,N2O,265,273.0,0.2297529,60.884518500000006,62.7225417
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2018,Industry,Waste,CH4,28,27.0,132.046535,3697.30298,3565.256445
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2019,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,14.5102697405485,406.287552735358,391.7772829948095
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2019,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,3.21187121157335,851.1458710669377,876.8408407595246
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2019,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,45.0172579986104,1260.4832239610912,1215.4659659624808
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2019,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,1.35596608336716,359.33101209229744,370.1787407592347
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2019,Industry,Chemicals,N2O,265,273.0,0.231627297630578,61.38123387210317,63.234252253147794
+TUV,Tuvalu,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,ldc,2019,Industry,Waste,CH4,28,27.0,133.972594953356,3751.232658693968,3617.260063740612

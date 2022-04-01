@@ -1,0 +1,123 @@
+,IPCC_2006,subsector_title
+0,1.A.1.a.i,Electricity & heat
+1,1.A.1.a.ii,Electricity & heat
+2,1.A.1.a.iii,Electricity & heat
+3,1.A.1.b,Petroleum refining
+4,1.A.1.c.i,Metals
+5,1.A.1.c.i,Other (energy systems)
+6,1.A.1.c.ii,Metals
+7,1.A.1.c.ii,Other (energy systems)
+8,1.A.2.a,Metals
+9,1.A.2.b,Metals
+10,1.A.2.c,Chemicals
+11,1.A.2.d,Other (industry)
+12,1.A.2.e,Other (industry)
+13,1.A.2.f,Other (industry)
+14,1.A.2.i,Other (industry)
+15,1.A.2.k,Other (industry)
+16,1.A.3.a.i,International Aviation
+17,1.A.3.a.ii,Domestic Aviation
+18,1.A.3.b_RES,Road
+19,1.A.3.c,Rail 
+20,1.A.3.d.i,International Shipping
+21,1.A.3.d.ii,Inland Shipping
+22,1.A.3.e.i,Other (transport)
+23,1.A.4.a,Non-residential
+24,1.A.4.b,Residential
+25,1.A.4.c.i,Other (energy systems)
+26,1.A.4.c.ii,Other (transport)
+27,1.A.4.c.iii,Other (transport)
+28,1.A.5.a,Other (energy systems)
+29,1.A.5.b.iii,Other (industry)
+30,1.B.1.a,Coal mining fugitive emissions
+31,1.B.1.c,Coal mining fugitive emissions
+32,1.B.1.c,Metals
+33,1.B.1.c,Other (energy systems)
+34,1.B.2.a.iii.2,Oil and gas fugitive emissions
+35,1.B.2.a.iii.3,Oil and gas fugitive emissions
+36,1.B.2.a.iii.4,Oil and gas fugitive emissions
+37,1.B.2.a.iii.6,Oil and gas fugitive emissions
+38,"1.B.2.b.ii, 1.B.2.a.ii",Oil and gas fugitive emissions
+39,1.B.2.b.iii.2,Oil and gas fugitive emissions
+40,1.B.2.b.iii.3,Oil and gas fugitive emissions
+41,1.B.2.b.iii.4,Oil and gas fugitive emissions
+42,1.B.2.b.iii.5,Oil and gas fugitive emissions
+43,2.A.1,Cement
+44,2.A.2,Chemicals
+45,2.A.3,Chemicals
+46,2.A.4.b,Chemicals
+47,2.A.4.d,Chemicals
+48,2.B.1,Chemicals
+49,2.B.2,Chemicals
+50,2.B.3,Chemicals
+51,2.B.4,Chemicals
+52,2.B.5,Chemicals
+53,2.B.6,Chemicals
+54,2.B.8.a,Chemicals
+55,2.B.8.b,Chemicals
+56,2.B.8.c,Chemicals
+57,2.B.8.f,Chemicals
+58,2.B.9.b,Chemicals
+59,2.C.1,Metals
+60,2.C.2,Metals
+61,2.C.3,Metals
+62,2.C.4,Metals
+63,2.C.5,Metals
+64,2.C.6,Metals
+65,2.D.1,Other (industry)
+66,2.D.3,Chemicals
+67,2.D.4,Other (industry)
+68,2.E.1,Other (industry)
+69,2.E.2,Other (industry)
+70,2.E.3,Other (industry)
+71,2.F.1.a,Other (industry)
+72,2.F.2,Other (industry)
+73,2.F.3,Non-CO2 (all buildings)
+74,2.F.4,Non-CO2 (all buildings)
+75,2.F.5,Other (industry)
+76,2.G.1.a,Other (industry)
+77,2.G.1.b,Other (energy systems)
+78,2.G.2.a,Other (industry)
+79,2.G.2.b,Other (industry)
+80,2.G.2.c,Non-CO2 (all buildings)
+81,2.G.2.c,Other (industry)
+82,2.G.2.c,Road
+83,2.G.3.a,Chemicals
+84,2.G.3.b,Chemicals
+85,3.A.1.a.i,Enteric Fermentation (CH4)
+86,3.A.1.a.ii,Enteric Fermentation (CH4)
+87,3.A.1.b,Enteric Fermentation (CH4)
+88,3.A.1.c,Enteric Fermentation (CH4)
+89,3.A.1.d,Enteric Fermentation (CH4)
+90,3.A.1.e,Enteric Fermentation (CH4)
+91,3.A.1.f,Enteric Fermentation (CH4)
+92,3.A.1.g,Enteric Fermentation (CH4)
+93,3.A.1.h,Enteric Fermentation (CH4)
+94,3.A.2.a.i,"Manure management (N2O, CH4)"
+95,3.A.2.a.ii,"Manure management (N2O, CH4)"
+96,3.A.2.b,"Manure management (N2O, CH4)"
+97,3.A.2.c,"Manure management (N2O, CH4)"
+98,3.A.2.e,"Manure management (N2O, CH4)"
+99,3.A.2.f,"Manure management (N2O, CH4)"
+100,3.A.2.g,"Manure management (N2O, CH4)"
+101,3.A.2.h,"Manure management (N2O, CH4)"
+102,3.A.2.i,"Manure management (N2O, CH4)"
+103,"3.A.2.i, 3.A.2.d","Manure management (N2O, CH4)"
+104,3.C.1.b,"Biomass burning (CH4, N2O)"
+105,3.C.1.c,"Biomass burning (CH4, N2O)"
+106,3.C.2,"Managed soils and pasture (CO2, N2O)"
+107,3.C.3,"Managed soils and pasture (CO2, N2O)"
+108,3.C.4,"Managed soils and pasture (CO2, N2O)"
+109,3.C.4,Synthetic fertilizer application (N2O)
+110,3.C.5,"Managed soils and pasture (CO2, N2O)"
+111,"3.C.5, 3.C.6","Managed soils and pasture (CO2, N2O)"
+112,3.C.7,Rice cultivation (CH4)
+113,4.A.1,Waste
+114,4.B,Waste
+115,4.C.1,Waste
+116,4.C.2,Waste
+117,4.D.1,Waste
+118,4.D.2,Waste
+119,5.A,Other (energy systems)
+120,5.A,Other (industry)
+121,5.B,Other (energy systems)

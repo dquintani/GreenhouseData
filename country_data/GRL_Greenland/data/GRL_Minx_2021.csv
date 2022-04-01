@@ -1,0 +1,848 @@
+code,name,region_ar6_6,region_ar6_10,region_ar6_22,region_ar6_dev,year,sector_title,subsector_title,gas,gwp100_ar5,gwp100_ar6,value_native,value_ar5,value_ar6
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1970,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,258.4,7235.199999999999,6976.799999999999
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1970,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,8.1407701,2157.3040765,2222.4302373
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1970,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,4.39978,123.19384,118.79406
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1970,Industry,Chemicals,CO2,1,1.0,2059.93535,2059.93535,2059.93535
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1970,Industry,Chemicals,N2O,265,273.0,2.004215,531.1169749999999,547.1506949999999
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1970,Industry,Waste,CO2,1,1.0,320.464,320.464,320.464
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1970,Industry,Waste,CH4,28,27.0,1692.960255,47402.88714,45709.926885
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1970,Industry,Waste,N2O,265,273.0,2.91729,773.08185,796.42017
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1971,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,264.24,7398.72,7134.4800000000005
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1971,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,8.3507928,2212.9600920000003,2279.7664344
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1971,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,4.49921,125.97788,121.47867
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1971,Industry,Chemicals,CO2,1,1.0,2103.8259,2103.8259,2103.8259
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1971,Industry,Chemicals,N2O,265,273.0,2.052595,543.937675,560.3584350000001
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1971,Industry,Waste,CO2,1,1.0,337.352,337.352,337.352
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1971,Industry,Waste,CH4,28,27.0,1704.876084,47736.530352,46031.654268
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1971,Industry,Waste,N2O,265,273.0,2.978083,789.1919949999999,813.016659
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1972,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,275.616,7717.248,7441.632
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1972,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,8.7379844,2315.565866,2385.4697412
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1972,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,4.69291,131.40148000000002,126.70857
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1972,Industry,Chemicals,CO2,1,1.0,2138.79025,2138.79025,2138.79025
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1972,Industry,Chemicals,N2O,265,273.0,2.091353,554.208545,570.9393689999999
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1972,Industry,Waste,CO2,1,1.0,352.33,352.33,352.33
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1972,Industry,Waste,CH4,28,27.0,1733.672804,48542.838512,46809.165708
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1972,Industry,Waste,N2O,265,273.0,3.036781,804.7469649999999,829.041213
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1973,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,163.888,4588.8640000000005,4424.976000000001
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1973,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.2867274,1400.982761,1443.2765802
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1973,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.79052,78.13456,75.34403999999999
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1973,Industry,Chemicals,CO2,1,1.0,2165.5846,2165.5846,2165.5846
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1973,Industry,Chemicals,N2O,265,273.0,2.120105,561.8278250000001,578.788665
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1973,Industry,Waste,CO2,1,1.0,365.259,365.259,365.259
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1973,Industry,Waste,CH4,28,27.0,1761.621888,49325.412864,47563.790976
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1973,Industry,Waste,N2O,265,273.0,3.093466,819.7684899999999,844.516218
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1974,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,168.416,4715.648,4547.232
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1974,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.5183874,1462.372661,1506.5197602
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1974,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.86762,80.29336,77.42574
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1974,Industry,Chemicals,CO2,1,1.0,2185.46015,2185.46015,2185.46015
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1974,Industry,Chemicals,N2O,265,273.0,2.141675,567.5438750000001,584.677275
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1974,Industry,Waste,CO2,1,1.0,378.42,378.42,378.42
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1974,Industry,Waste,CH4,28,27.0,1788.257978,50071.223384,48282.965406
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1974,Industry,Waste,N2O,265,273.0,3.150044,834.76166,859.962012
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1975,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,159.136,4455.808,4296.672
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1975,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.3022636,1405.099854,1447.5179628
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1975,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.70961,75.86908,73.15947
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1975,Industry,Chemicals,CO2,1,1.0,2199.7935,2199.7935,2199.7935
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1975,Industry,Chemicals,N2O,265,273.0,2.156995,571.6036750000001,588.859635
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1975,Industry,Waste,CO2,1,1.0,389.347,389.347,389.347
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1975,Industry,Waste,CH4,28,27.0,1814.149835,50796.19538,48982.045545
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1975,Industry,Waste,N2O,265,273.0,3.204701,849.245765,874.883373
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1976,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,156.024,4368.6720000000005,4212.648
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1976,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.1957642,1376.877513,1418.4436266
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1976,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.65662,74.38536,71.72874
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1976,Industry,Chemicals,CO2,1,1.0,2213.3683,2213.3683,2213.3683
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1976,Industry,Chemicals,N2O,265,273.0,2.16543,573.8389500000001,591.1623900000001
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1976,Industry,Waste,CO2,1,1.0,400.413,400.413,400.413
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1976,Industry,Waste,CH4,28,27.0,1822.941197,51042.353516,49219.412319
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1976,Industry,Waste,N2O,265,273.0,3.259289,863.711585,889.785897
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1977,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,115.376,3230.528,3115.152
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1977,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,3.7755959,1000.5329135,1030.7376807
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1977,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,1.96451,55.00628,53.04177
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1977,Industry,Chemicals,CO2,1,1.0,2215.3894,2215.3894,2215.3894
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1977,Industry,Chemicals,N2O,265,273.0,2.16821,574.57565,591.92133
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1977,Industry,Waste,CO2,1,1.0,410.339,410.339,410.339
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1977,Industry,Waste,CH4,28,27.0,1829.988138,51239.667864,49409.679726
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1977,Industry,Waste,N2O,265,273.0,3.312918,877.92327,904.426614
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1978,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,138.984,3891.552,3752.568
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1978,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4.5523389,1206.3698085,1242.7885196999998
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1978,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.36648,66.26144000000001,63.894960000000005
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1978,Industry,Chemicals,CO2,1,1.0,2214.73026,2214.73026,2214.73026
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1978,Industry,Chemicals,N2O,265,273.0,2.16891,574.7611499999999,592.11243
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1978,Industry,Waste,CO2,1,1.0,420.357,420.357,420.357
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1978,Industry,Waste,CH4,28,27.0,1836.627262,51425.563336,49588.936074
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1978,Industry,Waste,N2O,265,273.0,3.3665,892.1225,919.0545
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1979,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,145.096,4062.688,3917.592
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1979,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4.8149315,1275.9568475,1314.4762995
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1979,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.47055,69.1754,66.70485
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1979,Industry,Chemicals,CO2,1,1.0,2219.81875,2219.81875,2219.81875
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1979,Industry,Chemicals,N2O,265,273.0,2.172655,575.753575,593.1348149999999
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1979,Industry,Waste,CO2,1,1.0,430.468,430.468,430.468
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1979,Industry,Waste,CH4,28,27.0,1843.85022,51627.80616,49783.95594
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1979,Industry,Waste,N2O,265,273.0,3.420046,906.31219,933.672558
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1980,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,160.0,4480.0,4320.0
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1980,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.2442484,1389.725826,1431.6798132
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1980,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.72432,76.28096000000001,73.55664
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1980,Industry,Chemicals,CO2,1,1.0,2241.0308,2241.0308,2241.0308
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1980,Industry,Chemicals,N2O,265,273.0,2.182788,578.43882,595.901124
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1980,Industry,Waste,CO2,1,1.0,442.019,442.019,442.019
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1980,Industry,Waste,CH4,28,27.0,1851.925275,51853.9077,50001.982425
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1980,Industry,Waste,N2O,265,273.0,3.474387,920.712555,948.507651
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1981,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,184.088,5154.464,4970.376
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1981,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.958682,1579.05073,1626.7201859999998
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1981,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.13447,87.76516,84.63069
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1981,Industry,Chemicals,CO2,1,1.0,2257.01385,2257.01385,2257.01385
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1981,Industry,Chemicals,N2O,265,273.0,2.2004,583.106,600.7092
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1981,Industry,Waste,CO2,1,1.0,455.08,455.08,455.08
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1981,Industry,Waste,CH4,28,27.0,1874.4613,52484.9164,50610.4551
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1981,Industry,Waste,N2O,265,273.0,3.529479,935.311935,963.547767
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1982,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,187.688,5255.263999999999,5067.576
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1982,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,6.0910504,1614.1283560000002,1662.8567592000002
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1982,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.19576,89.48128,86.28551999999999
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1982,Industry,Chemicals,CO2,1,1.0,2281.7241,2281.7241,2281.7241
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1982,Industry,Chemicals,N2O,265,273.0,2.225333,589.713245,607.515909
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1982,Industry,Waste,CO2,1,1.0,469.719,469.719,469.719
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1982,Industry,Waste,CH4,28,27.0,1900.23907,53206.69396,51306.45489
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1982,Industry,Waste,N2O,265,273.0,3.585307,950.106355,978.788811
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1983,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,179.408,5023.424,4844.016
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1983,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.7841292,1532.794238,1579.0672716
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1983,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.05478,85.53384,82.47906
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1983,Industry,Chemicals,CO2,1,1.0,2309.1947,2309.1947,2309.1947
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1983,Industry,Chemicals,N2O,265,273.0,2.254563,597.459195,615.4956990000001
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1983,Industry,Waste,CO2,1,1.0,486.006,486.006,486.006
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1983,Industry,Waste,CH4,28,27.0,1926.27266,53935.63448,52009.361820000006
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1983,Industry,Waste,N2O,265,273.0,3.641826,965.08389,994.218498
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1984,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,169.032,4732.896000000001,4563.8640000000005
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1984,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.4597924,1446.844986,1490.5233252
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1984,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.87811,80.58708,77.70897
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1984,Industry,Chemicals,CO2,1,1.0,2339.83325,2339.83325,2339.83325
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1984,Industry,Chemicals,N2O,265,273.0,2.285225,605.584625,623.866425
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1984,Industry,Waste,CO2,1,1.0,504.01,504.01,504.01
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1984,Industry,Waste,CH4,28,27.0,1951.53193,54642.89404,52691.36211
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1984,Industry,Waste,N2O,265,273.0,3.699,980.235,1009.827
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1985,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,168.0,4704.0,4536.0
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1985,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.413279,1434.518935,1477.825167
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1985,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.86054,80.09512,77.23458
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1985,Industry,Chemicals,CO2,1,1.0,2369.40345,2369.40345,2369.40345
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1985,Industry,Chemicals,N2O,265,273.0,2.313765,613.147725,631.6578450000001
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1985,Industry,Waste,CO2,1,1.0,520.874,520.874,520.874
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1985,Industry,Waste,CH4,28,27.0,1979.378153,55422.588284000005,53443.210131
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1985,Industry,Waste,N2O,265,273.0,3.755216,995.13224,1025.173968
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1986,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,168.0,4704.0,4536.0
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1986,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.3947029,1429.5962685000002,1472.7538917000002
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1986,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.86054,80.09512,77.23458
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1986,Industry,Chemicals,CO2,1,1.0,2397.74005,2397.74005,2397.74005
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1986,Industry,Chemicals,N2O,265,273.0,2.340173,620.145845,638.8672290000001
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1986,Industry,Waste,CO2,1,1.0,536.53,536.53,536.53
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1986,Industry,Waste,CH4,28,27.0,2000.365453,56010.232684,54009.867231
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1986,Industry,Waste,N2O,265,273.0,3.810518,1009.78727,1040.271414
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1987,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,169.6,4748.8,4579.2
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1987,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.4713268,1449.901602,1493.6722164
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1987,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.88778,80.85784,77.97005999999999
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1987,Industry,Chemicals,CO2,1,1.0,2420.34976,2420.34976,2420.34976
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1987,Industry,Chemicals,N2O,265,273.0,2.365222,626.7838300000001,645.705606
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1987,Industry,Waste,CO2,1,1.0,553.926,553.926,553.926
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1987,Industry,Waste,CH4,28,27.0,2021.239445,56594.70446,54573.465015
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1987,Industry,Waste,N2O,265,273.0,3.866475,1024.615875,1055.547675
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1988,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,169.6,4748.8,4579.2
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1988,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.3476027,1417.1147155,1459.8955371000002
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1988,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.88778,80.85784,77.97005999999999
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1988,Industry,Chemicals,CO2,1,1.0,2433.76963,2433.76963,2433.76963
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1988,Industry,Chemicals,N2O,265,273.0,2.387195,632.606675,651.704235
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1988,Industry,Waste,CO2,1,1.0,570.066,570.066,570.066
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1988,Industry,Waste,CH4,28,27.0,2044.721745,57252.20886,55207.487115
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1988,Industry,Waste,N2O,265,273.0,3.921541,1039.208365,1070.580693
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1989,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,171.2,4793.599999999999,4622.4
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1989,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.4441535,1442.7006775,1486.2539055
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1989,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.91502,81.62056000000001,78.70554
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1989,Industry,Chemicals,CO2,1,1.0,2452.87833,2452.87833,2452.87833
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1989,Industry,Chemicals,N2O,265,273.0,2.405338,637.41457,656.657274
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1989,Industry,Waste,CO2,1,1.0,584.882,584.882,584.882
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1989,Industry,Waste,CH4,28,27.0,2064.64333,57810.01324,55745.36991
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1989,Industry,Waste,N2O,265,273.0,3.975753,1053.574545,1085.380569
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1990,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,172.0,4816.0,4644.0
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1990,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.5580659,1472.8874635,1517.3519907
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1990,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.92864,82.00192,79.07328
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1990,Industry,Chemicals,CO2,1,1.0,2465.61765,2465.61765,2465.61765
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1990,Industry,Chemicals,N2O,265,273.0,2.41877,640.9740499999999,660.32421
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1990,Industry,Waste,CO2,1,1.0,599.883,599.883,599.883
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1990,Industry,Waste,CH4,28,27.0,2083.923412,58349.855536,56265.932124
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1990,Industry,Waste,N2O,265,273.0,4.029861,1067.9131650000002,1100.152053
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1991,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,172.0,4816.0,4644.0
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1991,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.4685555,1449.1672075,1492.9156515
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1991,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.92864,82.00192,79.07328
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1991,Industry,Chemicals,CO2,1,1.0,2473.07389,2473.07389,2473.07389
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1991,Industry,Chemicals,N2O,265,273.0,2.426823,643.108095,662.522679
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1991,Industry,Waste,CO2,1,1.0,619.874,619.874,619.874
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1991,Industry,Waste,CH4,28,27.0,2092.171703,58580.807684,56488.635981
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1991,Industry,Waste,N2O,265,273.0,4.086028,1082.79742,1115.485644
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1992,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,176.0,4928.0,4752.0
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1992,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.5288722,1465.151133,1509.3821106
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1992,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.99675,83.909,80.91225
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1992,Industry,Chemicals,CO2,1,1.0,2475.40738,2475.40738,2475.40738
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1992,Industry,Chemicals,N2O,265,273.0,2.429952,643.93728,663.376896
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1992,Industry,Waste,CO2,1,1.0,638.564,638.564,638.564
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1992,Industry,Waste,CH4,28,27.0,2096.518583,58702.520324,56606.001741
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1992,Industry,Waste,N2O,265,273.0,4.141318,1097.44927,1130.579814
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1993,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,176.0,4928.0,4752.0
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1993,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.624717,1490.550005,1535.547741
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1993,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.99675,83.909,80.91225
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1993,Industry,Chemicals,CO2,1,1.0,2476.392,2476.392,2476.392
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1993,Industry,Chemicals,N2O,265,273.0,2.42939,643.78835,663.22347
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1993,Industry,Waste,CO2,1,1.0,655.883,655.883,655.883
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1993,Industry,Waste,CH4,28,27.0,2100.208528,58805.83878400001,56705.630256
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1993,Industry,Waste,N2O,265,273.0,4.195787,1111.883555,1145.449851
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1994,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,176.0,4928.0,4752.0
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1994,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.6268555,1491.1167074999998,1536.1315515
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1994,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.99675,83.909,80.91225
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1994,Industry,Chemicals,CO2,1,1.0,2474.79075,2474.79075,2474.79075
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1994,Industry,Chemicals,N2O,265,273.0,2.427947,643.4059550000001,662.829531
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1994,Industry,Waste,CO2,1,1.0,673.432,673.432,673.432
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1994,Industry,Waste,CH4,28,27.0,2100.597464,58816.728992,56716.131528
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1994,Industry,Waste,N2O,265,273.0,4.250129,1126.284185,1160.285217
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1995,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,176.0,4928.0,4752.0
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1995,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.6696556,1502.4587339999998,1547.8159787999998
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1995,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.99675,83.909,80.91225
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1995,Industry,Chemicals,CO2,1,1.0,2474.1966,2474.1966,2474.1966
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1995,Industry,Chemicals,N2O,265,273.0,2.427778,643.36117,662.783394
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1995,Industry,Waste,CO2,1,1.0,692.907,692.907,692.907
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1995,Industry,Waste,CH4,28,27.0,2104.305593,58920.556604,56816.251011
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1995,Industry,Waste,N2O,265,273.0,4.305031,1140.833215,1175.273463
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1996,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,176.0,4928.0,4752.0
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1996,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.6724769,1503.2063785,1548.5861937000002
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1996,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.99675,83.909,80.91225
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1996,Industry,Chemicals,CO2,1,1.0,2475.62652,2475.62652,2475.62652
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1996,Industry,Chemicals,N2O,265,273.0,2.428913,643.6619450000001,663.093249
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1996,Industry,Waste,CO2,1,1.0,712.66,712.66,712.66
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1996,Industry,Waste,CH4,28,27.0,2109.168174,59056.708872,56947.540698
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1996,Industry,Waste,N2O,265,273.0,4.359793,1155.345145,1190.223489
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1997,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,176.0,4928.0,4752.0
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1997,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.7608893,1526.6356644999998,1572.7227789
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1997,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.99675,83.909,80.91225
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1997,Industry,Chemicals,CO2,1,1.0,2478.91571,2478.91571,2478.91571
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1997,Industry,Chemicals,N2O,265,273.0,2.430823,644.168095,663.614679
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1997,Industry,Waste,CO2,1,1.0,727.468,727.468,727.468
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1997,Industry,Waste,CH4,28,27.0,2110.945358,59106.470024,56995.524666
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1997,Industry,Waste,N2O,265,273.0,4.412483,1169.307995,1204.607859
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1998,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,176.0,4928.0,4752.0
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1998,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.8079325,1539.1021125,1585.5655725
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1998,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.99675,83.909,80.91225
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1998,Industry,Chemicals,CO2,1,1.0,2483.4019,2483.4019,2483.4019
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1998,Industry,Chemicals,N2O,265,273.0,2.43374,644.9410999999999,664.4110199999999
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1998,Industry,Waste,CO2,1,1.0,745.942,745.942,745.942
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1998,Industry,Waste,CH4,28,27.0,2116.051298,59249.436344,57133.385046
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1998,Industry,Waste,N2O,265,273.0,4.466356,1183.58434,1219.315188
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1999,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,176.0,4928.0,4752.0
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1999,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.8652282,1554.285473,1601.2072985999998
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1999,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.99675,83.909,80.91225
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1999,Industry,Chemicals,CO2,1,1.0,2491.52045,2491.52045,2491.52045
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1999,Industry,Chemicals,N2O,265,273.0,2.438005,646.071325,665.575365
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1999,Industry,Waste,CO2,1,1.0,764.647,764.647,764.647
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1999,Industry,Waste,CH4,28,27.0,2118.20662,59309.78536,57191.57874
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,1999,Industry,Waste,N2O,265,273.0,4.520112,1197.82968,1233.990576
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2000,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,166.2545,4655.126,4488.8715
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2000,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.509054037,1459.899319805,1503.971752101
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2000,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.981785848,83.49000374399999,80.50821789599999
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2000,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.0010926533,0.2895531245,0.2982943509
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2000,Industry,Chemicals,CO2,1,1.0,2494.86165,2494.86165,2494.86165
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2000,Industry,Chemicals,N2O,265,273.0,2.443607,647.5558550000001,667.1047110000001
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2000,Industry,Waste,CO2,1,1.0,794.441,794.441,794.441
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2000,Industry,Waste,CH4,28,27.0,2123.725295,59464.308260000005,57340.58296500001
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2000,Industry,Waste,N2O,265,273.0,3.458143,916.407895,944.073039
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2001,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,165.7285,4640.398,4474.6695
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2001,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.296875457,1403.6719961049998,1446.0469997609998
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2001,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.965461848,83.032931744,80.06746989599999
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2001,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.0010926533,0.2895531245,0.2982943509
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2001,Industry,Chemicals,CO2,1,1.0,2498.6248,2498.6248,2498.6248
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2001,Industry,Chemicals,N2O,265,273.0,2.450228,649.31042,668.912244
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2001,Industry,Waste,CO2,1,1.0,819.245,819.245,819.245
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2001,Industry,Waste,CH4,28,27.0,2131.324197,59677.077516,57545.753319
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2001,Industry,Waste,N2O,265,273.0,3.466405,918.597325,946.328565
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2002,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,154.9244,4337.8832,4182.958799999999
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2002,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4.986776166,1321.49568399,1361.389893318
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2002,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.807392846,78.606999688,75.799606842
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2002,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.002622368,0.69492752,0.715906464
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2002,Industry,Chemicals,CO2,1,1.0,2504.97488,2504.97488,2504.97488
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2002,Industry,Chemicals,N2O,265,273.0,2.458535,651.511775,671.1800549999999
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2002,Industry,Waste,CO2,1,1.0,842.562,842.562,842.562
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2002,Industry,Waste,CH4,28,27.0,2139.368555,59902.31954,57762.950985
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2002,Industry,Waste,N2O,265,273.0,3.476115,921.170475,948.979395
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2003,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,157.6872,4415.241599999999,4257.5544
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2003,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.094262409,1349.9795383849998,1390.733637657
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2003,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.873736124,80.464611472,77.590875348
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2003,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.003496491,0.926570115,0.954542043
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2003,Industry,Chemicals,CO2,1,1.0,2513.76834,2513.76834,2513.76834
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2003,Industry,Chemicals,N2O,265,273.0,2.4668,653.702,673.4364
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2003,Industry,Waste,CO2,1,1.0,866.203,866.203,866.203
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2003,Industry,Waste,CH4,28,27.0,2147.135882,60119.804696,57972.668814
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2003,Industry,Waste,N2O,265,273.0,3.482741,922.926365,950.788293
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2004,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,155.5355,4354.994000000001,4199.458500000001
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2004,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.069391798,1343.38882647,1383.943960854
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2004,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.833851515,79.34784242,76.513990905
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2004,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.003277961,0.8686596649999999,0.894883353
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2004,Buildings,Non-residential,CO2,1,1.0,73136.7,73136.7,73136.7
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2004,Buildings,Non-residential,CH4,28,27.0,9.87,276.36,266.48999999999995
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2004,Buildings,Non-residential,N2O,265,273.0,0.5922,156.933,161.67059999999998
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2004,Buildings,Residential,CO2,1,1.0,158899.2,158899.2,158899.2
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2004,Buildings,Residential,CH4,28,27.0,2.3213,64.9964,62.6751
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2004,Buildings,Residential,N2O,265,273.0,1.2882,341.373,351.6786
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2004,Energy systems,Electricity & heat,CO2,1,1.0,133528.0,133528.0,133528.0
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2004,Energy systems,Electricity & heat,CH4,28,27.0,11.076,310.12800000000004,299.052
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2004,Energy systems,Electricity & heat,N2O,265,273.0,1.8372,486.858,501.5556
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2004,Energy systems,Other (energy systems),N2O,265,273.0,20.197126,5352.23839,5513.815398000001
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2004,Industry,Chemicals,CO2,1,1.0,2519.6529,2519.6529,2519.6529
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2004,Industry,Chemicals,N2O,265,273.0,2.473452,655.46478,675.252396
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2004,Industry,Other (industry),CO2,1,1.0,50832.6,50832.6,50832.6
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2004,Industry,Other (industry),CH4,28,27.0,2.45245,68.6686,66.21615
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2004,Industry,Other (industry),N2O,265,273.0,0.4116,109.074,112.3668
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2004,Industry,Waste,CO2,1,1.0,893.972,893.972,893.972
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2004,Industry,Waste,CH4,28,27.0,2154.705322,60331.749016,58177.04369399999
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2004,Industry,Waste,N2O,265,273.0,3.516926,931.98539,960.120798
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2004,Transport,Domestic Aviation,CO2,1,1.0,21807.49,21807.49,21807.49
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2004,Transport,Domestic Aviation,CH4,28,27.0,0.1525001,4.2700028,4.1175027
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2004,Transport,Domestic Aviation,N2O,265,273.0,0.6100004,161.650106,166.5301092
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2004,Transport,Inland Shipping,CO2,1,1.0,34701.0,34701.0,34701.0
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2004,Transport,Inland Shipping,CH4,28,27.0,3.318,92.904,89.586
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2004,Transport,Inland Shipping,N2O,265,273.0,0.948,251.22,258.804
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2004,Transport,Other (transport),CO2,1,1.0,100921.5,100921.5,100921.5
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2004,Transport,Other (transport),CH4,28,27.0,9.309,260.652,251.343
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2004,Transport,Other (transport),N2O,265,273.0,0.8274,219.261,225.8802
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2004,Transport,Road,CO2,1,1.0,37680.88633,37680.88633,37680.88633
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2004,Transport,Road,CH4,28,27.0,2.95274163,82.67676564,79.72402401
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2004,Transport,Road,N2O,265,273.0,1.164192208,308.51093512,317.824472784
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2005,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,155.5355,4354.994000000001,4199.458500000001
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2005,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.069391798,1343.38882647,1383.943960854
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2005,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.833851515,79.34784242,76.513990905
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2005,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.003277961,0.8686596649999999,0.894883353
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2005,Buildings,Non-residential,CO2,1,1.0,73136.7,73136.7,73136.7
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2005,Buildings,Non-residential,CH4,28,27.0,9.87,276.36,266.48999999999995
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2005,Buildings,Non-residential,N2O,265,273.0,0.5922,156.933,161.67059999999998
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2005,Buildings,Residential,CO2,1,1.0,149414.2,149414.2,149414.2
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2005,Buildings,Residential,CH4,28,27.0,2.2317,62.4876,60.2559
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2005,Buildings,Residential,N2O,265,273.0,1.2114,321.021,330.7122
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2005,Energy systems,Electricity & heat,CO2,1,1.0,133528.0,133528.0,133528.0
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2005,Energy systems,Electricity & heat,CH4,28,27.0,10.956,306.768,295.812
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2005,Energy systems,Electricity & heat,N2O,265,273.0,1.8212,482.618,497.1876
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2005,Energy systems,Other (energy systems),N2O,265,273.0,19.766614,5238.15271,5396.285622
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2005,Industry,Chemicals,CO2,1,1.0,2526.18476,2526.18476,2526.18476
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2005,Industry,Chemicals,N2O,265,273.0,2.477368,656.5025199999999,676.321464
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2005,Industry,Other (industry),CO2,1,1.0,57205.2,57205.2,57205.2
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2005,Industry,Other (industry),CH4,28,27.0,2.80935,78.6618,75.85244999999999
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2005,Industry,Other (industry),N2O,265,273.0,0.4632,122.748,126.4536
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2005,Industry,Waste,CO2,1,1.0,922.156,922.156,922.156
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2005,Industry,Waste,CH4,28,27.0,2161.862576,60532.152128,58370.289552
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2005,Industry,Waste,N2O,265,273.0,3.53014,935.4871,963.72822
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2005,Transport,Domestic Aviation,CO2,1,1.0,21807.49,21807.49,21807.49
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2005,Transport,Domestic Aviation,CH4,28,27.0,0.1525001,4.2700028,4.1175027
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2005,Transport,Domestic Aviation,N2O,265,273.0,0.6100004,161.650106,166.5301092
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2005,Transport,Inland Shipping,CO2,1,1.0,31514.7,31514.7,31514.7
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2005,Transport,Inland Shipping,CH4,28,27.0,3.017,84.476,81.459
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2005,Transport,Inland Shipping,N2O,265,273.0,0.862,228.43,235.326
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2005,Transport,Other (transport),CO2,1,1.0,116778.9,116778.9,116778.9
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2005,Transport,Other (transport),CH4,28,27.0,10.807,302.596,291.789
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2005,Transport,Other (transport),N2O,265,273.0,0.9558,253.287,260.9334
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2005,Transport,Road,CO2,1,1.0,34494.5972,34494.5972,34494.5972
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2005,Transport,Road,CH4,28,27.0,2.6756304,74.91765120000001,72.2420208
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2005,Transport,Road,N2O,265,273.0,1.105863452,293.05381478,301.900722396
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2006,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,156.51,4382.28,4225.77
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2006,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.09839006,1351.0733659,1391.86048638
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2006,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.900365303,81.210228484,78.309863181
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2006,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.004370611,1.158211915,1.193176803
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2006,Buildings,Non-residential,CO2,1,1.0,82672.9,82672.9,82672.9
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2006,Buildings,Non-residential,CH4,28,27.0,11.17,312.76,301.59
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2006,Buildings,Non-residential,N2O,265,273.0,0.6702,177.603,182.9646
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2006,Buildings,Residential,CO2,1,1.0,168363.9,168363.9,168363.9
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2006,Buildings,Residential,CH4,28,27.0,2.8115,78.72200000000001,75.9105
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2006,Buildings,Residential,N2O,265,273.0,1.3656,361.884,372.8088
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2006,Energy systems,Electricity & heat,CO2,1,1.0,136714.0,136714.0,136714.0
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2006,Energy systems,Electricity & heat,CH4,28,27.0,10.515,294.42,283.90500000000003
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2006,Energy systems,Electricity & heat,N2O,265,273.0,1.771,469.315,483.483
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2006,Energy systems,Other (energy systems),N2O,265,273.0,20.409076,5408.40514,5571.677748
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2006,Industry,Chemicals,CO2,1,1.0,2534.45781,2534.45781,2534.45781
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2006,Industry,Chemicals,N2O,265,273.0,2.478237,656.732805,676.558701
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2006,Industry,Other (industry),CO2,1,1.0,54018.9,54018.9,54018.9
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2006,Industry,Other (industry),CH4,28,27.0,2.6309,73.6652,71.0343
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2006,Industry,Other (industry),N2O,265,273.0,0.4374,115.911,119.4102
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2006,Industry,Waste,CO2,1,1.0,935.633,935.633,935.633
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2006,Industry,Waste,CH4,28,27.0,2163.38784,60574.85952,58411.47168
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2006,Industry,Waste,N2O,265,273.0,3.53226,936.0489,964.30698
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2006,Transport,Domestic Aviation,CO2,1,1.0,24882.04,24882.04,24882.04
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2006,Transport,Domestic Aviation,CH4,28,27.0,0.1739999,4.8719972,4.6979973
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2006,Transport,Domestic Aviation,N2O,265,273.0,0.6959996,184.439894,190.0078908
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2006,Transport,Inland Shipping,CO2,1,1.0,31514.7,31514.7,31514.7
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2006,Transport,Inland Shipping,CH4,28,27.0,3.017,84.476,81.459
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2006,Transport,Inland Shipping,N2O,265,273.0,0.862,228.43,235.326
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2006,Transport,Other (transport),CO2,1,1.0,91362.6,91362.6,91362.6
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2006,Transport,Other (transport),CH4,28,27.0,8.234,230.552,222.318
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2006,Transport,Other (transport),N2O,265,273.0,0.75,198.75,204.75
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2006,Transport,Road,CO2,1,1.0,43916.418989,43916.418989,43916.418989
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2006,Transport,Road,CH4,28,27.0,3.354701428,93.931639984,90.576938556
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2006,Transport,Road,N2O,265,273.0,1.423897313,377.332787945,388.7239664490001
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2007,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,161.1655,4512.634,4351.4685
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2007,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.24441891,1389.77101115,1431.72636243
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2007,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.99677394,83.90967032,80.91289638
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2007,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.007648582,2.02687423,2.088062886
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2007,Buildings,Non-residential,CO2,1,1.0,69927.7,69927.7,69927.7
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2007,Buildings,Non-residential,CH4,28,27.0,9.45,264.6,255.15
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2007,Buildings,Non-residential,N2O,265,273.0,0.567,150.255,154.791
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2007,Buildings,Residential,CO2,1,1.0,133483.2,133483.2,133483.2
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2007,Buildings,Residential,CH4,28,27.0,2.0812,58.2736,56.1924
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2007,Buildings,Residential,N2O,265,273.0,1.0824,286.836,295.4952
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2007,Energy systems,Electricity & heat,CO2,1,1.0,130342.0,130342.0,130342.0
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2007,Energy systems,Electricity & heat,CH4,28,27.0,10.887,304.836,293.949
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2007,Energy systems,Electricity & heat,N2O,265,273.0,1.8034,477.901,492.3282
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2007,Energy systems,Other (energy systems),N2O,265,273.0,18.739609,4965.996385,5115.913257
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2007,Industry,Chemicals,CO2,1,1.0,2539.56147,2539.56147,2539.56147
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2007,Industry,Chemicals,N2O,265,273.0,2.476328,656.2269200000001,676.037544
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2007,Industry,Other (industry),CO2,1,1.0,57205.2,57205.2,57205.2
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2007,Industry,Other (industry),CH4,28,27.0,2.80935,78.6618,75.85244999999999
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2007,Industry,Other (industry),N2O,265,273.0,0.4632,122.748,126.4536
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2007,Industry,Waste,CO2,1,1.0,951.034,951.034,951.034
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2007,Industry,Waste,CH4,28,27.0,2164.56736,60607.88608,58443.31872
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2007,Industry,Waste,N2O,265,273.0,3.52551,934.26015,962.46423
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2007,Transport,Domestic Aviation,CO2,1,1.0,24882.04,24882.04,24882.04
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2007,Transport,Domestic Aviation,CH4,28,27.0,0.1739999,4.8719972,4.6979973
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2007,Transport,Domestic Aviation,N2O,265,273.0,0.6959996,184.439894,190.0078908
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2007,Transport,Inland Shipping,CO2,1,1.0,25142.1,25142.1,25142.1
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2007,Transport,Inland Shipping,CH4,28,27.0,2.415,67.62,65.205
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2007,Transport,Inland Shipping,N2O,265,273.0,0.69,182.85,188.37
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2007,Transport,Other (transport),CO2,1,1.0,145381.5,145381.5,145381.5
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2007,Transport,Other (transport),CH4,28,27.0,13.509,378.252,364.743
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2007,Transport,Other (transport),N2O,265,273.0,1.1874,314.661,324.1602
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2007,Transport,Road,CO2,1,1.0,37543.8072,37543.8072,37543.8072
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2007,Transport,Road,CH4,28,27.0,3.025835849,84.723403772,81.697567923
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2007,Transport,Road,N2O,265,273.0,1.289303535,341.665436775,351.979865055
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2008,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,161.7953,4530.2684,4368.4731
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2008,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.25777028,1393.3091242,1435.37128644
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2008,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.02454499,84.68725972,81.66271472999999
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2008,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.010708003,2.8376207950000003,2.923284819
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2008,Buildings,Non-residential,CO2,1,1.0,69950.4,69950.4,69950.4
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2008,Buildings,Non-residential,CH4,28,27.0,9.44,264.32,254.88
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2008,Buildings,Non-residential,N2O,265,273.0,0.5664,150.096,154.62720000000002
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2008,Buildings,Residential,CO2,1,1.0,139855.2,139855.2,139855.2
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2008,Buildings,Residential,CH4,28,27.0,2.1414,59.9592,57.8178
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2008,Buildings,Residential,N2O,265,273.0,1.134,300.51,309.582
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2008,Energy systems,Electricity & heat,CO2,1,1.0,136714.0,136714.0,136714.0
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2008,Energy systems,Electricity & heat,CH4,28,27.0,11.085,310.38,299.295
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2008,Energy systems,Electricity & heat,N2O,265,273.0,1.847,489.455,504.231
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2008,Energy systems,Other (energy systems),N2O,265,273.0,19.554076,5181.83014,5338.262747999999
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2008,Industry,Chemicals,CO2,1,1.0,2553.5176,2553.5176,2553.5176
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2008,Industry,Chemicals,N2O,265,273.0,2.472583,655.234495,675.015159
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2008,Industry,Other (industry),CO2,1,1.0,60465.6,60465.6,60465.6
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2008,Industry,Other (industry),CH4,28,27.0,2.9425,82.39,79.44749999999999
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2008,Industry,Other (industry),N2O,265,273.0,0.4896,129.744,133.6608
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2008,Industry,Waste,CO2,1,1.0,966.435,966.435,966.435
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2008,Industry,Waste,CH4,28,27.0,2165.40328,60631.29184,58465.88856
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2008,Industry,Waste,N2O,265,273.0,3.49917,927.28005,955.27341
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2008,Transport,Domestic Aviation,CO2,1,1.0,28028.1,28028.1,28028.1
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2008,Transport,Domestic Aviation,CH4,28,27.0,0.1960002,5.4880056,5.292005400000001
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2008,Transport,Domestic Aviation,N2O,265,273.0,0.7840008,207.760212,214.0322184
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2008,Transport,Inland Shipping,CO2,1,1.0,25142.1,25142.1,25142.1
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2008,Transport,Inland Shipping,CH4,28,27.0,2.415,67.62,65.205
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2008,Transport,Inland Shipping,N2O,265,273.0,0.69,182.85,188.37
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2008,Transport,Other (transport),CO2,1,1.0,145381.8,145381.8,145381.8
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2008,Transport,Other (transport),CH4,28,27.0,13.337,373.436,360.099
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2008,Transport,Other (transport),N2O,265,273.0,1.1874,314.661,324.1602
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2008,Transport,Road,CO2,1,1.0,37543.78975,37543.78975,37543.78975
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2008,Transport,Road,CH4,28,27.0,2.857740428,80.016731984,77.158991556
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2008,Transport,Road,N2O,265,273.0,1.275992011,338.13788291500003,348.34581900300003
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2009,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,161.6435,4526.018,4364.3745
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2009,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.25053378,1391.3914516999998,1433.39572194
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2009,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.00460533,84.12894924,81.12434391
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2009,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.012019183,3.185083495,3.281236959
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2009,Buildings,Non-residential,CO2,1,1.0,57205.2,57205.2,57205.2
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2009,Buildings,Non-residential,CH4,28,27.0,7.72,216.16,208.44
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2009,Buildings,Non-residential,N2O,265,273.0,0.4632,122.748,126.4536
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2009,Buildings,Residential,CO2,1,1.0,120737.2,120737.2,120737.2
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2009,Buildings,Residential,CH4,28,27.0,1.9608,54.9024,52.9416
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2009,Buildings,Residential,N2O,265,273.0,0.9792,259.488,267.3216
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2009,Energy systems,Electricity & heat,CO2,1,1.0,117597.0,117597.0,117597.0
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2009,Energy systems,Electricity & heat,CH4,28,27.0,9.861,276.108,266.247
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2009,Energy systems,Electricity & heat,N2O,265,273.0,1.6322,432.533,445.59060000000005
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2009,Energy systems,Other (energy systems),N2O,265,273.0,17.422483,4616.957995,4756.337859
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2009,Industry,Chemicals,CO2,1,1.0,2548.56282,2548.56282,2548.56282
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2009,Industry,Chemicals,N2O,265,273.0,2.46767,653.93255,673.67391
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2009,Industry,Other (industry),CO2,1,1.0,41347.8,41347.8,41347.8
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2009,Industry,Other (industry),CH4,28,27.0,1.9707,55.17959999999999,53.2089
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2009,Industry,Other (industry),N2O,265,273.0,0.3348,88.722,91.4004
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2009,Industry,Waste,CO2,1,1.0,981.837,981.837,981.837
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2009,Industry,Waste,CH4,28,27.0,2166.04313,60649.20764,58483.16451
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2009,Industry,Waste,N2O,265,273.0,3.46565,918.39725,946.12245
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2009,Transport,Domestic Aviation,CO2,1,1.0,21807.49,21807.49,21807.49
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2009,Transport,Domestic Aviation,CH4,28,27.0,0.1525001,4.2700028,4.1175027
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2009,Transport,Domestic Aviation,N2O,265,273.0,0.6100004,161.650106,166.5301092
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2009,Transport,Inland Shipping,CO2,1,1.0,25142.1,25142.1,25142.1
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2009,Transport,Inland Shipping,CH4,28,27.0,2.415,67.62,65.205
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2009,Transport,Inland Shipping,N2O,265,273.0,0.69,182.85,188.37
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2009,Transport,Other (transport),CO2,1,1.0,139083.4,139083.4,139083.4
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2009,Transport,Other (transport),CH4,28,27.0,12.398,347.144,334.746
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2009,Transport,Other (transport),N2O,265,273.0,1.1364,301.146,310.23720000000003
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2009,Transport,Road,CO2,1,1.0,34357.4989,34357.4989,34357.4989
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2009,Transport,Road,CH4,28,27.0,2.60742047,73.00777316,70.40035269
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2009,Transport,Road,N2O,265,273.0,1.180302856,312.78025684,322.222679688
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2010,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,161.7925,4530.19,4368.3975
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2010,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.25017468,1391.2962902,1433.2976876399998
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2010,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.00172603,84.04832884,81.04660281
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2010,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.014204494,3.76419091,3.877826862
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2010,Buildings,Non-residential,CO2,1,1.0,47720.4,47720.4,47720.4
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2010,Buildings,Non-residential,CH4,28,27.0,6.44,180.32,173.88000000000002
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2010,Buildings,Non-residential,N2O,265,273.0,0.3864,102.396,105.4872
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2010,Buildings,Residential,CO2,1,1.0,117625.2,117625.2,117625.2
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2010,Buildings,Residential,CH4,28,27.0,1.9314,54.0792,52.1478
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2010,Buildings,Residential,N2O,265,273.0,0.954,252.81,260.442
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2010,Energy systems,Electricity & heat,CO2,1,1.0,101739.0,101739.0,101739.0
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2010,Energy systems,Electricity & heat,CH4,28,27.0,9.849,275.772,265.923
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2010,Energy systems,Electricity & heat,N2O,265,273.0,1.5878,420.76700000000005,433.4694
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2010,Energy systems,Other (energy systems),N2O,265,273.0,17.365139,4601.761834999999,4740.682946999999
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2010,Industry,Chemicals,CO2,1,1.0,2556.57055,2556.57055,2556.57055
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2010,Industry,Chemicals,N2O,265,273.0,2.463755,652.895075,672.605115
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2010,Industry,Other (industry),CO2,1,1.0,162085.1,162085.1,162085.1
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2010,Industry,Other (industry),CH4,28,27.0,8.69175,243.36900000000003,234.67725
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2010,Industry,Other (industry),N2O,265,273.0,1.314,348.21000000000004,358.72200000000004
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2010,Industry,Waste,CO2,1,1.0,997.238,997.238,997.238
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2010,Industry,Waste,CH4,28,27.0,2169.936914,60758.233592,58588.296678
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2010,Industry,Waste,N2O,265,273.0,3.43068,909.1302,936.57564
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2010,Transport,Domestic Aviation,CO2,1,1.0,21807.49,21807.49,21807.49
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2010,Transport,Domestic Aviation,CH4,28,27.0,0.1525001,4.2700028,4.1175027
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2010,Transport,Domestic Aviation,N2O,265,273.0,0.6100004,161.650106,166.5301092
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2010,Transport,Inland Shipping,CO2,1,1.0,25203.3,25203.3,25203.3
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2010,Transport,Inland Shipping,CH4,28,27.0,2.408,67.42399999999999,65.01599999999999
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2010,Transport,Inland Shipping,N2O,265,273.0,0.688,182.32,187.824
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2010,Transport,Other (transport),CO2,1,1.0,138871.8,138871.8,138871.8
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2010,Transport,Other (transport),CH4,28,27.0,12.058,337.624,325.566
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2010,Transport,Other (transport),N2O,265,273.0,1.1364,301.146,310.23720000000003
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2010,Transport,Road,CO2,1,1.0,34357.50485,34357.50485,34357.50485
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2010,Transport,Road,CH4,28,27.0,2.44623834,68.49467351999999,66.04843518
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2010,Transport,Road,N2O,265,273.0,1.164797471,308.671329815,317.989709583
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2011,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,162.1986,4541.5608,4379.3622
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2011,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.25798751,1393.36669015,1435.43059023
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2011,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.01401949,84.39254572,81.37852622999999
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2011,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.017045395,4.517029675000001,4.653392835
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2011,Buildings,Non-residential,CO2,1,1.0,53996.2,53996.2,53996.2
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2011,Buildings,Non-residential,CH4,28,27.0,7.3,204.4,197.1
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2011,Buildings,Non-residential,N2O,265,273.0,0.438,116.07,119.574
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2011,Buildings,Residential,CO2,1,1.0,117625.2,117625.2,117625.2
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2011,Buildings,Residential,CH4,28,27.0,1.9314,54.0792,52.1478
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2011,Buildings,Residential,N2O,265,273.0,0.954,252.81,260.442
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2011,Energy systems,Electricity & heat,CO2,1,1.0,98553.0,98553.0,98553.0
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2011,Energy systems,Electricity & heat,CH4,28,27.0,9.81,274.68,264.87
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2011,Energy systems,Electricity & heat,N2O,265,273.0,1.574,417.11,429.702
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2011,Energy systems,Other (energy systems),N2O,265,273.0,17.708256,4692.68784,4834.353888
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2011,Industry,Chemicals,CO2,1,1.0,2555.14493,2555.14493,2555.14493
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2011,Industry,Chemicals,N2O,265,273.0,2.46001,651.90265,671.58273
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2011,Industry,Other (industry),CO2,1,1.0,193853.6,193853.6,193853.6
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2011,Industry,Other (industry),CH4,28,27.0,10.4751,293.3028,282.8277
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2011,Industry,Other (industry),N2O,265,273.0,1.572,416.58,429.156
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2011,Industry,Waste,CO2,1,1.0,1012.64,1012.64,1012.64
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2011,Industry,Waste,CH4,28,27.0,2171.04757,60789.33196,58618.28439000001
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2011,Industry,Waste,N2O,265,273.0,3.39318,899.1927000000001,926.33814
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2011,Transport,Domestic Aviation,CO2,1,1.0,24882.04,24882.04,24882.04
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2011,Transport,Domestic Aviation,CH4,28,27.0,0.1739999,4.8719972,4.6979973
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2011,Transport,Domestic Aviation,N2O,265,273.0,0.6959996,184.439894,190.0078908
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2011,Transport,Inland Shipping,CO2,1,1.0,28299.3,28299.3,28299.3
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2011,Transport,Inland Shipping,CH4,28,27.0,2.688,75.26400000000001,72.57600000000001
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2011,Transport,Inland Shipping,N2O,265,273.0,0.768,203.52,209.664
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2011,Transport,Other (transport),CO2,1,1.0,138871.8,138871.8,138871.8
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2011,Transport,Other (transport),CH4,28,27.0,12.23,342.44,330.21000000000004
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2011,Transport,Other (transport),N2O,265,273.0,1.1364,301.146,310.23720000000003
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2011,Transport,Road,CO2,1,1.0,34357.50485,34357.50485,34357.50485
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2011,Transport,Road,CH4,28,27.0,2.44623834,68.49467351999999,66.04843518
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2011,Transport,Road,N2O,265,273.0,1.164797471,308.671329815,317.989709583
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2012,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,162.9286,4562.0008,4399.0722
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2012,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.27226906,1397.1513009,1439.32945338
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2012,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.04087879,85.14460611999999,82.10372733
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2012,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.021415986,5.67523629,5.846564178
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2012,Buildings,Non-residential,CO2,1,1.0,57182.5,57182.5,57182.5
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2012,Buildings,Non-residential,CH4,28,27.0,7.73,216.44,208.71
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2012,Buildings,Non-residential,N2O,265,273.0,0.4638,122.907,126.6174
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2012,Buildings,Residential,CO2,1,1.0,114439.2,114439.2,114439.2
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2012,Buildings,Residential,CH4,28,27.0,1.9013,53.2364,51.3351
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2012,Buildings,Residential,N2O,265,273.0,0.9282,245.973,253.3986
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2012,Energy systems,Electricity & heat,CO2,1,1.0,101739.0,101739.0,101739.0
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2012,Energy systems,Electricity & heat,CH4,28,27.0,10.689,299.29200000000003,288.603
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2012,Energy systems,Electricity & heat,N2O,265,273.0,1.6998,450.447,464.0454
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2012,Energy systems,Other (energy systems),N2O,265,273.0,16.167046,4284.26719,4413.603558
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2012,Industry,Chemicals,CO2,1,1.0,2561.95929,2561.95929,2561.95929
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2012,Industry,Chemicals,N2O,265,273.0,2.456445,650.957925,670.609485
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2012,Industry,Other (industry),CO2,1,1.0,38212.9,38212.9,38212.9
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2012,Industry,Other (industry),CH4,28,27.0,1.8477,51.7356,49.8879
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2012,Industry,Other (industry),N2O,265,273.0,0.3102,82.20299999999999,84.68459999999999
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2012,Industry,Waste,CO2,1,1.0,1028.04,1028.04,1028.04
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2012,Industry,Waste,CH4,28,27.0,2175.41025,60911.487,58736.07675
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2012,Industry,Waste,N2O,265,273.0,3.38453,896.90045,923.97669
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2012,Transport,Domestic Aviation,CO2,1,1.0,21807.49,21807.49,21807.49
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2012,Transport,Domestic Aviation,CH4,28,27.0,0.1525001,4.2700028,4.1175027
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2012,Transport,Domestic Aviation,N2O,265,273.0,0.6100004,161.650106,166.5301092
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2012,Transport,Inland Shipping,CO2,1,1.0,28315.5,28315.5,28315.5
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2012,Transport,Inland Shipping,CH4,28,27.0,2.702,75.656,72.954
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2012,Transport,Inland Shipping,N2O,265,273.0,0.772,204.58,210.756
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2012,Transport,Other (transport),CO2,1,1.0,148430.3,148430.3,148430.3
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2012,Transport,Other (transport),CH4,28,27.0,13.473,377.244,363.771
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2012,Transport,Other (transport),N2O,265,273.0,1.2138,321.657,331.3674
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2012,Transport,Road,CO2,1,1.0,34357.50485,34357.50485,34357.50485
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2012,Transport,Road,CH4,28,27.0,2.44623834,68.49467351999999,66.04843518
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2012,Transport,Road,N2O,265,273.0,1.164797471,308.671329815,317.989709583
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2013,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,163.674,4582.872,4419.198
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2013,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.28661182,1400.9521323,1443.24502686
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2013,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.06607446,85.85008488,82.78401042
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2013,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.02622368,6.9492752,7.15906464
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2013,Buildings,Non-residential,CO2,1,1.0,57182.5,57182.5,57182.5
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2013,Buildings,Non-residential,CH4,28,27.0,7.73,216.44,208.71
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2013,Buildings,Non-residential,N2O,265,273.0,0.4638,122.907,126.6174
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2013,Buildings,Residential,CO2,1,1.0,114439.2,114439.2,114439.2
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2013,Buildings,Residential,CH4,28,27.0,1.9013,53.2364,51.3351
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2013,Buildings,Residential,N2O,265,273.0,0.9282,245.973,253.3986
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2013,Energy systems,Electricity & heat,CO2,1,1.0,85807.8,85807.8,85807.8
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2013,Energy systems,Electricity & heat,CH4,28,27.0,10.944,306.432,295.488
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2013,Energy systems,Electricity & heat,N2O,265,273.0,1.6908,448.062,461.5884
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2013,Energy systems,Other (energy systems),N2O,265,273.0,14.67647,3889.26455,4006.67631
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2013,Industry,Chemicals,CO2,1,1.0,2564.05362,2564.05362,2564.05362
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2013,Industry,Chemicals,N2O,265,273.0,2.454005,650.311325,669.943365
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2013,Industry,Other (industry),CO2,1,1.0,39470.4,39470.4,39470.4
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2013,Industry,Other (industry),CH4,28,27.0,1.89415,53.0362,51.14205
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2013,Industry,Other (industry),N2O,265,273.0,0.3096,82.044,84.5208
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2013,Industry,Waste,CO2,1,1.0,1028.04,1028.04,1028.04
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2013,Industry,Waste,CH4,28,27.0,2176.71017,60947.88475999999,58771.17459
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2013,Industry,Waste,N2O,265,273.0,3.37577,894.57905,921.58521
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2013,Transport,Domestic Aviation,CO2,1,1.0,21807.49,21807.49,21807.49
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2013,Transport,Domestic Aviation,CH4,28,27.0,0.1525001,4.2700028,4.1175027
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2013,Transport,Domestic Aviation,N2O,265,273.0,0.6100004,161.650106,166.5301092
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2013,Transport,Inland Shipping,CO2,1,1.0,31472.7,31472.7,31472.7
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2013,Transport,Inland Shipping,CH4,28,27.0,2.975,83.3,80.325
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2013,Transport,Inland Shipping,N2O,265,273.0,0.85,225.25,232.05
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2013,Transport,Other (transport),CO2,1,1.0,142058.4,142058.4,142058.4
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2013,Transport,Other (transport),CH4,28,27.0,13.43645,376.2206,362.78415
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2013,Transport,Other (transport),N2O,265,273.0,2.3662,627.043,645.9726
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2013,Transport,Road,CO2,1,1.0,43916.39335,43916.39335,43916.39335
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2013,Transport,Road,CH4,28,27.0,2.67214856,74.82015968,72.14801112
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2013,Transport,Road,N2O,265,273.0,1.41852491,375.90910115,387.25730043
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2014,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,158.3751,4434.5028,4276.1277
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2014,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.1029287,1352.2761055,1393.0995351
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2014,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.98949642,83.70589976,80.71640334
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2014,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.03124984,8.2812076,8.53120632
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2014,Buildings,Non-residential,CO2,1,1.0,50884.0,50884.0,50884.0
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2014,Buildings,Non-residential,CH4,28,27.0,6.88,192.64,185.76
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2014,Buildings,Non-residential,N2O,265,273.0,0.4128,109.392,112.6944
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2014,Buildings,Residential,CO2,1,1.0,98530.3,98530.3,98530.3
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2014,Buildings,Residential,CH4,28,27.0,1.3409,37.5452,36.2043
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2014,Buildings,Residential,N2O,265,273.0,0.7986,211.629,218.0178
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2014,Energy systems,Electricity & heat,CO2,1,1.0,85807.8,85807.8,85807.8
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2014,Energy systems,Electricity & heat,CH4,28,27.0,9.354,261.912,252.558
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2014,Energy systems,Electricity & heat,N2O,265,273.0,1.4788,391.882,403.7124
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2014,Energy systems,Other (energy systems),N2O,265,273.0,14.189722,3760.27633,3873.794106
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2014,Industry,Chemicals,CO2,1,1.0,2569.78442,2569.78442,2569.78442
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2014,Industry,Chemicals,N2O,265,273.0,2.452615,649.942975,669.563895
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2014,Industry,Other (industry),CO2,1,1.0,22921.5,22921.5,22921.5
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2014,Industry,Other (industry),CH4,28,27.0,1.05135,29.4378,28.38645
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2014,Industry,Other (industry),N2O,265,273.0,0.1806,47.859,49.3038
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2014,Industry,Waste,CO2,1,1.0,1028.04,1028.04,1028.04
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2014,Industry,Waste,CH4,28,27.0,2181.410344,61079.489632,58898.07928799999
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2014,Industry,Waste,N2O,265,273.0,3.3968,900.1519999999999,927.3264
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2014,Transport,Domestic Aviation,CO2,1,1.0,18661.47,18661.47,18661.47
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2014,Transport,Domestic Aviation,CH4,28,27.0,0.1304997,3.6539916,3.5234919
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2014,Transport,Domestic Aviation,N2O,265,273.0,0.5219992,138.329788,142.5057816
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2014,Transport,Inland Shipping,CO2,1,1.0,31472.7,31472.7,31472.7
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2014,Transport,Inland Shipping,CH4,28,27.0,2.975,83.3,80.325
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2014,Transport,Inland Shipping,N2O,265,273.0,0.85,225.25,232.05
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2014,Transport,Other (transport),CO2,1,1.0,135424.2,135424.2,135424.2
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2014,Transport,Other (transport),CH4,28,27.0,12.70845,355.8366,343.12815
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2014,Transport,Other (transport),N2O,265,273.0,2.3038,610.507,628.9373999999999
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2014,Transport,Road,CO2,1,1.0,40730.08935,40730.08935,40730.08935
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2014,Transport,Road,CH4,28,27.0,2.59684482,72.71165495999999,70.11481013999999
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2014,Transport,Road,N2O,265,273.0,1.333949578,353.49663817,364.168234794
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2015,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,156.8076,4390.6128,4233.8052
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2015,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,5.05108547,1338.53764955,1378.94633331
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2015,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.97589257,83.32499196,80.34909939
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2015,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.03234249,8.57075985,8.82949977
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2015,Buildings,Non-residential,CO2,1,1.0,44511.4,44511.4,44511.4
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2015,Buildings,Non-residential,CH4,28,27.0,6.02,168.56,162.54
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2015,Buildings,Non-residential,N2O,265,273.0,0.3612,95.718,98.6076
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2015,Buildings,Residential,CO2,1,1.0,101693.9,101693.9,101693.9
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2015,Buildings,Residential,CH4,28,27.0,1.7809,49.8652,48.0843
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2015,Buildings,Residential,N2O,265,273.0,0.825,218.625,225.225
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2015,Energy systems,Electricity & heat,CO2,1,1.0,128127.0,128127.0,128127.0
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2015,Energy systems,Electricity & heat,CH4,28,27.0,11.469,321.132,309.663
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2015,Energy systems,Electricity & heat,N2O,265,273.0,1.8758,497.087,512.0934
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2015,Energy systems,Other (energy systems),N2O,265,273.0,15.618782,4138.97723,4263.927486
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2015,Industry,Chemicals,CO2,1,1.0,2571.20522,2571.20522,2571.20522
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2015,Industry,Chemicals,N2O,265,273.0,2.452403,649.886795,669.5060189999999
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2015,Industry,Other (industry),CO2,1,1.0,20970.0,20970.0,20970.0
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2015,Industry,Other (industry),CH4,28,27.0,0.8729,24.4412,23.5683
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2015,Industry,Other (industry),N2O,265,273.0,0.1548,41.022,42.2604
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2015,Industry,Waste,CO2,1,1.0,1028.04,1028.04,1028.04
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2015,Industry,Waste,CH4,28,27.0,2181.57594,61084.12632,58902.55038000001
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2015,Industry,Waste,N2O,265,273.0,3.41645,905.35925,932.69085
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2015,Transport,Domestic Aviation,CO2,1,1.0,18661.47,18661.47,18661.47
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2015,Transport,Domestic Aviation,CH4,28,27.0,0.1304997,3.6539916,3.5234919
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2015,Transport,Domestic Aviation,N2O,265,273.0,0.5219992,138.329788,142.5057816
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2015,Transport,Inland Shipping,CO2,1,1.0,31472.7,31472.7,31472.7
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2015,Transport,Inland Shipping,CH4,28,27.0,2.975,83.3,80.325
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2015,Transport,Inland Shipping,N2O,265,273.0,0.85,225.25,232.05
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2015,Transport,Other (transport),CO2,1,1.0,138644.3,138644.3,138644.3
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2015,Transport,Other (transport),CH4,28,27.0,12.60235,352.8658,340.26345
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2015,Transport,Other (transport),N2O,265,273.0,4.7388,1255.7820000000002,1293.6924
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2015,Transport,Road,CO2,1,1.0,37543.82335,37543.82335,37543.82335
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2015,Transport,Road,CH4,28,27.0,2.52154228,70.60318384,68.08164156
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2015,Transport,Road,N2O,265,273.0,1.249373758,331.08404587,341.079035934
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2016,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,154.7595,4333.266,4178.5065
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2016,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4.98109585,1319.99040025,1359.83916705
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2016,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.9563822,82.7787016,79.8223194
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2016,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.03387226,8.9761489,9.24712698
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2016,Buildings,Non-residential,CO2,1,1.0,47697.7,47697.7,47697.7
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2016,Buildings,Non-residential,CH4,28,27.0,6.45,180.6,174.15
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2016,Buildings,Non-residential,N2O,265,273.0,0.387,102.555,105.651
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2016,Buildings,Residential,CO2,1,1.0,98507.6,98507.6,98507.6
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2016,Buildings,Residential,CH4,28,27.0,1.7508,49.0224,47.2716
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2016,Buildings,Residential,N2O,265,273.0,0.7992,211.788,218.1816
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2016,Energy systems,Electricity & heat,CO2,1,1.0,109009.5,109009.5,109009.5
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2016,Energy systems,Electricity & heat,CH4,28,27.0,10.395,291.06,280.665
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2016,Energy systems,Electricity & heat,N2O,265,273.0,1.681,445.465,458.913
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2016,Energy systems,Other (energy systems),N2O,265,273.0,13.975715,3703.564475,3815.370195
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2016,Industry,Chemicals,CO2,1,1.0,2586.55762,2586.55762,2586.55762
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2016,Industry,Chemicals,N2O,265,273.0,2.45392,650.2888,669.92016
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2016,Industry,Other (industry),CO2,1,1.0,24156.3,24156.3,24156.3
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2016,Industry,Other (industry),CH4,28,27.0,1.05135,29.4378,28.38645
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2016,Industry,Other (industry),N2O,265,273.0,0.1806,47.859,49.3038
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2016,Industry,Waste,CO2,1,1.0,1028.04,1028.04,1028.04
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2016,Industry,Waste,CH4,28,27.0,2181.92195,61093.8146,58911.89265
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2016,Industry,Waste,N2O,265,273.0,3.44686,913.4179,940.99278
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2016,Transport,Domestic Aviation,CO2,1,1.0,21807.49,21807.49,21807.49
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2016,Transport,Domestic Aviation,CH4,28,27.0,0.1525001,4.2700028,4.1175027
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2016,Transport,Domestic Aviation,N2O,265,273.0,0.6100004,161.650106,166.5301092
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2016,Transport,Inland Shipping,CO2,1,1.0,34452.6,34452.6,34452.6
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2016,Transport,Inland Shipping,CH4,28,27.0,3.276,91.728,88.452
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2016,Transport,Inland Shipping,N2O,265,273.0,0.936,248.04,255.528
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2016,Transport,Other (transport),CO2,1,1.0,141590.4,141590.4,141590.4
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2016,Transport,Other (transport),CH4,28,27.0,13.31045,372.6926,359.38215
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2016,Transport,Other (transport),N2O,265,273.0,2.3554,624.181,643.0242
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2016,Transport,Road,CO2,1,1.0,40593.03453,40593.03453,40593.03453
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2016,Transport,Road,CH4,28,27.0,3.00450389,84.12610892000001,81.12160503
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2016,Transport,Road,N2O,265,273.0,1.393879308,369.37801662,380.529051084
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,154.952,4338.656,4183.704
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4.98472493,1320.95210645,1360.82990589
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.96853224,83.11890272,80.15037048
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.03496491,9.26570115,9.54542043
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Buildings,Non-residential,CO2,1,1.0,45609.7,45609.7,45609.7
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Buildings,Non-residential,CH4,28,27.0,6.165,172.62,166.455
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Buildings,Non-residential,N2O,265,273.0,0.3697,97.9705,100.9281
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Buildings,Residential,CO2,1,1.0,100710.8,100710.8,100710.8
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Buildings,Residential,CH4,28,27.0,1.8133,50.7724,48.9591
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Buildings,Residential,N2O,265,273.0,0.8167,216.4255,222.9591
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Energy systems,Electricity & heat,CO2,1,1.0,81880.5,81880.5,81880.5
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Energy systems,Electricity & heat,CH4,28,27.0,9.2529,259.0812,249.8283
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Energy systems,Electricity & heat,N2O,265,273.0,1.4548,385.5220000000001,397.1604
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Energy systems,Other (energy systems),CO2,1,1.0,69.3,69.3,69.3
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Energy systems,Other (energy systems),CH4,28,27.0,0.01,0.28,0.27
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Energy systems,Other (energy systems),N2O,265,273.0,14.44857,3828.87105,3944.45961
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Industry,Chemicals,CO2,1,1.0,2590.97691,2590.97691,2590.97691
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Industry,Chemicals,N2O,265,273.0,2.45688,651.0732,670.72824
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Industry,Metals,CO2,1,1.0,666.9,666.9,666.9
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Industry,Metals,CH4,28,27.0,0.027,0.756,0.729
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Industry,Metals,N2O,265,273.0,0.0054,1.431,1.4742000000000002
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Industry,Other (industry),CO2,1,1.0,26883.1,26883.1,26883.1
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Industry,Other (industry),CH4,28,27.0,1.18245,33.1086,31.92615
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Industry,Other (industry),N2O,265,273.0,0.2035,53.9275,55.5555
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Industry,Waste,CO2,1,1.0,1031.89,1031.89,1031.89
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Industry,Waste,CH4,28,27.0,2182.47716,61109.36048,58926.88332
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Industry,Waste,N2O,265,273.0,3.46888,919.2532,947.00424
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Transport,Domestic Aviation,CO2,1,1.0,24297.4701,24297.4701,24297.4701
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Transport,Domestic Aviation,CH4,28,27.0,0.1700001,4.7600028,4.590002699999999
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Transport,Domestic Aviation,N2O,265,273.0,0.6800004,180.200106,185.6401092
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Transport,Inland Shipping,CO2,1,1.0,36961.8,36961.8,36961.8
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Transport,Inland Shipping,CH4,28,27.0,3.5,98.0,94.5
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Transport,Inland Shipping,N2O,265,273.0,1.0,265.0,273.0
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Transport,Other (transport),CO2,1,1.0,150436.9,150436.9,150436.9
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Transport,Other (transport),CH4,28,27.0,14.0623,393.7444,379.6821
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Transport,Other (transport),N2O,265,273.0,2.3983,635.5495,654.7359
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Transport,Road,CO2,1,1.0,40454.43249,40454.43249,40454.43249
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Transport,Road,CH4,28,27.0,2.98255246,83.51146888,80.52891642
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2017,Transport,Road,N2O,265,273.0,1.387309726,367.63707739,378.735555198
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,154.4305,4324.054,4169.6235
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4.96518503,1315.77403295,1355.49551319
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.96746329,83.08897212,80.12150883
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.03605756,9.5552534,9.84371388
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Buildings,Non-residential,CO2,1,1.0,45702.4081,45702.4081,45702.4081
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Buildings,Non-residential,CH4,28,27.0,6.17753515,172.9709842,166.79344905
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Buildings,Non-residential,N2O,265,273.0,0.370452103,98.169807295,101.133424119
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Buildings,Residential,CO2,1,1.0,100915.5781,100915.5781,100915.5781
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Buildings,Residential,CH4,28,27.0,1.81698715,50.87564020000001,49.05865305
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Buildings,Residential,N2O,265,273.0,0.818360503,216.865533295,223.412417319
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Energy systems,Electricity & heat,CO2,1,1.0,82046.6504,82046.6504,82046.6504
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Energy systems,Electricity & heat,CH4,28,27.0,9.259621827,259.269411156,250.009789329
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Energy systems,Electricity & heat,N2O,265,273.0,1.456144812,385.87837518,397.527533676
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Energy systems,Other (energy systems),CO2,1,1.0,69.4407,69.4407,69.4407
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Energy systems,Other (energy systems),CH4,28,27.0,0.0100203,0.2805684,0.2705480999999999
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Energy systems,Other (energy systems),N2O,265,273.0,14.477454218,3836.52536777,3952.345001514
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Industry,Chemicals,CO2,1,1.0,2596.79612,2596.79612,2596.79612
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Industry,Chemicals,N2O,265,273.0,2.460573,652.0518450000001,671.736429
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Industry,Metals,CO2,1,1.0,668.256,668.256,668.256
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Industry,Metals,CH4,28,27.0,0.0270549,0.7575372,0.7304823
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Industry,Metals,N2O,265,273.0,0.00541098,1.4339097,1.47719754
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Industry,Other (industry),CO2,1,1.0,27278.3365,27278.3365,27278.3365
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Industry,Other (industry),CH4,28,27.0,1.18485672,33.17598816,31.99113144
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Industry,Other (industry),N2O,265,273.0,0.203914541,54.037353365,55.668669693
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Industry,Waste,CO2,1,1.0,1035.74,1035.74,1035.74
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Industry,Waste,CH4,28,27.0,2183.13466,61127.77048000001,58944.63582
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Industry,Waste,N2O,265,273.0,3.47476,920.8114,948.60948
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Transport,Domestic Aviation,CO2,1,1.0,24346.89688,24346.89688,24346.89688
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Transport,Domestic Aviation,CH4,28,27.0,0.170345401,4.769671228,4.599325827
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Transport,Domestic Aviation,N2O,265,273.0,0.681381612,180.56612718,186.017180076
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Transport,Inland Shipping,CO2,1,1.0,37037.05,37037.05,37037.05
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Transport,Inland Shipping,CH4,28,27.0,3.507115,98.19922,94.692105
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Transport,Inland Shipping,N2O,265,273.0,1.002034,265.53901,273.55528200000003
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Transport,Other (transport),CO2,1,1.0,150743.0081,150743.0081,150743.0081
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Transport,Other (transport),CH4,28,27.0,14.09090631,394.54537668,380.45447037
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Transport,Other (transport),N2O,265,273.0,2.403174803,636.841322795,656.0667212190001
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Transport,Road,CO2,1,1.0,40536.64002,40536.64002,40536.64002
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Transport,Road,CH4,28,27.0,2.98861567,83.68123876,80.69262309
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2018,Transport,Road,N2O,265,273.0,1.39013219,368.38503035,379.50608787
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,153.244256137448,4290.839171848544,4137.594915711095
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,4.97928777674325,1319.5112608369614,1359.3455630509077
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.95275586629728,82.67716425632383,79.72440839002655
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.03605756,9.5552534,9.84371388
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Buildings,Non-residential,CO2,1,1.0,46368.47,46368.47,46368.47
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Buildings,Non-residential,CH4,28,27.0,6.26118246137416,175.31310891847647,169.05192645710233
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Buildings,Non-residential,N2O,265,273.0,0.375468233488364,99.49908187441646,102.50282774232338
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Buildings,Residential,CO2,1,1.0,102386.19,102386.19,102386.19
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Buildings,Residential,CH4,28,27.0,1.84159018117804,51.56452507298512,49.72293489180708
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Buildings,Residential,N2O,265,273.0,0.829441565939926,219.8020149740804,226.4375475015998
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Energy systems,Electricity & heat,CO2,1,1.0,83242.933,83242.933,83242.933
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Energy systems,Electricity & heat,CH4,28,27.0,9.19812006081707,257.54736170287794,248.3492416420609
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Energy systems,Electricity & heat,N2O,265,273.0,1.45094123295696,384.4994267335944,396.1069565972501
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Energy systems,Other (energy systems),CO2,1,1.0,70.4532,70.4532,70.4532
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Energy systems,Other (energy systems),CH4,28,27.0,0.0100203,0.2805684,0.2705480999999999
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Energy systems,Other (energy systems),N2O,265,273.0,14.4828154687191,3837.9460992105614,3953.808622960314
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Industry,Chemicals,CO2,1,1.0,2599.66155,2599.66155,2599.66155
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Industry,Chemicals,N2O,265,273.0,2.45921894640181,651.6930207964797,671.3667723676941
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Industry,Metals,CO2,1,1.0,677.994,677.994,677.994
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Industry,Metals,CH4,28,27.0,0.0270549,0.7575372,0.7304823
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Industry,Metals,N2O,265,273.0,0.00541098,1.4339097,1.47719754
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Industry,Other (industry),CO2,1,1.0,27811.504,27811.504,27811.504
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Industry,Other (industry),CH4,28,27.0,1.19373473301073,33.42457252430044,32.23083779128971
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Industry,Other (industry),N2O,265,273.0,0.205242613788292,54.38929265389738,56.03123356420372
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Industry,Waste,CO2,1,1.0,1037.28,1037.28,1037.28
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Industry,Waste,CH4,28,27.0,2181.3963749378,61079.0984982584,58897.7021233206
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Industry,Waste,N2O,265,273.0,3.48749722861745,924.1867655836244,952.086743412564
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Transport,Domestic Aviation,CO2,1,1.0,24701.75921,24701.75921,24701.75921
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Transport,Domestic Aviation,CH4,28,27.0,0.172651807668169,4.834250614708733,4.661598807040563
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Transport,Domestic Aviation,N2O,265,273.0,0.690607238780995,183.01091827696365,188.5357761872116
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Transport,Inland Shipping,CO2,1,1.0,37576.65,37576.65,37576.65
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Transport,Inland Shipping,CH4,28,27.0,3.55459989465845,99.5287970504366,95.97419715577816
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Transport,Inland Shipping,N2O,265,273.0,1.01560112823337,269.134298981843,277.25910800771
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Transport,Other (transport),CO2,1,1.0,152939.19,152939.19,152939.19
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Transport,Other (transport),CH4,28,27.0,14.2784854279106,399.7975919814968,385.5191065535862
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Transport,Other (transport),N2O,265,273.0,2.41924622327775,641.1002491686037,660.4542189548257
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Transport,Road,CO2,1,1.0,41127.38088,41127.38088,41127.38088
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Transport,Road,CH4,28,27.0,3.02908029698388,84.81424831554864,81.78516801856476
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2019,Transport,Road,N2O,265,273.0,1.40895400810505,373.3728121478383,384.64444421267865
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2020,Buildings,Non-residential,CO2,1,1.0,42094.3565,42094.3565,42094.3565
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2020,Buildings,Residential,CO2,1,1.0,92948.3965,92948.3965,92948.3965
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2020,Energy systems,Electricity & heat,CO2,1,1.0,75569.5887,75569.5887,75569.5887
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2020,Energy systems,Other (energy systems),CO2,1,1.0,63.9586,63.9586,63.9586
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2020,Industry,Chemicals,CO2,1,1.0,2602.5587,2602.5587,2602.5587
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2020,Industry,Metals,CO2,1,1.0,615.498,615.498,615.498
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2020,Industry,Other (industry),CO2,1,1.0,25632.5662,25632.5662,25632.5662
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2020,Industry,Waste,CO2,1,1.0,1038.82,1038.82,1038.82
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2020,Transport,Domestic Aviation,CO2,1,1.0,22424.78748,22424.78748,22424.78748
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2020,Transport,Inland Shipping,CO2,1,1.0,34112.99,34112.99,34112.99
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2020,Transport,Other (transport),CO2,1,1.0,138842.0265,138842.0265,138842.0265
+GRL,Greenland,Developed Countries,North America,"Greenland, Bermuda + others",developed,2020,Transport,Road,CO2,1,1.0,37336.34852,37336.34852,37336.34852

@@ -1,0 +1,301 @@
+code,name,region_ar6_6,region_ar6_10,region_ar6_22,region_ar6_dev,year,sector_title,subsector_title,gas,gwp100_ar5,gwp100_ar6,value_native,value_ar5,value_ar6
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1970,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.35,37.8,36.45
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1970,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.25518974,67.6252811,69.66679902
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1970,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.908553,109.439484,105.530931
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1970,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.09138808,24.2178412,24.94894584
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1970,Industry,Chemicals,N2O,265,273.0,0.1322292,35.040738,36.0985716
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1970,Industry,Waste,CH4,28,27.0,51.89265987,1452.99447636,1401.10181649
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1971,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.4,39.2,37.8
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1971,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.27361294,72.50742910000001,74.69633262
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1971,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,4.13452,115.76656,111.63204
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1971,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.09609269,25.46456285,26.23330437
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1971,Industry,Chemicals,N2O,265,273.0,0.1346919,35.6933535,36.7708887
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1971,Industry,Waste,CH4,28,27.0,37.76899261,1057.53179308,1019.76280047
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1972,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.5,42.0,40.5
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1972,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.29083894,77.0723191,79.39903061999999
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1972,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,4.411055,123.50954,119.098485
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1972,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.10326217,27.36447505,28.19057241
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1972,Industry,Chemicals,N2O,265,273.0,0.1372571,36.3731315,37.4711883
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1972,Industry,Waste,CH4,28,27.0,38.4762179,1077.3341012,1038.8578833
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1973,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.6,44.8,43.2
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1973,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.3083781,81.7201965,84.18722129999999
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1973,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,4.687579,131.252212,126.564633
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1973,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.11101872,29.4199608,30.30811056
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1973,Industry,Chemicals,N2O,265,273.0,0.1397001,37.0205265,38.1381273
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1973,Industry,Waste,CH4,28,27.0,39.15403023,1096.31284644,1057.15881621
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1974,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.7,47.6,45.9
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1974,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.32574564,86.3225946,88.92855972
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1974,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,4.964104,138.994912,134.030808
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1974,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.11848479,31.398469350000003,32.34634767
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1974,Industry,Chemicals,N2O,265,273.0,0.1419184,37.608376,38.7437232
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1974,Industry,Waste,CH4,28,27.0,39.77144395,1113.6004306,1073.82898665
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1975,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.75,49.0,47.25
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1975,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.33794506,89.55544090000001,92.25900138
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1975,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,5.102372,142.866416,137.76404399999998
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1975,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.12175426,32.2648789,33.23891298
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1975,Industry,Chemicals,N2O,265,273.0,0.1438726,38.126239,39.2772198
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1975,Industry,Waste,CH4,28,27.0,40.31281598,1128.7588474400002,1088.44603146
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1976,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.6,44.8,43.2
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1976,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.30006525,79.51729125,81.91781325
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1976,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,4.59987,128.79636,124.19649
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1976,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.11257919,29.83348535,30.73411887
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1976,Industry,Chemicals,N2O,265,273.0,0.145542,38.56863,39.732966000000005
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1976,Industry,Waste,CH4,28,27.0,40.75201524,1141.05642672,1100.30441148
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1977,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.5,42.0,40.5
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1977,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.28362084,75.1595226,77.42848932
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1977,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,4.323346,121.053688,116.730342
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1977,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.10683645,28.31165925,29.16635085
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1977,Industry,Chemicals,N2O,265,273.0,0.1472114,39.011021,40.1887122
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1977,Industry,Waste,CH4,28,27.0,41.20309149,1153.68656172,1112.48347023
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1978,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.6,44.8,43.2
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1978,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.30160983,79.92660495000001,82.33948359
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1978,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,4.59987,128.79636,124.19649
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1978,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.11543366,30.5899199,31.51338918
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1978,Industry,Chemicals,N2O,265,273.0,0.1487783,39.4262495,40.6164759
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1978,Industry,Waste,CH4,28,27.0,41.64584749,1166.08372972,1124.43788223
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1979,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.7,47.6,45.9
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1979,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.32021666,84.8574149,87.41914818
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1979,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,4.876395,136.53905999999998,131.66266499999998
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1979,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.12516776,33.169456399999994,34.170798479999995
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1979,Industry,Chemicals,N2O,265,273.0,0.1505699,39.9010235,41.1055827
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1979,Industry,Waste,CH4,28,27.0,42.13027621,1179.64773388,1137.51745767
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1980,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.8,50.4,48.6
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1980,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.34832496,92.3061144,95.09271408
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1980,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,5.24063,146.73764,141.49701000000002
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1980,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.13539802,35.8804753,36.96365946
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1980,Industry,Chemicals,N2O,265,273.0,0.1524216,40.391724,41.6110968
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1980,Industry,Waste,CH4,28,27.0,42.6369342,1193.8341576,1151.1972234
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1981,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,2.0,56.0,54.0
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1981,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.38151093,101.10039645,104.15248389
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1981,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,5.79369,162.22332,156.42963
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1981,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.14737362,39.0540093,40.23299826
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1981,Industry,Chemicals,N2O,265,273.0,0.1545394,40.952941,42.1892562
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1981,Industry,Waste,CH4,28,27.0,43.22373816,1210.2646684800002,1167.04093032
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1982,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,2.1,58.8,56.7
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1982,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.40540453,107.43220045,110.67543669
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1982,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,6.070215,169.96602,163.895805
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1982,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.16001778,42.4047117,43.68485394
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1982,Industry,Chemicals,N2O,265,273.0,0.1570829,41.6269685,42.8836317
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1982,Industry,Waste,CH4,28,27.0,43.91385475,1229.587933,1185.67407825
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1983,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,2.2,61.60000000000001,59.400000000000006
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1983,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.42408092,112.3814438,115.77409116
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1983,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,6.346739,177.708692,171.361953
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1983,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.16988862,45.0204843,46.37959326
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1983,Industry,Chemicals,N2O,265,273.0,0.1598718,42.366027,43.645001400000005
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1983,Industry,Waste,CH4,28,27.0,44.677197805,1250.96153854,1206.284340735
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1984,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,2.0,56.0,54.0
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1984,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.38950594,103.2190741,106.33512162
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1984,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,5.79369,162.22332,156.42963
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1984,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.15523881,41.13828465,42.38019513
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1984,Industry,Chemicals,N2O,265,273.0,0.1629455,43.1805575,44.4841215
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1984,Industry,Waste,CH4,28,27.0,45.496495286,1273.9018680079998,1228.405372722
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1985,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,2.1,58.8,56.7
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1985,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.4171594,110.547241,113.8845162
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1985,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,6.157925,172.4219,166.263975
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1985,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.16456026,43.608468900000005,44.924950980000006
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1985,Industry,Chemicals,N2O,265,273.0,0.1663651,44.0867515,45.4176723
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1985,Industry,Waste,CH4,28,27.0,46.4414662,1300.3610536,1253.9195874
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1986,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,2.2,61.60000000000001,59.400000000000006
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1986,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.446297,118.268705,121.839081
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1986,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,6.522159,182.620452,176.098293
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1986,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.17641436,46.7498054,48.16112028
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1986,Industry,Chemicals,N2O,265,273.0,0.1700291,45.0577115,46.4179443
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1986,Industry,Waste,CH4,28,27.0,47.466782452,1329.0699086559998,1281.603126204
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1987,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,2.3,64.39999999999999,62.1
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1987,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.4681576,124.061764,127.8070248
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1987,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,6.798695,190.36346,183.564765
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1987,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.18520999,49.08064735,50.56232727
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1987,Industry,Chemicals,N2O,265,273.0,0.1741208,46.142012,47.5349784
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1987,Industry,Waste,CH4,28,27.0,48.606738577,1360.988680156,1312.381941579
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1988,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,2.4,67.2,64.8
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1988,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.48673495,128.98476175,132.87864135
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1988,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,7.07522,198.10616,191.03094
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1988,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.1947925,51.6200125,53.1783525
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1988,Industry,Chemicals,N2O,265,273.0,0.1782125,47.2263125,48.6520125
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1988,Industry,Waste,CH4,28,27.0,49.761735765,1393.3286014199998,1343.566865655
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1989,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,2.4,67.2,64.8
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1989,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.48833204,129.4079906,133.31464692
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1989,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,7.07522,198.10616,191.03094
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1989,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.19762368,52.3702752,53.95126464
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1989,Industry,Chemicals,N2O,265,273.0,0.1822628,48.299642,49.7577444
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1989,Industry,Waste,CH4,28,27.0,50.898938008,1425.170264224,1374.271326216
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1990,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,2.5,70.0,67.5
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1990,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.50949308,135.0156662,139.09161084000002
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1990,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,7.351755,205.84914,198.497385
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1990,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.21201288,56.1834132,57.87951624
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1990,Industry,Chemicals,N2O,265,273.0,0.1863545,49.3839425,50.874778500000005
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1990,Industry,Waste,CH4,28,27.0,52.05061792,1457.41730176,1405.36668384
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1991,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,2.6,72.8,70.2
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1991,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.5277054,139.841931,144.0635742
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1991,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,7.628271,213.591588,205.963317
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1991,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.22087236,58.5311754,60.29815428
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1991,Industry,Chemicals,N2O,265,273.0,0.1902836,50.425154,51.9474228
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1991,Industry,Waste,CH4,28,27.0,53.03133657,1484.87742396,1431.84608739
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1992,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,2.7,75.60000000000001,72.9
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1992,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.54834803,145.31222795,149.69901219
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1992,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,7.904807,221.334596,213.429789
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1992,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.23297486,61.738337900000005,63.60213678
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1992,Industry,Chemicals,N2O,265,273.0,0.1943132,51.492998,53.0475036
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1992,Industry,Waste,CH4,28,27.0,54.07661176,1514.14512928,1460.06851752
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1993,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,2.8,78.39999999999999,75.6
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1993,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.56497534,149.7184651,154.23826782
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1993,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,8.181333,229.077324,220.895991
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1993,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.24021443,63.65682395,65.57853939
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1993,Industry,Chemicals,N2O,265,273.0,0.1978353,52.4263545,54.0090369
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1993,Industry,Waste,CH4,28,27.0,55.06966924,1541.95073872,1486.8810694800002
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1994,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,2.8,78.39999999999999,75.6
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1994,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.5662661,150.0605165,154.5906453
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1994,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,8.181333,229.077324,220.895991
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1994,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.2423961,64.2349665,66.1741353
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1994,Industry,Chemicals,N2O,265,273.0,0.2006439,53.1706335,54.7757847
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1994,Industry,Waste,CH4,28,27.0,56.07874802,1570.20494456,1514.12619654
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1995,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,2.8,78.39999999999999,75.6
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1995,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.57002818,151.0574677,155.61769314
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1995,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,8.181333,229.077324,220.895991
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1995,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.24804158,65.7310187,67.71535134
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1995,Industry,Chemicals,N2O,265,273.0,0.2029243,53.7749395,55.3983339
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1995,Industry,Waste,CH4,28,27.0,57.06089167,1597.70496676,1540.64407509
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1996,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,2.8,78.39999999999999,75.6
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1996,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.56956858,150.9356737,155.49222233999998
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1996,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,8.181333,229.077324,220.895991
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1996,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.24849873,65.85216345,67.84015329
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1996,Industry,Chemicals,N2O,265,273.0,0.2041453,54.0985045,55.7316669
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1996,Industry,Waste,CH4,28,27.0,57.94733236,1622.5253060799998,1564.5779737199998
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1997,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,2.8,78.39999999999999,75.6
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1997,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.57138299,151.41649235,155.98755627
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1997,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,8.181333,229.077324,220.895991
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1997,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.25171091,66.70339115,68.71707843
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1997,Industry,Chemicals,N2O,265,273.0,0.2047149,54.2494485,55.8871677
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1997,Industry,Waste,CH4,28,27.0,58.7342676,1644.5594928,1585.8252252
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1998,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,2.8,78.39999999999999,75.6
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1998,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.57268687,151.76202055,156.34351550999995
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1998,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,8.181333,229.077324,220.895991
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1998,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.25388579,67.27973435,69.31082067
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1998,Industry,Chemicals,N2O,265,273.0,0.2044912,54.190168,55.8260976
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1998,Industry,Waste,CH4,28,27.0,59.17346433,1656.85700124,1597.68353691
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1999,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,2.8,78.39999999999999,75.6
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1999,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.57334704,151.9369656,156.52374192000002
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1999,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,8.181333,229.077324,220.895991
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1999,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.25524581,67.64013965000001,69.68210613000001
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1999,Industry,Chemicals,N2O,265,273.0,0.204369,54.157785,55.792737
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1999,Industry,Waste,CH4,28,27.0,59.7616149,1673.3252172,1613.5636023
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2000,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,2.8,78.39999999999999,75.6
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2000,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.57572775,152.56785374999998,157.17367575
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2000,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,8.181333,229.077324,220.895991
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2000,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.25791594,68.34772410000001,70.41105162000001
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2000,Industry,Chemicals,N2O,265,273.0,0.2043079,54.1415935,55.7760567
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2000,Industry,Waste,CH4,28,27.0,60.52405767,1694.67361476,1634.14955709
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2001,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,2.8,78.39999999999999,75.6
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2001,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.57437292,152.20882379999998,156.80380716
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2001,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,8.181333,229.077324,220.895991
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2001,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.2568956,68.07733400000001,70.13249880000001
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2001,Industry,Chemicals,N2O,265,273.0,0.2046134,54.222551,55.8594582
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2001,Industry,Waste,CH4,28,27.0,61.08864219,1710.4819813200002,1649.39333913
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2002,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,2.8,78.39999999999999,75.6
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2002,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.57497023,152.36711095,156.96687279
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2002,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,8.181333,229.077324,220.895991
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2002,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.25781355,68.32059075,70.38309915
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2002,Industry,Chemicals,N2O,265,273.0,0.205183,54.373495,56.014959000000005
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2002,Industry,Waste,CH4,28,27.0,61.72080427,1728.18251956,1666.46171529
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2003,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,2.8,78.39999999999999,75.6
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2003,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.57543331,152.48982715,157.09329363
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2003,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,8.181333,229.077324,220.895991
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2003,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.25885487,68.59654055,70.66737951
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2003,Industry,Chemicals,N2O,265,273.0,0.2057122,54.513733,56.1594306
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2003,Industry,Waste,CH4,28,27.0,62.49318402,1749.80915256,1687.31596854
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2004,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,2.8,78.39999999999999,75.6
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2004,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.57472754,152.30279810000002,156.90061842
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2004,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,8.181333,229.077324,220.895991
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2004,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.25722775,68.16535375,70.22317575
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2004,Industry,Chemicals,N2O,265,273.0,0.2061202,54.621853,56.2708146
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2004,Industry,Waste,CH4,28,27.0,63.47379926,1777.26637928,1713.79258002
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2005,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,2.8,78.39999999999999,75.6
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2005,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.57472754,152.30279810000002,156.90061842
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2005,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,8.181333,229.077324,220.895991
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2005,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.25722775,68.16535375,70.22317575
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2005,Industry,Chemicals,N2O,265,273.0,0.2058758,54.557087,56.2040934
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2005,Industry,Waste,CH4,28,27.0,64.25607558,1799.17011624,1734.91404066
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2006,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,2.8,78.39999999999999,75.6
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2006,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.57472754,152.30279810000002,156.90061842
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2006,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,8.181333,229.077324,220.895991
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2006,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.25722775,68.16535375,70.22317575
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2006,Industry,Chemicals,N2O,265,273.0,0.2050007,54.3251855,55.965191100000006
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2006,Industry,Waste,CH4,28,27.0,64.97585118,1819.32383304,1754.34798186
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2007,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,2.9,81.2,78.3
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2007,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.59294916,157.13152739999998,161.87512067999998
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2007,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,8.457868,236.820304,228.362436
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2007,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.2662776,70.563564,72.6937848
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2007,Industry,Chemicals,N2O,265,273.0,0.2035954,53.952781,55.5815442
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2007,Industry,Waste,CH4,28,27.0,71.14206666,1991.97786648,1920.83579982
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2008,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,3.0,84.0,81.0
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2008,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.61117068,161.96023019999998,166.84959564
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2008,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,8.734394,244.563032,235.828638
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2008,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.27532704,72.9616656,75.16428192000001
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2008,Industry,Chemicals,N2O,265,273.0,0.2024759,53.6561135,55.27592069999999
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2008,Industry,Waste,CH4,28,27.0,75.86776826,2124.29751128,2048.42974302
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2009,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,3.0,84.0,81.0
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2009,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.61117068,161.96023019999998,166.84959564
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2009,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,8.734394,244.563032,235.828638
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2009,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.27532704,72.9616656,75.16428192000001
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2009,Industry,Chemicals,N2O,265,273.0,0.2024355,53.6454075,55.2648915
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2009,Industry,Waste,CH4,28,27.0,77.39377713,2167.02575964,2089.63198251
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2010,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,3.0,84.0,81.0
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2010,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.61215069,162.21993285,167.11713837
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2010,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,8.734394,244.563032,235.828638
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2010,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.27532704,72.9616656,75.16428192000001
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2010,Industry,Chemicals,N2O,265,273.0,0.2040635,54.0768275,55.7093355
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2010,Industry,Waste,CH4,28,27.0,79.80265251,2234.47427028,2154.67161777
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2011,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,3.0,84.0,81.0
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2011,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.61216887,162.22475054999998,167.12210151
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2011,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,8.734394,244.563032,235.828638
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2011,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.27532704,72.9616656,75.16428192000001
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2011,Industry,Chemicals,N2O,265,273.0,0.2077886,55.063979,56.7262878
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2011,Industry,Waste,CH4,28,27.0,82.73672628,2316.62833584,2233.89160956
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2012,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,3.0,84.0,81.0
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2012,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.61218704,162.2295656,167.12706192000002
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2012,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,8.734394,244.563032,235.828638
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2012,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.27532704,72.9616656,75.16428192000001
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2012,Industry,Chemicals,N2O,265,273.0,0.2132846,56.520419,58.2266958
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2012,Industry,Waste,CH4,28,27.0,85.88009849,2404.64275772,2318.76265923
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2013,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,3.0,84.0,81.0
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2013,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.612202,162.23353,167.131146
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2013,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,8.734394,244.563032,235.828638
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2013,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.27532704,72.9616656,75.16428192000001
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2013,Industry,Chemicals,N2O,265,273.0,0.219636,58.20354,59.960628
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2013,Industry,Waste,CH4,28,27.0,92.43725543,2588.24315204,2495.80589661
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2014,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,3.0,84.0,81.0
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2014,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.61222098,162.2385597,167.13632754
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2014,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,8.734394,244.563032,235.828638
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2014,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.27532704,72.9616656,75.16428192000001
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2014,Industry,Chemicals,N2O,265,273.0,0.225335,59.713775000000005,61.516455
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2014,Industry,Waste,CH4,28,27.0,99.67760422,2790.97291816,2691.29531394
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2015,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,3.0,84.0,81.0
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2015,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.61224015,162.24363975,167.14156094999998
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2015,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,8.734394,244.563032,235.828638
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2015,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.27532704,72.9616656,75.16428192000001
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2015,Industry,Chemicals,N2O,265,273.0,0.229203,60.738795,62.572419
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2015,Industry,Waste,CH4,28,27.0,102.09230479,2858.58453412,2756.49222933
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2016,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,3.031,84.86800000000001,81.837
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2016,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.61766723,163.68181595,168.62315379
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2016,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,8.820106,246.962968,238.142862
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2016,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.2781324,73.705086,75.9301452
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2016,Industry,Chemicals,N2O,265,273.0,0.2309739,61.2080835,63.0558747
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2016,Industry,Waste,CH4,28,27.0,104.42139411,2923.79903508,2819.37764097
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2017,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,3.034,84.952,81.91799999999999
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2017,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.61704555,163.51707075000002,168.45343515000002
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2017,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,8.828405,247.19534,238.366935
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2017,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.27840427,73.77713155000001,76.00436571
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2017,Industry,Chemicals,N2O,265,273.0,0.2312183,61.2728495,63.12259589999999
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2017,Industry,Waste,CH4,28,27.0,105.42160171,2951.80484788,2846.3832461700003
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2018,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,3.041,85.148,82.107
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2018,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.61738722,163.6076133,168.54671106
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2018,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,8.847765,247.73742,238.88965500000003
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2018,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.27903764,73.9449746,76.17727572
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2018,Industry,Chemicals,N2O,265,273.0,0.2302614,61.019271,62.8613622
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2018,Industry,Waste,CH4,28,27.0,104.68314506,2931.12806168,2826.44491662
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2019,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,3.05136242867171,85.43814800280788,82.38678557413617
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2019,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.617409056086046,163.6133998628022,168.55267231149057
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2019,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,8.87642001512166,248.53976042340648,239.6633404082848
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2019,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.279975390248682,74.19347841590073,76.4332815378902
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2019,Industry,Chemicals,N2O,265,273.0,0.235245859496035,62.34015276644927,64.22211964241755
+NRU,Nauru,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2019,Industry,Waste,CH4,28,27.0,106.785197295365,2989.98552427022,2883.2003269748548

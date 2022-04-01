@@ -1,0 +1,629 @@
+code,name,region_ar6_6,region_ar6_10,region_ar6_22,region_ar6_dev,year,sector_title,subsector_title,gas,gwp100_ar5,gwp100_ar6,value_native,value_ar5,value_ar6
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1970,Energy systems,Electricity & heat,CO2,1,1.0,34252.8,34252.8,34252.8
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1970,Energy systems,Electricity & heat,CH4,28,27.0,1.344,37.632000000000005,36.288
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1970,Energy systems,Electricity & heat,N2O,265,273.0,0.2688,71.232,73.38239999999999
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1970,Energy systems,Other (energy systems),N2O,265,273.0,4.8709511,1290.8020415,1329.7696503
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1970,Industry,Chemicals,CO2,1,1.0,1.23305,1.23305,1.23305
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1970,Industry,Chemicals,N2O,265,273.0,1.24236,329.2254,339.16428
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1970,Industry,Other (industry),CO2,1,1.0,617.4,617.4,617.4
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1970,Industry,Waste,CO2,1,1.0,273.567,273.567,273.567
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1970,Industry,Waste,CH4,28,27.0,380.20863,10645.84164,10265.63301
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1970,Industry,Waste,N2O,265,273.0,0.2352,62.328,64.2096
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1970,Transport,Road,CO2,1,1.0,34278.639,34278.639,34278.639
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1970,Transport,Road,CH4,28,27.0,8.792907,246.201396,237.408489
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1970,Transport,Road,N2O,265,273.0,0.9107554,241.350181,248.6362242
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1971,Energy systems,Electricity & heat,CO2,1,1.0,34252.8,34252.8,34252.8
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1971,Energy systems,Electricity & heat,CH4,28,27.0,1.344,37.632000000000005,36.288
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1971,Energy systems,Electricity & heat,N2O,265,273.0,0.2688,71.232,73.38239999999999
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1971,Energy systems,Other (energy systems),N2O,265,273.0,4.8634428,1288.812342,1327.7198844
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1971,Industry,Chemicals,CO2,1,1.0,1.2422,1.2422,1.2422
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1971,Industry,Chemicals,N2O,265,273.0,1.2558025,332.7876625,342.8340825
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1971,Industry,Other (industry),CO2,1,1.0,617.4,617.4,617.4
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1971,Industry,Waste,CO2,1,1.0,282.646,282.646,282.646
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1971,Industry,Waste,CH4,28,27.0,396.8397,11111.5116,10714.6719
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1971,Industry,Waste,N2O,265,273.0,0.235175,62.321375,64.202775
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1971,Transport,Road,CO2,1,1.0,34278.52809,34278.52809,34278.52809
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1971,Transport,Road,CH4,28,27.0,8.79289728,246.20112384,237.40822656
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1971,Transport,Road,N2O,265,273.0,0.9107553588,241.350170082,248.6362129524
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1972,Energy systems,Electricity & heat,CO2,1,1.0,34269.0,34269.0,34269.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1972,Energy systems,Electricity & heat,CH4,28,27.0,1.35,37.8,36.45
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1972,Energy systems,Electricity & heat,N2O,265,273.0,0.27,71.55000000000001,73.71000000000001
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1972,Energy systems,Other (energy systems),N2O,265,273.0,4.4612075,1182.2199875,1217.9096475
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1972,Industry,Chemicals,CO2,1,1.0,1.24955,1.24955,1.24955
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1972,Industry,Chemicals,N2O,265,273.0,1.26602,335.4953,345.62346
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1972,Industry,Waste,CO2,1,1.0,290.701,290.701,290.701
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1972,Industry,Waste,CH4,28,27.0,399.36112,11182.11136,10782.75024
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1972,Industry,Waste,N2O,265,273.0,0.234143,62.047895,63.921039
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1972,Transport,Road,CO2,1,1.0,24930.88052,24930.88052,24930.88052
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1972,Transport,Road,CH4,28,27.0,6.538781624,183.085885472,176.547103848
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1972,Transport,Road,N2O,265,273.0,0.670116411,177.580848915,182.941780203
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1973,Energy systems,Electricity & heat,CO2,1,1.0,34162.5,34162.5,34162.5
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1973,Energy systems,Electricity & heat,CH4,28,27.0,1.335,37.38,36.045
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1973,Energy systems,Electricity & heat,N2O,265,273.0,0.267,70.75500000000001,72.891
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1973,Energy systems,Other (energy systems),N2O,265,273.0,4.5877346,1215.749669,1252.4515458
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1973,Industry,Chemicals,CO2,1,1.0,1.25605,1.25605,1.25605
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1973,Industry,Chemicals,N2O,265,273.0,1.273595,337.502675,347.691435
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1973,Industry,Other (industry),CO2,1,1.0,617.4,617.4,617.4
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1973,Industry,Waste,CO2,1,1.0,297.662,297.662,297.662
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1973,Industry,Waste,CH4,28,27.0,400.99004,11227.72112,10826.73108
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1973,Industry,Waste,N2O,265,273.0,0.232139,61.516835,63.373947
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1973,Transport,Road,CO2,1,1.0,24793.83293,24793.83293,24793.83293
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1973,Transport,Road,CH4,28,27.0,8.111663452,227.126576656,219.014913204
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1973,Transport,Road,N2O,265,273.0,0.752896785,199.517648025,205.540822305
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1974,Energy systems,Electricity & heat,CO2,1,1.0,34146.3,34146.3,34146.3
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1974,Energy systems,Electricity & heat,CH4,28,27.0,1.329,37.212,35.883
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1974,Energy systems,Electricity & heat,N2O,265,273.0,0.2658,70.437,72.5634
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1974,Energy systems,Other (energy systems),N2O,265,273.0,4.5449948,1204.4236219999998,1240.7835804
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1974,Industry,Chemicals,CO2,1,1.0,1.2633,1.2633,1.2633
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1974,Industry,Chemicals,N2O,265,273.0,1.2800775,339.2205375,349.4611575
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1974,Industry,Other (industry),CO2,1,1.0,617.4,617.4,617.4
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1974,Industry,Waste,CO2,1,1.0,305.879,305.879,305.879
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1974,Industry,Waste,CH4,28,27.0,402.298,11264.344,10862.046
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1974,Industry,Waste,N2O,265,273.0,0.231025,61.221625,63.069825
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1974,Transport,Road,CO2,1,1.0,24930.9755,24930.9755,24930.9755
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1974,Transport,Road,CH4,28,27.0,6.53881338,183.08677464,176.54796126
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1974,Transport,Road,N2O,265,273.0,0.670119328,177.58162191999998,182.942576544
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1975,Energy systems,Electricity & heat,CO2,1,1.0,37242.3,37242.3,37242.3
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1975,Energy systems,Electricity & heat,CH4,28,27.0,1.449,40.572,39.123000000000005
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1975,Energy systems,Electricity & heat,N2O,265,273.0,0.2898,76.797,79.1154
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1975,Energy systems,Other (energy systems),N2O,265,273.0,4.9396773,1309.0144845,1348.5319029
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1975,Industry,Chemicals,CO2,1,1.0,1.27215,1.27215,1.27215
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1975,Industry,Chemicals,N2O,265,273.0,1.286645,340.96092500000003,351.25408500000003
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1975,Industry,Other (industry),CO2,1,1.0,617.4,617.4,617.4
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1975,Industry,Waste,CO2,1,1.0,312.956,312.956,312.956
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1975,Industry,Waste,CH4,28,27.0,403.53538,11298.99064,10895.45526
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1975,Industry,Waste,N2O,265,273.0,0.228963,60.675195,62.506899
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1975,Transport,Road,CO2,1,1.0,24793.7742,24793.7742,24793.7742
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1975,Transport,Road,CH4,28,27.0,8.11167327,227.12685156000003,219.01517829
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1975,Transport,Road,N2O,265,273.0,0.75289787,199.51793555,205.54111851
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1976,Energy systems,Electricity & heat,CO2,1,1.0,40338.3,40338.3,40338.3
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1976,Energy systems,Electricity & heat,CH4,28,27.0,1.569,43.932,42.363
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1976,Energy systems,Electricity & heat,N2O,265,273.0,0.3138,83.15700000000001,85.6674
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1976,Energy systems,Other (energy systems),N2O,265,273.0,5.0944868,1350.039002,1390.7948964000002
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1976,Industry,Chemicals,CO2,1,1.0,1.2833,1.2833,1.2833
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1976,Industry,Chemicals,N2O,265,273.0,1.293775,342.850375,353.200575
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1976,Industry,Waste,CO2,1,1.0,320.079,320.079,320.079
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1976,Industry,Waste,CH4,28,27.0,404.92418,11337.87704,10932.95286
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1976,Industry,Waste,N2O,265,273.0,0.226877,60.122405,61.937421
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1976,Transport,Road,CO2,1,1.0,21744.627,21744.627,21744.627
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1976,Transport,Road,CH4,28,27.0,6.30995327,176.67869156,170.36873829
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1976,Transport,Road,N2O,265,273.0,0.617088146,163.52835868999998,168.46506385799998
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1977,Energy systems,Electricity & heat,CO2,1,1.0,37242.3,37242.3,37242.3
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1977,Energy systems,Electricity & heat,CH4,28,27.0,1.449,40.572,39.123000000000005
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1977,Energy systems,Electricity & heat,N2O,265,273.0,0.2898,76.797,79.1154
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1977,Energy systems,Other (energy systems),N2O,265,273.0,4.7633329,1262.2832185,1300.3898817
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1977,Industry,Chemicals,CO2,1,1.0,1.2961,1.2961,1.2961
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1977,Industry,Chemicals,N2O,265,273.0,1.300735,344.694775,355.100655
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1977,Industry,Waste,CO2,1,1.0,328.527,328.527,328.527
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1977,Industry,Waste,CH4,28,27.0,406.3278,11377.1784,10970.850600000002
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1977,Industry,Waste,N2O,265,273.0,0.225646,59.79619,61.601358000000005
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1977,Transport,Road,CO2,1,1.0,21744.5913,21744.5913,21744.5913
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1977,Transport,Road,CH4,28,27.0,6.30993868,176.67828304,170.36834436
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1977,Transport,Road,N2O,265,273.0,0.617087013,163.528058445,168.464754549
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1978,Energy systems,Electricity & heat,CO2,1,1.0,37242.3,37242.3,37242.3
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1978,Energy systems,Electricity & heat,CH4,28,27.0,1.449,40.572,39.123000000000005
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1978,Energy systems,Electricity & heat,N2O,265,273.0,0.2898,76.797,79.1154
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1978,Energy systems,Other (energy systems),N2O,265,273.0,4.6698077,1237.4990405,1274.8575021
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1978,Industry,Chemicals,CO2,1,1.0,1.30925,1.30925,1.30925
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1978,Industry,Chemicals,N2O,265,273.0,1.3071325,346.3901125,356.8471725
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1978,Industry,Waste,CO2,1,1.0,335.765,335.765,335.765
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1978,Industry,Waste,CH4,28,27.0,407.51138,11410.31864,11002.80726
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1978,Industry,Waste,N2O,265,273.0,0.223502,59.22803,61.016046
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1978,Transport,Road,CO2,1,1.0,18632.4332,18632.4332,18632.4332
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1978,Transport,Road,CH4,28,27.0,6.08641917,170.41973676,164.33331759
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1978,Transport,Road,N2O,265,273.0,0.565290385,149.801952025,154.324275105
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1979,Energy systems,Electricity & heat,CO2,1,1.0,43450.5,43450.5,43450.5
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1979,Energy systems,Electricity & heat,CH4,28,27.0,1.695,47.46,45.765
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1979,Energy systems,Electricity & heat,N2O,265,273.0,0.339,89.83500000000001,92.547
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1979,Energy systems,Other (energy systems),N2O,265,273.0,5.8108281,1539.8694465,1586.3560713
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1979,Industry,Chemicals,CO2,1,1.0,1.32045,1.32045,1.32045
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1979,Industry,Chemicals,N2O,265,273.0,1.3127025,347.86616250000003,358.36778250000003
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1979,Industry,Other (industry),CO2,1,1.0,617.4,617.4,617.4
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1979,Industry,Waste,CO2,1,1.0,343.05,343.05,343.05
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1979,Industry,Waste,CH4,28,27.0,408.44566,11436.47848,11028.03282
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1979,Industry,Waste,N2O,265,273.0,0.221334,58.65351,60.424182
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1979,Transport,Road,CO2,1,1.0,34278.4984,34278.4984,34278.4984
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1979,Transport,Road,CH4,28,27.0,8.79289694,246.20111432,237.40821738
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1979,Transport,Road,N2O,265,273.0,0.910755065,241.350092225,248.636132745
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1980,Energy systems,Electricity & heat,CO2,1,1.0,52935.3,52935.3,52935.3
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1980,Energy systems,Electricity & heat,CH4,28,27.0,2.079,58.212,56.133
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1980,Energy systems,Electricity & heat,N2O,265,273.0,0.4158,110.187,113.5134
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1980,Energy systems,Other (energy systems),N2O,265,273.0,6.8726955,1821.2643075,1876.2458715
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1980,Industry,Chemicals,CO2,1,1.0,1.3284,1.3284,1.3284
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1980,Industry,Chemicals,N2O,265,273.0,1.31683,348.95995,359.49459
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1980,Industry,Waste,CO2,1,1.0,350.381,350.381,350.381
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1980,Industry,Waste,CH4,28,27.0,408.95562,11450.75736,11041.80174
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1980,Industry,Waste,N2O,265,273.0,0.219143,58.072895,59.826039
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1980,Transport,Road,CO2,1,1.0,40577.106,40577.106,40577.106
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1980,Transport,Road,CH4,28,27.0,9.24532357,258.86905996,249.62373639
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1980,Transport,Road,N2O,265,273.0,1.015586318,269.13037427,277.255064814
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1981,Energy systems,Electricity & heat,CO2,1,1.0,43434.3,43434.3,43434.3
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1981,Energy systems,Electricity & heat,CH4,28,27.0,1.689,47.292,45.603
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1981,Energy systems,Electricity & heat,N2O,265,273.0,0.3378,89.517,92.2194
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1981,Energy systems,Other (energy systems),N2O,265,273.0,6.0905675,1614.0003875,1662.7249275
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1981,Industry,Chemicals,CO2,1,1.0,1.33255,1.33255,1.33255
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1981,Industry,Chemicals,N2O,265,273.0,1.319525,349.674125,360.230325
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1981,Industry,Waste,CO2,1,1.0,356.388,356.388,356.388
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1981,Industry,Waste,CH4,28,27.0,408.98004,11451.44112,11042.46108
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1981,Industry,Waste,N2O,265,273.0,0.216097,57.265705,58.994481
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1981,Transport,Road,CO2,1,1.0,43763.4202,43763.4202,43763.4202
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1981,Transport,Road,CH4,28,27.0,9.4741693,265.2767404,255.8025711
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1981,Transport,Road,N2O,265,273.0,1.06861673,283.18343345,291.73236729
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1982,Energy systems,Electricity & heat,CO2,1,1.0,49642.5,49642.5,49642.5
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1982,Energy systems,Electricity & heat,CH4,28,27.0,1.935,54.18,52.245000000000005
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1982,Energy systems,Electricity & heat,N2O,265,273.0,0.387,102.555,105.651
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1982,Energy systems,Other (energy systems),N2O,265,273.0,6.7853193,1798.1096145,1852.3921689
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1982,Industry,Chemicals,CO2,1,1.0,1.33355,1.33355,1.33355
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1982,Industry,Chemicals,N2O,265,273.0,1.3215725,350.2167125,360.7892925
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1982,Industry,Other (industry),CO2,1,1.0,617.4,617.4,617.4
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1982,Industry,Waste,CO2,1,1.0,363.788,363.788,363.788
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1982,Industry,Waste,CH4,28,27.0,408.82624,11447.13472,11038.30848
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1982,Industry,Waste,N2O,265,273.0,0.213871,56.675815,58.386783
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1982,Transport,Road,CO2,1,1.0,46949.6901,46949.6901,46949.6901
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1982,Transport,Road,CH4,28,27.0,9.7030103,271.6842884,261.9812781
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1982,Transport,Road,N2O,265,273.0,1.12164532,297.23600980000003,306.20917236
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1983,Energy systems,Electricity & heat,CO2,1,1.0,52828.8,52828.8,52828.8
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1983,Energy systems,Electricity & heat,CH4,28,27.0,2.064,57.792,55.728
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1983,Energy systems,Electricity & heat,N2O,265,273.0,0.4128,109.392,112.6944
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1983,Energy systems,Other (energy systems),N2O,265,273.0,6.7297646,1783.387619,1837.2257358
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1983,Industry,Chemicals,CO2,1,1.0,1.3325,1.3325,1.3325
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1983,Industry,Chemicals,N2O,265,273.0,1.3216575,350.2392375,360.8124975
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1983,Industry,Other (industry),CO2,1,1.0,617.4,617.4,617.4
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1983,Industry,Waste,CO2,1,1.0,369.818,369.818,369.818
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1983,Industry,Waste,CH4,28,27.0,408.07384,11426.06752,11017.99368
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1983,Industry,Waste,N2O,265,273.0,0.210813,55.865445,57.551949
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1983,Transport,Road,CO2,1,1.0,34278.6269,34278.6269,34278.6269
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1983,Transport,Road,CH4,28,27.0,8.79290208,246.20125824,237.40835616
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1983,Transport,Road,N2O,265,273.0,0.91075642,241.3504513,248.63650266
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1984,Energy systems,Electricity & heat,CO2,1,1.0,52738.5,52738.5,52738.5
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1984,Energy systems,Electricity & heat,CH4,28,27.0,2.055,57.540000000000006,55.48500000000001
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1984,Energy systems,Electricity & heat,N2O,265,273.0,0.411,108.915,112.203
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1984,Energy systems,Other (energy systems),N2O,265,273.0,6.6644897,1766.0897705,1819.4056881
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1984,Industry,Chemicals,CO2,1,1.0,1.33105,1.33105,1.33105
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1984,Industry,Chemicals,N2O,265,273.0,1.3191325,349.5701125,360.1231725
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1984,Industry,Other (industry),CO2,1,1.0,617.4,617.4,617.4
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1984,Industry,Waste,CO2,1,1.0,374.407,374.407,374.407
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1984,Industry,Waste,CH4,28,27.0,406.51746,11382.48888,10975.971420000002
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1984,Industry,Waste,N2O,265,273.0,0.20696,54.8444,56.50008
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1984,Transport,Road,CO2,1,1.0,31166.37,31166.37,31166.37
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1984,Transport,Road,CH4,28,27.0,8.56935478,239.94193384,231.37257906
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1984,Transport,Road,N2O,265,273.0,0.85895772,227.6237958,234.49545756
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1985,Energy systems,Electricity & heat,CO2,1,1.0,52738.5,52738.5,52738.5
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1985,Energy systems,Electricity & heat,CH4,28,27.0,2.055,57.540000000000006,55.48500000000001
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1985,Energy systems,Electricity & heat,N2O,265,273.0,0.411,108.915,112.203
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1985,Energy systems,Other (energy systems),N2O,265,273.0,6.9037195,1829.4856675,1884.7154235
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1985,Industry,Chemicals,CO2,1,1.0,1.33055,1.33055,1.33055
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1985,Industry,Chemicals,N2O,265,273.0,1.3140075,348.2119875,358.7240475
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1985,Industry,Other (industry),CO2,1,1.0,617.4,617.4,617.4
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1985,Industry,Waste,CO2,1,1.0,378.951,378.951,378.951
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1985,Industry,Waste,CH4,28,27.0,404.18814,11317.267919999998,10913.07978
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1985,Industry,Waste,N2O,265,273.0,0.20313,53.82945,55.45449
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1985,Transport,Road,CO2,1,1.0,37327.792,37327.792,37327.792
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1985,Transport,Road,CH4,28,27.0,10.5946358,296.6498024,286.0551666
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1985,Transport,Road,N2O,265,273.0,1.04656608,277.3400112,285.71253984000003
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1986,Energy systems,Electricity & heat,CO2,1,1.0,52738.5,52738.5,52738.5
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1986,Energy systems,Electricity & heat,CH4,28,27.0,2.055,57.540000000000006,55.48500000000001
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1986,Energy systems,Electricity & heat,N2O,265,273.0,0.411,108.915,112.203
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1986,Energy systems,Other (energy systems),N2O,265,273.0,7.4697709,1979.4892885,2039.2474557
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1986,Industry,Chemicals,CO2,1,1.0,1.33115,1.33115,1.33115
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1986,Industry,Chemicals,N2O,265,273.0,1.30517,345.87005,356.31141
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1986,Industry,Other (industry),CO2,1,1.0,1234.8,1234.8,1234.8
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1986,Industry,Waste,CO2,1,1.0,381.962,381.962,381.962
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1986,Industry,Waste,CH4,28,27.0,400.75919,11221.25732,10820.49813
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1986,Industry,Waste,N2O,265,273.0,0.198551,52.616015,54.204423
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1986,Transport,Road,CO2,1,1.0,62733.015,62733.015,62733.015
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1986,Transport,Road,CH4,28,27.0,10.836648,303.426144,292.589496
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1986,Transport,Road,N2O,265,273.0,1.38433328,366.8483192000001,377.9229854400001
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1987,Energy systems,Electricity & heat,CO2,1,1.0,52632.0,52632.0,52632.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1987,Energy systems,Electricity & heat,CH4,28,27.0,2.04,57.120000000000005,55.08
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1987,Energy systems,Electricity & heat,N2O,265,273.0,0.408,108.12,111.384
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1987,Energy systems,Other (energy systems),N2O,265,273.0,8.1694493,2164.9040645,2230.2596589
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1987,Industry,Chemicals,CO2,1,1.0,1.33265,1.33265,1.33265
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1987,Industry,Chemicals,N2O,265,273.0,1.29386,342.8729,353.22378
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1987,Industry,Other (industry),CO2,1,1.0,617.4,617.4,617.4
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1987,Industry,Waste,CO2,1,1.0,384.88,384.88,384.88
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1987,Industry,Waste,CH4,28,27.0,396.57062,11103.97736,10707.40674
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1987,Industry,Waste,N2O,265,273.0,0.194019,51.415035,52.967187
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1987,Transport,Road,CO2,1,1.0,74929.859,74929.859,74929.859
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1987,Transport,Road,CH4,28,27.0,18.0435503,505.2194084,487.1758581
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1987,Transport,Road,N2O,265,273.0,1.92757654,510.8077831,526.22839542
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1988,Energy systems,Electricity & heat,CO2,1,1.0,55728.0,55728.0,55728.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1988,Energy systems,Electricity & heat,CH4,28,27.0,2.16,60.48,58.32000000000001
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1988,Energy systems,Electricity & heat,N2O,265,273.0,0.432,114.48,117.936
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1988,Energy systems,Other (energy systems),N2O,265,273.0,9.1317326,2419.909139,2492.9629998
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1988,Industry,Chemicals,CO2,1,1.0,1.335,1.335,1.335
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1988,Industry,Chemicals,N2O,265,273.0,1.2819025,339.7041625,349.9593825
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1988,Industry,Other (industry),CO2,1,1.0,617.4,617.4,617.4
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1988,Industry,Waste,CO2,1,1.0,387.706,387.706,387.706
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1988,Industry,Waste,CH4,28,27.0,392.15557,10980.35596,10588.20039
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1988,Industry,Waste,N2O,265,273.0,0.189533,50.226245,51.742509000000005
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1988,Transport,Road,CO2,1,1.0,87126.724,87126.724,87126.724
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1988,Transport,Road,CH4,28,27.0,25.2504091,707.0114547999999,681.7610457
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1988,Transport,Road,N2O,265,273.0,2.47081523,654.76603595,674.5325577899999
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1989,Energy systems,Electricity & heat,CO2,1,1.0,61920.0,61920.0,61920.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1989,Energy systems,Electricity & heat,CH4,28,27.0,2.4,67.2,64.8
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1989,Energy systems,Electricity & heat,N2O,265,273.0,0.48,127.2,131.04
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1989,Energy systems,Other (energy systems),N2O,265,273.0,9.4462399,2503.2535735,2578.8234927
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1989,Industry,Chemicals,CO2,1,1.0,1.338,1.338,1.338
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1989,Industry,Chemicals,N2O,265,273.0,1.272895,337.317175,347.500335
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1989,Industry,Other (industry),CO2,1,1.0,617.4,617.4,617.4
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1989,Industry,Waste,CO2,1,1.0,390.44,390.44,390.44
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1989,Industry,Waste,CH4,28,27.0,388.53576,10879.00128,10490.46552
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1989,Industry,Waste,N2O,265,273.0,0.185095,49.050175,50.530935
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1989,Transport,Road,CO2,1,1.0,74455.614,74455.614,74455.614
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1989,Transport,Road,CH4,28,27.0,24.3403152,681.5288256,657.1885103999999
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1989,Transport,Road,N2O,265,273.0,2.25992739,598.8807583500001,616.9601774700001
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1990,Energy systems,Electricity & heat,CO2,1,1.0,58824.0,58824.0,58824.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1990,Energy systems,Electricity & heat,CH4,28,27.0,2.28,63.84,61.56
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1990,Energy systems,Electricity & heat,N2O,265,273.0,0.456,120.84,124.488
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1990,Energy systems,Other (energy systems),N2O,265,273.0,9.2670518,2455.768727,2529.9051414
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1990,Industry,Chemicals,CO2,1,1.0,1.34165,1.34165,1.34165
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1990,Industry,Chemicals,N2O,265,273.0,1.26863,336.18695,346.33599
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1990,Industry,Other (industry),CO2,1,1.0,617.4,617.4,617.4
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1990,Industry,Waste,CO2,1,1.0,394.66,394.66,394.66
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1990,Industry,Waste,CH4,28,27.0,386.31824,10816.91072,10430.59248
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1990,Industry,Waste,N2O,265,273.0,0.181429,48.078685,49.530117
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1990,Transport,Road,CO2,1,1.0,83940.4,83940.4,83940.4
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1990,Transport,Road,CH4,28,27.0,24.1173276,675.2851727999999,651.1678452
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1990,Transport,Road,N2O,265,273.0,2.5417977,673.5763905,693.9107721
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1991,Energy systems,Electricity & heat,CO2,1,1.0,68112.0,68112.0,68112.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1991,Energy systems,Electricity & heat,CH4,28,27.0,2.64,73.92,71.28
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1991,Energy systems,Electricity & heat,N2O,265,273.0,0.528,139.92000000000002,144.144
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1991,Energy systems,Other (energy systems),N2O,265,273.0,11.431448,3029.33372,3120.785304
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1991,Industry,Chemicals,CO2,1,1.0,1.3462,1.3462,1.3462
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1991,Industry,Chemicals,N2O,265,273.0,1.27072,336.74080000000004,346.90656
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1991,Industry,Waste,CO2,1,1.0,406.842,406.842,406.842
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1991,Industry,Waste,CH4,28,27.0,385.35786,10790.02008,10404.66222
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1991,Industry,Waste,N2O,265,273.0,0.181356,48.05934,49.510188
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1991,Transport,Road,CO2,1,1.0,134476.398,134476.398,134476.398
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1991,Transport,Road,CH4,28,27.0,26.7218653,748.2122284000001,721.4903631000001
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1991,Transport,Road,N2O,265,273.0,3.5027954,928.240781,956.2631442
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1992,Energy systems,Electricity & heat,CO2,1,1.0,74304.0,74304.0,74304.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1992,Energy systems,Electricity & heat,CH4,28,27.0,2.88,80.64,77.75999999999999
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1992,Energy systems,Electricity & heat,N2O,265,273.0,0.576,152.64,157.248
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1992,Energy systems,Other (energy systems),N2O,265,273.0,13.109562,3474.03393,3578.910426
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1992,Industry,Chemicals,CO2,1,1.0,1.35175,1.35175,1.35175
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1992,Industry,Chemicals,N2O,265,273.0,1.2779875,338.6666875,348.89058750000004
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1992,Industry,Other (industry),CO2,1,1.0,617.4,617.4,617.4
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1992,Industry,Waste,CO2,1,1.0,412.71,412.71,412.71
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1992,Industry,Waste,CH4,28,27.0,386.43392,10820.14976,10433.71584
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1992,Industry,Waste,N2O,265,273.0,0.178381,47.270965,48.698013
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1992,Transport,Road,CO2,1,1.0,165568.658,165568.658,165568.658
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1992,Transport,Road,CH4,28,27.0,33.86379,948.18612,914.32233
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1992,Transport,Road,N2O,265,273.0,4.5397039,1203.0215335,1239.3391647
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1993,Energy systems,Electricity & heat,CO2,1,1.0,77400.0,77400.0,77400.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1993,Energy systems,Electricity & heat,CH4,28,27.0,3.0,84.0,81.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1993,Energy systems,Electricity & heat,N2O,265,273.0,0.6,159.0,163.79999999999998
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1993,Energy systems,Other (energy systems),N2O,265,273.0,13.36657,3542.14105,3649.07361
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1993,Industry,Chemicals,CO2,1,1.0,1.3573,1.3573,1.3573
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1993,Industry,Chemicals,N2O,265,273.0,1.2885975,341.4783375,351.7871175
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1993,Industry,Other (industry),CO2,1,1.0,617.4,617.4,617.4
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1993,Industry,Waste,CO2,1,1.0,420.226,420.226,420.226
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1993,Industry,Waste,CH4,28,27.0,389.73121,10912.47388,10522.74267
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1993,Industry,Waste,N2O,265,273.0,0.176096,46.66544,48.074208
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1993,Transport,Road,CO2,1,1.0,165568.576,165568.576,165568.576
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1993,Transport,Road,CH4,28,27.0,32.8036888,918.5032864,885.6995976000001
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1993,Transport,Road,N2O,265,273.0,4.66709234,1236.7794701,1274.11620882
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1994,Energy systems,Electricity & heat,CO2,1,1.0,80496.0,80496.0,80496.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1994,Energy systems,Electricity & heat,CH4,28,27.0,3.12,87.36,84.24000000000001
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1994,Energy systems,Electricity & heat,N2O,265,273.0,0.624,165.36,170.352
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1994,Energy systems,Other (energy systems),N2O,265,273.0,14.633517,3877.882005,3994.950141
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1994,Industry,Chemicals,CO2,1,1.0,1.36175,1.36175,1.36175
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1994,Industry,Chemicals,N2O,265,273.0,1.3004275,344.6132875,355.0167075
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1994,Industry,Other (industry),CO2,1,1.0,617.4,617.4,617.4
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1994,Industry,Waste,CO2,1,1.0,426.117,426.117,426.117
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1994,Industry,Waste,CH4,28,27.0,394.76628,11053.45584,10658.68956
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1994,Industry,Waste,N2O,265,273.0,0.173109,45.873885,47.258757
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1994,Transport,Road,CO2,1,1.0,206620.168,206620.168,206620.168
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1994,Transport,Road,CH4,28,27.0,34.5048149,966.1348172,931.6300023
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1994,Transport,Road,N2O,265,273.0,5.47664132,1451.3099498,1495.12308036
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1995,Energy systems,Electricity & heat,CO2,1,1.0,80496.0,80496.0,80496.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1995,Energy systems,Electricity & heat,CH4,28,27.0,3.12,87.36,84.24000000000001
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1995,Energy systems,Electricity & heat,N2O,265,273.0,0.624,165.36,170.352
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1995,Energy systems,Other (energy systems),N2O,265,273.0,14.371657,3808.489105,3923.462361
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1995,Industry,Chemicals,CO2,1,1.0,1.36425,1.36425,1.36425
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1995,Industry,Chemicals,N2O,265,273.0,1.3113975,347.5203375,358.0115175
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1995,Industry,Other (industry),CO2,1,1.0,617.4,617.4,617.4
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1995,Industry,Waste,CO2,1,1.0,433.702,433.702,433.702
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1995,Industry,Waste,CH4,28,27.0,399.10682,11174.99096,10775.88414
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1995,Industry,Waste,N2O,265,273.0,0.170789,45.259085,46.625397
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1995,Transport,Road,CO2,1,1.0,200321.618,200321.618,200321.618
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1995,Transport,Road,CH4,28,27.0,32.7816842,917.8871576,885.1054734
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1995,Transport,Road,N2O,265,273.0,5.47191105,1450.05642825,1493.83171665
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1996,Energy systems,Electricity & heat,CO2,1,1.0,83592.0,83592.0,83592.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1996,Energy systems,Electricity & heat,CH4,28,27.0,3.24,90.72,87.48
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1996,Energy systems,Electricity & heat,N2O,265,273.0,0.648,171.72,176.904
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1996,Energy systems,Other (energy systems),N2O,265,273.0,14.575118,3862.40627,3979.007214
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1996,Industry,Chemicals,CO2,1,1.0,1.3642,1.3642,1.3642
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1996,Industry,Chemicals,N2O,265,273.0,1.321615,350.227975,360.800895
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1996,Industry,Other (industry),CO2,1,1.0,617.4,617.4,617.4
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1996,Industry,Waste,CO2,1,1.0,443.051,443.051,443.051
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1996,Industry,Waste,CH4,28,27.0,403.07766,11286.17448,10883.09682
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1996,Industry,Waste,N2O,265,273.0,0.169101,44.811765,46.164573
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1996,Transport,Road,CO2,1,1.0,203433.736,203433.736,203433.736
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1996,Transport,Road,CH4,28,27.0,31.19156845,873.3639165999999,842.17234815
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1996,Transport,Road,N2O,265,273.0,5.566623903,1475.155334295,1519.688325519
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1997,Energy systems,Electricity & heat,CO2,1,1.0,83592.0,83592.0,83592.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1997,Energy systems,Electricity & heat,CH4,28,27.0,3.24,90.72,87.48
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1997,Energy systems,Electricity & heat,N2O,265,273.0,0.648,171.72,176.904
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1997,Energy systems,Other (energy systems),N2O,265,273.0,14.648828,3881.93942,3999.130044
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1997,Industry,Chemicals,CO2,1,1.0,1.3623,1.3623,1.3623
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1997,Industry,Chemicals,N2O,265,273.0,1.330835,352.671275,363.317955
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1997,Industry,Other (industry),CO2,1,1.0,617.4,617.4,617.4
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1997,Industry,Waste,CO2,1,1.0,455.973,455.973,455.973
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1997,Industry,Waste,CH4,28,27.0,408.99075,11451.741,11042.75025
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1997,Industry,Waste,N2O,265,273.0,0.168653,44.693045,46.042269
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1997,Transport,Road,CO2,1,1.0,212855.765,212855.765,212855.765
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1997,Transport,Road,CH4,28,27.0,31.04278367,869.1979427599999,838.15515909
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1997,Transport,Road,N2O,265,273.0,5.91581219,1567.69023035,1615.0167278699998
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1998,Energy systems,Electricity & heat,CO2,1,1.0,86688.0,86688.0,86688.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1998,Energy systems,Electricity & heat,CH4,28,27.0,3.36,94.08,90.72
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1998,Energy systems,Electricity & heat,N2O,265,273.0,0.672,178.08,183.456
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1998,Energy systems,Other (energy systems),N2O,265,273.0,15.100281,4001.574465,4122.376713000001
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1998,Industry,Chemicals,CO2,1,1.0,1.36055,1.36055,1.36055
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1998,Industry,Chemicals,N2O,265,273.0,1.3398425,355.0582625,365.7770025
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1998,Industry,Other (industry),CO2,1,1.0,617.4,617.4,617.4
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1998,Industry,Waste,CO2,1,1.0,470.843,470.843,470.843
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1998,Industry,Waste,CH4,28,27.0,413.54202,11579.17656,11165.63454
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1998,Industry,Waste,N2O,265,273.0,0.168744,44.71716,46.067112
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1998,Transport,Road,CO2,1,1.0,225315.648,225315.648,225315.648
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1998,Transport,Road,CH4,28,27.0,30.8677369,864.2966332,833.4288963
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1998,Transport,Road,N2O,265,273.0,6.33106177,1677.73136905,1728.37986321
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1999,Energy systems,Electricity & heat,CO2,1,1.0,89784.0,89784.0,89784.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1999,Energy systems,Electricity & heat,CH4,28,27.0,3.48,97.44,93.96
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1999,Energy systems,Electricity & heat,N2O,265,273.0,0.696,184.44,190.008
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1999,Energy systems,Other (energy systems),N2O,265,273.0,15.466155,4098.531075,4222.260315
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1999,Industry,Chemicals,CO2,1,1.0,1.36165,1.36165,1.36165
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1999,Industry,Chemicals,N2O,265,273.0,1.3481075,357.2484875,368.0333475
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1999,Industry,Other (industry),CO2,1,1.0,617.4,617.4,617.4
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1999,Industry,Waste,CO2,1,1.0,484.157,484.157,484.157
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1999,Industry,Waste,CH4,28,27.0,417.73812,11696.66736,11278.92924
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1999,Industry,Waste,N2O,265,273.0,0.168097,44.545705,45.890481
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1999,Transport,Road,CO2,1,1.0,234737.5418,234737.5418,234737.5418
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1999,Transport,Road,CH4,28,27.0,30.3072119,848.6019332,818.2947213
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,1999,Transport,Road,N2O,265,273.0,6.718240485,1780.333728525,1834.079652405
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2000,Energy systems,Electricity & heat,CO2,1,1.0,95976.0,95976.0,95976.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2000,Energy systems,Electricity & heat,CH4,28,27.0,3.72,104.16,100.44
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2000,Energy systems,Electricity & heat,N2O,265,273.0,0.744,197.16,203.112
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2000,Energy systems,Other (energy systems),N2O,265,273.0,16.137635,4276.473275,4405.574355
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2000,Industry,Chemicals,CO2,1,1.0,1.36755,1.36755,1.36755
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2000,Industry,Chemicals,N2O,265,273.0,1.35633,359.42745,370.27809
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2000,Industry,Other (industry),CO2,1,1.0,617.4,617.4,617.4
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2000,Industry,Waste,CO2,1,1.0,499.466,499.466,499.466
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2000,Industry,Waste,CH4,28,27.0,422.38575,11826.801,11404.41525
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2000,Industry,Waste,N2O,265,273.0,0.167966,44.51099,45.854718
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2000,Transport,Road,CO2,1,1.0,244085.213,244085.213,244085.213
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2000,Transport,Road,CH4,28,27.0,29.5447962,827.2542936,797.7094974
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2000,Transport,Road,N2O,265,273.0,7.12193937,1887.31393305,1944.28944801
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2001,Energy systems,Electricity & heat,CO2,1,1.0,95976.0,95976.0,95976.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2001,Energy systems,Electricity & heat,CH4,28,27.0,3.72,104.16,100.44
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2001,Energy systems,Electricity & heat,N2O,265,273.0,0.744,197.16,203.112
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2001,Energy systems,Other (energy systems),N2O,265,273.0,16.118556,4271.417340000001,4400.365788
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2001,Industry,Chemicals,CO2,1,1.0,1.379,1.379,1.379
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2001,Industry,Chemicals,N2O,265,273.0,1.364765,361.662725,372.580845
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2001,Industry,Waste,CO2,1,1.0,511.341,511.341,511.341
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2001,Industry,Waste,CH4,28,27.0,426.35919,11938.05732,11511.69813
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2001,Industry,Waste,N2O,265,273.0,0.166523,44.128595,45.460779
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2001,Transport,Road,CO2,1,1.0,253432.933,253432.933,253432.933
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2001,Transport,Road,CH4,28,27.0,27.66631716,774.6568804799999,746.99056332
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2001,Transport,Road,N2O,265,273.0,7.673329526,2033.43232439,2094.818960598
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2002,Energy systems,Electricity & heat,CO2,1,1.0,99072.0,99072.0,99072.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2002,Energy systems,Electricity & heat,CH4,28,27.0,3.84,107.52,103.68
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2002,Energy systems,Electricity & heat,N2O,265,273.0,0.768,203.52,209.664
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2002,Energy systems,Other (energy systems),N2O,265,273.0,16.24097,4303.8570500000005,4433.78481
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2002,Industry,Chemicals,CO2,1,1.0,1.39515,1.39515,1.39515
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2002,Industry,Chemicals,N2O,265,273.0,1.37216,363.6224,374.59968
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2002,Industry,Waste,CO2,1,1.0,521.498,521.498,521.498
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2002,Industry,Waste,CH4,28,27.0,429.59759,12028.73252,11599.13493
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2002,Industry,Waste,N2O,265,273.0,0.164425,43.572625,44.888025
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2002,Transport,Road,CO2,1,1.0,256618.969,256618.969,256618.969
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2002,Transport,Road,CH4,28,27.0,24.46409124,684.99455472,660.53046348
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2002,Transport,Road,N2O,265,273.0,8.04827568,2132.7930552,2197.17926064
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2003,Energy systems,Electricity & heat,CO2,1,1.0,102168.0,102168.0,102168.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2003,Energy systems,Electricity & heat,CH4,28,27.0,3.96,110.88,106.92
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2003,Energy systems,Electricity & heat,N2O,265,273.0,0.792,209.88,216.216
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2003,Energy systems,Other (energy systems),N2O,265,273.0,16.362588,4336.085819999999,4466.986524
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2003,Industry,Chemicals,CO2,1,1.0,1.4145,1.4145,1.4145
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2003,Industry,Chemicals,N2O,265,273.0,1.37982,365.6523,376.69086
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2003,Industry,Waste,CO2,1,1.0,533.626,533.626,533.626
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2003,Industry,Waste,CH4,28,27.0,433.50754,12138.21112,11704.70358
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2003,Industry,Waste,N2O,265,273.0,0.162854,43.15631,44.459142
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2003,Transport,Road,CO2,1,1.0,259731.186,259731.186,259731.186
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2003,Transport,Road,CH4,28,27.0,21.1519551,592.2547427999999,571.1027876999999
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2003,Transport,Road,N2O,265,273.0,8.414056398,2229.72494547,2297.037396654
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2004,Energy systems,Electricity & heat,CO2,1,1.0,102168.0,102168.0,102168.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2004,Energy systems,Electricity & heat,CH4,28,27.0,3.96,110.88,106.92
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2004,Energy systems,Electricity & heat,N2O,265,273.0,0.792,209.88,216.216
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2004,Energy systems,Other (energy systems),N2O,265,273.0,16.724961,4432.114665,4565.914353
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2004,Industry,Chemicals,CO2,1,1.0,1.4347,1.4347,1.4347
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2004,Industry,Chemicals,N2O,265,273.0,1.38748,367.6822,378.78204
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2004,Industry,Waste,CO2,1,1.0,547.796,547.796,547.796
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2004,Industry,Waste,CH4,28,27.0,437.09654,12238.70312,11801.60658
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2004,Industry,Waste,N2O,265,273.0,0.161774,42.87011,44.164302
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2004,Transport,Road,CO2,1,1.0,290960.632,290960.632,290960.632
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2004,Transport,Road,CH4,28,27.0,19.9354032,558.1912896,538.2558864
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2004,Transport,Road,N2O,265,273.0,9.80302354,2597.8012381,2676.22542642
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2005,Energy systems,Electricity & heat,CO2,1,1.0,108360.0,108360.0,108360.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2005,Energy systems,Electricity & heat,CH4,28,27.0,4.2,117.6,113.4
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2005,Energy systems,Electricity & heat,N2O,265,273.0,0.84,222.6,229.32
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2005,Energy systems,Other (energy systems),N2O,265,273.0,17.130169,4539.494785,4676.536137
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2005,Industry,Chemicals,CO2,1,1.0,1.454,1.454,1.454
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2005,Industry,Chemicals,N2O,265,273.0,1.3957025,369.8611625,381.0267825
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2005,Industry,Waste,CO2,1,1.0,560.224,560.224,560.224
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2005,Industry,Waste,CH4,28,27.0,440.18139,12325.07892,11884.89753
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2005,Industry,Waste,N2O,265,273.0,0.16005,42.41325,43.69365
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2005,Transport,Road,CO2,1,1.0,297333.254,297333.254,297333.254
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2005,Transport,Road,CH4,28,27.0,15.936608,446.225024,430.288416
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2005,Transport,Road,N2O,265,273.0,10.30706753,2731.37289545,2813.82943569
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2006,Energy systems,Electricity & heat,CO2,1,1.0,114552.0,114552.0,114552.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2006,Energy systems,Electricity & heat,CH4,28,27.0,4.44,124.32,119.88
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2006,Energy systems,Electricity & heat,N2O,265,273.0,0.888,235.32,242.424
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2006,Energy systems,Other (energy systems),N2O,265,273.0,17.848312,4729.80268,4872.589176
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2006,Industry,Chemicals,CO2,1,1.0,1.47185,1.47185,1.47185
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2006,Industry,Chemicals,N2O,265,273.0,1.40488,372.2932,383.53224
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2006,Industry,Waste,CO2,1,1.0,566.0,566.0,566.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2006,Industry,Waste,CH4,28,27.0,444.47195,12445.2146,12000.74265
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2006,Industry,Waste,N2O,265,273.0,0.1617,42.8505,44.1441
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2006,Transport,Road,CO2,1,1.0,309793.233,309793.233,309793.233
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2006,Transport,Road,CH4,28,27.0,15.80988536,442.6767900800001,426.86690472
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2006,Transport,Road,N2O,265,273.0,10.75810791,2850.89859615,2936.96345943
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2007,Energy systems,Electricity & heat,CO2,1,1.0,117648.0,117648.0,117648.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2007,Energy systems,Electricity & heat,CH4,28,27.0,4.56,127.68,123.12
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2007,Energy systems,Electricity & heat,N2O,265,273.0,0.912,241.68,248.976
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2007,Energy systems,Other (energy systems),N2O,265,273.0,17.672515,4683.216475,4824.596595
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2007,Industry,Chemicals,CO2,1,1.0,1.4885,1.4885,1.4885
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2007,Industry,Chemicals,N2O,265,273.0,1.414185,374.759025,386.072505
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2007,Industry,Waste,CO2,1,1.0,571.775,571.775,571.775
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2007,Industry,Waste,CH4,28,27.0,449.4797,12585.4316,12135.9519
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2007,Industry,Waste,N2O,265,273.0,0.16335,43.28775,44.59455
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2007,Transport,Road,CO2,1,1.0,303494.662,303494.662,303494.662
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2007,Transport,Road,CH4,28,27.0,16.41998556,459.75959568,443.33961012
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2007,Transport,Road,N2O,265,273.0,10.82918805,2869.73483325,2956.3683376500003
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2008,Energy systems,Electricity & heat,CO2,1,1.0,126936.0,126936.0,126936.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2008,Energy systems,Electricity & heat,CH4,28,27.0,4.92,137.76,132.84
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2008,Energy systems,Electricity & heat,N2O,265,273.0,0.984,260.76,268.632
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2008,Energy systems,Other (energy systems),N2O,265,273.0,18.416518,4880.37727,5027.709414
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2008,Industry,Chemicals,CO2,1,1.0,1.50445,1.50445,1.50445
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2008,Industry,Chemicals,N2O,265,273.0,1.42384,377.3176,388.70832
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2008,Industry,Waste,CO2,1,1.0,577.551,577.551,577.551
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2008,Industry,Waste,CH4,28,27.0,451.584,12644.352,12192.768
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2008,Industry,Waste,N2O,265,273.0,0.165,43.725,45.045
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2008,Transport,Road,CO2,1,1.0,303494.649,303494.649,303494.649
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2008,Transport,Road,CH4,28,27.0,15.3093768,428.6625504,413.3531736000001
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2008,Transport,Road,N2O,265,273.0,10.95226347,2902.34981955,2989.96792731
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2009,Energy systems,Electricity & heat,CO2,1,1.0,133128.0,133128.0,133128.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2009,Energy systems,Electricity & heat,CH4,28,27.0,5.16,144.48000000000002,139.32
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2009,Energy systems,Electricity & heat,N2O,265,273.0,1.032,273.48,281.736
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2009,Energy systems,Other (energy systems),N2O,265,273.0,19.406529,5142.730184999999,5297.982417
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2009,Industry,Chemicals,CO2,1,1.0,1.52035,1.52035,1.52035
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2009,Industry,Chemicals,N2O,265,273.0,1.43359,379.90135,391.37007
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2009,Industry,Waste,CO2,1,1.0,583.327,583.327,583.327
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2009,Industry,Waste,CH4,28,27.0,450.98036,12627.45008,12176.46972
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2009,Industry,Waste,N2O,265,273.0,0.16665,44.16225,45.49545
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2009,Transport,Road,CO2,1,1.0,337910.3655,337910.3655,337910.3655
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2009,Transport,Road,CH4,28,27.0,16.03436721,448.96228188,432.92791467
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2009,Transport,Road,N2O,265,273.0,12.30046911,3259.62431415,3358.02806703
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2010,Energy systems,Electricity & heat,CO2,1,1.0,133128.0,133128.0,133128.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2010,Energy systems,Electricity & heat,CH4,28,27.0,5.16,144.48000000000002,139.32
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2010,Energy systems,Electricity & heat,N2O,265,273.0,1.032,273.48,281.736
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2010,Energy systems,Other (energy systems),N2O,265,273.0,19.233161,5096.787665,5250.652953
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2010,Industry,Chemicals,CO2,1,1.0,1.5366,1.5366,1.5366
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2010,Industry,Chemicals,N2O,265,273.0,1.4437225,382.5864625,394.1362425
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2010,Industry,Waste,CO2,1,1.0,589.102,589.102,589.102
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2010,Industry,Waste,CH4,28,27.0,454.65014,12730.20392,12275.55378
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2010,Industry,Waste,N2O,265,273.0,0.1683,44.5995,45.9459
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2010,Transport,Road,CO2,1,1.0,341096.698,341096.698,341096.698
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2010,Transport,Road,CH4,28,27.0,15.0032469,420.0909132000001,405.0876663
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2010,Transport,Road,N2O,265,273.0,12.52595809,3319.37889385,3419.58655857
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2011,Energy systems,Electricity & heat,CO2,1,1.0,130032.0,130032.0,130032.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2011,Energy systems,Electricity & heat,CH4,28,27.0,5.04,141.12,136.08
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2011,Energy systems,Electricity & heat,N2O,265,273.0,1.008,267.12,275.184
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2011,Energy systems,Other (energy systems),N2O,265,273.0,18.715163,4959.518195000001,5109.239499
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2011,Industry,Chemicals,CO2,1,1.0,1.55335,1.55335,1.55335
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2011,Industry,Chemicals,N2O,265,273.0,1.4531225,385.0774625,396.7024425
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2011,Industry,Waste,CO2,1,1.0,594.878,594.878,594.878
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2011,Industry,Waste,CH4,28,27.0,457.76725,12817.483,12359.71575
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2011,Industry,Waste,N2O,265,273.0,0.16995,45.03675,46.39635
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2011,Transport,Road,CO2,1,1.0,328562.679,328562.679,328562.679
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2011,Transport,Road,CH4,28,27.0,14.4627335,404.956538,390.4938045
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2011,Transport,Road,N2O,265,273.0,12.06505353,3197.23918545,3293.75961369
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2012,Energy systems,Electricity & heat,CO2,1,1.0,133128.0,133128.0,133128.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2012,Energy systems,Electricity & heat,CH4,28,27.0,5.16,144.48000000000002,139.32
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2012,Energy systems,Electricity & heat,N2O,265,273.0,1.032,273.48,281.736
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2012,Energy systems,Other (energy systems),N2O,265,273.0,19.151525,5075.154125,5228.366325
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2012,Industry,Chemicals,CO2,1,1.0,1.5701,1.5701,1.5701
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2012,Industry,Chemicals,N2O,265,273.0,1.4625975,387.5883375,399.2891175
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2012,Industry,Waste,CO2,1,1.0,600.653,600.653,600.653
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2012,Industry,Waste,CH4,28,27.0,460.91139,12905.51892,12444.60753
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2012,Industry,Waste,N2O,265,273.0,0.1716,45.474,46.8468
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2012,Transport,Road,CO2,1,1.0,334861.085,334861.085,334861.085
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2012,Transport,Road,CH4,28,27.0,14.5465026,407.3020728,392.7555702
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2012,Transport,Road,N2O,265,273.0,12.30746932,3261.4793698,3359.93912436
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2013,Energy systems,Electricity & heat,CO2,1,1.0,142416.0,142416.0,142416.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2013,Energy systems,Electricity & heat,CH4,28,27.0,5.52,154.56,149.04
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2013,Energy systems,Electricity & heat,N2O,265,273.0,1.104,292.56,301.39200000000005
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2013,Energy systems,Other (energy systems),N2O,265,273.0,20.458857,5421.597105,5585.267961
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2013,Industry,Chemicals,CO2,1,1.0,1.57028,1.57028,1.57028
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2013,Industry,Chemicals,N2O,265,273.0,1.4716475,389.9865875,401.7597675
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2013,Industry,Waste,CO2,1,1.0,600.653,600.653,600.653
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2013,Industry,Waste,CH4,28,27.0,465.83164,13043.28592,12577.45428
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2013,Industry,Waste,N2O,265,273.0,0.1716,45.474,46.8468
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2013,Transport,Road,CO2,1,1.0,356743.028,356743.028,356743.028
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2013,Transport,Road,CH4,28,27.0,15.5851556,436.3843568,420.7992012
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2013,Transport,Road,N2O,265,273.0,13.10665321,3473.26310065,3578.11632633
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2014,Energy systems,Electricity & heat,CO2,1,1.0,148608.0,148608.0,148608.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2014,Energy systems,Electricity & heat,CH4,28,27.0,5.76,161.28,155.51999999999998
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2014,Energy systems,Electricity & heat,N2O,265,273.0,1.152,305.28,314.496
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2014,Energy systems,Other (energy systems),N2O,265,273.0,21.574876,5717.34214,5889.941148
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2014,Industry,Chemicals,CO2,1,1.0,1.58703,1.58703,1.58703
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2014,Industry,Chemicals,N2O,265,273.0,1.480655,392.373575,404.218815
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2014,Industry,Waste,CO2,1,1.0,600.653,600.653,600.653
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2014,Industry,Waste,CH4,28,27.0,469.91783,13157.69924,12687.78141
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2014,Industry,Waste,N2O,265,273.0,0.1716,45.474,46.8468
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2014,Transport,Road,CO2,1,1.0,387972.362,387972.362,387972.362
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2014,Transport,Road,CH4,28,27.0,17.1219291,479.4140148,462.2920857
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2014,Transport,Road,N2O,265,273.0,14.24408872,3774.6835108,3888.63622056
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2015,Energy systems,Electricity & heat,CO2,1,1.0,170280.0,170280.0,170280.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2015,Energy systems,Electricity & heat,CH4,28,27.0,6.6,184.8,178.2
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2015,Energy systems,Electricity & heat,N2O,265,273.0,1.32,349.8,360.36
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2015,Energy systems,Other (energy systems),N2O,265,273.0,24.35449,6453.93985,6648.775769999999
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2015,Industry,Chemicals,CO2,1,1.0,1.60396,1.60396,1.60396
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2015,Industry,Chemicals,N2O,265,273.0,1.48892,394.5638,406.47516
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2015,Industry,Waste,CO2,1,1.0,600.653,600.653,600.653
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2015,Industry,Waste,CH4,28,27.0,473.63257,13261.71196,12788.07939
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2015,Industry,Waste,N2O,265,273.0,0.1716,45.474,46.8468
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2015,Transport,Road,CO2,1,1.0,419338.854,419338.854,419338.854
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2015,Transport,Road,CH4,28,27.0,18.2867212,512.0281936,493.7414724
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2015,Transport,Road,N2O,265,273.0,15.40830908,4083.2019062,4206.46837884
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2016,Energy systems,Electricity & heat,CO2,1,1.0,191952.0,191952.0,191952.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2016,Energy systems,Electricity & heat,CH4,28,27.0,7.44,208.32,200.88
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2016,Energy systems,Electricity & heat,N2O,265,273.0,1.488,394.32,406.224
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2016,Energy systems,Other (energy systems),N2O,265,273.0,27.160263,7197.469695,7414.751799000001
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2016,Industry,Chemicals,CO2,1,1.0,1.61743,1.61743,1.61743
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2016,Industry,Chemicals,N2O,265,273.0,1.49675,396.63875,408.61275
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2016,Industry,Waste,CO2,1,1.0,600.653,600.653,600.653
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2016,Industry,Waste,CH4,28,27.0,481.44159,13480.36452,12998.92293
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2016,Industry,Waste,N2O,265,273.0,0.1716,45.474,46.8468
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2016,Transport,Road,CO2,1,1.0,453754.113,453754.113,453754.113
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2016,Transport,Road,CH4,28,27.0,19.8658751,556.2445028,536.3786277
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2016,Transport,Road,N2O,265,273.0,16.66837937,4417.12053305,4550.46756801
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2017,Energy systems,Electricity & heat,CO2,1,1.0,207587.0,207587.0,207587.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2017,Energy systems,Electricity & heat,CH4,28,27.0,8.046,225.288,217.242
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2017,Energy systems,Electricity & heat,N2O,265,273.0,1.6092,426.438,439.3116
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2017,Energy systems,Other (energy systems),N2O,265,273.0,29.45425,7805.376249999999,8041.010249999999
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2017,Industry,Chemicals,CO2,1,1.0,1.63101,1.63101,1.63101
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2017,Industry,Chemicals,N2O,265,273.0,1.5038375,398.5169375,410.5476375
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2017,Industry,Waste,CO2,1,1.0,604.503,604.503,604.503
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2017,Industry,Waste,CH4,28,27.0,489.19904,13697.57312,13208.37408
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2017,Industry,Waste,N2O,265,273.0,0.1727,45.7655,47.1471
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2017,Transport,Road,CO2,1,1.0,496339.984,496339.984,496339.984
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2017,Transport,Road,CH4,28,27.0,21.7830687,609.9259236,588.1428549
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2017,Transport,Road,N2O,265,273.0,18.22969316,4830.8686874,4976.70623268
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2018,Energy systems,Electricity & heat,CO2,1,1.0,230085.0,230085.0,230085.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2018,Energy systems,Electricity & heat,CH4,28,27.0,8.91804,249.70512,240.78708
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2018,Energy systems,Electricity & heat,N2O,265,273.0,1.78361,472.65665,486.92553
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2018,Energy systems,Other (energy systems),N2O,265,273.0,32.646469,8651.314285,8912.486037
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2018,Industry,Chemicals,CO2,1,1.0,1.64471,1.64471,1.64471
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2018,Industry,Chemicals,N2O,265,273.0,1.5108825,400.3838625,412.4709225
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2018,Industry,Waste,CO2,1,1.0,606.429,606.429,606.429
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2018,Industry,Waste,CH4,28,27.0,496.58156,13904.28368,13407.70212
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2018,Industry,Waste,N2O,265,273.0,0.17325,45.91125,47.29725
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2018,Transport,Road,CO2,1,1.0,550133.197,550133.197,550133.197
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2018,Transport,Road,CH4,28,27.0,24.1439151,676.0296228,651.8857077
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2018,Transport,Road,N2O,265,273.0,20.20542992,5354.4389288,5516.08236816
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2019,Energy systems,Electricity & heat,CO2,1,1.0,233438.0,233438.0,233438.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2019,Energy systems,Electricity & heat,CH4,28,27.0,9.03878284535249,253.08591966986967,244.0471368245172
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2019,Energy systems,Electricity & heat,N2O,265,273.0,1.80775859614883,479.05602797944,493.5180967486306
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2019,Energy systems,Other (energy systems),N2O,265,273.0,34.1978325604898,9062.425628529798,9336.008289013716
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2019,Industry,Chemicals,CO2,1,1.0,1.6596,1.6596,1.6596
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2019,Industry,Chemicals,N2O,265,273.0,1.5196314196401,402.7023262046265,414.8593775617473
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2019,Industry,Waste,CO2,1,1.0,607.584,607.584,607.584
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2019,Industry,Waste,CH4,28,27.0,499.529255441457,13986.819152360797,13487.28989691934
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2019,Industry,Waste,N2O,265,273.0,0.17325,45.91125,47.29725
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2019,Transport,Road,CO2,1,1.0,558149.908,558149.908,558149.908
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2019,Transport,Road,CH4,28,27.0,24.4708121010522,685.1827388294616,660.7119267284094
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2019,Transport,Road,N2O,265,273.0,20.479001725503,5426.935457258295,5590.767471062319
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2020,Energy systems,Electricity & heat,CO2,1,1.0,211920.0,211920.0,211920.0
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2020,Industry,Chemicals,CO2,1,1.0,1.67462,1.67462,1.67462
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2020,Industry,Waste,CO2,1,1.0,608.741,608.741,608.741
+GIB,Gibraltar,Developed Countries,Europe,Southern and eastern Europe,developed,2020,Transport,Road,CO2,1,1.0,506700.952,506700.952,506700.952

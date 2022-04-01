@@ -1,0 +1,1070 @@
+code,name,region_ar6_6,region_ar6_10,region_ar6_22,region_ar6_dev,year,sector_title,subsector_title,gas,gwp100_ar5,gwp100_ar6,value_native,value_ar5,value_ar6
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,Buildings,Residential,CO2,1,1.0,0.16892956,0.16892956,0.16892956
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,Buildings,Residential,CH4,28,27.0,2.0144e-05,0.000564032,0.000543888
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,Buildings,Residential,N2O,265,273.0,1.02328e-06,0.0002711692,0.00027935544
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,Energy systems,Electricity & heat,CO2,1,1.0,429.9514,429.9514,429.9514
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,Energy systems,Electricity & heat,CH4,28,27.0,0.004544452,0.127244656,0.122700204
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,Energy systems,Electricity & heat,N2O,265,273.0,0.001751012,0.46401818,0.4780262759999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,Energy systems,Other (energy systems),CO2,1,1.0,10.44956179,10.44956179,10.44956179
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,Energy systems,Other (energy systems),CH4,28,27.0,0.0021973657,0.0615262396,0.0593288739
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,Energy systems,Other (energy systems),N2O,265,273.0,0.094549151178,25.05552506217,25.811918271594
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,Industry,Chemicals,CO2,1,1.0,0.32,0.32,0.32
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,Industry,Chemicals,N2O,265,273.0,7.0433e-05,0.018664745,0.019228209
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,Industry,Other (industry),CO2,1,1.0,108.9908,108.9908,108.9908
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,Industry,Other (industry),CH4,28,27.0,0.00438831,0.12287268,0.11848437
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,Industry,Other (industry),N2O,265,273.0,0.000877662,0.23258043,0.239601726
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,Industry,Waste,CH4,28,27.0,87.1016044,2438.8449232,2351.7433188
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,Transport,Other (transport),CO2,1,1.0,0.0175728,0.0175728,0.0175728
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,Transport,Other (transport),CH4,28,27.0,9.84172e-07,2.7556816e-05,2.6572644e-05
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,Transport,Other (transport),N2O,265,273.0,6.78249e-06,0.00179735985,0.00185161977
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,Transport,Road,CO2,1,1.0,1618.391338,1618.391338,1618.391338
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,Transport,Road,CH4,28,27.0,0.4340946222,12.1546494216,11.7205547994
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1970,Transport,Road,N2O,265,273.0,0.0430511829,11.4085634685,11.7529729317
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,Buildings,Residential,CO2,1,1.0,0.16940909,0.16940909,0.16940909
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,Buildings,Residential,CH4,28,27.0,2.02012e-05,0.0005656335999999,0.0005454324
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,Buildings,Residential,N2O,265,273.0,1.026184e-06,0.00027193876,0.000280148232
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,Energy systems,Electricity & heat,CO2,1,1.0,429.9514,429.9514,429.9514
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,Energy systems,Electricity & heat,CH4,28,27.0,0.004544452,0.127244656,0.122700204
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,Energy systems,Electricity & heat,N2O,265,273.0,0.001751012,0.46401818,0.4780262759999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,Energy systems,Other (energy systems),CO2,1,1.0,10.47929248,10.47929248,10.47929248
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,Energy systems,Other (energy systems),CH4,28,27.0,0.0022036169,0.0617012732,0.0594976563
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,Energy systems,Other (energy systems),N2O,265,273.0,0.094344503329,25.001293382185,25.756049408817
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,Industry,Chemicals,CO2,1,1.0,0.3227,0.3227,0.3227
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,Industry,Chemicals,N2O,265,273.0,7.0961e-05,0.018804665,0.019372353
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,Industry,Other (industry),CO2,1,1.0,108.9908,108.9908,108.9908
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,Industry,Other (industry),CH4,28,27.0,0.00438831,0.12287268,0.11848437
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,Industry,Other (industry),N2O,265,273.0,0.000877662,0.23258043,0.239601726
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,Industry,Waste,CH4,28,27.0,67.3613602,1886.1180856,1818.7567254
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,Transport,Other (transport),CO2,1,1.0,0.0176232,0.0176232,0.0176232
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,Transport,Other (transport),CH4,28,27.0,9.86994e-07,2.7635832e-05,2.6648838e-05
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,Transport,Other (transport),N2O,265,273.0,6.80194e-06,0.0018025141,0.00185692962
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,Transport,Road,CO2,1,1.0,1618.391951,1618.391951,1618.391951
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,Transport,Road,CH4,28,27.0,0.434089078,12.154494184,11.720405106
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1971,Transport,Road,N2O,265,273.0,0.0430460809,11.4072114385,11.7515800857
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,Buildings,Residential,CO2,1,1.0,0.15360244,0.15360244,0.15360244
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,Buildings,Residential,CH4,28,27.0,1.829135e-05,0.0005121578,0.00049386645
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,Buildings,Residential,N2O,265,273.0,9.27387e-07,0.000245757555,0.000253176651
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,Energy systems,Electricity & heat,CO2,1,1.0,435.8901,435.8901,435.8901
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,Energy systems,Electricity & heat,CH4,28,27.0,0.004607855,0.12901994,0.124412085
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,Energy systems,Electricity & heat,N2O,265,273.0,0.00177573,0.47056845,0.48477429
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,Energy systems,Other (energy systems),CO2,1,1.0,11.37717391,11.37717391,11.37717391
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,Energy systems,Other (energy systems),CH4,28,27.0,0.00216259135,0.0605525578,0.05838996645
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,Energy systems,Other (energy systems),N2O,265,273.0,0.099883208495,26.469050251175,27.268115919135
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,Industry,Chemicals,CO2,1,1.0,0.3253,0.3253,0.3253
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,Industry,Chemicals,N2O,265,273.0,7.1511e-05,0.018950415,0.019522503
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,Industry,Other (industry),CO2,1,1.0,121.45256,121.45256,121.45256
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,Industry,Other (industry),CH4,28,27.0,0.00473659,0.13262452,0.1278879299999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,Industry,Other (industry),N2O,265,273.0,0.000937258,0.2483733699999999,0.255871434
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,Industry,Waste,CH4,28,27.0,67.425166,1887.904648,1820.479482
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,Transport,Other (transport),CO2,1,1.0,0.0137759,0.0137759,0.0137759
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,Transport,Other (transport),CH4,28,27.0,7.71526e-07,2.1602728e-05,2.0831202e-05
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,Transport,Other (transport),N2O,265,273.0,5.31703e-06,0.00140901295,0.00145154919
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,Transport,Road,CO2,1,1.0,1694.536752,1694.536752,1694.536752
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,Transport,Road,CH4,28,27.0,0.440799835,12.34239538,11.901595545
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1972,Transport,Road,N2O,265,273.0,0.044657781,11.834311965,12.191574213
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,Buildings,Residential,CO2,1,1.0,0.1186336,0.1186336,0.1186336
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,Buildings,Residential,CH4,28,27.0,1.433735e-05,0.0004014458,0.00038710845
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,Buildings,Residential,N2O,265,273.0,7.45707e-07,0.000197612355,0.000203578011
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,Energy systems,Electricity & heat,CO2,1,1.0,438.4404,438.4404,438.4404
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,Energy systems,Electricity & heat,CH4,28,27.0,0.004665214,0.130625992,0.125960778
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,Energy systems,Electricity & heat,N2O,265,273.0,0.001811684,0.48009626,0.494589732
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,Energy systems,Other (energy systems),CO2,1,1.0,11.45438564,11.45438564,11.45438564
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,Energy systems,Other (energy systems),CH4,28,27.0,0.00231658765,0.0648644542,0.06254786655
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,Energy systems,Other (energy systems),N2O,265,273.0,0.092074706951,24.399797342015,25.136394997623
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,Industry,Chemicals,CO2,1,1.0,0.3277,0.3277,0.3277
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,Industry,Chemicals,N2O,265,273.0,7.2116e-05,0.01911074,0.019687668
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,Industry,Other (industry),CO2,1,1.0,102.6397,102.6397,102.6397
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,Industry,Other (industry),CH4,28,27.0,0.00410274,0.1148767199999999,0.11077398
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,Industry,Other (industry),N2O,265,273.0,0.000820548,0.21744522,0.224009604
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,Industry,Waste,CH4,28,27.0,67.508326,1890.233128,1822.724802
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,Transport,Other (transport),CO2,1,1.0,0.0129994,0.0129994,0.0129994
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,Transport,Other (transport),CH4,28,27.0,7.28035e-07,2.038498e-05,1.9656945e-05
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,Transport,Other (transport),N2O,265,273.0,5.0173e-06,0.0013295845,0.0013697229
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,Transport,Road,CO2,1,1.0,1555.962382,1555.962382,1555.962382
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,Transport,Road,CH4,28,27.0,0.3992346533,11.1785702924,10.7793356391
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1973,Transport,Road,N2O,265,273.0,0.0408338108,10.820959862,11.1476303484
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,Buildings,Residential,CO2,1,1.0,0.1486173,0.1486173,0.1486173
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,Buildings,Residential,CH4,28,27.0,1.75058e-05,0.0004901624,0.0004726566
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,Buildings,Residential,N2O,265,273.0,8.82756e-07,0.00023393034,0.000240992388
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,Energy systems,Electricity & heat,CO2,1,1.0,446.6348,446.6348,446.6348
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,Energy systems,Electricity & heat,CH4,28,27.0,0.004844626,0.135649528,0.130804902
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,Energy systems,Electricity & heat,N2O,265,273.0,0.001923106,0.50962309,0.525007938
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,Energy systems,Other (energy systems),CO2,1,1.0,10.92833481,10.92833481,10.92833481
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,Energy systems,Other (energy systems),CH4,28,27.0,0.0024983989,0.0699551692,0.0674567703
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,Energy systems,Other (energy systems),N2O,265,273.0,0.104298358205,27.639064924325,28.473451789965
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,Industry,Chemicals,CO2,1,1.0,0.3298,0.3298,0.3298
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,Industry,Chemicals,N2O,265,273.0,7.2556e-05,0.01922734,0.019807788
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,Industry,Other (industry),CO2,1,1.0,115.1541,115.1541,115.1541
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,Industry,Other (industry),CH4,28,27.0,0.00445274,0.12467672,0.12022398
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,Industry,Other (industry),N2O,265,273.0,0.000880448,0.23331872,0.240362304
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,Industry,Waste,CH4,28,27.0,67.507136,1890.199808,1822.692672
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,Transport,Other (transport),CO2,1,1.0,0.0163205,0.0163205,0.0163205
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,Transport,Other (transport),CH4,28,27.0,9.14038e-07,2.5593064e-05,2.4679026e-05
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,Transport,Other (transport),N2O,265,273.0,6.29915e-06,0.00166927475,0.00171966795
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,Transport,Road,CO2,1,1.0,1777.048975,1777.048975,1777.048975
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,Transport,Road,CH4,28,27.0,0.4486291378,12.5616158584,12.1129867206
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1974,Transport,Road,N2O,265,273.0,0.046398404,12.29557706,12.666764292
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,Buildings,Residential,CO2,1,1.0,0.4708698,0.4708698,0.4708698
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,Buildings,Residential,CH4,28,27.0,6.230575e-05,0.001744561,0.00168225525
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,Buildings,Residential,N2O,265,273.0,3.569715e-06,0.000945974475,0.000974532195
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,Energy systems,Electricity & heat,CO2,1,1.0,479.8554,479.8554,479.8554
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,Energy systems,Electricity & heat,CH4,28,27.0,0.005104606,0.142928968,0.137824362
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,Energy systems,Electricity & heat,N2O,265,273.0,0.001981736,0.52516004,0.541013928
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,Energy systems,Other (energy systems),CO2,1,1.0,11.31355853,11.31355853,11.31355853
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,Energy systems,Other (energy systems),CH4,28,27.0,0.0021327918,0.0597181704,0.0575853786
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,Energy systems,Other (energy systems),N2O,265,273.0,0.12111298833,32.09494190745,33.06384581409
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,Industry,Chemicals,CO2,1,1.0,0.3315,0.3315,0.3315
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,Industry,Chemicals,N2O,265,273.0,7.2919e-05,0.019323535,0.0199068869999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,Industry,Other (industry),CO2,1,1.0,127.99122,127.99122,127.99122
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,Industry,Other (industry),CH4,28,27.0,0.004954101,0.1387148279999999,0.133760727
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,Industry,Other (industry),N2O,265,273.0,0.0009807882,0.259908873,0.2677551786
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,Industry,Waste,CH4,28,27.0,67.465316,1889.028848,1821.563532
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,Transport,Other (transport),CO2,1,1.0,0.0127593,0.0127593,0.0127593
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,Transport,Other (transport),CH4,28,27.0,7.14588e-07,2.0008464e-05,1.9293876e-05
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,Transport,Other (transport),N2O,265,273.0,4.92463e-06,0.00130502695,0.00134442399
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,Transport,Road,CO2,1,1.0,1964.057766,1964.057766,1964.057766
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,Transport,Road,CH4,28,27.0,0.4283335161,11.9933384508,11.5650049347
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1975,Transport,Road,N2O,265,273.0,0.0491343514,13.020603121,13.4136779322
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Buildings,Residential,CO2,1,1.0,0.6811743,0.6811743,0.6811743
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Buildings,Residential,CH4,28,27.0,8.7855789e-05,0.002459962092,0.002372106303
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Buildings,Residential,N2O,265,273.0,5.140056e-06,0.0013621148399999,0.001403235288
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Energy systems,Coal mining fugitive emissions,CO2,1,1.0,17.566,17.566,17.566
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Energy systems,Electricity & heat,CO2,1,1.0,521.3631,521.3631,521.3631
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Energy systems,Electricity & heat,CH4,28,27.0,0.005622038,0.157417064,0.151795026
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Energy systems,Electricity & heat,N2O,265,273.0,0.002216978,0.5874991700000001,0.605234994
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Energy systems,Other (energy systems),CO2,1,1.0,10.19979513,10.19979513,10.19979513
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Energy systems,Other (energy systems),CH4,28,27.0,0.00241730116,0.06768443248,0.06526713132
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Energy systems,Other (energy systems),N2O,265,273.0,0.1064424517572,28.207249715658,29.0587893297156
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Industry,Chemicals,CO2,1,1.0,0.33305,0.33305,0.33305
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Industry,Chemicals,N2O,265,273.0,7.326e-05,0.0194139,0.01999998
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Industry,Other (industry),CO2,1,1.0,139.30605,139.30605,139.30605
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Industry,Other (industry),CH4,28,27.0,0.005273429,0.147656012,0.1423825829999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Industry,Other (industry),N2O,265,273.0,0.0010345829,0.2741644685,0.2824411316999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Industry,Waste,CH4,28,27.0,67.252418,1883.067704,1815.815286
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Transport,Other (transport),CO2,1,1.0,0.0754931,0.0754931,0.0754931
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Transport,Other (transport),CH4,28,27.0,4.22802e-06,0.00011838456,0.0001141565399999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Transport,Other (transport),N2O,265,273.0,2.91377e-05,0.0077214905,0.0079545921
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Transport,Road,CO2,1,1.0,1744.949252,1744.949252,1744.949252
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Transport,Road,CH4,28,27.0,0.4052259303,11.3463260484,10.9411001181
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1976,Transport,Road,N2O,265,273.0,0.0442942434,11.737974501,12.0923284482
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,Buildings,Residential,CO2,1,1.0,0.6142126,0.6142126,0.6142126
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,Buildings,Residential,CH4,28,27.0,7.9107208e-05,0.002215001824,0.002135894616
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,Buildings,Residential,N2O,265,273.0,4.613735e-06,0.001222639775,0.001259549655
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,Energy systems,Electricity & heat,CO2,1,1.0,449.3838,449.3838,449.3838
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,Energy systems,Electricity & heat,CH4,28,27.0,0.004855512,0.135954336,0.131098824
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,Energy systems,Electricity & heat,N2O,265,273.0,0.001919022,0.50854083,0.523893006
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,Energy systems,Other (energy systems),CO2,1,1.0,10.53711942,10.53711942,10.53711942
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,Energy systems,Other (energy systems),CH4,28,27.0,0.002188248005,0.0612709441399999,0.0590826961349999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,Energy systems,Other (energy systems),N2O,265,273.0,0.1156885732501,30.6574719112765,31.5829804972773
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,Industry,Chemicals,CO2,1,1.0,0.33455,0.33455,0.33455
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,Industry,Chemicals,N2O,265,273.0,7.3557e-05,0.019492605,0.020081061
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,Industry,Other (industry),CO2,1,1.0,142.28136,142.28136,142.28136
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,Industry,Other (industry),CH4,28,27.0,0.005416088,0.151650464,0.146234376
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,Industry,Other (industry),N2O,265,273.0,0.0010658678,0.282454967,0.2909819093999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,Industry,Waste,CH4,28,27.0,67.015624,1876.437472,1809.421848
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,Transport,Other (transport),CO2,1,1.0,0.0741074,0.0741074,0.0741074
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,Transport,Other (transport),CH4,28,27.0,4.15042e-06,0.0001162117599999,0.00011206134
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,Transport,Other (transport),N2O,265,273.0,2.86029e-05,0.0075797685,0.0078085917
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,Transport,Road,CO2,1,1.0,1933.838616,1933.838616,1933.838616
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,Transport,Road,CH4,28,27.0,0.4470324903,12.5169097284,12.0698772381
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1977,Transport,Road,N2O,265,273.0,0.0490021495,12.9855696175,13.3775868135
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,Buildings,Residential,CO2,1,1.0,0.9861399,0.9861399,0.9861399
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,Buildings,Residential,CH4,28,27.0,0.000126264553,0.0035354074839999,0.0034091429309999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,Buildings,Residential,N2O,265,273.0,7.307567e-06,0.0019365052549999,0.001994965791
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,Energy systems,Electricity & heat,CO2,1,1.0,542.579,542.579,542.579
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,Energy systems,Electricity & heat,CH4,28,27.0,0.005838856,0.1634879679999999,0.157649112
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,Energy systems,Electricity & heat,N2O,265,273.0,0.002297136,0.60874104,0.627118128
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,Energy systems,Other (energy systems),CO2,1,1.0,15.04129972,15.04129972,15.04129972
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,Energy systems,Other (energy systems),CH4,28,27.0,0.00315449455,0.0883258473999999,0.0851713528499999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,Energy systems,Other (energy systems),N2O,265,273.0,0.129632696063,34.352664456695,35.389726025199
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,Industry,Chemicals,CO2,1,1.0,0.3356,0.3356,0.3356
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,Industry,Chemicals,N2O,265,273.0,7.3799e-05,0.019556735,0.020147127
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,Industry,Other (industry),CO2,1,1.0,157.5915,157.5915,157.5915
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,Industry,Other (industry),CH4,28,27.0,0.005815336,0.162829408,0.157014072
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,Industry,Other (industry),N2O,265,273.0,0.0011282746,0.298992769,0.3080189658
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,Industry,Waste,CH4,28,27.0,66.750979,1869.027412,1802.276433
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,Transport,Other (transport),CO2,1,1.0,0.142294,0.142294,0.142294
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,Transport,Other (transport),CH4,28,27.0,7.96925e-06,0.000223139,0.00021516975
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,Transport,Other (transport),N2O,265,273.0,5.49206e-05,0.014553959,0.0149933238
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,Transport,Road,CO2,1,1.0,2184.934437,2184.934437,2184.934437
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,Transport,Road,CH4,28,27.0,0.5188861903,14.528813328400002,14.009927138100002
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1978,Transport,Road,N2O,265,273.0,0.0557665198,14.778127747,15.2242599054
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,Buildings,Residential,CO2,1,1.0,1.0892684,1.0892684,1.0892684
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,Buildings,Residential,CH4,28,27.0,0.000132803697,0.003718503516,0.003585699819
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,Buildings,Residential,N2O,265,273.0,7.271238e-06,0.0019268780699999,0.0019850479739999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,Energy systems,Electricity & heat,CO2,1,1.0,661.6371,661.6371,661.6371
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,Energy systems,Electricity & heat,CH4,28,27.0,0.007156293,0.200376204,0.193219911
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,Energy systems,Electricity & heat,N2O,265,273.0,0.002831658,0.7503893699999999,0.773042634
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,Energy systems,Other (energy systems),CO2,1,1.0,14.82526003,14.82526003,14.82526003
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,Energy systems,Other (energy systems),CH4,28,27.0,0.00304090845,0.0851454366,0.08210452815
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,Energy systems,Other (energy systems),N2O,265,273.0,0.140953122385,37.352577432025,38.480202411105
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,Industry,Chemicals,CO2,1,1.0,0.33575,0.33575,0.33575
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,Industry,Chemicals,N2O,265,273.0,7.3843e-05,0.019568395,0.020159139
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,Industry,Other (industry),CO2,1,1.0,177.40541,177.40541,177.40541
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,Industry,Other (industry),CH4,28,27.0,0.005880144,0.164644032,0.158763888
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,Industry,Other (industry),N2O,265,273.0,0.0010942758,0.289983087,0.2987372934
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,Industry,Waste,CH4,28,27.0,66.397279,1859.123812,1792.726533
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,Transport,Other (transport),CO2,1,1.0,0.152831,0.152831,0.152831
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,Transport,Other (transport),CH4,28,27.0,8.55938e-06,0.00023966264,0.00023110326
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,Transport,Other (transport),N2O,265,273.0,5.89875e-05,0.0156316874999999,0.0161035875
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,Transport,Road,CO2,1,1.0,2357.56779,2357.56779,2357.56779
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,Transport,Road,CH4,28,27.0,0.5559928765,15.567800542,15.0118076655
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1979,Transport,Road,N2O,265,273.0,0.0599016981,15.8739499965,16.3531635813
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,Buildings,Residential,CO2,1,1.0,2.6126291,2.6126291,2.6126291
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,Buildings,Residential,CH4,28,27.0,0.000301736242,0.008448614776,0.008146878534
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,Buildings,Residential,N2O,265,273.0,1.5603302e-05,0.0041348750299999,0.0042597014459999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,Energy systems,Electricity & heat,CO2,1,1.0,455.8512,455.8512,455.8512
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,Energy systems,Electricity & heat,CH4,28,27.0,0.004910949,0.137506572,0.132595623
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,Energy systems,Electricity & heat,N2O,265,273.0,0.001934494,0.51264091,0.528116862
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,Energy systems,Other (energy systems),CO2,1,1.0,22.0692572,22.0692572,22.0692572
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,Energy systems,Other (energy systems),CH4,28,27.0,0.0042568917,0.1191929676,0.1149360759
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,Energy systems,Other (energy systems),N2O,265,273.0,0.201579566086,53.41858501279,55.031221541478
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,Industry,Chemicals,CO2,1,1.0,0.3349,0.3349,0.3349
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,Industry,Chemicals,N2O,265,273.0,7.3722e-05,0.0195363299999999,0.0201261059999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,Industry,Other (industry),CO2,1,1.0,196.35161,196.35161,196.35161
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,Industry,Other (industry),CH4,28,27.0,0.007167712,0.200695936,0.193528224
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,Industry,Other (industry),N2O,265,273.0,0.0013833994,0.3666008409999999,0.3776680362
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,Industry,Waste,CH4,28,27.0,65.972102,1847.218856,1781.2467540000002
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,Transport,Other (transport),CO2,1,1.0,0.238024,0.238024,0.238024
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,Transport,Other (transport),CH4,28,27.0,1.33306e-05,0.0003732568,0.0003599262
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,Transport,Other (transport),N2O,265,273.0,9.18689e-05,0.0243452585,0.0250802097
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,Transport,Road,CO2,1,1.0,3735.1739,3735.1739,3735.1739
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,Transport,Road,CH4,28,27.0,1.0124624934,28.3489498152,27.3364873218
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1980,Transport,Road,N2O,265,273.0,0.0989109133,26.2113920245,27.0026793309
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,Buildings,Residential,CO2,1,1.0,1.18715973,1.18715973,1.18715973
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,Buildings,Residential,CH4,28,27.0,0.0001374576,0.0038488128,0.0037113552
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,Buildings,Residential,N2O,265,273.0,6.75712e-06,0.0017906368,0.00184469376
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,Energy systems,Electricity & heat,CO2,1,1.0,451.9614,451.9614,451.9614
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,Energy systems,Electricity & heat,CH4,28,27.0,0.004854442,0.1359243759999999,0.131069934
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,Energy systems,Electricity & heat,N2O,265,273.0,0.001905702,0.50501103,0.520256646
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,Energy systems,Other (energy systems),CO2,1,1.0,10.89417567,10.89417567,10.89417567
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,Energy systems,Other (energy systems),CH4,28,27.0,0.001931325175,0.0540771049,0.052145779725
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,Energy systems,Other (energy systems),N2O,265,273.0,0.3211349308275,85.1007566692875,87.6698361159075
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,Industry,Chemicals,CO2,1,1.0,0.3326,0.3326,0.3326
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,Industry,Chemicals,N2O,265,273.0,7.315e-05,0.01938475,0.01996995
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,Industry,Other (industry),CO2,1,1.0,217.63059,217.63059,217.63059
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,Industry,Other (industry),CH4,28,27.0,0.008177141,0.228959948,0.220782807
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,Industry,Other (industry),N2O,265,273.0,0.0016001972,0.424052258,0.4368538356
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,Industry,Waste,CH4,28,27.0,65.684538,1839.167064,1773.482526
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,Transport,Other (transport),CO2,1,1.0,0.00857782,0.00857782,0.00857782
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,Transport,Other (transport),CH4,28,27.0,4.80404e-07,1.3451312e-05,1.2970908e-05
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,Transport,Other (transport),N2O,265,273.0,3.31074e-06,0.0008773461,0.00090383202
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,Transport,Road,CO2,1,1.0,5957.76079,5957.76079,5957.76079
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,Transport,Road,CH4,28,27.0,1.527699084,42.775574352,41.247875268
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1981,Transport,Road,N2O,265,273.0,0.15481608486,41.026262487900006,42.26479116678
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,Buildings,Residential,CO2,1,1.0,1.2444954,1.2444954,1.2444954
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,Buildings,Residential,CH4,28,27.0,0.0001456738,0.0040788664,0.0039331926
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,Buildings,Residential,N2O,265,273.0,7.2658e-06,0.001925437,0.0019835634
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,Energy systems,Electricity & heat,CO2,1,1.0,445.2607,445.2607,445.2607
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,Energy systems,Electricity & heat,CH4,28,27.0,0.004803575,0.1345001,0.129696525
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,Energy systems,Electricity & heat,N2O,265,273.0,0.0018952,0.502228,0.5173896
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,Energy systems,Other (energy systems),CO2,1,1.0,9.67398875,9.67398875,9.67398875
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,Energy systems,Other (energy systems),CH4,28,27.0,0.00167600695,0.0469281946,0.04525218765
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,Energy systems,Other (energy systems),N2O,265,273.0,0.341710051859,90.553163742635,93.286844157507
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,Industry,Chemicals,CO2,1,1.0,0.32935,0.32935,0.32935
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,Industry,Chemicals,N2O,265,273.0,7.2468e-05,0.01920402,0.019783764
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,Industry,Other (industry),CO2,1,1.0,169.16566,169.16566,169.16566
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,Industry,Other (industry),CH4,28,27.0,0.006359753,0.178073084,0.171713331
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,Industry,Other (industry),N2O,265,273.0,0.0012443345,0.3297486425,0.3397033185
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,Industry,Waste,CH4,28,27.0,67.713562,1895.979736,1828.266174
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,Transport,Other (transport),CO2,1,1.0,0.00910911,0.00910911,0.00910911
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,Transport,Other (transport),CH4,28,27.0,5.10159e-07,1.4284452e-05,1.3774293e-05
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,Transport,Other (transport),N2O,265,273.0,3.5158e-06,0.0009316869999999,0.0009598133999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,Transport,Road,CO2,1,1.0,6393.17207,6393.17207,6393.17207
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,Transport,Road,CH4,28,27.0,1.636366513,45.818262364,44.181895851
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1982,Transport,Road,N2O,265,273.0,0.16570531847,43.91190939455,45.23755194231
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,Buildings,Residential,CO2,1,1.0,0.8825402,0.8825402,0.8825402
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,Buildings,Residential,CH4,28,27.0,0.00010353995,0.0028991185999999,0.00279557865
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,Buildings,Residential,N2O,265,273.0,5.178003e-06,0.001372170795,0.001413594819
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,Energy systems,Electricity & heat,CO2,1,1.0,416.8521,416.8521,416.8521
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,Energy systems,Electricity & heat,CH4,28,27.0,0.004530408,0.126851424,0.1223210159999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,Energy systems,Electricity & heat,N2O,265,273.0,0.001802298,0.4776089699999999,0.492027354
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,Energy systems,Other (energy systems),CO2,1,1.0,6.00509104,6.00509104,6.00509104
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,Energy systems,Other (energy systems),CH4,28,27.0,0.0010649705,0.029819174,0.0287542035
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,Energy systems,Other (energy systems),N2O,265,273.0,0.293828759242,77.86462119913001,80.215251273066
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,Industry,Chemicals,CO2,1,1.0,0.32685,0.32685,0.32685
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,Industry,Chemicals,N2O,265,273.0,7.1929e-05,0.0190611849999999,0.019636617
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,Industry,Other (industry),CO2,1,1.0,189.18285,189.18285,189.18285
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,Industry,Other (industry),CH4,28,27.0,0.007002551,0.196071428,0.189068877
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,Industry,Other (industry),N2O,265,273.0,0.0013609112,0.360641468,0.3715287576
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,Industry,Waste,CH4,28,27.0,67.474802,1889.294456,1821.819654
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,Transport,Other (transport),CO2,1,1.0,0.00635785,0.00635785,0.00635785
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,Transport,Other (transport),CH4,28,27.0,3.56074e-07,9.970072e-06,9.613998e-06
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,Transport,Other (transport),N2O,265,273.0,2.45391e-06,0.00065028615,0.00066991743
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,Transport,Road,CO2,1,1.0,5475.63121,5475.63121,5475.63121
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,Transport,Road,CH4,28,27.0,1.39378207,39.02589796,37.63211589
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1983,Transport,Road,N2O,265,273.0,0.14158654207,37.52043364855,38.65312598511
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,Buildings,Residential,CO2,1,1.0,0.82776357,0.82776357,0.82776357
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,Buildings,Residential,CH4,28,27.0,9.5378329e-05,0.0026705932119999,0.0025752148829999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,Buildings,Residential,N2O,265,273.0,5.094182e-06,0.00134995823,0.001390711686
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,Energy systems,Electricity & heat,CO2,1,1.0,409.83233,409.83233,409.83233
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,Energy systems,Electricity & heat,CH4,28,27.0,0.004673115,0.13084722,0.126174105
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,Energy systems,Electricity & heat,N2O,265,273.0,0.001783134,0.47253051,0.486795582
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,Energy systems,Other (energy systems),CO2,1,1.0,4.33003466,4.33003466,4.33003466
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,Energy systems,Other (energy systems),CH4,28,27.0,0.0007008547,0.0196239316,0.0189230769
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,Energy systems,Other (energy systems),N2O,265,273.0,0.281402094029,74.571554917685,76.822771669917
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,Industry,Chemicals,CO2,1,1.0,0.32755,0.32755,0.32755
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,Industry,Chemicals,N2O,265,273.0,7.2072e-05,0.01909908,0.019675656
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,Industry,Other (industry),CO2,1,1.0,199.63582,199.63582,199.63582
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,Industry,Other (industry),CH4,28,27.0,0.007268328,0.203513184,0.196244856
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,Industry,Other (industry),N2O,265,273.0,0.0014026776,0.371709564,0.3829309848
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,Industry,Waste,CH4,28,27.0,67.491364,1889.758192,1822.266828
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,Transport,Other (transport),CO2,1,1.0,0.155884,0.155884,0.155884
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,Transport,Other (transport),CH4,28,27.0,8.73036e-06,0.0002444500799999,0.0002357197199999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,Transport,Other (transport),N2O,265,273.0,6.01658e-05,0.015943937,0.0164252634
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,Transport,Road,CO2,1,1.0,5186.02935,5186.02935,5186.02935
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,Transport,Road,CH4,28,27.0,1.273764164,35.665396592,34.391632428
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1984,Transport,Road,N2O,265,273.0,0.13276755974,35.1834033311,36.245543809020006
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,Buildings,Residential,CO2,1,1.0,1.6934964,1.6934964,1.6934964
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,Buildings,Residential,CH4,28,27.0,0.00019996254,0.00559895112,0.00539898858
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,Buildings,Residential,N2O,265,273.0,1.0328596e-05,0.00273707794,0.002819706708
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,Energy systems,Electricity & heat,CO2,1,1.0,403.23504,403.23504,403.23504
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,Energy systems,Electricity & heat,CH4,28,27.0,0.004508941,0.1262503479999999,0.121741407
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,Energy systems,Electricity & heat,N2O,265,273.0,0.0017351696,0.459819944,0.4737013008
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,Energy systems,Other (energy systems),CO2,1,1.0,8.27569262,8.27569262,8.27569262
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,Energy systems,Other (energy systems),CH4,28,27.0,0.00111421395,0.0311979906,0.03008377665
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,Energy systems,Other (energy systems),N2O,265,273.0,0.166819334123,44.207123542595006,45.541678215579005
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,Industry,Chemicals,CO2,1,1.0,0.3331,0.3331,0.3331
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,Industry,Chemicals,N2O,265,273.0,7.3282e-05,0.01941973,0.020005986
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,Industry,Other (industry),CO2,1,1.0,248.82509,248.82509,248.82509
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,Industry,Other (industry),CH4,28,27.0,0.008876285,0.24853598,0.2396596949999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,Industry,Other (industry),N2O,265,273.0,0.001689362,0.44768093,0.461195826
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,Industry,Waste,CH4,28,27.0,67.965968,1903.047104,1835.081136
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,Transport,Other (transport),CO2,1,1.0,0.33754,0.33754,0.33754
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,Transport,Other (transport),CH4,28,27.0,1.89041e-05,0.0005293148,0.0005104107
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,Transport,Other (transport),N2O,265,273.0,0.000130279,0.034523935,0.0355661669999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,Transport,Road,CO2,1,1.0,3008.125941,3008.125941,3008.125941
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,Transport,Road,CH4,28,27.0,0.75249730532,21.06992454896,20.31742724364
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1985,Transport,Road,N2O,265,273.0,0.07739199551,20.50887881015,21.128014774230003
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,Buildings,Residential,CO2,1,1.0,1.5804876,1.5804876,1.5804876
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,Buildings,Residential,CH4,28,27.0,0.000191757412,0.005369207536,0.005177450124
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,Buildings,Residential,N2O,265,273.0,1.0458348e-05,0.00277146222,0.002855129004
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,Energy systems,Electricity & heat,CO2,1,1.0,444.45537,444.45537,444.45537
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,Energy systems,Electricity & heat,CH4,28,27.0,0.0051329775,0.14372337,0.1385903925
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,Energy systems,Electricity & heat,N2O,265,273.0,0.0019263769,0.5104898784999999,0.5259008936999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,Energy systems,Other (energy systems),CO2,1,1.0,12.7989421,12.7989421,12.7989421
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,Energy systems,Other (energy systems),CH4,28,27.0,0.00171587635,0.0480445378,0.04632866145
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,Energy systems,Other (energy systems),N2O,265,273.0,0.135874205807,36.006664538855,37.093658185311
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,Industry,Chemicals,CO2,1,1.0,0.34415,0.34415,0.34415
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,Industry,Chemicals,N2O,265,273.0,7.5625e-05,0.020040625,0.0206456249999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,Industry,Other (industry),CO2,1,1.0,339.26918,339.26918,339.26918
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,Industry,Other (industry),CH4,28,27.0,0.013012307,0.364344596,0.351332289
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,Industry,Other (industry),N2O,265,273.0,0.0025680338,0.6805289569999999,0.7010732273999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,Industry,Waste,CH4,28,27.0,70.803246,1982.490888,1911.687642
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,Transport,Other (transport),CO2,1,1.0,0.421155,0.421155,0.421155
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,Transport,Other (transport),CH4,28,27.0,2.35869e-05,0.0006604331999999,0.0006368462999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,Transport,Other (transport),N2O,265,273.0,0.000162551,0.043076015,0.044376423
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,Transport,Road,CO2,1,1.0,2355.775872,2355.775872,2355.775872
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,Transport,Road,CH4,28,27.0,0.5725725167,16.0320304676,15.4594579509
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1986,Transport,Road,N2O,265,273.0,0.06012850287,15.934053260550002,16.415081283510002
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,Buildings,Residential,CO2,1,1.0,1.5940685,1.5940685,1.5940685
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,Buildings,Residential,CH4,28,27.0,0.000192476361,0.005389338108,0.005196861747
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,Buildings,Residential,N2O,265,273.0,1.0609376e-05,0.00281148464,0.002896359648
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,Energy systems,Electricity & heat,CO2,1,1.0,464.120326,464.120326,464.120326
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,Energy systems,Electricity & heat,CH4,28,27.0,0.0054040094,0.1513122632,0.1459082538
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,Energy systems,Electricity & heat,N2O,265,273.0,0.0020425943,0.5412874895,0.5576282439
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,Energy systems,Other (energy systems),CO2,1,1.0,13.7349329,13.7349329,13.7349329
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,Energy systems,Other (energy systems),CH4,28,27.0,0.00186315335,0.0521682938,0.05030514045
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,Energy systems,Other (energy systems),N2O,265,273.0,0.259222311019,68.693912420035,70.767690908187
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,Industry,Chemicals,CO2,1,1.0,0.3599,0.3599,0.3599
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,Industry,Chemicals,N2O,265,273.0,7.9145e-05,0.020973425,0.021606585
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,Industry,Other (industry),CO2,1,1.0,1059.41204,1059.41204,1059.41204
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,Industry,Other (industry),CH4,28,27.0,0.041390661,1.158938508,1.117547847
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,Industry,Other (industry),N2O,265,273.0,0.0082713723,2.1919136595,2.2580846379
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,Industry,Waste,CH4,28,27.0,74.145512,2076.074336,2001.928824
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,Transport,Other (transport),CO2,1,1.0,0.454055,0.454055,0.454055
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,Transport,Other (transport),CH4,28,27.0,2.54295e-05,0.000712026,0.0006865965
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,Transport,Other (transport),N2O,265,273.0,0.000175249,0.046440985,0.0478429769999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,Transport,Road,CO2,1,1.0,4586.204719,4586.204719,4586.204719
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,Transport,Road,CH4,28,27.0,1.1544193011,32.3237404308,31.1693211297
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1987,Transport,Road,N2O,265,273.0,0.11828103336,31.3444738404,32.29072210728
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,Buildings,Residential,CO2,1,1.0,1.50888019,1.50888019,1.50888019
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,Buildings,Residential,CH4,28,27.0,0.00018080069,0.00506241932,0.00488161863
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,Buildings,Residential,N2O,265,273.0,1.0416298e-05,0.00276031897,0.002843649354
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,Energy systems,Electricity & heat,CO2,1,1.0,359.47095,359.47095,359.47095
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,Energy systems,Electricity & heat,CH4,28,27.0,0.004169065,0.1167338199999999,0.1125647549999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,Energy systems,Electricity & heat,N2O,265,273.0,0.0015665021,0.4151230565,0.4276550733
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,Energy systems,Other (energy systems),CO2,1,1.0,10.10017532,10.10017532,10.10017532
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,Energy systems,Other (energy systems),CH4,28,27.0,0.00135672205,0.0379882173999999,0.0366314953499999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,Energy systems,Other (energy systems),N2O,265,273.0,0.254754984405,67.510070867325,69.548110742565
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,Industry,Chemicals,CO2,1,1.0,0.3788,0.3788,0.3788
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,Industry,Chemicals,N2O,265,273.0,8.3314e-05,0.0220782099999999,0.022744722
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,Industry,Other (industry),CO2,1,1.0,751.68001,751.68001,751.68001
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,Industry,Other (industry),CH4,28,27.0,0.029387173,0.822840844,0.793453671
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,Industry,Other (industry),N2O,265,273.0,0.0058725574,1.556227711,1.6032081701999998
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,Industry,Waste,CH4,28,27.0,77.766384,2177.458752,2099.692368
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,Transport,Other (transport),CO2,1,1.0,0.38575,0.38575,0.38575
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,Transport,Other (transport),CH4,28,27.0,2.16041e-05,0.0006049148,0.0005833107
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,Transport,Other (transport),N2O,265,273.0,0.000148886,0.03945479,0.040645878
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,Transport,Road,CO2,1,1.0,4673.69355,4673.69355,4673.69355
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,Transport,Road,CH4,28,27.0,1.1943537481,33.4419049468,32.2475511987
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1988,Transport,Road,N2O,265,273.0,0.12091577584,32.042680597600004,33.01000680432
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,Buildings,Residential,CO2,1,1.0,1.45798138,1.45798138,1.45798138
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,Buildings,Residential,CH4,28,27.0,0.000174393711,0.004883023908,0.004708630197
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,Buildings,Residential,N2O,265,273.0,9.976085e-06,0.002643662525,0.002723471205
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,Energy systems,Electricity & heat,CO2,1,1.0,374.06717,374.06717,374.06717
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,Energy systems,Electricity & heat,CH4,28,27.0,0.004197958,0.1175428239999999,0.113344866
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,Energy systems,Electricity & heat,N2O,265,273.0,0.001627339,0.431244835,0.444263547
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,Energy systems,Other (energy systems),CO2,1,1.0,11.30028404,11.30028404,11.30028404
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,Energy systems,Other (energy systems),CH4,28,27.0,0.0015669956,0.0438758768,0.0423088812
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,Energy systems,Other (energy systems),N2O,265,273.0,0.268221041228,71.07857592542,73.224344255244
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,Industry,Chemicals,CO2,1,1.0,0.3983,0.3983,0.3983
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,Industry,Chemicals,N2O,265,273.0,8.7615e-05,0.023217975,0.023918895
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,Industry,Other (industry),CO2,1,1.0,774.58573,774.58573,774.58573
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,Industry,Other (industry),CH4,28,27.0,0.03033901,0.84949228,0.8191532699999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,Industry,Other (industry),N2O,265,273.0,0.0060628087,1.6066443055,1.6551467751
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,Industry,Waste,CH4,28,27.0,81.443642,2280.421976,2198.978334
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,Transport,Other (transport),CO2,1,1.0,0.39602,0.39602,0.39602
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,Transport,Other (transport),CH4,28,27.0,2.21793e-05,0.0006210204,0.0005988411
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,Transport,Other (transport),N2O,265,273.0,0.00015285,0.04050525,0.04172805
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,Transport,Road,CO2,1,1.0,4986.2901,4986.2901,4986.2901
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,Transport,Road,CH4,28,27.0,1.3063301628,36.5772445584,35.270914395599995
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1989,Transport,Road,N2O,265,273.0,0.13017797304,34.4971628556,35.53858663992
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,Buildings,Residential,CO2,1,1.0,2.4108775,2.4108775,2.4108775
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,Buildings,Residential,CH4,28,27.0,0.00028419201,0.00795737628,0.00767318427
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,Buildings,Residential,N2O,265,273.0,1.5942652e-05,0.00422480278,0.004352343996
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,Energy systems,Electricity & heat,CO2,1,1.0,402.21678,402.21678,402.21678
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,Energy systems,Electricity & heat,CH4,28,27.0,0.004490472,0.1257332159999999,0.1212427439999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,Energy systems,Electricity & heat,N2O,265,273.0,0.0017440064,0.4621616959999999,0.4761137472
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,Energy systems,Other (energy systems),CO2,1,1.0,17.8591563,17.8591563,17.8591563
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,Energy systems,Other (energy systems),CH4,28,27.0,0.0024362396,0.0682147088,0.0657784692
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,Energy systems,Other (energy systems),N2O,265,273.0,0.258131909041,68.40495589586499,70.470011168193
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,Industry,Chemicals,CO2,1,1.0,0.4167,0.4167,0.4167
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,Industry,Chemicals,N2O,265,273.0,9.1674e-05,0.02429361,0.025027002
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,Industry,Other (industry),CO2,1,1.0,755.58695,755.58695,755.58695
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,Industry,Other (industry),CH4,28,27.0,0.029606614,0.828985192,0.799378578
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,Industry,Other (industry),N2O,265,273.0,0.0059157844,1.567682866,1.6150091411999998
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,Industry,Waste,CH4,28,27.0,85.017084,2380.478352,2295.461268
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,Transport,Other (transport),CO2,1,1.0,0.587531,0.587531,0.587531
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,Transport,Other (transport),CH4,28,27.0,3.29049e-05,0.0009213371999999,0.0008884323
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,Transport,Other (transport),N2O,265,273.0,0.000226767,0.060093255,0.061907391
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,Transport,Road,CO2,1,1.0,4935.351,4935.351,4935.351
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,Transport,Road,CH4,28,27.0,1.3383331435,37.473328018,36.1349948745
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1990,Transport,Road,N2O,265,273.0,0.1293843075,34.2868414875,35.3219159475
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,Buildings,Residential,CO2,1,1.0,1.68115112,1.68115112,1.68115112
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,Buildings,Residential,CH4,28,27.0,0.000200800134,0.005622403752,0.005421603618
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,Buildings,Residential,N2O,265,273.0,1.1187257e-05,0.002964623105,0.0030541211609999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,Energy systems,Electricity & heat,CO2,1,1.0,420.27708,420.27708,420.27708
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,Energy systems,Electricity & heat,CH4,28,27.0,0.0046632915,0.130572162,0.1259088705
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,Energy systems,Electricity & heat,N2O,265,273.0,0.001807202,0.47890853,0.493366146
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,Energy systems,Other (energy systems),CO2,1,1.0,12.13429972,12.13429972,12.13429972
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,Energy systems,Other (energy systems),CH4,28,27.0,0.00173652815,0.0486227882,0.04688626005
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,Energy systems,Other (energy systems),N2O,265,273.0,0.328129745672,86.95438260307999,89.579420568456
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,Industry,Chemicals,CO2,1,1.0,0.4334,0.4334,0.4334
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,Industry,Chemicals,N2O,265,273.0,9.5326e-05,0.02526139,0.026023998
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,Industry,Other (industry),CO2,1,1.0,764.10084,764.10084,764.10084
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,Industry,Other (industry),CH4,28,27.0,0.029917735,0.83769658,0.8077788450000001
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,Industry,Other (industry),N2O,265,273.0,0.0059778685,1.5841351524999998,1.6319581005
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,Industry,Waste,CH4,28,27.0,88.186008,2469.208224,2381.022216
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,Transport,Other (transport),CO2,1,1.0,0.412611,0.412611,0.412611
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,Transport,Other (transport),CH4,28,27.0,2.31084e-05,0.0006470352,0.0006239268
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,Transport,Other (transport),N2O,265,273.0,0.000159253,0.0422020449999999,0.043476069
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,Transport,Road,CO2,1,1.0,6380.40237,6380.40237,6380.40237
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,Transport,Road,CH4,28,27.0,1.703397993,47.695143804,45.991745811
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1991,Transport,Road,N2O,265,273.0,0.1660339579,43.9989988435,45.3272705067
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,Buildings,Residential,CO2,1,1.0,2.9020643,2.9020643,2.9020643
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,Buildings,Residential,CH4,28,27.0,0.00034292447,0.00960188516,0.00925896069
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,Buildings,Residential,N2O,265,273.0,1.9309708e-05,0.00511707262,0.005271550284
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,Energy systems,Electricity & heat,CO2,1,1.0,442.83513,442.83513,442.83513
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,Energy systems,Electricity & heat,CH4,28,27.0,0.0049153174,0.1376288872,0.1327135698
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,Energy systems,Electricity & heat,N2O,265,273.0,0.0019080013,0.5056203445,0.5208843549
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,Energy systems,Other (energy systems),CO2,1,1.0,18.2623541,18.2623541,18.2623541
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,Energy systems,Other (energy systems),CH4,28,27.0,0.0026509392,0.0742262975999999,0.0715753584
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,Energy systems,Other (energy systems),N2O,265,273.0,0.343174575138,90.94126241157,93.686659012674
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,Industry,Chemicals,CO2,1,1.0,0.44895,0.44895,0.44895
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,Industry,Chemicals,N2O,265,273.0,9.8791e-05,0.026179615,0.026969943
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,Industry,Other (industry),CO2,1,1.0,715.90633,715.90633,715.90633
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,Industry,Other (industry),CH4,28,27.0,0.027916797,0.781670316,0.753753519
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,Industry,Other (industry),N2O,265,273.0,0.0055697097,1.4759730705,1.5205307481
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,Industry,Waste,CH4,28,27.0,91.274142,2555.675976,2464.401834
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,Transport,Other (transport),CO2,1,1.0,0.681965,0.681965,0.681965
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,Transport,Other (transport),CH4,28,27.0,3.81937e-05,0.0010694236,0.0010312299
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,Transport,Other (transport),N2O,265,273.0,0.000263214,0.06975171,0.071857422
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,Transport,Road,CO2,1,1.0,6721.89517,6721.89517,6721.89517
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,Transport,Road,CH4,28,27.0,1.762741251,49.356755028,47.594013777
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1992,Transport,Road,N2O,265,273.0,0.1731521045,45.8853076925,47.2705245285
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,Buildings,Residential,CO2,1,1.0,4.0133762,4.0133762,4.0133762
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,Buildings,Residential,CH4,28,27.0,0.00046899427,0.0131318395599999,0.0126628452899999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,Buildings,Residential,N2O,265,273.0,2.6093172e-05,0.00691469058,0.007123435956
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,Energy systems,Electricity & heat,CO2,1,1.0,443.78396,443.78396,443.78396
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,Energy systems,Electricity & heat,CH4,28,27.0,0.0049857059,0.1395997652,0.1346140593
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,Energy systems,Electricity & heat,N2O,265,273.0,0.0019442761,0.5152331665000001,0.5307873753
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,Energy systems,Other (energy systems),CO2,1,1.0,22.152442,22.152442,22.152442
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,Energy systems,Other (energy systems),CH4,28,27.0,0.0032384057,0.0906753596,0.0874369539
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,Energy systems,Other (energy systems),N2O,265,273.0,0.418024214713,110.776416898945,114.120610616649
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,Industry,Chemicals,CO2,1,1.0,0.4633,0.4633,0.4633
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,Industry,Chemicals,N2O,265,273.0,0.000101926,0.02701039,0.027825798
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,Industry,Other (industry),CO2,1,1.0,1319.16222,1319.16222,1319.16222
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,Industry,Other (industry),CH4,28,27.0,0.051219124,1.434135472,1.382916348
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,Industry,Other (industry),N2O,265,273.0,0.0102201508,2.708339962,2.7901011684
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,Industry,Waste,CH4,28,27.0,94.220094,2638.162632,2543.942538
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,Transport,Other (transport),CO2,1,1.0,0.962337,0.962337,0.962337
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,Transport,Other (transport),CH4,28,27.0,5.38961e-05,0.0015090908,0.0014551947
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,Transport,Other (transport),N2O,265,273.0,0.000371428,0.0984284199999999,0.1013998439999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,Transport,Road,CO2,1,1.0,8161.66628,8161.66628,8161.66628
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,Transport,Road,CH4,28,27.0,2.132941892,59.722372976,57.589431084
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1993,Transport,Road,N2O,265,273.0,0.2092320506,55.446493409,57.1203498138
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,Buildings,Residential,CO2,1,1.0,4.2953263,4.2953263,4.2953263
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,Buildings,Residential,CH4,28,27.0,0.00050047986,0.01401343608,0.01351295622
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,Buildings,Residential,N2O,265,273.0,2.748983e-05,0.00728480495,0.00750472359
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,Energy systems,Electricity & heat,CO2,1,1.0,455.67031,455.67031,455.67031
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,Energy systems,Electricity & heat,CH4,28,27.0,0.0051540731,0.1443140467999999,0.1391599737
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,Energy systems,Electricity & heat,N2O,265,273.0,0.0020363703,0.5396381295,0.5559290919000001
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,Energy systems,Other (energy systems),CO2,1,1.0,21.5284726,21.5284726,21.5284726
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,Energy systems,Other (energy systems),CH4,28,27.0,0.0031499616,0.0881989248,0.0850489632
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,Energy systems,Other (energy systems),N2O,265,273.0,0.552568049728,146.43053317792,150.851077575744
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,Industry,Chemicals,CO2,1,1.0,0.477,0.477,0.477
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,Industry,Chemicals,N2O,265,273.0,0.000104907,0.027800355,0.028639611
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,Industry,Other (industry),CO2,1,1.0,1378.46106,1378.46106,1378.46106
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,Industry,Other (industry),CH4,28,27.0,0.053526811,1.498750708,1.445223897
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,Industry,Other (industry),N2O,265,273.0,0.0106808692,2.830430338,2.9158772916
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,Industry,Waste,CH4,28,27.0,97.099368,2718.782304,2621.682936
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,Transport,Other (transport),CO2,1,1.0,0.976193,0.976193,0.976193
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,Transport,Other (transport),CH4,28,27.0,5.46721e-05,0.0015308188,0.0014761467
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,Transport,Other (transport),N2O,265,273.0,0.000376776,0.09984564,0.102859848
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,Transport,Road,CO2,1,1.0,11269.85495,11269.85495,11269.85495
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,Transport,Road,CH4,28,27.0,2.925808141,81.922627948,78.99681980700001
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1994,Transport,Road,N2O,265,273.0,0.3003406089,79.59026135849999,81.9929862297
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Buildings,Residential,CO2,1,1.0,4.0091183,4.0091183,4.0091183
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Buildings,Residential,CH4,28,27.0,0.00046050875,0.0128942449999999,0.0124337362499999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Buildings,Residential,N2O,265,273.0,2.5056786e-05,0.00664004829,0.0068405025779999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Energy systems,Electricity & heat,CO2,1,1.0,461.06707,461.06707,461.06707
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Energy systems,Electricity & heat,CH4,28,27.0,0.0051621984,0.1445415552,0.1393793568
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Energy systems,Electricity & heat,N2O,265,273.0,0.0020256927,0.5368085655,0.5530141071000001
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Energy systems,Other (energy systems),CO2,1,1.0,23.219819,23.219819,23.219819
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Energy systems,Other (energy systems),CH4,28,27.0,0.0033752315,0.094506482,0.0911312505
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Energy systems,Other (energy systems),N2O,265,273.0,0.70397849799,186.55430196735,192.18612995127
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Industry,Chemicals,CO2,1,1.0,0.49035,0.49035,0.49035
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Industry,Chemicals,N2O,265,273.0,0.000107822,0.02857283,0.029435406
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Industry,Other (industry),CO2,1,1.0,940.70141,940.70141,940.70141
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Industry,Other (industry),CH4,28,27.0,0.036508084,1.022226352,0.985718268
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Industry,Other (industry),N2O,265,273.0,0.0072649318,1.925206927,1.9833263814
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Industry,Waste,CH4,28,27.0,99.950236,2798.606608,2698.656372
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Transport,Other (transport),CO2,1,1.0,0.863858,0.863858,0.863858
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Transport,Other (transport),CH4,28,27.0,4.83807e-05,0.0013546596,0.0013062789
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Transport,Other (transport),N2O,265,273.0,0.000333419,0.088356035,0.091023387
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Transport,Road,CO2,1,1.0,14965.311141,14965.311141,14965.311141
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Transport,Road,CH4,28,27.0,3.4261483054,95.9321525512,92.5060042458
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1995,Transport,Road,N2O,265,273.0,0.40030195934,106.0800192251,109.28243489982
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Buildings,Residential,CO2,1,1.0,4.2493463,4.2493463,4.2493463
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Buildings,Residential,CH4,28,27.0,0.00048973572,0.01371260016,0.0132228644399999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Buildings,Residential,N2O,265,273.0,2.7140238e-05,0.0071921630699999,0.007409284974
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Energy systems,Electricity & heat,CO2,1,1.0,497.93144,497.93144,497.93144
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Energy systems,Electricity & heat,CH4,28,27.0,0.0055812338,0.1562745464,0.1506933126
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Energy systems,Electricity & heat,N2O,265,273.0,0.0021985977,0.5826283904999999,0.6002171720999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Energy systems,Other (energy systems),CO2,1,1.0,23.5623725,23.5623725,23.5623725
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Energy systems,Other (energy systems),CH4,28,27.0,0.0034111753,0.0955129084,0.0921017331
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Energy systems,Other (energy systems),N2O,265,273.0,0.674832231356,178.83054130934,184.229199160188
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Industry,Chemicals,CO2,1,1.0,0.50315,0.50315,0.50315
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Industry,Chemicals,N2O,265,273.0,0.000110638,0.02931907,0.0302041739999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Industry,Other (industry),CO2,1,1.0,964.34226,964.34226,964.34226
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Industry,Other (industry),CH4,28,27.0,0.037515039,1.050421092,1.012906053
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Industry,Other (industry),N2O,265,273.0,0.0074699823,1.9795453095,2.0393051679
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Industry,Waste,CH4,28,27.0,102.42207,2867.8179600000003,2765.39589
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Transport,Other (transport),CO2,1,1.0,0.834662,0.834662,0.834662
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Transport,Other (transport),CH4,28,27.0,4.67456e-05,0.0013088768,0.0012621312
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Transport,Other (transport),N2O,265,273.0,0.00032215,0.08536975,0.08794695
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Transport,Road,CO2,1,1.0,14721.91426,14721.91426,14721.91426
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Transport,Road,CH4,28,27.0,3.0903754769,86.53051335319999,83.4401378763
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1996,Transport,Road,N2O,265,273.0,0.3999161735,105.9777859775,109.1771153655
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Buildings,Residential,CO2,1,1.0,5.9054898,5.9054898,5.9054898
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Buildings,Residential,CH4,28,27.0,0.00066172603,0.0185283288399999,0.01786660281
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Buildings,Residential,N2O,265,273.0,3.7344304e-05,0.00989624056,0.010194994992
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Energy systems,Electricity & heat,CO2,1,1.0,459.604642,459.604642,459.604642
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Energy systems,Electricity & heat,CH4,28,27.0,0.0051531054,0.1442869512,0.1391338458
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Energy systems,Electricity & heat,N2O,265,273.0,0.0020477143,0.5426442895,0.5590260039
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Energy systems,Other (energy systems),CO2,1,1.0,31.7081841,31.7081841,31.7081841
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Energy systems,Other (energy systems),CH4,28,27.0,0.0045842224,0.1283582272,0.1237740048
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Energy systems,Other (energy systems),N2O,265,273.0,0.540217219051,143.157563048515,147.479300800923
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Industry,Chemicals,CO2,1,1.0,0.51525,0.51525,0.51525
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Industry,Chemicals,N2O,265,273.0,0.000113333,0.030033245,0.0309399089999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Industry,Other (industry),CO2,1,1.0,913.75548,913.75548,913.75548
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Industry,Other (industry),CH4,28,27.0,0.035348461,0.989756908,0.954408447
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Industry,Other (industry),N2O,265,273.0,0.0070254871,1.8617540815,1.9179579783
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Industry,Waste,CH4,28,27.0,104.95571,2938.75988,2833.80417
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Transport,Other (transport),CO2,1,1.0,1.29779,1.29779,1.29779
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Transport,Other (transport),CH4,28,27.0,7.26831e-05,0.0020351268,0.0019624437
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Transport,Other (transport),N2O,265,273.0,0.0005009,0.1327384999999999,0.1367457
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Transport,Road,CO2,1,1.0,12150.96714,12150.96714,12150.96714
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Transport,Road,CH4,28,27.0,2.4759580397,69.3268251116,66.8508670719
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1997,Transport,Road,N2O,265,273.0,0.3452551034,91.492602401,94.2546432282
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Buildings,Residential,CO2,1,1.0,14.5745497,14.5745497,14.5745497
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Buildings,Residential,CH4,28,27.0,0.001445508,0.040474224,0.039028716
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Buildings,Residential,N2O,265,273.0,9.9079226e-05,0.02625599489,0.027048628698
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Energy systems,Electricity & heat,CO2,1,1.0,573.76005,573.76005,573.76005
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Energy systems,Electricity & heat,CH4,28,27.0,0.006659866,0.186476248,0.179816382
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Energy systems,Electricity & heat,N2O,265,273.0,0.002694837,0.714131805,0.735690501
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Energy systems,Other (energy systems),CO2,1,1.0,10.4202228,10.4202228,10.4202228
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Energy systems,Other (energy systems),CH4,28,27.0,0.0016553636,0.0463501808,0.0446948172
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Energy systems,Other (energy systems),N2O,265,273.0,0.451672415425,119.693190087625,123.306569411025
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Industry,Chemicals,CO2,1,1.0,0.52725,0.52725,0.52725
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Industry,Chemicals,N2O,265,273.0,0.000116028,0.0307474199999999,0.0316756439999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Industry,Other (industry),CO2,1,1.0,1508.42853,1508.42853,1508.42853
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Industry,Other (industry),CH4,28,27.0,0.058357055,1.63399754,1.575640485
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Industry,Other (industry),N2O,265,273.0,0.0116326205,3.0826444325,3.1757053965
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Industry,Waste,CH4,28,27.0,107.36611,3006.25108,2898.88497
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Transport,Other (transport),CO2,1,1.0,2.46857,2.46857,2.46857
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Transport,Other (transport),CH4,28,27.0,0.000138253,0.003871084,0.003732831
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Transport,Other (transport),N2O,265,273.0,0.00095278,0.2524867,0.26010894
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Transport,Road,CO2,1,1.0,10338.59306,10338.59306,10338.59306
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Transport,Road,CH4,28,27.0,1.9719980756,55.2159461168,53.2439480412
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1998,Transport,Road,N2O,265,273.0,0.2992262179,79.29494774349999,81.6887574867
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Buildings,Residential,CO2,1,1.0,14.00514,14.00514,14.00514
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Buildings,Residential,CH4,28,27.0,0.0013879431,0.0388624068,0.0374744637
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Buildings,Residential,N2O,265,273.0,9.4374184e-05,0.02500915876,0.025764152232
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Energy systems,Electricity & heat,CO2,1,1.0,490.76282,490.76282,490.76282
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Energy systems,Electricity & heat,CH4,28,27.0,0.005779239,0.161818692,0.156039453
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Energy systems,Electricity & heat,N2O,265,273.0,0.0023364393,0.6191564145,0.6378479289000001
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Energy systems,Other (energy systems),CO2,1,1.0,12.6589415,12.6589415,12.6589415
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Energy systems,Other (energy systems),CH4,28,27.0,0.0022243869,0.0622828332,0.0600584463
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Energy systems,Other (energy systems),N2O,265,273.0,0.407611447204,108.01703350906,111.277925086692
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Industry,Chemicals,CO2,1,1.0,0.53985,0.53985,0.53985
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Industry,Chemicals,N2O,265,273.0,0.000118723,0.031461595,0.032411379
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Industry,Other (industry),CO2,1,1.0,1482.14842,1482.14842,1482.14842
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Industry,Other (industry),CH4,28,27.0,0.057417551,1.607691428,1.550273877
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Industry,Other (industry),N2O,265,273.0,0.0114447461,3.0328577165,3.1244156853
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Industry,Waste,CH4,28,27.0,109.895752,3077.081056,2967.185304
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Transport,Other (transport),CO2,1,1.0,6.6424,6.6424,6.6424
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Transport,Other (transport),CH4,28,27.0,0.00037201,0.01041628,0.01004427
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Transport,Other (transport),N2O,265,273.0,0.00256373,0.67938845,0.69989829
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Transport,Road,CO2,1,1.0,9744.07619,9744.07619,9744.07619
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Transport,Road,CH4,28,27.0,1.7005547676,47.6155334928,45.9149787252
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,1999,Transport,Road,N2O,265,273.0,0.2816416368,74.635033752,76.8881668464
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Buildings,Residential,CO2,1,1.0,11.3834999,11.3834999,11.3834999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Buildings,Residential,CH4,28,27.0,0.00133723572,0.03744260016,0.0361053644399999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Buildings,Residential,N2O,265,273.0,7.2316832e-05,0.01916396048,0.0197424951359999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Energy systems,Electricity & heat,CO2,1,1.0,648.08953,648.08953,648.08953
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Energy systems,Electricity & heat,CH4,28,27.0,0.01029165,0.2881662,0.27787455
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Energy systems,Electricity & heat,N2O,265,273.0,0.002841624,0.75303036,0.775763352
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Energy systems,Other (energy systems),CO2,1,1.0,9.2219359,9.2219359,9.2219359
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Energy systems,Other (energy systems),CH4,28,27.0,0.0017649617,0.0494189276,0.0476539659
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Energy systems,Other (energy systems),N2O,265,273.0,0.527317820402,139.73922240653002,143.95776496974602
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Industry,Chemicals,CO2,1,1.0,0.64817,0.64817,0.64817
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Industry,Chemicals,N2O,265,273.0,0.00012177,0.03226905,0.0332432099999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Industry,Other (industry),CO2,1,1.0,1560.85946,1560.85946,1560.85946
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Industry,Other (industry),CH4,28,27.0,0.060491837,1.693771436,1.633279599
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Industry,Other (industry),N2O,265,273.0,0.0120583937,3.1954743305,3.2919414801
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Industry,Waste,CH4,28,27.0,112.575772,3152.121616,3039.545844
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Transport,Other (transport),CO2,1,1.0,5.39048,5.39048,5.39048
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Transport,Other (transport),CH4,28,27.0,0.000301896,0.008453088,0.008151192
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Transport,Other (transport),N2O,265,273.0,0.00208054,0.5513431,0.56798742
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Transport,Road,CO2,1,1.0,13295.94107,13295.94107,13295.94107
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Transport,Road,CH4,28,27.0,1.838616164,51.481252592,49.642636428
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2000,Transport,Road,N2O,265,273.0,0.3426525379,90.8029225435,93.5441428467
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Buildings,Residential,CO2,1,1.0,11.1039959,11.1039959,11.1039959
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Buildings,Residential,CH4,28,27.0,0.00129581356,0.03628277968,0.03498696612
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Buildings,Residential,N2O,265,273.0,6.8921571e-05,0.0182642163149999,0.0188155888829999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Energy systems,Electricity & heat,CO2,1,1.0,730.57055,730.57055,730.57055
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Energy systems,Electricity & heat,CH4,28,27.0,0.01363283,0.38171924,0.36808641
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Energy systems,Electricity & heat,N2O,265,273.0,0.003078568,0.8158205199999999,0.840449064
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Energy systems,Other (energy systems),CO2,1,1.0,9.001574,9.001574,9.001574
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Energy systems,Other (energy systems),CH4,28,27.0,0.0017476134,0.0489331752,0.0471855618
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Energy systems,Other (energy systems),N2O,265,273.0,0.508598522044,134.77860834166,138.847396518012
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Industry,Chemicals,CO2,1,1.0,1.94801,1.94801,1.94801
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Industry,Chemicals,N2O,265,273.0,0.000125092,0.03314938,0.0341501159999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Industry,Other (industry),CO2,1,1.0,1423.85004,1423.85004,1423.85004
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Industry,Other (industry),CH4,28,27.0,0.0549558,1.5387624,1.4838066
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Industry,Other (industry),N2O,265,273.0,0.010929042,2.89619613,2.983628466
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Industry,Waste,CH4,28,27.0,115.700374,3239.610472,3123.910098
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Transport,Other (transport),CO2,1,1.0,6.22447,6.22447,6.22447
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Transport,Other (transport),CH4,28,27.0,0.000348604,0.009760912,0.009412308
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Transport,Other (transport),N2O,265,273.0,0.00240243,0.6366439500000001,0.65586339
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Transport,Road,CO2,1,1.0,13728.06189,13728.06189,13728.06189
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Transport,Road,CH4,28,27.0,1.940831613,54.343285164,52.402453551
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2001,Transport,Road,N2O,265,273.0,0.3794874428,100.564172342,103.6000718844
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Buildings,Residential,CO2,1,1.0,10.8061884,10.8061884,10.8061884
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Buildings,Residential,CH4,28,27.0,0.00126289347,0.03536101716,0.03409812369
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Buildings,Residential,N2O,265,273.0,6.7191795e-05,0.0178058256749999,0.018343360035
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Energy systems,Electricity & heat,CO2,1,1.0,721.04606,721.04606,721.04606
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Energy systems,Electricity & heat,CH4,28,27.0,0.013324522,0.373086616,0.359762094
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Energy systems,Electricity & heat,N2O,265,273.0,0.0030427564,0.8063304459999999,0.8306724972
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Energy systems,Other (energy systems),CO2,1,1.0,9.3072597,9.3072597,9.3072597
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Energy systems,Other (energy systems),CH4,28,27.0,0.0017641017,0.0493948476,0.0476307459
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Energy systems,Other (energy systems),N2O,265,273.0,0.314755097717,83.410100895005,85.928141676741
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Industry,Chemicals,CO2,1,1.0,1.69519,1.69519,1.69519
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Industry,Chemicals,N2O,265,273.0,0.000128612,0.03408218,0.035111076
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Industry,Other (industry),CO2,1,1.0,1347.14836,1347.14836,1347.14836
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Industry,Other (industry),CH4,28,27.0,0.05187625,1.452535,1.40065875
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Industry,Other (industry),N2O,265,273.0,0.010315936,2.73372304,2.816250528
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Industry,Waste,CH4,28,27.0,119.044574,3333.248072,3214.203498
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Transport,Other (transport),CO2,1,1.0,5.4013,5.4013,5.4013
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Transport,Other (transport),CH4,28,27.0,0.000302502,0.008470056,0.008167554
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Transport,Other (transport),N2O,265,273.0,0.00208471,0.55244815,0.56912583
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Transport,Road,CO2,1,1.0,8763.51185,8763.51185,8763.51185
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Transport,Road,CH4,28,27.0,1.178240763,32.990741364,31.812500601
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2002,Transport,Road,N2O,265,273.0,0.2469772999,65.4489844735,67.4248028727
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Buildings,Residential,CO2,1,1.0,10.4175434,10.4175434,10.4175434
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Buildings,Residential,CH4,28,27.0,0.00122342574,0.03425592072,0.03303249498
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Buildings,Residential,N2O,265,273.0,6.298265e-05,0.01669040225,0.01719426345
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Energy systems,Electricity & heat,CO2,1,1.0,750.78517,750.78517,750.78517
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Energy systems,Electricity & heat,CH4,28,27.0,0.014382853,0.402719884,0.388337031
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Energy systems,Electricity & heat,N2O,265,273.0,0.0031308346,0.829671169,0.8547178458
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,803.128,803.128,803.128
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Energy systems,Other (energy systems),CO2,1,1.0,9.2626934,9.2626934,9.2626934
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Energy systems,Other (energy systems),CH4,28,27.0,0.001821137,0.050991836,0.049170699
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Energy systems,Other (energy systems),N2O,265,273.0,0.36920358665,97.83895046225,100.79257915545
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Industry,Chemicals,CO2,1,1.0,3.336,3.336,3.336
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Industry,Chemicals,N2O,265,273.0,0.000132231,0.0350412149999999,0.0360990629999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Industry,Other (industry),CO2,1,1.0,1336.12176,1336.12176,1336.12176
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Industry,Other (industry),CH4,28,27.0,0.05176269,1.44935532,1.39759263
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Industry,Other (industry),N2O,265,273.0,0.010314312,2.7332926800000004,2.8158071760000003
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Industry,Waste,CH4,28,27.0,122.299322,3424.3810160000003,3302.081694
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Transport,Other (transport),CO2,1,1.0,4.97589,4.97589,4.97589
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Transport,Other (transport),CH4,28,27.0,0.000278677,0.007802956,0.007524279
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Transport,Other (transport),N2O,265,273.0,0.00192052,0.5089378,0.52430196
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Transport,Road,CO2,1,1.0,11189.780129,11189.780129,11189.780129
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Transport,Road,CH4,28,27.0,1.44477961,40.453829080000006,39.00904947
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2003,Transport,Road,N2O,265,273.0,0.3269589721,86.6441276065,89.2597993833
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Buildings,Residential,CO2,1,1.0,8.7507652,8.7507652,8.7507652
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Buildings,Residential,CH4,28,27.0,0.00103702365,0.0290366622,0.02799963855
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Buildings,Residential,N2O,265,273.0,5.3896532e-05,0.01428258098,0.014713753236
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Energy systems,Electricity & heat,CO2,1,1.0,752.82341,752.82341,752.82341
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Energy systems,Electricity & heat,CH4,28,27.0,0.013918317,0.389712876,0.375794559
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Energy systems,Electricity & heat,N2O,265,273.0,0.0031647334,0.838654351,0.8639722182
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,662.597,662.597,662.597
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Energy systems,Other (energy systems),CO2,1,1.0,6.4832366,6.4832366,6.4832366
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Energy systems,Other (energy systems),CH4,28,27.0,0.001411145,0.03951206,0.038100915
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Energy systems,Other (energy systems),N2O,265,273.0,0.32424127082,85.92393676729999,88.51786693385999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Industry,Chemicals,CO2,1,1.0,1.29272,1.29272,1.29272
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Industry,Chemicals,N2O,265,273.0,0.000135729,0.035968185,0.0370540169999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Industry,Other (industry),CO2,1,1.0,1556.64491,1556.64491,1556.64491
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Industry,Other (industry),CH4,28,27.0,0.060541566,1.695163848,1.634622282
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Industry,Other (industry),N2O,265,273.0,0.0120691146,3.198315369,3.2948682858
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Industry,Waste,CH4,28,27.0,125.50114,3514.0319200000004,3388.53078
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Transport,Other (transport),CO2,1,1.0,4.91194,4.91194,4.91194
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Transport,Other (transport),CH4,28,27.0,0.000275095,0.00770266,0.007427565
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Transport,Other (transport),N2O,265,273.0,0.00189584,0.5023976,0.51756432
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Transport,Road,CO2,1,1.0,10478.37968,10478.37968,10478.37968
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Transport,Road,CH4,28,27.0,1.199556151,33.587572228,32.388016077
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2004,Transport,Road,N2O,265,273.0,0.2932738831,77.7175790215,80.06377008630001
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Buildings,Residential,CO2,1,1.0,8.6584652,8.6584652,8.6584652
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Buildings,Residential,CH4,28,27.0,0.00101684103,0.02847154884,0.02745470781
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Buildings,Residential,N2O,265,273.0,5.2326541e-05,0.013866533365,0.014285145693
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Energy systems,Electricity & heat,CO2,1,1.0,744.82104,744.82104,744.82104
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Energy systems,Electricity & heat,CH4,28,27.0,0.01378243,0.38590804,0.37212561
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Energy systems,Electricity & heat,N2O,265,273.0,0.0031379192,0.831548588,0.8566519416
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,680.661,680.661,680.661
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Energy systems,Other (energy systems),CO2,1,1.0,4.6925878,4.6925878,4.6925878
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Energy systems,Other (energy systems),CH4,28,27.0,0.0011803359,0.0330494052,0.0318690693
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Energy systems,Other (energy systems),N2O,265,273.0,0.319203347924,84.58888719986,87.142513983252
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Industry,Chemicals,CO2,1,1.0,1.04768,1.04768,1.04768
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Industry,Chemicals,N2O,265,273.0,0.000139018,0.03683977,0.037951914
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Industry,Other (industry),CO2,1,1.0,1171.00608,1171.00608,1171.00608
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Industry,Other (industry),CH4,28,27.0,0.045621577,1.277404156,1.231782579
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Industry,Other (industry),N2O,265,273.0,0.0090850057,2.4075265105000003,2.4802065561
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Industry,Waste,CH4,28,27.0,128.613258,3601.171224,3472.557966
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Transport,Other (transport),CO2,1,1.0,4.63021,4.63021,4.63021
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Transport,Other (transport),CH4,28,27.0,0.000259317,0.007260876,0.007001559
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Transport,Other (transport),N2O,265,273.0,0.0017871,0.4735815,0.4878783
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Transport,Road,CO2,1,1.0,11046.10448,11046.10448,11046.10448
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Transport,Road,CH4,28,27.0,1.25173825,35.048671,33.79693275
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2005,Transport,Road,N2O,265,273.0,0.3340846345,88.5324281425,91.2051052185
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Buildings,Residential,CO2,1,1.0,8.0182656,8.0182656,8.0182656
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Buildings,Residential,CH4,28,27.0,0.00091905017,0.02573340476,0.02481435459
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Buildings,Residential,N2O,265,273.0,4.6376066e-05,0.01228965749,0.012660666018
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Energy systems,Electricity & heat,CO2,1,1.0,736.68403,736.68403,736.68403
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Energy systems,Electricity & heat,CH4,28,27.0,0.013817513,0.386890364,0.373072851
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Energy systems,Electricity & heat,N2O,265,273.0,0.0030937342,0.8198395629999999,0.8445894366
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Energy systems,Other (energy systems),CO2,1,1.0,5.1621147,5.1621147,5.1621147
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Energy systems,Other (energy systems),CH4,28,27.0,0.0012425864,0.0347924192,0.0335498328
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Energy systems,Other (energy systems),N2O,265,273.0,0.304153889534,80.60078072651001,83.03401184278201
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Industry,Chemicals,CO2,1,1.0,0.80119,0.80119,0.80119
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Industry,Chemicals,N2O,265,273.0,0.000141933,0.037612245,0.038747709
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Industry,Other (industry),CO2,1,1.0,1133.33043,1133.33043,1133.33043
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Industry,Other (industry),CH4,28,27.0,0.044184392,1.237162976,1.192978584
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Industry,Other (industry),N2O,265,273.0,0.0087974402,2.331321653,2.4017011746
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Industry,Waste,CH4,28,27.0,131.105182,3670.945096,3539.839914
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Transport,Other (transport),CO2,1,1.0,3.83571,3.83571,3.83571
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Transport,Other (transport),CH4,28,27.0,0.000214821,0.006014988,0.005800167
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Transport,Other (transport),N2O,265,273.0,0.00148045,0.3923192499999999,0.4041628499999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Transport,Road,CO2,1,1.0,10924.61103,10924.61103,10924.61103
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Transport,Road,CH4,28,27.0,1.107062536,30.997751008,29.890688472
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2006,Transport,Road,N2O,265,273.0,0.32443771,85.97599315,88.57149482999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Buildings,Residential,CO2,1,1.0,7.3196356,7.3196356,7.3196356
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Buildings,Residential,CH4,28,27.0,0.00084703574,0.02371700072,0.0228699649799999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Buildings,Residential,N2O,265,273.0,4.3255376e-05,0.01146267464,0.011808717648
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Energy systems,Electricity & heat,CO2,1,1.0,760.32655,760.32655,760.32655
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Energy systems,Electricity & heat,CH4,28,27.0,0.014195002,0.397460056,0.383265054
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Energy systems,Electricity & heat,N2O,265,273.0,0.0032045858,0.849215237,0.8748519234000001
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,677.632,677.632,677.632
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Energy systems,Other (energy systems),CO2,1,1.0,6.019536,6.019536,6.019536
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Energy systems,Other (energy systems),CH4,28,27.0,0.0013486188,0.0377613264,0.0364127076
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Energy systems,Other (energy systems),N2O,265,273.0,0.265744392198,70.42226393247,72.548219070054
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Industry,Chemicals,CO2,1,1.0,0.82823,0.82823,0.82823
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Industry,Chemicals,N2O,265,273.0,0.00014465,0.03833225,0.0394894499999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Industry,Other (industry),CO2,1,1.0,1184.70769,1184.70769,1184.70769
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Industry,Other (industry),CH4,28,27.0,0.046145457,1.292072796,1.245927339
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Industry,Other (industry),N2O,265,273.0,0.0091877787,2.4347613555,2.5082635851
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Industry,Waste,CH4,28,27.0,133.512036,3738.337008,3604.824972
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Transport,Other (transport),CO2,1,1.0,4.2586,4.2586,4.2586
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Transport,Other (transport),CH4,28,27.0,0.000238505,0.00667814,0.006439635
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Transport,Other (transport),N2O,265,273.0,0.00164367,0.43557255,0.44872191
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Transport,Road,CO2,1,1.0,9713.63511,9713.63511,9713.63511
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Transport,Road,CH4,28,27.0,1.0437824294,29.2259080232,28.1821255938
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2007,Transport,Road,N2O,265,273.0,0.34528975725,91.50178567125,94.26410372925
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Buildings,Residential,CO2,1,1.0,6.9992885,6.9992885,6.9992885
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Buildings,Residential,CH4,28,27.0,0.00081417617,0.02279693276,0.02198275659
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Buildings,Residential,N2O,265,273.0,4.1476233e-05,0.010991201745,0.0113230116089999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Energy systems,Electricity & heat,CO2,1,1.0,776.91264,776.91264,776.91264
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Energy systems,Electricity & heat,CH4,28,27.0,0.014830747,0.415260916,0.400430169
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Energy systems,Electricity & heat,N2O,265,273.0,0.003244529,0.859800185,0.885756417
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,618.727,618.727,618.727
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Energy systems,Other (energy systems),CO2,1,1.0,3.1754966,3.1754966,3.1754966
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Energy systems,Other (energy systems),CH4,28,27.0,0.0009383725,0.02627443,0.0253360575
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Energy systems,Other (energy systems),N2O,265,273.0,0.339258791195,89.903579666675,92.617649996235
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Industry,Chemicals,CO2,1,1.0,0.66825,0.66825,0.66825
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Industry,Chemicals,N2O,265,273.0,0.00014696,0.0389444,0.0401200799999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Industry,Other (industry),CO2,1,1.0,1144.24236,1144.24236,1144.24236
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Industry,Other (industry),CH4,28,27.0,0.044639779,1.249913812,1.205274033
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Industry,Other (industry),N2O,265,273.0,0.0088862569,2.3548580785,2.4259481337
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Industry,Waste,CH4,28,27.0,135.745028,3800.860784,3665.115756
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Transport,Other (transport),CO2,1,1.0,4.0134,4.0134,4.0134
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Transport,Other (transport),CH4,28,27.0,0.000224772,0.006293616,0.006068844
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Transport,Other (transport),N2O,265,273.0,0.00154903,0.41049295,0.42288519
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Transport,Road,CO2,1,1.0,12713.75313,12713.75313,12713.75313
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Transport,Road,CH4,28,27.0,1.4141408458,39.5959436824,38.1818028366
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2008,Transport,Road,N2O,265,273.0,0.47038107725,124.65098547125,128.41403408925
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Buildings,Residential,CO2,1,1.0,6.8162985,6.8162985,6.8162985
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Buildings,Residential,CH4,28,27.0,0.00079522617,0.02226633276,0.02147110659
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Buildings,Residential,N2O,265,273.0,4.0696433e-05,0.010784554745,0.011110126209
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Energy systems,Electricity & heat,CO2,1,1.0,778.19504,778.19504,778.19504
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Energy systems,Electricity & heat,CH4,28,27.0,0.01446148,0.40492144,0.39045996
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Energy systems,Electricity & heat,N2O,265,273.0,0.003272077,0.867100405,0.893277021
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,357.099,357.099,357.099
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Energy systems,Other (energy systems),CO2,1,1.0,5.1011195,5.1011195,5.1011195
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Energy systems,Other (energy systems),CH4,28,27.0,0.0012038705,0.033708374,0.0325045035
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Energy systems,Other (energy systems),N2O,265,273.0,0.466120927515,123.522045791475,127.251013211595
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Industry,Chemicals,CO2,1,1.0,0.67855,0.67855,0.67855
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Industry,Chemicals,N2O,265,273.0,0.000149215,0.0395419749999999,0.0407356949999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Industry,Other (industry),CO2,1,1.0,1130.76777,1130.76777,1130.76777
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Industry,Other (industry),CH4,28,27.0,0.044073018,1.234044504,1.189971486
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Industry,Other (industry),N2O,265,273.0,0.0087698808,2.324018412,2.3941774584
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Industry,Waste,CH4,28,27.0,137.954948,3862.738544,3724.783596
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Transport,Other (transport),CO2,1,1.0,3.9888,3.9888,3.9888
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Transport,Other (transport),CH4,28,27.0,0.000223395,0.00625506,0.006031665
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Transport,Other (transport),N2O,265,273.0,0.00153954,0.4079781,0.42029442
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Transport,Road,CO2,1,1.0,17878.30971,17878.30971,17878.30971
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Transport,Road,CH4,28,27.0,1.9949736924,55.8592633872,53.8642896948
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2009,Transport,Road,N2O,265,273.0,0.6639118375,175.93663693750003,181.2479316375
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Buildings,Residential,CO2,1,1.0,6.2989344,6.2989344,6.2989344
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Buildings,Residential,CH4,28,27.0,0.000733127885,0.02052758078,0.019794452895
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Buildings,Residential,N2O,265,273.0,3.681991e-05,0.0097572761499999,0.01005183543
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Energy systems,Electricity & heat,CO2,1,1.0,789.6822,789.6822,789.6822
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Energy systems,Electricity & heat,CH4,28,27.0,0.014597535,0.40873098,0.394133445
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Energy systems,Electricity & heat,N2O,265,273.0,0.00329289,0.8726158500000001,0.89895897
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Energy systems,Other (energy systems),CO2,1,1.0,9.871388,9.871388,9.871388
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Energy systems,Other (energy systems),CH4,28,27.0,0.0018504105,0.051811494,0.0499610835
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Energy systems,Other (energy systems),N2O,265,273.0,0.569052589675,150.79893626387502,155.35135698127502
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Industry,Chemicals,CO2,1,1.0,0.6884,0.6884,0.6884
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Industry,Chemicals,N2O,265,273.0,0.000151459,0.040136635,0.041348307
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Industry,Other (industry),CO2,1,1.0,1103.45214,1103.45214,1103.45214
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Industry,Other (industry),CH4,28,27.0,0.043406446,1.215380488,1.171974042
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Industry,Other (industry),N2O,265,273.0,0.00866983,2.29750495,2.36686359
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Industry,Waste,CH4,28,27.0,140.160388,3924.490864,3784.330476
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Transport,Other (transport),CO2,1,1.0,5.82633,5.82633,5.82633
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Transport,Other (transport),CH4,28,27.0,0.000326306,0.009136568,0.008810262
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Transport,Other (transport),N2O,265,273.0,0.00224876,0.5959213999999999,0.61391148
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Transport,Road,CO2,1,1.0,22088.70044,22088.70044,22088.70044
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Transport,Road,CH4,28,27.0,2.33755518,65.45154504,63.11398986
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2010,Transport,Road,N2O,265,273.0,0.7713475959,204.4071129135,210.5778936807
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Buildings,Residential,CO2,1,1.0,6.4399924,6.4399924,6.4399924
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Buildings,Residential,CH4,28,27.0,0.000750123285,0.0210034519799999,0.020253328695
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Buildings,Residential,N2O,265,273.0,3.7693418e-05,0.00998875577,0.010290303114
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Energy systems,Electricity & heat,CO2,1,1.0,910.453,910.453,910.453
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Energy systems,Electricity & heat,CH4,28,27.0,0.015996429,0.4479000119999999,0.431903583
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Energy systems,Electricity & heat,N2O,265,273.0,0.003766534,0.99813151,1.028263782
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,360.639,360.639,360.639
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Energy systems,Other (energy systems),CO2,1,1.0,3.608764,3.608764,3.608764
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Energy systems,Other (energy systems),CH4,28,27.0,0.001003765,0.02810542,0.027101655
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Energy systems,Other (energy systems),N2O,265,273.0,0.608441709565,161.237053034725,166.104586711245
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Industry,Chemicals,CO2,1,1.0,0.6978,0.6978,0.6978
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Industry,Chemicals,N2O,265,273.0,0.000153461,0.040667165,0.041894853
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Industry,Other (industry),CO2,1,1.0,1103.45214,1103.45214,1103.45214
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Industry,Other (industry),CH4,28,27.0,0.043406446,1.215380488,1.171974042
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Industry,Other (industry),N2O,265,273.0,0.00866983,2.29750495,2.36686359
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Industry,Waste,CH4,28,27.0,141.938918,3974.289704,3832.350786
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Transport,Other (transport),CO2,1,1.0,5.9715,5.9715,5.9715
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Transport,Other (transport),CH4,28,27.0,0.000334436,0.009364208,0.009029772
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Transport,Other (transport),N2O,265,273.0,0.00230479,0.61076935,0.62920767
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Transport,Road,CO2,1,1.0,23616.77458,23616.77458,23616.77458
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Transport,Road,CH4,28,27.0,2.498359925,69.9540779,67.455717975
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2011,Transport,Road,N2O,265,273.0,0.8243583746,218.454969269,225.0498362658
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Buildings,Residential,CO2,1,1.0,6.4399924,6.4399924,6.4399924
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Buildings,Residential,CH4,28,27.0,0.000750123285,0.0210034519799999,0.020253328695
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Buildings,Residential,N2O,265,273.0,3.7693418e-05,0.00998875577,0.010290303114
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Energy systems,Electricity & heat,CO2,1,1.0,910.453,910.453,910.453
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Energy systems,Electricity & heat,CH4,28,27.0,0.015996429,0.4479000119999999,0.431903583
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Energy systems,Electricity & heat,N2O,265,273.0,0.003766534,0.99813151,1.028263782
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,360.639,360.639,360.639
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Energy systems,Other (energy systems),CO2,1,1.0,3.608764,3.608764,3.608764
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Energy systems,Other (energy systems),CH4,28,27.0,0.001003765,0.02810542,0.027101655
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Energy systems,Other (energy systems),N2O,265,273.0,0.608655109565,161.293604034725,166.162844911245
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Industry,Chemicals,CO2,1,1.0,0.70665,0.70665,0.70665
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Industry,Chemicals,N2O,265,273.0,0.000155419,0.041186035,0.042429387
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Industry,Other (industry),CO2,1,1.0,1118.61614,1118.61614,1118.61614
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Industry,Other (industry),CH4,28,27.0,0.044003146,1.232088088,1.188084942
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Industry,Other (industry),N2O,265,273.0,0.00878917,2.3291300500000003,2.3994434100000004
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Industry,Waste,CH4,28,27.0,143.698618,4023.561304,3879.862686
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Transport,Other (transport),CO2,1,1.0,5.9715,5.9715,5.9715
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Transport,Other (transport),CH4,28,27.0,0.000334436,0.009364208,0.009029772
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Transport,Other (transport),N2O,265,273.0,0.00230479,0.61076935,0.62920767
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Transport,Road,CO2,1,1.0,23616.77458,23616.77458,23616.77458
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Transport,Road,CH4,28,27.0,2.498359925,69.9540779,67.455717975
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2012,Transport,Road,N2O,265,273.0,0.8243583746,218.454969269,225.0498362658
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Buildings,Residential,CO2,1,1.0,6.9144923,6.9144923,6.9144923
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Buildings,Residential,CH4,28,27.0,0.000805390715,0.02255094002,0.021745549305
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Buildings,Residential,N2O,265,273.0,4.04705904e-05,0.0107247064559999,0.0110484711792
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Energy systems,Electricity & heat,CO2,1,1.0,977.5329,977.5329,977.5329
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Energy systems,Electricity & heat,CH4,28,27.0,0.017175028,0.4809007839999999,0.4637257559999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Energy systems,Electricity & heat,N2O,265,273.0,0.004044046,1.07167219,1.104024558
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,387.21,387.21,387.21
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Energy systems,Other (energy systems),CO2,1,1.0,3.8746512,3.8746512,3.8746512
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Energy systems,Other (energy systems),CH4,28,27.0,0.00107772222,0.03017622216,0.0290984999399999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Energy systems,Other (energy systems),N2O,265,273.0,0.653501289074,173.17784160461,178.405851917202
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Industry,Chemicals,CO2,1,1.0,0.707328,0.707328,0.707328
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Industry,Chemicals,N2O,265,273.0,0.000157289,0.041681585,0.042939897
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Industry,Other (industry),CO2,1,1.0,1201.03294,1201.03294,1201.03294
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Industry,Other (industry),CH4,28,27.0,0.0472452379,1.3228666612,1.2756214233
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Industry,Other (industry),N2O,265,273.0,0.00943673399,2.50073450735,2.57622837927
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Industry,Waste,CH4,28,27.0,145.421098,4071.790744,3926.369646
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Transport,Other (transport),CO2,1,1.0,6.41147,6.41147,6.41147
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Transport,Other (transport),CH4,28,27.0,0.000359077,0.010054156,0.009695079
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Transport,Other (transport),N2O,265,273.0,0.0024746,0.655769,0.6755658
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Transport,Road,CO2,1,1.0,25356.83997,25356.83997,25356.83997
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Transport,Road,CH4,28,27.0,2.682433708,75.108143824,72.425710116
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2013,Transport,Road,N2O,265,273.0,0.8850958004,234.550387106,241.6311535092
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Buildings,Residential,CO2,1,1.0,6.90348,6.90348,6.90348
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Buildings,Residential,CH4,28,27.0,0.000804109651,0.022515070228,0.021710960577
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Buildings,Residential,N2O,265,273.0,4.04061428e-05,0.010707627842,0.0110308769844
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Energy systems,Electricity & heat,CO2,1,1.0,975.9785,975.9785,975.9785
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Energy systems,Electricity & heat,CH4,28,27.0,0.017147689,0.480135292,0.462987603
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Energy systems,Electricity & heat,N2O,265,273.0,0.004037616,1.06996824,1.102269168
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,386.594,386.594,386.594
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Energy systems,Other (energy systems),CO2,1,1.0,3.8684907,3.8684907,3.8684907
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Energy systems,Other (energy systems),CH4,28,27.0,0.00107600762,0.03012821336,0.02905220574
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Energy systems,Other (energy systems),N2O,265,273.0,0.652459745493,172.901832555645,178.121510519589
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Industry,Chemicals,CO2,1,1.0,0.715612,0.715612,0.715612
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Industry,Chemicals,N2O,265,273.0,0.000159049,0.042147985,0.043420377
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Industry,Other (industry),CO2,1,1.0,1199.12166,1199.12166,1199.12166
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Industry,Other (industry),CH4,28,27.0,0.0471699221,1.3207578188,1.2735878966999998
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Industry,Other (industry),N2O,265,273.0,0.00942172061,2.49675596165,2.57212972653
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Industry,Waste,CH4,28,27.0,147.094614,4118.649192,3971.554578
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Transport,Other (transport),CO2,1,1.0,6.40126,6.40126,6.40126
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Transport,Other (transport),CH4,28,27.0,0.000358505,0.01003814,0.009679635
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Transport,Other (transport),N2O,265,273.0,0.00247066,0.6547248999999999,0.6744901799999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Transport,Road,CO2,1,1.0,25316.46791,25316.46791,25316.46791
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Transport,Road,CH4,28,27.0,2.678160098,74.98848274400001,72.310322646
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2014,Transport,Road,N2O,265,273.0,0.8836858348,234.176746222,241.2462329004
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Buildings,Residential,CO2,1,1.0,6.9305398,6.9305398,6.9305398
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Buildings,Residential,CH4,28,27.0,0.000807261569,0.022603323932,0.021796062363
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Buildings,Residential,N2O,265,273.0,4.05645845e-05,0.0107496148925,0.0110741315685
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Energy systems,Electricity & heat,CO2,1,1.0,979.8037,979.8037,979.8037
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Energy systems,Electricity & heat,CH4,28,27.0,0.017214898,0.4820171439999999,0.464802246
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Energy systems,Electricity & heat,N2O,265,273.0,0.004053435,1.074160275,1.106587755
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Energy systems,Oil and gas fugitive emissions,CO2,1,1.0,388.109,388.109,388.109
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Energy systems,Other (energy systems),CO2,1,1.0,3.8836525,3.8836525,3.8836525
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Energy systems,Other (energy systems),CH4,28,27.0,0.00108022423,0.03024627844,0.02916605421
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Energy systems,Other (energy systems),N2O,265,273.0,0.655019752694,173.58023446391002,178.820392485462
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Industry,Chemicals,CO2,1,1.0,0.723993,0.723993,0.723993
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Industry,Chemicals,N2O,265,273.0,0.000160721,0.042591065,0.043876833
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Industry,Other (industry),CO2,1,1.0,1203.82414,1203.82414,1203.82414
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Industry,Other (industry),CH4,28,27.0,0.0473549807,1.3259394596,1.2785844789
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Industry,Other (industry),N2O,265,273.0,0.00945865437,2.50654340805,2.58221264301
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Industry,Waste,CH4,28,27.0,148.732474,4164.509272,4015.776798
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Transport,Other (transport),CO2,1,1.0,6.42636,6.42636,6.42636
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Transport,Other (transport),CH4,28,27.0,0.000359911,0.0100775079999999,0.009717597
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Transport,Other (transport),N2O,265,273.0,0.00248035,0.65729275,0.67713555
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Transport,Road,CO2,1,1.0,25415.74364,25415.74364,25415.74364
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Transport,Road,CH4,28,27.0,2.688670225,75.2827663,72.594096075
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2015,Transport,Road,N2O,265,273.0,0.8871528189,235.0954970085,242.1927195597
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Buildings,Residential,CO2,1,1.0,7.0568671,7.0568671,7.0568671
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Buildings,Residential,CH4,28,27.0,0.0008220877,0.0230184556,0.0221963679
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Buildings,Residential,N2O,265,273.0,4.13134804e-05,0.010948072306,0.0112785801492
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Energy systems,Electricity & heat,CO2,1,1.0,1017.8294,1017.8294,1017.8294
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Energy systems,Electricity & heat,CH4,28,27.0,0.01773838,0.49667464,0.47893626
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Energy systems,Electricity & heat,N2O,265,273.0,0.004205541,1.114468365,1.148112693
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Energy systems,Other (energy systems),CO2,1,1.0,2.6861173,2.6861173,2.6861173
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Energy systems,Other (energy systems),CH4,28,27.0,0.0009261856,0.0259331968,0.0250070112
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Energy systems,Other (energy systems),N2O,265,273.0,0.672212565306,178.13632980609,183.514030328538
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Industry,Chemicals,CO2,1,1.0,0.731112,0.731112,0.731112
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Industry,Chemicals,N2O,265,273.0,0.000162404,0.04303706,0.044336292
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Industry,Other (industry),CO2,1,1.0,1223.89847,1223.89847,1223.89847
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Industry,Other (industry),CH4,28,27.0,0.0481446465,1.348050102,1.2999054555
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Industry,Other (industry),N2O,265,273.0,0.00961642305,2.54835210825,2.62528349265
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Industry,Waste,CH4,28,27.0,149.452899,4184.6811720000005,4035.228273
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Transport,Other (transport),CO2,1,1.0,6.54636,6.54636,6.54636
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Transport,Other (transport),CH4,28,27.0,0.000366631,0.010265668,0.009899037
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Transport,Other (transport),N2O,265,273.0,0.00252666,0.6695649,0.68977818
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Transport,Road,CO2,1,1.0,26081.11391,26081.11391,26081.11391
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Transport,Road,CH4,28,27.0,2.758883784,77.24874595200001,74.489862168
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2016,Transport,Road,N2O,265,273.0,0.9103104195,241.2322611675,248.5147445235
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Buildings,Residential,CO2,1,1.0,7.1831843,7.1831843,7.1831843
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Buildings,Residential,CH4,28,27.0,0.000836915841,0.023433643548,0.022596727707
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Buildings,Residential,N2O,265,273.0,4.20625353e-05,0.0111465718545,0.0114830721369
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Energy systems,Electricity & heat,CO2,1,1.0,1055.8521,1055.8521,1055.8521
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Energy systems,Electricity & heat,CH4,28,27.0,0.01826184,0.51133152,0.49306968
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Energy systems,Electricity & heat,N2O,265,273.0,0.004357656,1.15477884,1.189640088
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Energy systems,Other (energy systems),CO2,1,1.0,1.48857,1.48857,1.48857
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Energy systems,Other (energy systems),CH4,28,27.0,0.00077215011,0.02162020308,0.02084805297
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Energy systems,Other (energy systems),N2O,265,273.0,0.689404677913,182.69223964694496,188.20747707024896
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Industry,Chemicals,CO2,1,1.0,0.7383,0.7383,0.7383
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Industry,Chemicals,N2O,265,273.0,0.000163999,0.043459735,0.044771727
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Industry,Other (industry),CO2,1,1.0,1243.97187,1243.97187,1243.97187
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Industry,Other (industry),CH4,28,27.0,0.0489343121,1.3701607388,1.3212264267
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Industry,Other (industry),N2O,265,273.0,0.00977419171,2.59016080315,2.66835433683
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Industry,Waste,CH4,28,27.0,150.135694,4203.799432,4053.663738
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Transport,Other (transport),CO2,1,1.0,6.66636,6.66636,6.66636
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Transport,Other (transport),CH4,28,27.0,0.000373352,0.010453856,0.010080504
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Transport,Other (transport),N2O,265,273.0,0.00257298,0.6818396999999999,0.70242354
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Transport,Road,CO2,1,1.0,26746.51839,26746.51839,26746.51839
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Transport,Road,CH4,28,27.0,2.829110722,79.215100216,76.385989494
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2017,Transport,Road,N2O,265,273.0,0.933472652,247.37025278,254.838033996
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Buildings,Residential,CO2,1,1.0,6.975691,6.975691,6.975691
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Buildings,Residential,CH4,28,27.0,0.000812740191,0.022756725348,0.021943985157
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Buildings,Residential,N2O,265,273.0,4.08474017e-05,0.0108245614505,0.0111513406641
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Energy systems,Electricity & heat,CO2,1,1.0,1025.3795,1025.3795,1025.3795
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Energy systems,Electricity & heat,CH4,28,27.0,0.01773587,0.49660436,0.47886849
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Energy systems,Electricity & heat,N2O,265,273.0,0.004231823,1.121433095,1.155287679
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Energy systems,Other (energy systems),CO2,1,1.0,1.4462397,1.4462397,1.4462397
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Energy systems,Other (energy systems),CH4,28,27.0,0.00075188676,0.02105282928,0.02030094252
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Energy systems,Other (energy systems),N2O,265,273.0,0.669490660495,177.415025031175,182.770950315135
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Industry,Chemicals,CO2,1,1.0,0.74556,0.74556,0.74556
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Industry,Chemicals,N2O,265,273.0,0.000165495,0.043856175,0.0451801349999999
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Industry,Other (industry),CO2,1,1.0,1208.03903,1208.03903,1208.03903
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Industry,Other (industry),CH4,28,27.0,0.0475208213,1.3305829964,1.2830621751
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Industry,Other (industry),N2O,265,273.0,0.00949184803,2.51533972795,2.59127451219
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Industry,Waste,CH4,28,27.0,150.776678,4221.746984,4070.970306
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Transport,Other (transport),CO2,1,1.0,6.4738,6.4738,6.4738
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Transport,Other (transport),CH4,28,27.0,0.000362568,0.010151904,0.009789336
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Transport,Other (transport),N2O,265,273.0,0.00249866,0.6621449,0.68213418
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Transport,Road,CO2,1,1.0,25973.92097,25973.92097,25973.92097
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Transport,Road,CH4,28,27.0,2.747384742,76.92677277599999,74.179388034
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2018,Transport,Road,N2O,265,273.0,0.9065074899,240.2244848235,247.4765447427
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Buildings,Residential,CO2,1,1.0,6.8174036,6.8174036,6.8174036
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Buildings,Residential,CH4,28,27.0,0.0007955958369525,0.0222766834346722,0.0214810875977196
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Buildings,Residential,N2O,265,273.0,3.99857458788447e-05,0.0105962226578938,0.0109161086249246
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Energy systems,Electricity & heat,CO2,1,1.0,1032.9381,1032.9381,1032.9381
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Energy systems,Electricity & heat,CH4,28,27.0,0.018150409169578,0.508211456748184,0.490061047578606
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Energy systems,Electricity & heat,N2O,265,273.0,0.0043307330840399,1.1476442672705762,1.1822901319428956
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Energy systems,Other (energy systems),CO2,1,1.0,1.4643854,1.4643854,1.4643854
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Energy systems,Other (energy systems),CH4,28,27.0,0.0007360260791086,0.0206087302150428,0.0198727041359341
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Energy systems,Other (energy systems),N2O,265,273.0,0.684241900622382,181.3241036649312,186.79803886991027
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Industry,Chemicals,CO2,1,1.0,0.753206,0.753206,0.753206
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Industry,Chemicals,N2O,265,273.0,0.0001672567127145,0.0443230288693432,0.0456610825710593
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Industry,Other (industry),CO2,1,1.0,1179.67127,1179.67127,1179.67127
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Industry,Other (industry),CH4,28,27.0,0.0463130728192581,1.2967660389392268,1.2504529661199688
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Industry,Other (industry),N2O,265,273.0,0.0092506113526013,2.4514120084393656,2.5254168992601764
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Industry,Waste,CH4,28,27.0,152.421439474235,4267.80030527858,4115.378865804345
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Transport,Other (transport),CO2,1,1.0,6.3188,6.3188,6.3188
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Transport,Other (transport),CH4,28,27.0,0.0003549198066079,0.0099377545850224,0.0095828347784144
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Transport,Other (transport),N2O,265,273.0,0.0024459519979121,0.6481772794467144,0.6677448954300115
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Transport,Road,CO2,1,1.0,25352.03637,25352.03637,25352.03637
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Transport,Road,CH4,28,27.0,2.80792186731515,78.62181228482419,75.81389041750904
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2019,Transport,Road,N2O,265,273.0,0.926481803663589,245.51767797085108,252.9295324001598
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2020,Buildings,Residential,CO2,1,1.0,5.8978897,5.8978897,5.8978897
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2020,Energy systems,Electricity & heat,CO2,1,1.0,905.67,905.67,905.67
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2020,Energy systems,Other (energy systems),CO2,1,1.0,1.3207496,1.3207496,1.3207496
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2020,Industry,Chemicals,CO2,1,1.0,0.760931,0.760931,0.760931
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2020,Industry,Other (industry),CO2,1,1.0,1020.18807,1020.18807,1020.18807
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2020,Transport,Other (transport),CO2,1,1.0,5.46337,5.46337,5.46337
+AIA,Anguilla,Latin America and Caribbean,Latin America and Caribbean,Caribbean,developing,2020,Transport,Road,CO2,1,1.0,21919.90803,21919.90803,21919.90803

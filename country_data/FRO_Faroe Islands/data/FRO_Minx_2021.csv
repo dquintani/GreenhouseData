@@ -1,0 +1,637 @@
+code,name,region_ar6_6,region_ar6_10,region_ar6_22,region_ar6_dev,year,sector_title,subsector_title,gas,gwp100_ar5,gwp100_ar6,value_native,value_ar5,value_ar6
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1970,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0151062,0.4229736,0.4078674
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1970,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000391642,0.10378513,0.106918266
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1970,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,641.2205,17954.174,17312.9535
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1970,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,22.31403685,5913.21976525,6091.732060050001
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1970,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,28.4776,797.3728,768.8951999999999
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1970,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.409879,108.617935,111.896967
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1970,Industry,Chemicals,CO2,1,1.0,1.92935,1.92935,1.92935
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1970,Industry,Chemicals,N2O,265,273.0,1.7001075,450.5284875,464.1293475000001
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1970,Industry,Waste,CO2,1,1.0,789.436,789.436,789.436
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1970,Industry,Waste,CH4,28,27.0,651.817803,18250.898484,17599.080681
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1970,Industry,Waste,N2O,265,273.0,0.67872,179.86079999999998,185.29056
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1971,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0141957,0.3974796,0.3832839
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1971,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000368038,0.09753007,0.100474374
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1971,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,610.257,17087.196,16476.939
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1971,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,21.29810956,5643.9990334,5814.38390988
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1971,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,27.7163,776.0564,748.3401
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1971,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.410031272,108.65828708,111.938537256
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1971,Industry,Chemicals,CO2,1,1.0,1.94915,1.94915,1.94915
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1971,Industry,Chemicals,N2O,265,273.0,1.7198625,455.7635625,469.5224625
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1971,Industry,Waste,CO2,1,1.0,829.703,829.703,829.703
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1971,Industry,Waste,CH4,28,27.0,647.107301,18119.004428,17471.897127
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1971,Industry,Waste,N2O,265,273.0,0.690352,182.94328,188.466096
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1972,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0135553,0.3795484,0.3659930999999999
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1972,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000351434,0.09313001,0.095941482
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1972,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,628.6144,17601.2032,16972.5888
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1972,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,21.93855217,5813.716325050001,5989.2247424100005
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1972,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,27.208608,761.8410240000001,734.632416
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1972,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.38165286,101.1380079,104.19123078
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1972,Industry,Chemicals,CO2,1,1.0,1.968,1.968,1.968
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1972,Industry,Chemicals,N2O,265,273.0,1.740393,461.204145,475.127289
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1972,Industry,Waste,CO2,1,1.0,870.94,870.94,870.94
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1972,Industry,Waste,CH4,28,27.0,653.938175,18310.2689,17656.330725
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1972,Industry,Waste,N2O,265,273.0,0.701492,185.89538,191.507316
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1973,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0120156,0.3364368,0.3244211999999999
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1973,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000311517,0.082552005,0.0850441409999999
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1973,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,624.3649,17482.2172,16857.852300000002
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1973,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,22.05490513,5844.54985945,6020.98910049
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1973,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,26.56321,743.7698800000001,717.20667
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1973,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.36557668,96.8778202,99.80243364
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1973,Industry,Chemicals,CO2,1,1.0,1.98655,1.98655,1.98655
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1973,Industry,Chemicals,N2O,265,273.0,1.761145,466.703425,480.792585
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1973,Industry,Waste,CO2,1,1.0,913.148,913.148,913.148
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1973,Industry,Waste,CH4,28,27.0,660.64123,18497.95444,17837.31321
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1973,Industry,Waste,N2O,265,273.0,0.71214,188.7171,194.41422
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1974,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0104296,0.2920288,0.2815992
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1974,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000270396,0.07165494,0.073818108
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1974,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,620.5126,17374.3528,16753.8402
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1974,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,22.16679298,5874.2001397,6051.53448354
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1974,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,26.155388,732.350864,706.195476
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1974,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.35654713,94.48498945,97.33736649
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1974,Industry,Chemicals,CO2,1,1.0,2.0058,2.0058,2.0058
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1974,Industry,Chemicals,N2O,265,273.0,1.781538,472.10757,486.359874
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1974,Industry,Waste,CO2,1,1.0,957.534,957.534,957.534
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1974,Industry,Waste,CH4,28,27.0,667.36066,18686.09848,18018.73782
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1974,Industry,Waste,N2O,265,273.0,0.723209,191.650385,197.436057
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1975,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0112052,0.3137456,0.3025404
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1975,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000290506,0.07698409,0.079308138
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1975,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,611.3885,17118.878,16507.4895
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1975,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,22.13780629,5866.51866685,6043.62111717
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1975,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,25.69499,719.4597200000001,693.76473
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1975,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.34974376,92.6820964,95.48004648
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1975,Industry,Chemicals,CO2,1,1.0,2.02645,2.02645,2.02645
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1975,Industry,Chemicals,N2O,265,273.0,1.801207,477.319855,491.729511
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1975,Industry,Waste,CO2,1,1.0,1001.71,1001.71,1001.71
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1975,Industry,Waste,CH4,28,27.0,673.890961,18868.946908,18195.055947
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1975,Industry,Waste,N2O,265,273.0,0.732861,194.208165,200.071053
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1976,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0140951,0.3946628,0.3805676999999999
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1976,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000365428,0.09683842,0.099761844
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1976,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,640.5539,17935.5092,17294.9553
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1976,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,23.19417667,6146.45681755,6332.01023091
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1976,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,26.273596,735.660688,709.387092
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1976,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.34697119,91.94736535,94.72313487
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1976,Industry,Chemicals,CO2,1,1.0,2.0487,2.0487,2.0487
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1976,Industry,Chemicals,N2O,265,273.0,1.82039,482.40335,496.96647
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1976,Industry,Waste,CO2,1,1.0,1036.81,1036.81,1036.81
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1976,Industry,Waste,CH4,28,27.0,679.339465,19021.50502,18342.165555
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1976,Industry,Waste,N2O,265,273.0,0.734904,194.74956,200.628792
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1977,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0139644,0.3910032,0.3770388
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1977,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00036204,0.0959406,0.09883692
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1977,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,640.8285,17943.198,17302.3695
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1977,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,22.87360011,6061.504029150001,6244.492830030001
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1977,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,25.9793,727.4204,701.4411
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1977,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.33831369,89.65312785,92.35963737
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1977,Industry,Chemicals,CO2,1,1.0,2.58446,2.58446,2.58446
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1977,Industry,Chemicals,N2O,265,273.0,1.838968,487.32652,502.038264
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1977,Industry,Waste,CO2,1,1.0,1073.78,1073.78,1073.78
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1977,Industry,Waste,CH4,28,27.0,684.712057,19171.937596,18487.225539
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1977,Industry,Waste,N2O,265,273.0,0.73752,195.4428,201.34296
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1978,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0139644,0.3910032,0.3770388
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1978,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00036204,0.0959406,0.09883692
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1978,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,630.3574,17650.0072,17019.6498
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1978,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,22.49931221,5962.31773565,6142.31223333
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1978,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,24.398,683.144,658.746
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1978,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.29709137,78.72921305000001,81.10594401
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1978,Industry,Chemicals,CO2,1,1.0,3.081605,3.081605,3.081605
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1978,Industry,Chemicals,N2O,265,273.0,1.857143,492.142895,507.000039
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1978,Industry,Waste,CO2,1,1.0,1110.11,1110.11,1110.11
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1978,Industry,Waste,CH4,28,27.0,689.692635,19311.39378,18621.701145
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1978,Industry,Waste,N2O,265,273.0,0.738942,195.81963,201.731166
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1979,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0139644,0.3910032,0.3770388
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1979,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00036204,0.0959406,0.09883692
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1979,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,608.827,17047.156,16438.329
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1979,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,21.96265351,5820.103180149999,5995.804408229999
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1979,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,24.26,679.2800000000001,655.0200000000001
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1979,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.30956595,82.03497675,84.51150435
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1979,Industry,Chemicals,CO2,1,1.0,3.5799,3.5799,3.5799
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1979,Industry,Chemicals,N2O,265,273.0,1.874893,496.846645,511.845789
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1979,Industry,Waste,CO2,1,1.0,1147.03,1147.03,1147.03
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1979,Industry,Waste,CH4,28,27.0,695.178554,19464.999512,18769.820958
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1979,Industry,Waste,N2O,265,273.0,0.740059,196.115635,202.036107
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1980,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0139644,0.3910032,0.3770388
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1980,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00036204,0.0959406,0.09883692
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1980,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,606.0406,16969.1368,16363.096200000002
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1980,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,21.64981771,5737.20169315,5910.40023483
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1980,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,24.9819958,699.4958824,674.5138866
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1980,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.33522609,88.83491384999999,91.51672257
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1980,Industry,Chemicals,CO2,1,1.0,4.0792,4.0792,4.0792
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1980,Industry,Chemicals,N2O,265,273.0,1.892855,501.606575,516.749415
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1980,Industry,Waste,CO2,1,1.0,1184.56,1184.56,1184.56
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1980,Industry,Waste,CH4,28,27.0,700.358434,19610.036152,18909.677718
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1980,Industry,Waste,N2O,265,273.0,0.740871,196.330815,202.257783
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1981,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0139644,0.3910032,0.3770388
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1981,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00036204,0.0959406,0.09883692
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1981,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,597.0056,16716.156799999997,16119.151199999998
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1981,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,21.10836721,5593.71731065,5762.58424833
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1981,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,25.3378038,709.4585064,684.1207026
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1981,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.35408933,93.83367245,96.66638709
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1981,Industry,Chemicals,CO2,1,1.0,4.57884,4.57884,4.57884
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1981,Industry,Chemicals,N2O,265,273.0,1.910393,506.254145,521.537289
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1981,Industry,Waste,CO2,1,1.0,1211.72,1211.72,1211.72
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1981,Industry,Waste,CH4,28,27.0,705.589199,19756.497572,19050.908373
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1981,Industry,Waste,N2O,265,273.0,0.73473,194.70345,200.58129
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1982,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0139644,0.3910032,0.3770388
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1982,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00036204,0.0959406,0.09883692
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1982,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,590.0497,16521.391600000003,15931.3419
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1982,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,20.90879731,5540.83128715,5708.10166563
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1982,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,25.416294,711.656232,686.239938
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1982,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.36264651,96.10132515,99.00249723
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1982,Industry,Chemicals,CO2,1,1.0,5.07833,5.07833,5.07833
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1982,Industry,Chemicals,N2O,265,273.0,1.927358,510.74987,526.168734
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1982,Industry,Waste,CO2,1,1.0,1240.5,1240.5,1240.5
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1982,Industry,Waste,CH4,28,27.0,709.524066,19866.673848,19157.149782
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1982,Industry,Waste,N2O,265,273.0,0.729291,193.262115,199.096443
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1983,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0142646,0.3994088,0.3851442
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1983,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000369824,0.09800336,0.100961952
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1983,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,595.4665,16673.061999999998,16077.5955
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1983,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,20.98121617,5560.02228505,5727.87201441
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1983,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,25.83539,723.39092,697.55553
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1983,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.37272466,98.7720349,101.75383218
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1983,Industry,Chemicals,CO2,1,1.0,5.57833,5.57833,5.57833
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1983,Industry,Chemicals,N2O,265,273.0,1.94445,515.27925,530.83485
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1983,Industry,Waste,CO2,1,1.0,1268.15,1268.15,1268.15
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1983,Industry,Waste,CH4,28,27.0,714.554011,20007.512308,19292.958297
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1983,Industry,Waste,N2O,265,273.0,0.722904,191.56956,197.352792
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1984,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0145411,0.4071508,0.3926097
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1984,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000376992,0.09990288,0.102918816
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1984,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,595.1432,16664.009599999998,16068.8664
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1984,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,20.99941219,5564.8442303500005,5732.83952787
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1984,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,25.459506,712.866168,687.406662
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1984,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.36180736,95.8789504,98.77340928
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1984,Industry,Chemicals,CO2,1,1.0,6.07942,6.07942,6.07942
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1984,Industry,Chemicals,N2O,265,273.0,1.962805,520.143325,535.845765
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1984,Industry,Waste,CO2,1,1.0,1297.47,1297.47,1297.47
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1984,Industry,Waste,CH4,28,27.0,719.146776,20136.109728000003,19416.962952
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1984,Industry,Waste,N2O,265,273.0,0.717196,190.05694,195.794508
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1985,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0150034,0.4200952,0.4050918
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1985,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000388976,0.10307864,0.106190448
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1985,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,588.904,16489.311999999998,15900.408
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1985,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,20.72820633,5492.97467745,5658.800328089999
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1985,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,24.3572,682.0015999999999,657.6444
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1985,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.33207444,87.9997266,90.65632212
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1985,Industry,Chemicals,CO2,1,1.0,6.58165,6.58165,6.58165
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1985,Industry,Chemicals,N2O,265,273.0,1.982423,525.342095,541.2014790000001
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1985,Industry,Waste,CO2,1,1.0,1328.52,1328.52,1328.52
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1985,Industry,Waste,CH4,28,27.0,723.731504,20264.482112,19540.750608
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1985,Industry,Waste,N2O,265,273.0,0.712131,188.714715,194.411763
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1986,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0151178,0.4232984,0.4081806
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1986,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000391944,0.10386516,0.107000712
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1986,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,586.192,16413.376,15827.184
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1986,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,20.57111125,5451.34448125,5615.913371250001
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1986,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,24.2928,680.1984,655.9056
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1986,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.33282219,88.19788035,90.86045787
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1986,Industry,Chemicals,CO2,1,1.0,7.08693,7.08693,7.08693
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1986,Industry,Chemicals,N2O,265,273.0,2.004352,531.15328,547.188096
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1986,Industry,Waste,CO2,1,1.0,1362.87,1362.87,1362.87
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1986,Industry,Waste,CH4,28,27.0,728.307442,20392.608376,19664.300934000003
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1986,Industry,Waste,N2O,265,273.0,0.708448,187.73872,193.406304
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1987,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0151178,0.4232984,0.4081806
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1987,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000391944,0.10386516,0.107000712
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1987,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,597.6,16732.8,16135.2
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1987,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,21.04551295,5577.060931749999,5745.42503535
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1987,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,24.5638,687.7864,663.2226
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1987,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.33357098,88.3963097,91.06487754
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1987,Industry,Chemicals,CO2,1,1.0,7.59376,7.59376,7.59376
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1987,Industry,Chemicals,N2O,265,273.0,2.028013,537.423445,553.647549
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1987,Industry,Waste,CO2,1,1.0,1399.15,1399.15,1399.15
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1987,Industry,Waste,CH4,28,27.0,732.933399,20522.135172,19789.201773
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1987,Industry,Waste,N2O,265,273.0,0.705315,186.908475,192.550995
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1988,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0152323,0.4265044,0.4112721
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1988,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000394912,0.10465168,0.1078109759999999
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1988,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,600.6,16816.8,16216.2
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1988,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,20.74668586,5497.8717529,5663.84523978
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1988,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,24.635,689.7800000000001,665.1450000000001
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1988,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.33431973,88.59472844999999,91.26928629
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1988,Industry,Chemicals,CO2,1,1.0,8.0957,8.0957,8.0957
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1988,Industry,Chemicals,N2O,265,273.0,2.049593,543.142145,559.538889
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1988,Industry,Waste,CO2,1,1.0,1432.83,1432.83,1432.83
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1988,Industry,Waste,CH4,28,27.0,737.375475,20646.5133,19909.137825
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1988,Industry,Waste,N2O,265,273.0,0.700449,185.618985,191.222577
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1989,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0153468,0.4297104,0.4143636
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1989,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00039788,0.1054382,0.10862124
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1989,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,600.6,16816.8,16216.2
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1989,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,20.87960409,5533.09508385,5700.131916570001
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1989,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,24.635,689.7800000000001,665.1450000000001
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1989,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.33506848,88.7931472,91.47369504
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1989,Industry,Chemicals,CO2,1,1.0,4.42796,4.42796,4.42796
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1989,Industry,Chemicals,N2O,265,273.0,2.064775,547.165375,563.683575
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1989,Industry,Waste,CO2,1,1.0,1463.76,1463.76,1463.76
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1989,Industry,Waste,CH4,28,27.0,741.562655,20763.75434,20022.191685
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1989,Industry,Waste,N2O,265,273.0,0.69392,183.8888,189.44016
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1990,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0155801,0.4362428,0.4206627
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1990,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000403928,0.10704092,0.110272344
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1990,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,604.6,16928.8,16324.2
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1990,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,21.28170359,5639.65145135,5809.90508007
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1990,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,24.73,692.44,667.71
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1990,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.33581727,88.99157655,91.67811471
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1990,Industry,Chemicals,CO2,1,1.0,3.23155,3.23155,3.23155
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1990,Industry,Chemicals,N2O,265,273.0,2.070335,548.638775,565.201455
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1990,Industry,Waste,CO2,1,1.0,1488.66,1488.66,1488.66
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1990,Industry,Waste,CH4,28,27.0,745.387361,20870.846108,20125.458747
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1990,Industry,Waste,N2O,265,273.0,0.684349,181.352485,186.827277
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1991,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0157635,0.441378,0.4256145
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1991,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000408682,0.10830073,0.111570186
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1991,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,607.672,17014.816,16407.144
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1991,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,21.09102322,5589.1211533000005,5757.84933906
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1991,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,24.803,694.484,669.681
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1991,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.336566,89.18999,91.882518
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1991,Industry,Chemicals,CO2,1,1.0,5.71877,5.71877,5.71877
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1991,Industry,Chemicals,N2O,265,273.0,2.064383,547.0614949999999,563.576559
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1991,Industry,Waste,CO2,1,1.0,1500.83,1500.83,1500.83
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1991,Industry,Waste,CH4,28,27.0,739.423148,20703.848144,19964.424996
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1991,Industry,Waste,N2O,265,273.0,0.669018,177.28977,182.641914
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1992,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0161996,0.4535888,0.4373892
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1992,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000419989,0.111297085,0.114656997
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1992,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,610.2,17085.600000000002,16475.4
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1992,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,20.98589622,5561.2624983000005,5729.14966806
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1992,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,24.863,696.164,671.3009999999999
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1992,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.3373148,89.388422,92.0869404
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1992,Buildings,Residential,CH4,28,27.0,0.059,1.652,1.593
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1992,Buildings,Residential,N2O,265,273.0,0.000295,0.078175,0.080535
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1992,Energy systems,Other (energy systems),N2O,265,273.0,0.000616901,0.163478765,0.168413973
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1992,Industry,Chemicals,CO2,1,1.0,4.14391,4.14391,4.14391
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1992,Industry,Chemicals,N2O,265,273.0,2.048893,542.956645,559.347789
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1992,Industry,Waste,CO2,1,1.0,1507.86,1507.86,1507.86
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1992,Industry,Waste,CH4,28,27.0,733.170701,20528.779628,19795.608927
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1992,Industry,Waste,N2O,265,273.0,0.651721,172.706065,177.919833
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1993,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0160613,0.4497164,0.4336551
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1993,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000416405,0.110347325,0.113678565
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1993,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,617.8247,17299.0916,16681.2669
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1993,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,21.56222626,5713.9899589,5886.48776898
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1993,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,25.713,719.964,694.251
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1993,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.3598676,95.364914,98.2438548
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1993,Buildings,Residential,CH4,28,27.0,0.059,1.652,1.593
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1993,Buildings,Residential,N2O,265,273.0,0.000295,0.078175,0.080535
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1993,Energy systems,Other (energy systems),N2O,265,273.0,0.000616901,0.163478765,0.168413973
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1993,Industry,Chemicals,CO2,1,1.0,2.50579,2.50579,2.50579
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1993,Industry,Chemicals,N2O,265,273.0,2.02884,537.6426,553.87332
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1993,Industry,Waste,CO2,1,1.0,1509.52,1509.52,1509.52
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1993,Industry,Waste,CH4,28,27.0,726.756309,20349.176652,19622.420343
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1993,Industry,Waste,N2O,265,273.0,0.632563,167.629195,172.689699
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1994,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0160732,0.4500496,0.4339764
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1994,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000416713,0.110428945,0.113762649
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1994,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,623.8272,17467.1616,16843.3344
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1994,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,21.81179253,5780.12502045,5954.619360690001
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1994,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,26.763006,749.3641680000001,722.601162
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1994,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.3903109,103.4323885,106.5548757
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1994,Buildings,Residential,CH4,28,27.0,0.059,1.652,1.593
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1994,Buildings,Residential,N2O,265,273.0,0.000295,0.078175,0.080535
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1994,Energy systems,Other (energy systems),N2O,265,273.0,0.000616901,0.163478765,0.168413973
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1994,Industry,Chemicals,CO2,1,1.0,7.15771,7.15771,7.15771
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1994,Industry,Chemicals,N2O,265,273.0,2.011875,533.1468749999999,549.2418749999999
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1994,Industry,Waste,CO2,1,1.0,1513.97,1513.97,1513.97
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1994,Industry,Waste,CH4,28,27.0,720.479909,20173.437452,19452.957543
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1994,Industry,Waste,N2O,265,273.0,0.615045,162.986925,167.90728499999997
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1995,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.00964535,0.2700698,0.26042445
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1995,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000250064,0.06626696,0.068267472
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1995,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,624.4446,17484.448800000002,16860.0042
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1995,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,21.97841743,5824.28061895,6000.10795839
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1995,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,26.870996,752.3878880000001,725.5168920000001
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1995,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.3942294,104.470791,107.6246262
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1995,Buildings,Residential,CH4,28,27.0,0.059,1.652,1.593
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1995,Buildings,Residential,N2O,265,273.0,0.000295,0.078175,0.080535
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1995,Energy systems,Other (energy systems),N2O,265,273.0,0.000616901,0.163478765,0.168413973
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1995,Industry,Chemicals,CO2,1,1.0,5.92252,5.92252,5.92252
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1995,Industry,Chemicals,N2O,265,273.0,2.00274,530.7261000000001,546.74802
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1995,Industry,Waste,CO2,1,1.0,1526.43,1526.43,1526.43
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1995,Industry,Waste,CH4,28,27.0,714.526969,20006.755132,19292.228163
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1995,Industry,Waste,N2O,265,273.0,0.601096,159.29044,164.09920799999998
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1996,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.00964251,0.26999028,0.26034777
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1996,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000249991,0.066247615,0.068247543
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1996,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,621.9407,17414.3396,16792.3989
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1996,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,21.88804637,5800.33228805,5975.436659010001
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1996,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,26.432998,740.123944,713.690946
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1996,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.3826769,101.4093785,104.4707937
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1996,Buildings,Residential,CH4,28,27.0,0.059,1.652,1.593
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1996,Buildings,Residential,N2O,265,273.0,0.000295,0.078175,0.080535
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1996,Energy systems,Other (energy systems),N2O,265,273.0,0.000616901,0.163478765,0.168413973
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1996,Industry,Chemicals,CO2,1,1.0,4.71148,4.71148,4.71148
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1996,Industry,Chemicals,N2O,265,273.0,2.003525,530.934125,546.962325
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1996,Industry,Waste,CO2,1,1.0,1543.81,1543.81,1543.81
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1996,Industry,Waste,CH4,28,27.0,716.679709,20067.031852,19350.352143
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1996,Industry,Waste,N2O,265,273.0,0.58923,156.14595,160.85979
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1997,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.00963679,0.2698301199999999,0.26019333
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1997,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000249843,0.066208395,0.068207139
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1997,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,622.6953,17435.468399999998,16812.7731
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1997,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,22.18722446,5879.6144819,6057.11227758
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1997,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,26.564996,743.819888,717.254892
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1997,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.3872714,102.626921,105.7250922
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1997,Buildings,Residential,CH4,28,27.0,0.059,1.652,1.593
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1997,Buildings,Residential,N2O,265,273.0,0.000295,0.078175,0.080535
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1997,Energy systems,Other (energy systems),N2O,265,273.0,0.000616901,0.163478765,0.168413973
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1997,Industry,Chemicals,CO2,1,1.0,9.178,9.178,9.178
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1997,Industry,Chemicals,N2O,265,273.0,2.011918,533.15827,549.253614
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1997,Industry,Waste,CO2,1,1.0,1557.62,1557.62,1557.62
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1997,Industry,Waste,CH4,28,27.0,718.990109,20131.723052,19412.732943
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1997,Industry,Waste,N2O,265,273.0,0.576124,152.67286,157.281852
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1998,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.00955957,0.26766796,0.25810839
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1998,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000247841,0.065677865,0.067660593
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1998,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,618.5107,17318.299600000002,16699.7889
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1998,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,22.17595993,5876.62938145,6054.03706089
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1998,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,25.833,723.324,697.491
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1998,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.3672703,97.3266295,100.2647919
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1998,Buildings,Residential,CH4,28,27.0,0.059,1.652,1.593
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1998,Buildings,Residential,N2O,265,273.0,0.000295,0.078175,0.080535
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1998,Energy systems,Other (energy systems),N2O,265,273.0,0.000616901,0.163478765,0.168413973
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1998,Industry,Chemicals,CO2,1,1.0,2.26128,2.26128,2.26128
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1998,Industry,Chemicals,N2O,265,273.0,2.02623,536.95095,553.16079
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1998,Industry,Waste,CO2,1,1.0,1587.11,1587.11,1587.11
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1998,Industry,Waste,CH4,28,27.0,721.598529,20204.758812,19483.160283
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1998,Industry,Waste,N2O,265,273.0,0.5688,150.732,155.2824
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1999,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.00947946,0.26542488,0.25594542
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1999,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000245764,0.06512746,0.0670935719999999
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1999,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,619.9856,17359.5968,16739.6112
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1999,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,22.40569213,5937.50841445,6116.75395149
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1999,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,26.090988,730.5476639999999,704.456676
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1999,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.37544,99.4916,102.49512
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1999,Buildings,Residential,CH4,28,27.0,0.059,1.652,1.593
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1999,Buildings,Residential,N2O,265,273.0,0.000295,0.078175,0.080535
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1999,Energy systems,Other (energy systems),N2O,265,273.0,0.000616901,0.163478765,0.168413973
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1999,Industry,Chemicals,CO2,1,1.0,2.3009,2.3009,2.3009
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1999,Industry,Chemicals,N2O,265,273.0,2.041763,541.067195,557.401299
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1999,Industry,Waste,CO2,1,1.0,1613.26,1613.26,1613.26
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1999,Industry,Waste,CH4,28,27.0,724.199049,20277.573372,19553.374323
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,1999,Industry,Waste,N2O,265,273.0,0.560118,148.43127,152.912214
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2000,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.00946663,0.26506564,0.25559901
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2000,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000245431,0.065039215,0.067002663
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2000,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,623.8958,17469.0824,16845.1866
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2000,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,22.44259829,5947.28854685,6126.82933317
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2000,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,26.774998,749.699944,722.924946
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2000,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.3958287,104.8946055,108.0612351
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2000,Buildings,Residential,CH4,28,27.0,0.059,1.652,1.593
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2000,Buildings,Residential,N2O,265,273.0,0.000295,0.078175,0.080535
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2000,Energy systems,Other (energy systems),N2O,265,273.0,0.000616901,0.163478765,0.168413973
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2000,Industry,Chemicals,CO2,1,1.0,2.99768,2.99768,2.99768
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2000,Industry,Chemicals,N2O,265,273.0,2.055725,544.767125,561.2129249999999
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2000,Industry,Waste,CO2,1,1.0,1661.27,1661.27,1661.27
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2000,Industry,Waste,CH4,28,27.0,726.892589,20352.992492,19626.099903
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2000,Industry,Waste,N2O,265,273.0,0.558669,148.047285,152.516637
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2001,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.00938369,0.26274332,0.25335963
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2001,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000243281,0.064469465,0.066415713
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2001,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,626.1253,17531.508400000002,16905.383100000003
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2001,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,21.87799444,5797.6685266,5972.692482119999
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2001,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,27.164998,760.619944,733.4549460000001
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2001,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.4069861,107.8513165,111.1072053
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2001,Buildings,Residential,CH4,28,27.0,0.059,1.652,1.593
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2001,Buildings,Residential,N2O,265,273.0,0.000295,0.078175,0.080535
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2001,Energy systems,Other (energy systems),N2O,265,273.0,0.000616901,0.163478765,0.168413973
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2001,Industry,Chemicals,CO2,1,1.0,3.03784,3.03784,3.03784
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2001,Industry,Chemicals,N2O,265,273.0,2.067385,547.8570249999999,564.3961049999999
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2001,Industry,Waste,CO2,1,1.0,1695.3,1695.3,1695.3
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2001,Industry,Waste,CH4,28,27.0,728.597376,20400.726528000003,19672.129152
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2001,Industry,Waste,N2O,265,273.0,0.552093,146.304645,150.721389
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2002,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.00929648,0.26030144,0.25100496
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2002,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00024102,0.0638703,0.06579846
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2002,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,627.0514,17557.439199999997,16930.387799999997
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2002,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,22.0519579,5843.7688435,6020.1845067
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2002,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,27.327004,765.156112,737.829108
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2002,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.4116207,109.0794855,112.3724511
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2002,Buildings,Residential,CH4,28,27.0,0.059,1.652,1.593
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2002,Buildings,Residential,N2O,265,273.0,0.000295,0.078175,0.080535
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2002,Energy systems,Other (energy systems),N2O,265,273.0,0.000616901,0.163478765,0.168413973
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2002,Industry,Chemicals,CO2,1,1.0,2.91957,2.91957,2.91957
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2002,Industry,Chemicals,N2O,265,273.0,2.077953,550.657545,567.281169
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2002,Industry,Waste,CO2,1,1.0,1725.95,1725.95,1725.95
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2002,Industry,Waste,CH4,28,27.0,730.233012,20446.524336,19716.291324
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2002,Industry,Waste,N2O,265,273.0,0.544183,144.208495,148.561959
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2003,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.00921353,0.25797884,0.24876531
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2003,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000238869,0.063300285,0.065211237
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2003,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,627.0171,17556.4788,16929.4617
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2003,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,22.08448667,5852.38896755,6029.06486091
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2003,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,27.320996,764.987888,737.6668920000001
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2003,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.4114493,109.0340645,112.3256589
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2003,Buildings,Residential,CH4,28,27.0,0.059,1.652,1.593
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2003,Buildings,Residential,N2O,265,273.0,0.000295,0.078175,0.080535
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2003,Energy systems,Other (energy systems),N2O,265,273.0,0.000616901,0.163478765,0.168413973
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2003,Industry,Chemicals,CO2,1,1.0,3.65718,3.65718,3.65718
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2003,Industry,Chemicals,N2O,265,273.0,2.086865,553.019225,569.714145
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2003,Industry,Waste,CO2,1,1.0,1754.95,1754.95,1754.95
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2003,Industry,Waste,CH4,28,27.0,731.803949,20490.510572,19758.706623
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2003,Industry,Waste,N2O,265,273.0,0.535582,141.92923,146.213886
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2004,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.00913199,0.2556957199999999,0.2465637299999999
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2004,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000236755,0.062740075,0.064634115
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2004,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,625.1306,17503.656799999997,16878.5262
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2004,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,22.18638554,5879.3921681,6056.88325242
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2004,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,26.990996,755.747888,728.756892
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2004,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.4020088,106.532332,109.7484024
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2004,Buildings,Residential,CH4,28,27.0,0.059,1.652,1.593
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2004,Buildings,Residential,N2O,265,273.0,0.000295,0.078175,0.080535
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2004,Energy systems,Other (energy systems),N2O,265,273.0,0.000616901,0.163478765,0.168413973
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2004,Industry,Chemicals,CO2,1,1.0,8.50599,8.50599,8.50599
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2004,Industry,Chemicals,N2O,265,273.0,2.094218,554.9677700000001,571.7215140000001
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2004,Industry,Waste,CO2,1,1.0,1789.85,1789.85,1789.85
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2004,Industry,Waste,CH4,28,27.0,733.331886,20533.292808,19799.960922
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2004,Industry,Waste,N2O,265,273.0,0.528573,140.071845,144.30042899999998
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2005,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.00905191,0.25345348,0.2444015699999999
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2005,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000234679,0.062189935,0.064067367
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2005,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,618.0305,17304.854,16686.8235
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2005,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,21.93001646,5811.454361900001,5986.89449358
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2005,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,25.749,720.972,695.223
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2005,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.3664757,97.1160605,100.0478661
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2005,Buildings,Residential,CH4,28,27.0,0.059,1.652,1.593
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2005,Buildings,Residential,N2O,265,273.0,0.000295,0.078175,0.080535
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2005,Energy systems,Other (energy systems),N2O,265,273.0,0.000616901,0.163478765,0.168413973
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2005,Industry,Chemicals,CO2,1,1.0,2.96963,2.96963,2.96963
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2005,Industry,Chemicals,N2O,265,273.0,2.100393,556.604145,573.407289
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2005,Industry,Waste,CO2,1,1.0,1826.99,1826.99,1826.99
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2005,Industry,Waste,CH4,28,27.0,734.822843,20575.039604,19840.216761
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2005,Industry,Waste,N2O,265,273.0,0.52195,138.31675,142.49235000000002
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2006,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.00904192,0.25317376,0.24413184
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2006,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00023442,0.0621213,0.06399666
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2006,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,614.9667,17219.0676,16604.100899999998
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2006,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,21.81406566,5780.7273999,5955.23992518
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2006,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,25.334002,709.3520560000001,684.018054
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2006,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.3551479,94.1141935,96.9553767
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2006,Buildings,Residential,CH4,28,27.0,0.059,1.652,1.593
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2006,Buildings,Residential,N2O,265,273.0,0.000295,0.078175,0.080535
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2006,Energy systems,Other (energy systems),N2O,265,273.0,0.000616901,0.163478765,0.168413973
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2006,Industry,Chemicals,CO2,1,1.0,7.45577,7.45577,7.45577
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2006,Industry,Chemicals,N2O,265,273.0,2.104658,557.73437,574.571634
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2006,Industry,Waste,CO2,1,1.0,1836.61,1836.61,1836.61
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2006,Industry,Waste,CH4,28,27.0,735.674935,20598.89818,19863.223245
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2006,Industry,Waste,N2O,265,273.0,0.5247,139.0455,143.24310000000003
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2007,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.00886464,0.24820992,0.23934528
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2007,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000229824,0.06090336,0.062741952
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2007,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,615.7899,17242.1172,16626.3273
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2007,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,21.83434206,5786.1006459,5960.77538238
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2007,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,25.478004,713.384112,687.9061079999999
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2007,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.3592663,95.2055695,98.0796999
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2007,Buildings,Residential,CH4,28,27.0,0.059,1.652,1.593
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2007,Buildings,Residential,N2O,265,273.0,0.000295,0.078175,0.080535
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2007,Energy systems,Other (energy systems),N2O,265,273.0,0.000616901,0.163478765,0.168413973
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2007,Industry,Chemicals,CO2,1,1.0,3.48986,3.48986,3.48986
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2007,Industry,Chemicals,N2O,265,273.0,2.10749,558.4848499999999,575.3447699999999
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2007,Industry,Waste,CO2,1,1.0,1848.16,1848.16,1848.16
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2007,Industry,Waste,CH4,28,27.0,736.535,20622.98,19886.445
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2007,Industry,Waste,N2O,265,273.0,0.528,139.92000000000002,144.144
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2008,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.00896754,0.25109112,0.2421235799999999
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2008,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000232492,0.06161038,0.063470316
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2008,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,611.9483,17134.5524,16522.6041
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2008,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,21.69482738,5749.1292557,5922.68787474
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2008,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,24.805998,694.567944,669.761946
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2008,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.3400424,90.111236,92.8315752
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2008,Buildings,Residential,CH4,28,27.0,0.059,1.652,1.593
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2008,Buildings,Residential,N2O,265,273.0,0.000295,0.078175,0.080535
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2008,Energy systems,Other (energy systems),N2O,265,273.0,0.000616901,0.163478765,0.168413973
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2008,Industry,Chemicals,CO2,1,1.0,2.59081,2.59081,2.59081
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2008,Industry,Chemicals,N2O,265,273.0,2.109093,558.9096450000001,575.7823890000001
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2008,Industry,Waste,CO2,1,1.0,1859.71,1859.71,1859.71
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2008,Industry,Waste,CH4,28,27.0,737.331842,20645.291576000003,19907.959734
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2008,Industry,Waste,N2O,265,273.0,0.5313,140.7945,145.0449
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2009,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.00897323,0.25125044,0.24227721
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2009,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000232639,0.061649335,0.063510447
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2009,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,614.0749,17194.0972,16580.0223
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2009,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,21.7641674,5767.504361,5941.6177002
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2009,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,25.178004,704.9841120000001,679.806108
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2009,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.3506837,92.9311805,95.7366501
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2009,Buildings,Residential,CH4,28,27.0,0.059,1.652,1.593
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2009,Buildings,Residential,N2O,265,273.0,0.000295,0.078175,0.080535
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2009,Energy systems,Other (energy systems),N2O,265,273.0,0.000616901,0.163478765,0.168413973
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2009,Industry,Chemicals,CO2,1,1.0,2.65724,2.65724,2.65724
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2009,Industry,Chemicals,N2O,265,273.0,2.110493,559.2806449999999,576.164589
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2009,Industry,Waste,CO2,1,1.0,1871.27,1871.27,1871.27
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2009,Industry,Waste,CH4,28,27.0,738.127062,20667.557736,19929.430674
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2009,Industry,Waste,N2O,265,273.0,0.5346,141.66899999999998,145.9458
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2010,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.00888602,0.2488085599999999,0.23992254
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2010,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000230378,0.06105017,0.062893194
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2010,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,612.257,17143.196,16530.939
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2010,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,21.69396227,5748.90000155,5922.45169971
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2010,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,24.86,696.0799999999999,671.22
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2010,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.341587,90.520555,93.253251
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2010,Buildings,Residential,CH4,28,27.0,0.059,1.652,1.593
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2010,Buildings,Residential,N2O,265,273.0,0.000295,0.078175,0.080535
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2010,Energy systems,Other (energy systems),N2O,265,273.0,0.000616901,0.163478765,0.168413973
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2010,Industry,Chemicals,CO2,1,1.0,2.42835,2.42835,2.42835
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2010,Industry,Chemicals,N2O,265,273.0,2.111925,559.660125,576.555525
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2010,Industry,Waste,CO2,1,1.0,1882.82,1882.82,1882.82
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2010,Industry,Waste,CH4,28,27.0,738.922782,20689.837896,19950.915114
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2010,Industry,Waste,N2O,265,273.0,0.5379,142.54350000000002,146.8467
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2011,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.00915197,0.25625516,0.24710319
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2011,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000237273,0.062877345,0.064775529
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2011,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,618.9926,17331.792800000003,16712.8002
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2011,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,21.93479174,5812.719811100001,5988.19814502
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2011,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,24.821996,695.0158879999999,670.193892
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2011,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.3350641,88.7919865,91.4724993
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2011,Buildings,Residential,CH4,28,27.0,0.059,1.652,1.593
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2011,Buildings,Residential,N2O,265,273.0,0.000295,0.078175,0.080535
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2011,Energy systems,Other (energy systems),N2O,265,273.0,0.000616901,0.163478765,0.168413973
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2011,Industry,Chemicals,CO2,1,1.0,2.4246,2.4246,2.4246
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2011,Industry,Chemicals,N2O,265,273.0,2.11445,560.32925,577.24485
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2011,Industry,Waste,CO2,1,1.0,1894.37,1894.37,1894.37
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2011,Industry,Waste,CH4,28,27.0,740.19942,20725.58376,19985.38434
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2011,Industry,Waste,N2O,265,273.0,0.5412,143.418,147.7476
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2012,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.00935064,0.26181792,0.25246728
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2012,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000242424,0.06424236,0.066181752
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2012,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,625.2117,17505.9276,16880.7159
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2012,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,22.15126095,5870.08415175,6047.294239350001
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2012,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,24.694002,691.432056,666.738054
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2012,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.3259663,86.3810695,88.98879989999999
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2012,Buildings,Residential,CH4,28,27.0,0.059,1.652,1.593
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2012,Buildings,Residential,N2O,265,273.0,0.000295,0.078175,0.080535
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2012,Energy systems,Other (energy systems),N2O,265,273.0,0.000616901,0.163478765,0.168413973
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2012,Industry,Chemicals,CO2,1,1.0,2.41965,2.41965,2.41965
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2012,Industry,Chemicals,N2O,265,273.0,2.116975,560.998375,577.934175
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2012,Industry,Waste,CO2,1,1.0,1905.92,1905.92,1905.92
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2012,Industry,Waste,CH4,28,27.0,741.45081,20760.62268,20019.17187
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2012,Industry,Waste,N2O,265,273.0,0.5445,144.2925,148.64849999999998
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2013,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.00983664,0.27542592,0.26558928
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2013,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000255024,0.06758136,0.069621552
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2013,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,626.7615,17549.322,16922.5605
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2013,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,22.20460437,5884.22015805,6061.856993009999
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2013,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,24.958004,698.824112,673.8661079999999
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2013,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.3335196,88.382694,91.0508508
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2013,Buildings,Residential,CH4,28,27.0,0.059,1.652,1.593
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2013,Buildings,Residential,N2O,265,273.0,0.000295,0.078175,0.080535
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2013,Energy systems,Other (energy systems),N2O,265,273.0,0.000616901,0.163478765,0.168413973
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2013,Industry,Chemicals,CO2,1,1.0,2.42086,2.42086,2.42086
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2013,Industry,Chemicals,N2O,265,273.0,2.120498,561.93197,578.895954
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2013,Industry,Waste,CO2,1,1.0,1905.92,1905.92,1905.92
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2013,Industry,Waste,CH4,28,27.0,742.749773,20796.993644,20054.243871
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2013,Industry,Waste,N2O,265,273.0,0.5445,144.2925,148.64849999999998
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2014,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0102226,0.2862328,0.2760102
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2014,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00026503,0.0702329499999999,0.07235319
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2014,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,641.9065,17973.382,17331.4755
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2014,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,22.73845189,6025.68975085,6207.59736597
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2014,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,25.181996,705.0958880000001,679.913892
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2014,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.3290554,87.199681,89.8321242
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2014,Buildings,Residential,CH4,28,27.0,0.059,1.652,1.593
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2014,Buildings,Residential,N2O,265,273.0,0.000295,0.078175,0.080535
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2014,Energy systems,Other (energy systems),N2O,265,273.0,0.000616901,0.163478765,0.168413973
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2014,Industry,Chemicals,CO2,1,1.0,2.41471,2.41471,2.41471
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2014,Industry,Chemicals,N2O,265,273.0,2.124625,563.025625,580.022625
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2014,Industry,Waste,CO2,1,1.0,1905.92,1905.92,1905.92
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2014,Industry,Waste,CH4,28,27.0,744.033065,20832.92582,20088.892755
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2014,Industry,Waste,N2O,265,273.0,0.5445,144.2925,148.64849999999998
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2015,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.00919045,0.2573325999999999,0.2481421499999999
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2015,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000238271,0.063141815,0.065047983
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2015,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,646.5888,18104.4864,17457.8976
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2015,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,22.89801838,6067.9748707,6251.15901774
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2015,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,25.059096,701.654688,676.595592
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2015,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.3213318,85.152927,87.7235814
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2015,Buildings,Residential,CH4,28,27.0,0.059,1.652,1.593
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2015,Buildings,Residential,N2O,265,273.0,0.000295,0.078175,0.080535
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2015,Energy systems,Other (energy systems),N2O,265,273.0,0.000616901,0.163478765,0.168413973
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2015,Industry,Chemicals,CO2,1,1.0,2.40858,2.40858,2.40858
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2015,Industry,Chemicals,N2O,265,273.0,2.129983,564.445495,581.485359
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2015,Industry,Waste,CO2,1,1.0,1905.92,1905.92,1905.92
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2015,Industry,Waste,CH4,28,27.0,745.328958,20869.210824,20123.881866
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2015,Industry,Waste,N2O,265,273.0,0.5445,144.2925,148.64849999999998
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2016,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.00918618,0.25721304,0.24802686
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2016,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00023816,0.0631124,0.06501768
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2016,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,624.0832,17474.3296,16850.2464
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2016,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,22.10977759,5859.09106135,6035.96928207
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2016,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,24.348304,681.752512,657.4042079999999
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2016,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.3154955,83.6063075,86.13027149999999
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2016,Buildings,Residential,CH4,28,27.0,0.059,1.652,1.593
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2016,Buildings,Residential,N2O,265,273.0,0.000295,0.078175,0.080535
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2016,Energy systems,Other (energy systems),N2O,265,273.0,0.000616901,0.163478765,0.168413973
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2016,Industry,Chemicals,CO2,1,1.0,2.40463,2.40463,2.40463
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2016,Industry,Chemicals,N2O,265,273.0,2.136592,566.19688,583.2896159999999
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2016,Industry,Waste,CO2,1,1.0,1905.92,1905.92,1905.92
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2016,Industry,Waste,CH4,28,27.0,745.448234,20872.550552,20127.102318
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2016,Industry,Waste,N2O,265,273.0,0.5445,144.2925,148.64849999999998
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2017,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.00911037,0.2550903599999999,0.2459799899999999
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2017,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000236195,0.062591675,0.064481235
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2017,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,626.6056,17544.9568,16918.3512
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2017,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,22.18978569,5880.29320785,6057.81149337
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2017,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,24.413402,683.5752560000001,659.1618540000001
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2017,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.3156669,83.65172849999999,86.17706369999999
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2017,Buildings,Residential,CH4,28,27.0,0.059,1.652,1.593
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2017,Buildings,Residential,N2O,265,273.0,0.000295,0.078175,0.080535
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2017,Energy systems,Other (energy systems),N2O,265,273.0,0.000616901,0.163478765,0.168413973
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2017,Industry,Chemicals,CO2,1,1.0,2.40068,2.40068,2.40068
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2017,Industry,Chemicals,N2O,265,273.0,2.144115,568.1904750000001,585.3433950000001
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2017,Industry,Waste,CO2,1,1.0,1919.39,1919.39,1919.39
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2017,Industry,Waste,CH4,28,27.0,745.662088,20878.538464,20132.876376
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2017,Industry,Waste,N2O,265,273.0,0.54835,145.31275,149.69955
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2018,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.00903598,0.25300744,0.24397146
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2018,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.000234266,0.06208049,0.063954618
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2018,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,627.3984,17567.1552,16939.756800000003
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2018,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,22.2266766,5890.069299000001,6067.8827118
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2018,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,24.312998,680.763944,656.450946
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2018,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.3117189,82.6055085,85.0992597
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2018,Buildings,Residential,CH4,28,27.0,0.059,1.652,1.593
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2018,Buildings,Residential,N2O,265,273.0,0.000295,0.078175,0.080535
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2018,Energy systems,Other (energy systems),N2O,265,273.0,0.000616901,0.163478765,0.168413973
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2018,Industry,Chemicals,CO2,1,1.0,2.39674,2.39674,2.39674
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2018,Industry,Chemicals,N2O,265,273.0,2.152773,570.484845,587.7070289999999
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2018,Industry,Waste,CO2,1,1.0,1934.8,1934.8,1934.8
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2018,Industry,Waste,CH4,28,27.0,745.897637,20885.133836,20139.236199
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2018,Industry,Waste,N2O,265,273.0,0.55275,146.47875,150.90075
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2019,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0090355611323728,0.2529957117064398,0.2439601505740669
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2019,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0002342550449806,0.0620775869198754,0.0639516272797207
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2019,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,624.764444880781,17493.40445666187,16868.640011781084
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2019,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,22.3277128107556,5916.8438948502335,6095.465597336279
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2019,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,24.250441752417,679.012369067676,654.761927315259
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2019,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.3117189,82.6055085,85.0992597
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2019,Buildings,Residential,CH4,28,27.0,0.059,1.652,1.593
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2019,Buildings,Residential,N2O,265,273.0,0.000295,0.078175,0.080535
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2019,Energy systems,Other (energy systems),N2O,265,273.0,0.000616901,0.163478765,0.168413973
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2019,Industry,Chemicals,CO2,1,1.0,2.39191,2.39191,2.39191
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2019,Industry,Chemicals,N2O,265,273.0,2.15712879231435,571.6391299633027,588.8961603018175
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2019,Industry,Waste,CO2,1,1.0,1940.57,1940.57,1940.57
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2019,Industry,Waste,CH4,28,27.0,747.184380571276,20921.16265599573,20173.97827542445
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2019,Industry,Waste,N2O,265,273.0,0.55275,146.47875,150.90075
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2020,Industry,Chemicals,CO2,1,1.0,2.3871,2.3871,2.3871
+FRO,Faroe Islands,Developed Countries,Europe,Northern and western Europe,developed,2020,Industry,Waste,CO2,1,1.0,1946.37,1946.37,1946.37

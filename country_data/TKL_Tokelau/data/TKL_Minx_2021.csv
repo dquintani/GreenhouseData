@@ -1,0 +1,351 @@
+code,name,region_ar6_6,region_ar6_10,region_ar6_22,region_ar6_dev,year,sector_title,subsector_title,gas,gwp100_ar5,gwp100_ar6,value_native,value_ar5,value_ar6
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1970,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.14359,4.020519999999999,3.87693
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1970,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0037227,0.9865155,1.0162970999999998
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1970,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,0.87,24.36,23.49
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1970,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.23702018,62.8103477,64.70650914
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1970,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.6689238,74.72986639999999,72.0609426
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1970,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.05998337,15.89559305,16.37546001
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1970,Industry,Waste,CH4,28,27.0,29.17065,816.7782,787.60755
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1971,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.146848,4.111744,3.964896
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1971,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00380718,1.0089027,1.03936014
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1971,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,0.88,24.64,23.76
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1971,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.24110189,63.89200085,65.82081597
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1971,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.6965744,75.5040832,72.8075088
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1971,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.06111623,16.19580095,16.68473079
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1971,Industry,Waste,CH4,28,27.0,11.2972116,316.32192480000003,305.0247132
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1972,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.151105,4.23094,4.079835
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1972,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00391754,1.0381481,1.06948842
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1972,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,0.9,25.2,24.3
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1972,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.24716319,65.49824535,67.47555087
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1972,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.7518856,77.0527968,74.3009112
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1972,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.0627302,16.623503,17.1253446
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1972,Industry,Waste,CH4,28,27.0,10.96135493,306.91793804,295.95658311
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1973,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.16188,4.53264,4.37076
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1973,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00419688,1.1121732,1.14574824
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1973,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,0.92,25.76,24.84
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1973,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.25613853,67.87671044999999,69.92581869
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1973,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.8071857,78.6011996,75.7940139
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1973,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.06465956,17.1347834,17.652059880000003
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1973,Industry,Waste,CH4,28,27.0,10.72883053,300.40725484,289.67842431
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1974,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.168397,4.715116,4.546719
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1974,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00436585,1.15695025,1.19187705
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1974,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,0.94,26.32,25.38
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1974,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.26316754,69.73939809999999,71.84473842
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1974,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.8624959,80.1498852,77.2873893
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1974,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.06638164,17.5911346,18.122187720000003
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1974,Industry,Waste,CH4,28,27.0,10.48967933,293.71102124,283.22134191
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1975,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.169395,4.74306,4.573665
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1975,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00439172,1.1638058,1.19893956
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1975,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,0.95,26.6,25.65
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1975,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.26603552,70.4994128,72.62769696000001
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1975,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.8901455,80.924074,78.0339285
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1975,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.06698828,17.7518942,18.28780044
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1975,Industry,Waste,CH4,28,27.0,10.26021605,287.2860494,277.02583335
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1976,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.172654,4.834312,4.661658
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1976,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00447621,1.1861956500000002,1.2220053300000002
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1976,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,0.9,25.2,24.3
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1976,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.25797295,68.36283175,70.42661534999999
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1976,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.7518856,77.0527968,74.3009112
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1976,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.06455383,17.106764950000002,17.62319559
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1976,Industry,Waste,CH4,28,27.0,9.99317033,279.80876924,269.81559891
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1977,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.173652,4.862256,4.688604
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1977,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00450208,1.1930512,1.22906784
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1977,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,0.9,25.2,24.3
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1977,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.26043093,69.01419645,71.09764389
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1977,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,2.7518856,77.0527968,74.3009112
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1977,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.06527841,17.29877865,17.82100593
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1977,Industry,Waste,CH4,28,27.0,9.69334753,271.41373084,261.72038331
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1978,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.17691,4.953480000000001,4.77657
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1978,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00458657,1.21544105,1.25213361
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1978,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,0.98,27.44,26.46
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1978,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.28034641,74.29179865,76.53456993
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1978,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.0608172,85.7028816,82.6420644
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1978,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.07252244,19.2184466,19.79862612
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1978,Industry,Waste,CH4,28,27.0,9.38449857,262.76595996,253.38146139
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1979,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.17691,4.953480000000001,4.77657
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1979,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00458657,1.21544105,1.25213361
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1979,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1979,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.28547666,75.6513149,77.93512817999999
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1979,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.1161174,87.2512872,84.1351698
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1979,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.07548734,20.0041451,20.60804382
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1979,Industry,Waste,CH4,28,27.0,9.1653842,256.6307576,247.4653734
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1980,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.181167,5.072676,4.891509
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1980,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00469693,1.24468645,1.28226189
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1980,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.03,28.84,27.81
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1980,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.2939738,77.903057,80.2548474
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1980,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.1990792,89.5742176,86.3751384
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1980,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.07898747,20.93167955,21.56357931
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1980,Industry,Waste,CH4,28,27.0,8.99775082,251.93702296,242.93927214
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1981,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.181167,5.072676,4.891509
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1981,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00469693,1.24468645,1.28226189
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1981,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.05,29.4,28.35
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1981,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.29753576,78.84697639999999,81.22726248
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1981,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2543793,91.1226204,87.8682411
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1981,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.07898903,20.93209295,21.56400519
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1981,Industry,Waste,CH4,28,27.0,8.90009235,249.2025858,240.30249345
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1982,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.184426,5.163928,4.979502
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1982,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00478141,1.26707365,1.30532493
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1982,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.07,29.96,28.89
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1982,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.31732679,84.09159935000001,86.63021367
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1982,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.3973995,95.127186,91.7297865
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1982,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.08385143,22.22062895,22.89144039
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1982,Industry,Waste,CH4,28,27.0,8.91019458,249.48544824,240.57525366
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1983,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.187685,5.255179999999999,5.067495
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1983,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0048659,1.2894635,1.3283907
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1983,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.1,30.800000000000004,29.700000000000003
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1983,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.32453824,86.0026336,88.59893951999999
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1983,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.4803602,97.4500856,93.9697254
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1983,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.08728716,23.1310974,23.82939468
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1983,Industry,Waste,CH4,28,27.0,8.8701868,248.36523040000003,239.49504360000003
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1984,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.18964,5.30992,5.12028
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1984,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0049166,1.302899,1.3422318
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1984,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1984,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.30806016,81.6359424,84.10042368
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1984,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1984,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.07996513,21.19075945,21.83048049
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1984,Industry,Waste,CH4,28,27.0,8.82875938,247.20526264,238.37650326
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1985,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.191595,5.36466,5.173064999999999
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1985,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00496728,1.3163292,1.35606744
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1985,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1985,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.30915325,81.92561125,84.39883725
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1985,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1985,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.08044462,21.3178243,21.96138126
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1985,Industry,Waste,CH4,28,27.0,8.63811018,241.86708504,233.22897486
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1986,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.193897,5.4291160000000005,5.235219000000001
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1986,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00502695,1.33214175,1.37235735
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1986,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1986,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.31110168,82.44194519999999,84.93075864
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1986,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1986,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.08205329,21.74412185,22.40054817
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1986,Industry,Waste,CH4,28,27.0,8.35927,234.05956,225.70029
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1987,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.196504,5.502112,5.305608
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1987,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00509454,1.3500531,1.39080942
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1987,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1987,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.31244554,82.79806810000001,85.29763242
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1987,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1987,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.08246991,21.85452615,22.51428543
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1987,Industry,Waste,CH4,28,27.0,8.08205313,226.29748764,218.21543451
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1988,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.198459,5.556852,5.358393
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1988,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00514524,1.3634886,1.40465052
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1988,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1988,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.31369801,83.12997265000001,85.63955673000001
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1988,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1988,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.08318485,22.04398525,22.70946405
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1988,Industry,Waste,CH4,28,27.0,7.68496113,215.17891164,207.49395051
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1989,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.201718,5.648104,5.446386
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1989,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00522972,1.3858758,1.4277135600000002
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1989,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1989,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.31574898,83.6734797,86.19947154
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1989,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1989,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.08438069,22.36088285,23.03592837
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1989,Industry,Waste,CH4,28,27.0,7.30167733,204.44696524,197.14528791
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1990,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.205975,5.7673,5.561325
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1990,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00534008,1.4151212,1.45784184
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1990,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1990,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.31891942,84.5136463,87.06500166000001
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1990,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1990,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.0869142,23.032263,23.7275766
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1990,Industry,Waste,CH4,28,27.0,6.95187815,194.6525882,187.70071005
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1991,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.215221,6.026187999999999,5.810967
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1991,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0055798,1.478647,1.5232854
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1991,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1991,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.3229245,85.57499250000001,88.1583885
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1991,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1991,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.08713721,23.09136065,23.78845833
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1991,Industry,Waste,CH4,28,27.0,6.8177628,190.8973584,184.0795956
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1992,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.217176,6.080928,5.863752
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1992,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00563049,1.49207985,1.53712377
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1992,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1992,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.32459654,86.0180831,88.61485542
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1992,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1992,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.08855071,23.46593815,24.17434383
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1992,Industry,Waste,CH4,28,27.0,6.7322176,188.5020928,181.7698752
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1993,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.21848,6.11744,5.898960000000001
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1993,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00566429,1.50103685,1.54635117
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1993,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1993,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.32494102,86.10937030000001,88.70889846
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1993,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1993,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.08811435,23.35030275,24.05521755
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1993,Industry,Waste,CH4,28,27.0,6.6338986,185.7491608,179.11526220000002
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1994,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.217176,6.080928,5.863752
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1994,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00563049,1.49207985,1.53712377
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1994,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1994,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.32495685,86.11356525000001,88.71322005
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1994,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1994,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.08892282,23.5645473,24.27592986
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1994,Industry,Waste,CH4,28,27.0,6.608172,185.028816,178.42064399999998
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1995,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0856891,2.3992948000000003,2.3136057
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1995,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00222157,0.58871605,0.60648861
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1995,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1995,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.33928234,89.9098201,92.62407882
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1995,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1995,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.09093759,24.09846135,24.82596207
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1995,Industry,Waste,CH4,28,27.0,6.5569324,183.5941072,177.0371748
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1996,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0843858,2.3628024,2.2784166
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1996,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00218778,0.5797616999999999,0.5972639399999999
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1996,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1996,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.33782777,89.52435905,92.22698121
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1996,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1996,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.09110421,24.14261565,24.87144933
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1996,Industry,Waste,CH4,28,27.0,6.6081988,185.0295664,178.4213676
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1997,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0828214,2.3189992,2.2361778
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1997,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00214722,0.5690133,0.58619106
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1997,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1997,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.33667102,89.2178203,91.91118846
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1997,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1997,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.09227181,24.45202965,25.19020413
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1997,Industry,Waste,CH4,28,27.0,6.6852046,187.1857288,180.5005242
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1998,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0805974,2.2567272,2.1761298
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1998,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00208956,0.5537333999999999,0.57044988
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1998,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1998,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.3345829,88.6644685,91.3411317
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1998,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1998,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.0930823,24.666809500000003,25.4114679
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1998,Industry,Waste,CH4,28,27.0,6.8048738,190.5364664,183.7315926
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1999,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0778518,2.1798504,2.1019986
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1999,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00201838,0.5348707,0.55101774
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1999,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1999,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.3314831,87.84302149999999,90.4948863
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1999,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1999,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.09354903,24.79049295,25.53888519
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,1999,Industry,Waste,CH4,28,27.0,6.800617,190.417276,183.616659
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2000,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0757663,2.1214564,2.0456901
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2000,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00196431,0.5205421499999999,0.53625663
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2000,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2000,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.32966143,87.36027895,89.99757038999999
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2000,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2000,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.09453749,25.05243485,25.80873477
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2000,Industry,Waste,CH4,28,27.0,6.7151042,188.0229176,181.3078134
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2001,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0730207,2.0445796,1.9715589
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2001,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00189313,0.50167945,0.51682449
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2001,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2001,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.32618776,86.4397564,89.04925847999999
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2001,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2001,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.09417327,24.95591655,25.70930271
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2001,Industry,Waste,CH4,28,27.0,6.4970656,181.9178368,175.4207712
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2002,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0705359,1.9750052,1.9044693
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2002,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00182871,0.48460815,0.49923783
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2002,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2002,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.32351396,85.7311994,88.31931107999999
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2002,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2002,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.09452737,25.04975305,25.80597201
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2002,Industry,Waste,CH4,28,27.0,6.2062862,173.7760136,167.5697274
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2003,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0681896,1.9093088,1.8411192
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2003,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00176788,0.4684882,0.48263124
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2003,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2003,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.32080085,85.01222525,87.57863205000001
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2003,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2003,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.09487356,25.1414934,25.90048188
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2003,Industry,Waste,CH4,28,27.0,5.8471208,163.7193824,157.8722616
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2004,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0659656,1.8470368,1.7810712
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2004,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00171022,0.4532082999999999,0.46689006
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2004,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2004,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.31802631,84.27697214999999,86.82118263
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2004,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2004,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.09433673,24.99923345,25.75392729
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2004,Industry,Waste,CH4,28,27.0,5.5135936,154.3806208,148.8670272
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2005,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0641407,1.7959396,1.7317988999999998
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2005,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00166291,0.44067115,0.45397443
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2005,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2005,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.31584744,83.6995716,86.22635111999999
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2005,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2005,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.09433673,24.99923345,25.75392729
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2005,Industry,Waste,CH4,28,27.0,5.2356584,146.5984352,141.3627768
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2006,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0619164,1.7336592000000002,1.6717428
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2006,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00160524,0.4253886,0.43823052
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2006,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2006,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.31319218,82.9959277,85.50146514
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2006,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2006,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.09433673,24.99923345,25.75392729
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2006,Industry,Waste,CH4,28,27.0,5.06328653,141.77202284,136.70873631
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2007,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0608737,1.7044636,1.6435899
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2007,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00157821,0.41822565,0.43085133
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2007,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2007,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.31194717,82.66600005,85.16157740999999
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2007,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2007,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.09433673,24.99923345,25.75392729
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2007,Industry,Waste,CH4,28,27.0,4.95211113,138.65911164,133.70700051
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2008,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0596924,1.6713872,1.6116948
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2008,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00154758,0.4101087,0.42248934
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2008,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2008,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.31053679,82.29224935,84.77654367
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2008,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2008,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.09433673,24.99923345,25.75392729
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2008,Industry,Waste,CH4,28,27.0,4.885045,136.78126,131.89621499999998
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2009,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0589102,1.6494856,1.5905754
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2009,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0015273,0.4047345,0.4169529
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2009,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2009,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.30960285,82.04475525,84.52157805
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2009,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2009,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.09433673,24.99923345,25.75392729
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2009,Industry,Waste,CH4,28,27.0,4.8850398,136.7811144,131.89607460000002
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2010,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0586497,1.6421916,1.5835419
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2010,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00152055,0.40294575,0.41511015
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2010,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2010,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.30929169,81.96229785,84.43663137
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2010,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2010,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.09433673,24.99923345,25.75392729
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2010,Industry,Waste,CH4,28,27.0,4.9448612,138.4561136,133.5112524
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2011,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0583889,1.6348892,1.5765003
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2011,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00151378,0.4011517,0.41326194
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2011,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2011,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.30898034,81.87979010000001,84.35163282
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2011,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2011,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.09433673,24.99923345,25.75392729
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2011,Industry,Waste,CH4,28,27.0,4.9919236,139.7738608,134.7819372
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2012,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0581283,1.6275924,1.5694641
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2012,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00150703,0.39936295,0.41141919
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2012,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2012,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.30866898,81.79727969999999,84.26663153999999
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2012,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2012,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.09433673,24.99923345,25.75392729
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2012,Industry,Waste,CH4,28,27.0,5.0602526,141.6870728,136.6268202
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2013,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0581283,1.6275924,1.5694641
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2013,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00150703,0.39936295,0.41141919
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2013,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2013,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.30866898,81.79727969999999,84.26663153999999
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2013,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2013,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.09433673,24.99923345,25.75392729
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2013,Industry,Waste,CH4,28,27.0,5.1456326,144.0777128,138.9320802
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2014,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0581283,1.6275924,1.5694641
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2014,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00150703,0.39936295,0.41141919
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2014,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2014,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.30918333,81.93358244999999,84.40704909
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2014,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2014,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.09433673,24.99923345,25.75392729
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2014,Industry,Waste,CH4,28,27.0,5.2823156,147.9048368,142.62252120000002
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2015,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0568247,1.5910916,1.5342669
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2015,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00147323,0.39040595,0.40219179
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2015,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2015,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.30763452,81.5231478,83.98422396000001
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2015,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2015,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.09433673,24.99923345,25.75392729
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2015,Industry,Waste,CH4,28,27.0,5.4232296,151.8504288,146.4271992
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2016,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0565639,1.5837892,1.5272253
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2016,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00146647,0.38861455,0.40034631
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2016,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2016,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.30733058,81.4426037,83.90124834000001
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2016,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2016,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.09433673,24.99923345,25.75392729
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2016,Industry,Waste,CH4,28,27.0,5.5513416,155.4375648,149.8862232
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2017,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.055904,1.565312,1.509408
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2017,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00144936,0.3840804,0.39567528
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2017,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2017,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.3060137,81.0936305,83.5417401
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2017,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2017,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.09433673,24.99923345,25.75392729
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2017,Industry,Waste,CH4,28,27.0,5.6282116,157.5899248,151.96171320000002
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2018,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0556435,1.558018,1.5023745
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2018,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.00144261,0.38229165,0.39383253
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2018,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2018,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.30570236,81.0111254,83.45674428
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2018,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2018,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.09433673,24.99923345,25.75392729
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2018,Industry,Waste,CH4,28,27.0,5.7093616,159.8621248,154.1527632
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2019,AFOLU,"Biomass burning (CH4, N2O)",CH4,28,27.0,0.0542012152059653,1.5176340257670282,1.463432810561063
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2019,AFOLU,"Biomass burning (CH4, N2O)",N2O,265,273.0,0.0014052192419107,0.3723830991063487,0.3836248530416347
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2019,AFOLU,Enteric Fermentation (CH4),CH4,28,27.0,1.0,28.0,27.0
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2019,AFOLU,"Managed soils and pasture (CO2, N2O)",N2O,265,273.0,0.303521389223189,80.43316814414509,82.8613392579306
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2019,AFOLU,"Manure management (N2O, CH4)",CH4,28,27.0,3.2038274,89.7071672,86.5033398
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2019,AFOLU,"Manure management (N2O, CH4)",N2O,265,273.0,0.09433673,24.99923345,25.75392729
+TKL,Tokelau,Asia and developing Pacific,South-East Asia and developing Pacific,Developing Pacific,developing,2019,Industry,Waste,CH4,28,27.0,5.82872552108441,163.20431459036348,157.37558906927907
