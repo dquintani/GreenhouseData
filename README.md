@@ -9,10 +9,10 @@ Created by Diego Acevedo Quintanilla
 <img width="600" src="supplemental/ghg-logo.png">
 
 <p align="center" style="font-size: 13px">
-<a href="https://dquintani.github.io/Greenhouse-Data/pages/about">About this project</a>
+<a href="https://dquintani.github.io/GreenhouseData/pages/about">About this project</a>
 </p>
 <br>
-<h1>Clean, homogenized GHG emissions inventory data <a href="https://github.com/dquintani/Greenhouse-Data/tree/master/clean_data">here</a></h1>
+<h1>Clean, homogenized GHG emissions inventory data <a href="https://github.com/dquintani/GreenhouseData/tree/master/clean_data">here</a></h1>
 <p>Includes: BP | EIA | UNFCCC | EDGAR | FAO | CAIT | EPA | CDIAC | PRIMAP-hist | GCP | Minx et al. 2021 | IEA</p>
 <p><br>
 <br></p>

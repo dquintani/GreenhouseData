@@ -26,7 +26,7 @@ for all countries of the world.
 This project was inspired by my masters thesis written at ETH Zurich titled "A comparative analysis of various greenhouse gas emission inventories, & exploring the public's perception on the relationship between plastics and climate change" (supervised by my awesome mentors Sonia Seneviratne, Jonas Schwabb and Anthony Patt). I couldn't stand the thought of my masters thesis being burried deep within the Realms of The Forgotten Theses. So I made this.
 <br>
 <br>
-Contact me at dquintani at student.ethz.ch, or feel free to clone the project & create pull requests. If you manage to understand the [messy] project code, then you too cAN easily & rapidly create and add a GHG emission figure for all countries of the world using either "Graphs" .ipynb notebook in the scripts folder.
+Contact me at dquintani at student.ethz.ch, or feel free to clone the project & create pull requests. If you manage to understand the [messy] project code, then you too can easily create a standardized figure for all countries of the world. (If interested, check out either "Graphs_.." .ipynb notebooks located in the scripts folder.)
 <br>
 <br>
 
