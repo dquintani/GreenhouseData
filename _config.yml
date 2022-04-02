@@ -4,7 +4,7 @@ remote_theme: BDHU/minimalist
 
 title: Greenhouse Data
 logo: supplemental/ghg-logo.png
-description: A user-friendly repository of various greenhouse gas emission inventories (and lots of pre-made figures) for all countries of the world. Created by Diego Acevedo Quintanilla. [Ongoing development]
+description: A user-friendly repository of various greenhouse gas emission inventories (and lots of pre-made figures) for all countries of the world. Created by Diego Acevedo Quintanilla. [ongoing development]
 show_downloads: false
 color-scheme: dark
 favicon: true

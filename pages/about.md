@@ -4,20 +4,20 @@
     Created by Diego Acevedo Quintanilla
 </h3>
 <p align="center" style="font-size: 18px">
-    [April 2022 // Ongoing development]
+    [April 2022 // ongoing development]
 </p>
 <br>
 
 <p align="left">
-Our climate is bonkers. If we are to mitigate the worst 
-impacts of runaway climate change, we must all get our sh#t together 
-and drastically reduce global greenhouse gas emissions.
+Our climate is bonkers lately, and it's gonna get worse. If we are to mitigate the worst 
+impacts of runaway climate change, we all must get our sh#t together 
+and drastically reduce global greenhouse gas emissions. Fast.
 <br>
 <br>
-How, you ask? It's complicated. 
+How, you ask? And where are these emissions coming from? Well, it's complicated. 
 We emit greenhouse gases in virtually every aspect of modern life. 
 The best way to both understand and track where these emissions are coming from 
-is through data. Reliable, clean, easily accesible, free, and comprehensive data. 
+is through data. Clean, reliable, easily accesible, free, & comprehensive data. 
 And that is what Greenhouse Data offers: a user-friendly repository of 
 various greenhouse gas emission inventories (and lots of pre-made figures) 
 for all countries of the world.
