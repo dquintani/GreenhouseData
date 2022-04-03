@@ -7,7 +7,11 @@ logo: supplemental/ghg-logo.png
 description: A user-friendly repository of various greenhouse gas emission inventories (and lots of pre-made figures) for all countries of the world. Created by Diego Acevedo Quintanilla. [ongoing development]
 show_downloads: false
 color-scheme: dark
+
 favicon: true
+header-img: supplemental/ghg-logo.png
+subtitle: "subtitle"
+
 google_analytics: UA-224311826-2
 plugins:
   - jekyll-sitemap
