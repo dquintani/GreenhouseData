@@ -13,8 +13,7 @@ show_downloads: false
 color-scheme: dark
 
 favicon: true
-header-img: supplemental/ghg-logo.png
-subtitle: "Yes"
+header-img: GreenhouseData/supplemental/ghg-logo.png
 
 google_analytics: UA-224311826-2
 
