@@ -8,7 +8,7 @@ Benin
 🇧🇯🇧🇯🇧🇯🇧🇯🇧🇯
 </h1>
 <h2>Datasets:</h2>
-<p><a href="https://github.com/dquintani/Greenhouse-Data/tree/master/country_data/BEN_Benin/data">View on Github</a>
+<p><a href="https://github.com/dquintani/GreenhouseData/tree/master/country_data/BEN_Benin/data">View on Github</a>
 <br></p><p><a href="data/BEN_PRIMAP-hist.csv">PRIMAP-hist</a> || <a href="data/BEN_EPA.csv">EPA</a> || <a href="data/BEN_GCP.csv">GCP</a> || <a href="data/BEN_IEA.csv">IEA</a> || <a href="data/BEN_CAIT.csv">CAIT</a> || <a href="data/BEN_CDIAC.csv">CDIAC</a> || <a href="data/BEN_GCP_consupmption.csv">GCP_consupmption</a> || <a href="data/BEN_EDGAR.csv">EDGAR</a> || <a href="data/BEN_EIA.csv">EIA</a> || <a href="data/BEN_FAO.csv">FAO</a> || <a href="data/BEN_GCP_cons.csv">GCP_cons</a> || <a href="data/BEN_Minx_2021.csv">Minx_2021</a></p><p><br></p>
 <h1>Figures:</h1><h2>#1 (BEN_GCP_1)</h2>
 <p><img alt="" src="figures/BEN_GCP_1.png" /></p><h2>#2 (BEN_CAIT_gases_1)</h2>

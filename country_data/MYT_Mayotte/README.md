@@ -8,7 +8,7 @@ Mayotte
 🇾🇹🇾🇹🇾🇹🇾🇹🇾🇹
 </h1>
 <h2>Datasets:</h2>
-<p><a href="https://github.com/dquintani/Greenhouse-Data/tree/master/country_data/MYT_Mayotte/data">View on Github</a>
+<p><a href="https://github.com/dquintani/GreenhouseData/tree/master/country_data/MYT_Mayotte/data">View on Github</a>
 <br></p><p><a href="data/MYT_FAO.csv">FAO</a> || <a href="data/MYT_GCP_consupmption.csv">GCP_consupmption</a> || <a href="data/MYT_GCP.csv">GCP</a> || <a href="data/MYT_GCP_cons.csv">GCP_cons</a> || <a href="data/MYT_EDGAR.csv">EDGAR</a> || <a href="data/MYT_Minx_2021.csv">Minx_2021</a></p><p><br></p>
 <h1>Figures:</h1><h2>#1 (MYT_BP_1)</h2>
 <p><img alt="" src="figures/MYT_BP_1.png" /></p><h2>#2 (MYT_Minx_top20_subsectors)</h2>

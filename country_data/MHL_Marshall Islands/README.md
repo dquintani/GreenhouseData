@@ -8,7 +8,7 @@ Marshall Islands
 🇲🇭🇲🇭🇲🇭🇲🇭🇲🇭
 </h1>
 <h2>Datasets:</h2>
-<p><a href="https://github.com/dquintani/Greenhouse-Data/tree/master/country_data/MHL_Marshall Islands/data">View on Github</a>
+<p><a href="https://github.com/dquintani/GreenhouseData/tree/master/country_data/MHL_Marshall Islands/data">View on Github</a>
 <br></p><p><a href="data/MHL_CAIT.csv">CAIT</a> || <a href="data/MHL_GCP.csv">GCP</a> || <a href="data/MHL_EDGAR.csv">EDGAR</a> || <a href="data/MHL_EPA.csv">EPA</a> || <a href="data/MHL_CDIAC.csv">CDIAC</a> || <a href="data/MHL_GCP_consupmption.csv">GCP_consupmption</a> || <a href="data/MHL_GCP_cons.csv">GCP_cons</a> || <a href="data/MHL_Minx_2021.csv">Minx_2021</a> || <a href="data/MHL_FAO.csv">FAO</a> || <a href="data/MHL_PRIMAP-hist.csv">PRIMAP-hist</a></p><p><br></p>
 <h1>Figures:</h1><h2>#1 (MHL_BP_1)</h2>
 <p><img alt="" src="figures/MHL_BP_1.png" /></p><h2>#2 (MHL_Minx_top20_subsectors)</h2>

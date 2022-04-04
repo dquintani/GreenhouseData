@@ -8,7 +8,7 @@ Bulgaria
 🇧🇬🇧🇬🇧🇬🇧🇬🇧🇬
 </h1>
 <h2>Datasets:</h2>
-<p><a href="https://github.com/dquintani/Greenhouse-Data/tree/master/country_data/BGR_Bulgaria/data">View on Github</a>
+<p><a href="https://github.com/dquintani/GreenhouseData/tree/master/country_data/BGR_Bulgaria/data">View on Github</a>
 <br></p><p><a href="data/BGR_Minx_2021.csv">Minx_2021</a> || <a href="data/BGR_EDGAR.csv">EDGAR</a> || <a href="data/BGR_GCP_cons.csv">GCP_cons</a> || <a href="data/BGR_GCP_consupmption.csv">GCP_consupmption</a> || <a href="data/BGR_EIA.csv">EIA</a> || <a href="data/BGR_CDIAC.csv">CDIAC</a> || <a href="data/BGR_FAO.csv">FAO</a> || <a href="data/BGR_BP.csv">BP</a> || <a href="data/BGR_IEA.csv">IEA</a> || <a href="data/BGR_CAIT.csv">CAIT</a> || <a href="data/BGR_PRIMAP-hist.csv">PRIMAP-hist</a> || <a href="data/BGR_GCP.csv">GCP</a> || <a href="data/BGR_EPA.csv">EPA</a></p><p><br></p>
 <h1>Figures:</h1><h2>#1 (BGR_BP_1)</h2>
 <p><img alt="" src="figures/BGR_BP_1.png" /></p><h2>#2 (BGR_CO2_totals)</h2>

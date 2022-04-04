@@ -8,7 +8,7 @@ Burundi
 🇧🇮🇧🇮🇧🇮🇧🇮🇧🇮
 </h1>
 <h2>Datasets:</h2>
-<p><a href="https://github.com/dquintani/Greenhouse-Data/tree/master/country_data/BDI_Burundi/data">View on Github</a>
+<p><a href="https://github.com/dquintani/GreenhouseData/tree/master/country_data/BDI_Burundi/data">View on Github</a>
 <br></p><p><a href="data/BDI_CDIAC.csv">CDIAC</a> || <a href="data/BDI_Minx_2021.csv">Minx_2021</a> || <a href="data/BDI_FAO.csv">FAO</a> || <a href="data/BDI_GCP_cons.csv">GCP_cons</a> || <a href="data/BDI_GCP.csv">GCP</a> || <a href="data/BDI_EPA.csv">EPA</a> || <a href="data/BDI_EDGAR.csv">EDGAR</a> || <a href="data/BDI_PRIMAP-hist.csv">PRIMAP-hist</a> || <a href="data/BDI_EIA.csv">EIA</a> || <a href="data/BDI_CAIT.csv">CAIT</a> || <a href="data/BDI_GCP_consupmption.csv">GCP_consupmption</a></p><p><br></p>
 <h1>Figures:</h1><h2>#1 (BDI_EIA_1)</h2>
 <p><img alt="" src="figures/BDI_EIA_1.png" /></p><h2>#2 (BDI_CAIT_gases_1)</h2>
