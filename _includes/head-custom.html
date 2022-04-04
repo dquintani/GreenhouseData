@@ -9,16 +9,18 @@
   <link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
 {% endif %}
 
+
+<!-- COSTUM GHDATA -->
+
+
+
 {% if site.header-img %}
     <meta property="og:image" content="{{ site.url }}/{{ site.header-img }}" />
 {% endif %}
 
-{% if page.image %}
-<meta name="twitter:card"  content="summary_large_image">
-<meta name="twitter:image" content="{{ site.url }}/{{ site.header-img }}">
-{% else %}
-<meta name="twitter:card"  content="summary_large_image">
-<meta name="twitter:image" content="{{ site.url }}/{{ site.header-img }}">
+{% if site.header-img %}
+    <meta name="twitter:card"  content="summary_large_image"> 
+    <meta name="twitter:image" content="{{ site.url }}/{{ site.header-img }}">
 {% endif %}
 
 <!-- end custom head snippets -->
