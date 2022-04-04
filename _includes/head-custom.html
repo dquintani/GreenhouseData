@@ -13,4 +13,12 @@
     <meta property="og:image" content="{{ site.url }}/{{ site.header-img }}" />
 {% endif %}
 
+{% if page.image %}
+<meta name="twitter:card"  content="summary_large_image">
+<meta name="twitter:image" content="{{ site.url }}{{ site.header-img }}">
+{% else %}
+<meta name="twitter:card"  content="summary">
+<meta name="twitter:image" content="{{ site.header-img }}">
+{% endif %}
+
 <!-- end custom head snippets -->
