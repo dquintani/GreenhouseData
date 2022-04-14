@@ -9,7 +9,7 @@ Sweden
 </h1>
 <h2>Datasets:</h2>
 <p><a href="https://github.com/dquintani/GreenhouseData/tree/master/country_data/SWE_Sweden/data">View on Github</a>
-<br></p><p><a href="data/SWE_EDGAR.csv">EDGAR</a> || <a href="data/SWE_CAIT.csv">CAIT</a> || <a href="data/SWE_GCP_consupmption.csv">GCP_consupmption</a> || <a href="data/SWE_EIA.csv">EIA</a> || <a href="data/SWE_EPA.csv">EPA</a> || <a href="data/SWE_FAO.csv">FAO</a> || <a href="data/SWE_CDIAC.csv">CDIAC</a> || <a href="data/SWE_GCP_cons.csv">GCP_cons</a> || <a href="data/SWE_IEA.csv">IEA</a> || <a href="data/SWE_Minx_2021.csv">Minx_2021</a> || <a href="data/SWE_BP.csv">BP</a> || <a href="data/SWE_PRIMAP-hist.csv">PRIMAP-hist</a> || <a href="data/SWE_GCP.csv">GCP</a></p><p><br></p>
+<br></p><p><a href="data/SWE_EDGAR.csv">EDGAR</a> || <a href="data/SWE_CAIT.csv">CAIT</a> || <a href="data/SWE_GCP_consupmption.csv">GCP_consupmption</a> || <a href="data/SWE_EIA.csv">EIA</a> || <a href="data/SWE_EPA.csv">EPA</a> || <a href="data/SWE_FAO.csv">FAO</a> || <a href="data/SWE_CDIAC.csv">CDIAC</a> || <a href="data/SWE_IEA.csv">IEA</a> || <a href="data/SWE_Minx_2021.csv">Minx_2021</a> || <a href="data/SWE_BP.csv">BP</a> || <a href="data/SWE_PRIMAP-hist.csv">PRIMAP-hist</a> || <a href="data/SWE_GCP.csv">GCP</a></p><p><br></p>
 <h1>Figures:</h1><h2>#1 (SWE_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/SWE_CAIT_gases_1.png" /></p><h2>#2 (SWE_CDIAC_1)</h2>
 <p><img alt="" src="figures/SWE_CDIAC_1.png" /></p><h2>#3 (SWE_BP_1)</h2>

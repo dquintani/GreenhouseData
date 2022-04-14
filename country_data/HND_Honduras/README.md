@@ -9,7 +9,7 @@ Honduras
 </h1>
 <h2>Datasets:</h2>
 <p><a href="https://github.com/dquintani/GreenhouseData/tree/master/country_data/HND_Honduras/data">View on Github</a>
-<br></p><p><a href="data/HND_EDGAR.csv">EDGAR</a> || <a href="data/HND_CAIT.csv">CAIT</a> || <a href="data/HND_PRIMAP-hist.csv">PRIMAP-hist</a> || <a href="data/HND_FAO.csv">FAO</a> || <a href="data/HND_GCP.csv">GCP</a> || <a href="data/HND_IEA.csv">IEA</a> || <a href="data/HND_Minx_2021.csv">Minx_2021</a> || <a href="data/HND_EIA.csv">EIA</a> || <a href="data/HND_EPA.csv">EPA</a> || <a href="data/HND_GCP_consupmption.csv">GCP_consupmption</a> || <a href="data/HND_CDIAC.csv">CDIAC</a> || <a href="data/HND_GCP_cons.csv">GCP_cons</a></p><p><br></p>
+<br></p><p><a href="data/HND_EDGAR.csv">EDGAR</a> || <a href="data/HND_CAIT.csv">CAIT</a> || <a href="data/HND_PRIMAP-hist.csv">PRIMAP-hist</a> || <a href="data/HND_FAO.csv">FAO</a> || <a href="data/HND_GCP.csv">GCP</a> || <a href="data/HND_IEA.csv">IEA</a> || <a href="data/HND_Minx_2021.csv">Minx_2021</a> || <a href="data/HND_EIA.csv">EIA</a> || <a href="data/HND_EPA.csv">EPA</a> || <a href="data/HND_GCP_consupmption.csv">GCP_consupmption</a> || <a href="data/HND_CDIAC.csv">CDIAC</a></p><p><br></p>
 <h1>Figures:</h1><h2>#1 (HND_CO2_totals)</h2>
 <p><img alt="" src="figures/HND_CO2_totals.png" /></p><h2>#2 (HND_EIA_1)</h2>
 <p><img alt="" src="figures/HND_EIA_1.png" /></p><h2>#3 (HND_IEA_1)</h2>

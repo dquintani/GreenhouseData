@@ -9,7 +9,7 @@ Croatia
 </h1>
 <h2>Datasets:</h2>
 <p><a href="https://github.com/dquintani/GreenhouseData/tree/master/country_data/HRV_Croatia/data">View on Github</a>
-<br></p><p><a href="data/HRV_FAO.csv">FAO</a> || <a href="data/HRV_Minx_2021.csv">Minx_2021</a> || <a href="data/HRV_PRIMAP-hist.csv">PRIMAP-hist</a> || <a href="data/HRV_CDIAC.csv">CDIAC</a> || <a href="data/HRV_EIA.csv">EIA</a> || <a href="data/HRV_IEA.csv">IEA</a> || <a href="data/HRV_EPA.csv">EPA</a> || <a href="data/HRV_CAIT.csv">CAIT</a> || <a href="data/HRV_GCP_cons.csv">GCP_cons</a> || <a href="data/HRV_GCP.csv">GCP</a> || <a href="data/HRV_BP.csv">BP</a> || <a href="data/HRV_EDGAR.csv">EDGAR</a> || <a href="data/HRV_GCP_consupmption.csv">GCP_consupmption</a></p><p><br></p>
+<br></p><p><a href="data/HRV_FAO.csv">FAO</a> || <a href="data/HRV_Minx_2021.csv">Minx_2021</a> || <a href="data/HRV_PRIMAP-hist.csv">PRIMAP-hist</a> || <a href="data/HRV_CDIAC.csv">CDIAC</a> || <a href="data/HRV_EIA.csv">EIA</a> || <a href="data/HRV_IEA.csv">IEA</a> || <a href="data/HRV_EPA.csv">EPA</a> || <a href="data/HRV_CAIT.csv">CAIT</a> || <a href="data/HRV_GCP.csv">GCP</a> || <a href="data/HRV_BP.csv">BP</a> || <a href="data/HRV_EDGAR.csv">EDGAR</a> || <a href="data/HRV_GCP_consupmption.csv">GCP_consupmption</a></p><p><br></p>
 <h1>Figures:</h1><h2>#1 (HRV_IEA_1)</h2>
 <p><img alt="" src="figures/HRV_IEA_1.png" /></p><h2>#2 (HRV_CO2_totals)</h2>
 <p><img alt="" src="figures/HRV_CO2_totals.png" /></p><h2>#3 (HRV_BP_1)</h2>

@@ -9,7 +9,7 @@ United Arab Emirates
 </h1>
 <h2>Datasets:</h2>
 <p><a href="https://github.com/dquintani/GreenhouseData/tree/master/country_data/ARE_United Arab Emirates/data">View on Github</a>
-<br></p><p><a href="data/ARE_EPA.csv">EPA</a> || <a href="data/ARE_CAIT.csv">CAIT</a> || <a href="data/ARE_GCP.csv">GCP</a> || <a href="data/ARE_GCP_cons.csv">GCP_cons</a> || <a href="data/ARE_EDGAR.csv">EDGAR</a> || <a href="data/ARE_CDIAC.csv">CDIAC</a> || <a href="data/ARE_GCP_consupmption.csv">GCP_consupmption</a> || <a href="data/ARE_EIA.csv">EIA</a> || <a href="data/ARE_FAO.csv">FAO</a> || <a href="data/ARE_BP.csv">BP</a> || <a href="data/ARE_IEA.csv">IEA</a> || <a href="data/ARE_Minx_2021.csv">Minx_2021</a> || <a href="data/ARE_PRIMAP-hist.csv">PRIMAP-hist</a></p><p><br></p>
+<br></p><p><a href="data/ARE_EPA.csv">EPA</a> || <a href="data/ARE_CAIT.csv">CAIT</a> || <a href="data/ARE_GCP.csv">GCP</a> || <a href="data/ARE_EDGAR.csv">EDGAR</a> || <a href="data/ARE_CDIAC.csv">CDIAC</a> || <a href="data/ARE_GCP_consupmption.csv">GCP_consupmption</a> || <a href="data/ARE_EIA.csv">EIA</a> || <a href="data/ARE_FAO.csv">FAO</a> || <a href="data/ARE_BP.csv">BP</a> || <a href="data/ARE_IEA.csv">IEA</a> || <a href="data/ARE_Minx_2021.csv">Minx_2021</a> || <a href="data/ARE_PRIMAP-hist.csv">PRIMAP-hist</a></p><p><br></p>
 <h1>Figures:</h1><h2>#1 (ARE_EIA_1)</h2>
 <p><img alt="" src="figures/ARE_EIA_1.png" /></p><h2>#2 (ARE_BP_1)</h2>
 <p><img alt="" src="figures/ARE_BP_1.png" /></p><h2>#3 (ARE_CO2_totals)</h2>

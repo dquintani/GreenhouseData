@@ -9,7 +9,7 @@ Chile
 </h1>
 <h2>Datasets:</h2>
 <p><a href="https://github.com/dquintani/GreenhouseData/tree/master/country_data/CHL_Chile/data">View on Github</a>
-<br></p><p><a href="data/CHL_GCP_consupmption.csv">GCP_consupmption</a> || <a href="data/CHL_CDIAC.csv">CDIAC</a> || <a href="data/CHL_EPA.csv">EPA</a> || <a href="data/CHL_BP.csv">BP</a> || <a href="data/CHL_IEA.csv">IEA</a> || <a href="data/CHL_CAIT.csv">CAIT</a> || <a href="data/CHL_PRIMAP-hist.csv">PRIMAP-hist</a> || <a href="data/CHL_EDGAR.csv">EDGAR</a> || <a href="data/CHL_Minx_2021.csv">Minx_2021</a> || <a href="data/CHL_GCP.csv">GCP</a> || <a href="data/CHL_EIA.csv">EIA</a> || <a href="data/CHL_FAO.csv">FAO</a> || <a href="data/CHL_GCP_cons.csv">GCP_cons</a></p><p><br></p>
+<br></p><p><a href="data/CHL_GCP_consupmption.csv">GCP_consupmption</a> || <a href="data/CHL_CDIAC.csv">CDIAC</a> || <a href="data/CHL_EPA.csv">EPA</a> || <a href="data/CHL_BP.csv">BP</a> || <a href="data/CHL_IEA.csv">IEA</a> || <a href="data/CHL_CAIT.csv">CAIT</a> || <a href="data/CHL_PRIMAP-hist.csv">PRIMAP-hist</a> || <a href="data/CHL_EDGAR.csv">EDGAR</a> || <a href="data/CHL_Minx_2021.csv">Minx_2021</a> || <a href="data/CHL_GCP.csv">GCP</a> || <a href="data/CHL_EIA.csv">EIA</a> || <a href="data/CHL_FAO.csv">FAO</a></p><p><br></p>
 <h1>Figures:</h1><h2>#1 (CHL_GCP_1)</h2>
 <p><img alt="" src="figures/CHL_GCP_1.png" /></p><h2>#2 (CHL_BP_1)</h2>
 <p><img alt="" src="figures/CHL_BP_1.png" /></p><h2>#3 (CHL_CO2_totals)</h2>

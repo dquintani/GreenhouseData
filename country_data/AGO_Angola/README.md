@@ -9,7 +9,7 @@ Angola
 </h1>
 <h2>Datasets:</h2>
 <p><a href="https://github.com/dquintani/GreenhouseData/tree/master/country_data/AGO_Angola/data">View on Github</a>
-<br></p><p><a href="data/AGO_GCP.csv">GCP</a> || <a href="data/AGO_GCP_cons.csv">GCP_cons</a> || <a href="data/AGO_EPA.csv">EPA</a> || <a href="data/AGO_GCP_consupmption.csv">GCP_consupmption</a> || <a href="data/AGO_EDGAR.csv">EDGAR</a> || <a href="data/AGO_EIA.csv">EIA</a> || <a href="data/AGO_CAIT.csv">CAIT</a> || <a href="data/AGO_IEA.csv">IEA</a> || <a href="data/AGO_CDIAC.csv">CDIAC</a> || <a href="data/AGO_FAO.csv">FAO</a> || <a href="data/AGO_PRIMAP-hist.csv">PRIMAP-hist</a> || <a href="data/AGO_Minx_2021.csv">Minx_2021</a></p><p><br></p>
+<br></p><p><a href="data/AGO_GCP.csv">GCP</a> || <a href="data/AGO_EPA.csv">EPA</a> || <a href="data/AGO_GCP_consupmption.csv">GCP_consupmption</a> || <a href="data/AGO_EDGAR.csv">EDGAR</a> || <a href="data/AGO_EIA.csv">EIA</a> || <a href="data/AGO_CAIT.csv">CAIT</a> || <a href="data/AGO_IEA.csv">IEA</a> || <a href="data/AGO_CDIAC.csv">CDIAC</a> || <a href="data/AGO_FAO.csv">FAO</a> || <a href="data/AGO_PRIMAP-hist.csv">PRIMAP-hist</a> || <a href="data/AGO_Minx_2021.csv">Minx_2021</a></p><p><br></p>
 <h1>Figures:</h1><h2>#1 (AGO_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/AGO_CAIT_gases_1.png" /></p><h2>#2 (AGO_EIA_1)</h2>
 <p><img alt="" src="figures/AGO_EIA_1.png" /></p><h2>#3 (AGO_IEA_1)</h2>

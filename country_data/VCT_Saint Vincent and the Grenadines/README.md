@@ -9,7 +9,7 @@ Saint Vincent and the Grenadines
 </h1>
 <h2>Datasets:</h2>
 <p><a href="https://github.com/dquintani/GreenhouseData/tree/master/country_data/VCT_Saint Vincent and the Grenadines/data">View on Github</a>
-<br></p><p><a href="data/VCT_EIA.csv">EIA</a> || <a href="data/VCT_EPA.csv">EPA</a> || <a href="data/VCT_FAO.csv">FAO</a> || <a href="data/VCT_GCP_cons.csv">GCP_cons</a> || <a href="data/VCT_GCP.csv">GCP</a> || <a href="data/VCT_CAIT.csv">CAIT</a> || <a href="data/VCT_CDIAC.csv">CDIAC</a> || <a href="data/VCT_PRIMAP-hist.csv">PRIMAP-hist</a> || <a href="data/VCT_EDGAR.csv">EDGAR</a> || <a href="data/VCT_Minx_2021.csv">Minx_2021</a> || <a href="data/VCT_GCP_consupmption.csv">GCP_consupmption</a></p><p><br></p>
+<br></p><p><a href="data/VCT_EIA.csv">EIA</a> || <a href="data/VCT_EPA.csv">EPA</a> || <a href="data/VCT_FAO.csv">FAO</a> || <a href="data/VCT_GCP.csv">GCP</a> || <a href="data/VCT_CAIT.csv">CAIT</a> || <a href="data/VCT_CDIAC.csv">CDIAC</a> || <a href="data/VCT_PRIMAP-hist.csv">PRIMAP-hist</a> || <a href="data/VCT_EDGAR.csv">EDGAR</a> || <a href="data/VCT_Minx_2021.csv">Minx_2021</a> || <a href="data/VCT_GCP_consupmption.csv">GCP_consupmption</a></p><p><br></p>
 <h1>Figures:</h1><h2>#1 (VCT_CDIAC_1)</h2>
 <p><img alt="" src="figures/VCT_CDIAC_1.png" /></p><h2>#2 (VCT_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/VCT_Minx_top20_subsectors.png" /></p><h2>#3 (VCT_UNFCCC_NAI_1)</h2>
