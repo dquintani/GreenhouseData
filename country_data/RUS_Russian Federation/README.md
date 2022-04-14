@@ -15,8 +15,9 @@ Russian Federation
 <p><img alt="" src="figures/RUS_EIA_1.png" /></p><h2>#3 (RUS_UNFCCC_AI_1)</h2>
 <p><img alt="" src="figures/RUS_UNFCCC_AI_1.png" /></p><h2>#4 (RUS_IEA_1)</h2>
 <p><img alt="" src="figures/RUS_IEA_1.png" /></p><h2>#5 (RUS_CO2_totals)</h2>
-<p><img alt="" src="figures/RUS_CO2_totals.png" /></p><h2>#6 (RUS_CDIAC_1)</h2>
-<p><img alt="" src="figures/RUS_CDIAC_1.png" /></p><h2>#7 (RUS_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/RUS_Minx_top20_subsectors.png" /></p><h2>#8 (RUS_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/RUS_CAIT_gases_1.png" /></p><h2>#9 (RUS_GCP_1)</h2>
+<p><img alt="" src="figures/RUS_CO2_totals.png" /></p><h2>#6 (RUS_Carbon_Monitor_1)</h2>
+<p><img alt="" src="figures/RUS_Carbon_Monitor_1.png" /></p><h2>#7 (RUS_CDIAC_1)</h2>
+<p><img alt="" src="figures/RUS_CDIAC_1.png" /></p><h2>#8 (RUS_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/RUS_Minx_top20_subsectors.png" /></p><h2>#9 (RUS_CAIT_gases_1)</h2>
+<p><img alt="" src="figures/RUS_CAIT_gases_1.png" /></p><h2>#10 (RUS_GCP_1)</h2>
 <p><img alt="" src="figures/RUS_GCP_1.png" /></p>

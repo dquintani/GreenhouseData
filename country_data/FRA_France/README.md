@@ -13,10 +13,11 @@ France
 <h1>Figures:</h1><h2>#1 (FRA_IEA_1)</h2>
 <p><img alt="" src="figures/FRA_IEA_1.png" /></p><h2>#2 (FRA_EIA_1)</h2>
 <p><img alt="" src="figures/FRA_EIA_1.png" /></p><h2>#3 (FRA_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/FRA_CAIT_gases_1.png" /></p><h2>#4 (FRA_CO2_totals)</h2>
-<p><img alt="" src="figures/FRA_CO2_totals.png" /></p><h2>#5 (FRA_CDIAC_1)</h2>
-<p><img alt="" src="figures/FRA_CDIAC_1.png" /></p><h2>#6 (FRA_BP_1)</h2>
-<p><img alt="" src="figures/FRA_BP_1.png" /></p><h2>#7 (FRA_UNFCCC_AI_1)</h2>
-<p><img alt="" src="figures/FRA_UNFCCC_AI_1.png" /></p><h2>#8 (FRA_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/FRA_Minx_top20_subsectors.png" /></p><h2>#9 (FRA_GCP_1)</h2>
+<p><img alt="" src="figures/FRA_CAIT_gases_1.png" /></p><h2>#4 (FRA_Carbon_Monitor_1)</h2>
+<p><img alt="" src="figures/FRA_Carbon_Monitor_1.png" /></p><h2>#5 (FRA_CO2_totals)</h2>
+<p><img alt="" src="figures/FRA_CO2_totals.png" /></p><h2>#6 (FRA_CDIAC_1)</h2>
+<p><img alt="" src="figures/FRA_CDIAC_1.png" /></p><h2>#7 (FRA_BP_1)</h2>
+<p><img alt="" src="figures/FRA_BP_1.png" /></p><h2>#8 (FRA_UNFCCC_AI_1)</h2>
+<p><img alt="" src="figures/FRA_UNFCCC_AI_1.png" /></p><h2>#9 (FRA_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/FRA_Minx_top20_subsectors.png" /></p><h2>#10 (FRA_GCP_1)</h2>
 <p><img alt="" src="figures/FRA_GCP_1.png" /></p>

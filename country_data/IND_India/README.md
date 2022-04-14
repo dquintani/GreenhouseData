@@ -13,10 +13,11 @@ India
 <h1>Figures:</h1><h2>#1 (IND_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/IND_CAIT_gases_1.png" /></p><h2>#2 (IND_CO2_totals)</h2>
 <p><img alt="" src="figures/IND_CO2_totals.png" /></p><h2>#3 (IND_BP_1)</h2>
-<p><img alt="" src="figures/IND_BP_1.png" /></p><h2>#4 (IND_GCP_1)</h2>
-<p><img alt="" src="figures/IND_GCP_1.png" /></p><h2>#5 (IND_UNFCCC_NAI_1)</h2>
-<p><img alt="" src="figures/IND_UNFCCC_NAI_1.png" /></p><h2>#6 (IND_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/IND_Minx_top20_subsectors.png" /></p><h2>#7 (IND_IEA_1)</h2>
-<p><img alt="" src="figures/IND_IEA_1.png" /></p><h2>#8 (IND_EIA_1)</h2>
-<p><img alt="" src="figures/IND_EIA_1.png" /></p><h2>#9 (IND_CDIAC_1)</h2>
+<p><img alt="" src="figures/IND_BP_1.png" /></p><h2>#4 (IND_Carbon_Monitor_1)</h2>
+<p><img alt="" src="figures/IND_Carbon_Monitor_1.png" /></p><h2>#5 (IND_GCP_1)</h2>
+<p><img alt="" src="figures/IND_GCP_1.png" /></p><h2>#6 (IND_UNFCCC_NAI_1)</h2>
+<p><img alt="" src="figures/IND_UNFCCC_NAI_1.png" /></p><h2>#7 (IND_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/IND_Minx_top20_subsectors.png" /></p><h2>#8 (IND_IEA_1)</h2>
+<p><img alt="" src="figures/IND_IEA_1.png" /></p><h2>#9 (IND_EIA_1)</h2>
+<p><img alt="" src="figures/IND_EIA_1.png" /></p><h2>#10 (IND_CDIAC_1)</h2>
 <p><img alt="" src="figures/IND_CDIAC_1.png" /></p>

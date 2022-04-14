@@ -19,4 +19,5 @@ Italy
 <p><img alt="" src="figures/ITA_CO2_totals.png" /></p><h2>#7 (ITA_GCP_1)</h2>
 <p><img alt="" src="figures/ITA_GCP_1.png" /></p><h2>#8 (ITA_CDIAC_1)</h2>
 <p><img alt="" src="figures/ITA_CDIAC_1.png" /></p><h2>#9 (ITA_UNFCCC_AI_1)</h2>
-<p><img alt="" src="figures/ITA_UNFCCC_AI_1.png" /></p>
+<p><img alt="" src="figures/ITA_UNFCCC_AI_1.png" /></p><h2>#10 (ITA_Carbon_Monitor_1)</h2>
+<p><img alt="" src="figures/ITA_Carbon_Monitor_1.png" /></p>

@@ -19,4 +19,5 @@ Germany
 <p><img alt="" src="figures/DEU_CO2_totals.png" /></p><h2>#7 (DEU_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/DEU_Minx_top20_subsectors.png" /></p><h2>#8 (DEU_EIA_1)</h2>
 <p><img alt="" src="figures/DEU_EIA_1.png" /></p><h2>#9 (DEU_CDIAC_1)</h2>
-<p><img alt="" src="figures/DEU_CDIAC_1.png" /></p>
+<p><img alt="" src="figures/DEU_CDIAC_1.png" /></p><h2>#10 (DEU_Carbon_Monitor_1)</h2>
+<p><img alt="" src="figures/DEU_Carbon_Monitor_1.png" /></p>
