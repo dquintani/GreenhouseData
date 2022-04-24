@@ -15,6 +15,7 @@ Timor-Leste
 <p><img alt="" src="figures/TLS_CAIT_gases_1.png" /></p><h2>#3 (TLS_GCP_1)</h2>
 <p><img alt="" src="figures/TLS_GCP_1.png" /></p><h2>#4 (TLS_EIA_1)</h2>
 <p><img alt="" src="figures/TLS_EIA_1.png" /></p><h2>#5 (TLS_CDIAC_1)</h2>
-<p><img alt="" src="figures/TLS_CDIAC_1.png" /></p><h2>#6 (TLS_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/TLS_Minx_top20_subsectors.png" /></p><h2>#7 (TLS_CO2_totals)</h2>
+<p><img alt="" src="figures/TLS_CDIAC_1.png" /></p><h2>#6 (TLS_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/TLS_CAIT_lucf_vs_nolucf.png" /></p><h2>#7 (TLS_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/TLS_Minx_top20_subsectors.png" /></p><h2>#8 (TLS_CO2_totals)</h2>
 <p><img alt="" src="figures/TLS_CO2_totals.png" /></p>

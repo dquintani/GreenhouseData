@@ -14,5 +14,6 @@ Liechtenstein
 <p><img alt="" src="figures/LIE_GCP_1.png" /></p><h2>#2 (LIE_UNFCCC_AI_1)</h2>
 <p><img alt="" src="figures/LIE_UNFCCC_AI_1.png" /></p><h2>#3 (LIE_CDIAC_1)</h2>
 <p><img alt="" src="figures/LIE_CDIAC_1.png" /></p><h2>#4 (LIE_CO2_totals)</h2>
-<p><img alt="" src="figures/LIE_CO2_totals.png" /></p><h2>#5 (LIE_CAIT_gases_1)</h2>
+<p><img alt="" src="figures/LIE_CO2_totals.png" /></p><h2>#5 (LIE_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/LIE_CAIT_lucf_vs_nolucf.png" /></p><h2>#6 (LIE_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/LIE_CAIT_gases_1.png" /></p>

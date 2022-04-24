@@ -16,5 +16,6 @@ Gambia
 <p><img alt="" src="figures/GMB_CDIAC_1.png" /></p><h2>#4 (GMB_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/GMB_CAIT_gases_1.png" /></p><h2>#5 (GMB_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/GMB_Minx_top20_subsectors.png" /></p><h2>#6 (GMB_UNFCCC_NAI_1)</h2>
-<p><img alt="" src="figures/GMB_UNFCCC_NAI_1.png" /></p><h2>#7 (GMB_EIA_1)</h2>
+<p><img alt="" src="figures/GMB_UNFCCC_NAI_1.png" /></p><h2>#7 (GMB_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/GMB_CAIT_lucf_vs_nolucf.png" /></p><h2>#8 (GMB_EIA_1)</h2>
 <p><img alt="" src="figures/GMB_EIA_1.png" /></p>

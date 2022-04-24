@@ -15,8 +15,9 @@ Kazakhstan
 <p><img alt="" src="figures/KAZ_GCP_1.png" /></p><h2>#3 (KAZ_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/KAZ_CAIT_gases_1.png" /></p><h2>#4 (KAZ_CO2_totals)</h2>
 <p><img alt="" src="figures/KAZ_CO2_totals.png" /></p><h2>#5 (KAZ_UNFCCC_AI_1)</h2>
-<p><img alt="" src="figures/KAZ_UNFCCC_AI_1.png" /></p><h2>#6 (KAZ_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/KAZ_Minx_top20_subsectors.png" /></p><h2>#7 (KAZ_BP_1)</h2>
-<p><img alt="" src="figures/KAZ_BP_1.png" /></p><h2>#8 (KAZ_EIA_1)</h2>
-<p><img alt="" src="figures/KAZ_EIA_1.png" /></p><h2>#9 (KAZ_CDIAC_1)</h2>
+<p><img alt="" src="figures/KAZ_UNFCCC_AI_1.png" /></p><h2>#6 (KAZ_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/KAZ_CAIT_lucf_vs_nolucf.png" /></p><h2>#7 (KAZ_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/KAZ_Minx_top20_subsectors.png" /></p><h2>#8 (KAZ_BP_1)</h2>
+<p><img alt="" src="figures/KAZ_BP_1.png" /></p><h2>#9 (KAZ_EIA_1)</h2>
+<p><img alt="" src="figures/KAZ_EIA_1.png" /></p><h2>#10 (KAZ_CDIAC_1)</h2>
 <p><img alt="" src="figures/KAZ_CDIAC_1.png" /></p>

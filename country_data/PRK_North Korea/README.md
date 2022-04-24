@@ -13,9 +13,10 @@ North Korea
 <h1>Figures:</h1><h2>#1 (PRK_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/PRK_Minx_top20_subsectors.png" /></p><h2>#2 (PRK_IEA_1)</h2>
 <p><img alt="" src="figures/PRK_IEA_1.png" /></p><h2>#3 (PRK_EIA_1)</h2>
-<p><img alt="" src="figures/PRK_EIA_1.png" /></p><h2>#4 (PRK_CO2_totals)</h2>
-<p><img alt="" src="figures/PRK_CO2_totals.png" /></p><h2>#5 (PRK_UNFCCC_NAI_1)</h2>
-<p><img alt="" src="figures/PRK_UNFCCC_NAI_1.png" /></p><h2>#6 (PRK_CDIAC_1)</h2>
-<p><img alt="" src="figures/PRK_CDIAC_1.png" /></p><h2>#7 (PRK_GCP_1)</h2>
-<p><img alt="" src="figures/PRK_GCP_1.png" /></p><h2>#8 (PRK_CAIT_gases_1)</h2>
+<p><img alt="" src="figures/PRK_EIA_1.png" /></p><h2>#4 (PRK_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/PRK_CAIT_lucf_vs_nolucf.png" /></p><h2>#5 (PRK_CO2_totals)</h2>
+<p><img alt="" src="figures/PRK_CO2_totals.png" /></p><h2>#6 (PRK_UNFCCC_NAI_1)</h2>
+<p><img alt="" src="figures/PRK_UNFCCC_NAI_1.png" /></p><h2>#7 (PRK_CDIAC_1)</h2>
+<p><img alt="" src="figures/PRK_CDIAC_1.png" /></p><h2>#8 (PRK_GCP_1)</h2>
+<p><img alt="" src="figures/PRK_GCP_1.png" /></p><h2>#9 (PRK_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/PRK_CAIT_gases_1.png" /></p>

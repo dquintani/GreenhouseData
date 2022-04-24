@@ -19,4 +19,5 @@ South Africa
 <p><img alt="" src="figures/ZAF_BP_1.png" /></p><h2>#7 (ZAF_IEA_1)</h2>
 <p><img alt="" src="figures/ZAF_IEA_1.png" /></p><h2>#8 (ZAF_EIA_1)</h2>
 <p><img alt="" src="figures/ZAF_EIA_1.png" /></p><h2>#9 (ZAF_CDIAC_1)</h2>
-<p><img alt="" src="figures/ZAF_CDIAC_1.png" /></p>
+<p><img alt="" src="figures/ZAF_CDIAC_1.png" /></p><h2>#10 (ZAF_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/ZAF_CAIT_lucf_vs_nolucf.png" /></p>

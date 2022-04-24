@@ -16,4 +16,5 @@ Sierra Leone
 <p><img alt="" src="figures/SLE_CDIAC_1.png" /></p><h2>#4 (SLE_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/SLE_Minx_top20_subsectors.png" /></p><h2>#5 (SLE_GCP_1)</h2>
 <p><img alt="" src="figures/SLE_GCP_1.png" /></p><h2>#6 (SLE_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/SLE_CAIT_gases_1.png" /></p>
+<p><img alt="" src="figures/SLE_CAIT_gases_1.png" /></p><h2>#7 (SLE_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/SLE_CAIT_lucf_vs_nolucf.png" /></p>

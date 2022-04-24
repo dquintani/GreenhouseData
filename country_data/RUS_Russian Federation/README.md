@@ -19,5 +19,6 @@ Russian Federation
 <p><img alt="" src="figures/RUS_Carbon_Monitor_1.png" /></p><h2>#7 (RUS_CDIAC_1)</h2>
 <p><img alt="" src="figures/RUS_CDIAC_1.png" /></p><h2>#8 (RUS_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/RUS_Minx_top20_subsectors.png" /></p><h2>#9 (RUS_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/RUS_CAIT_gases_1.png" /></p><h2>#10 (RUS_GCP_1)</h2>
+<p><img alt="" src="figures/RUS_CAIT_gases_1.png" /></p><h2>#10 (RUS_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/RUS_CAIT_lucf_vs_nolucf.png" /></p><h2>#11 (RUS_GCP_1)</h2>
 <p><img alt="" src="figures/RUS_GCP_1.png" /></p>

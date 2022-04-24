@@ -16,8 +16,9 @@ United States
 <p><img alt="" src="figures/USA_IEA_1.png" /></p><h2>#4 (USA_Carbon_Monitor_1)</h2>
 <p><img alt="" src="figures/USA_Carbon_Monitor_1.png" /></p><h2>#5 (USA_BP_1)</h2>
 <p><img alt="" src="figures/USA_BP_1.png" /></p><h2>#6 (USA_GCP_1)</h2>
-<p><img alt="" src="figures/USA_GCP_1.png" /></p><h2>#7 (USA_CO2_totals)</h2>
-<p><img alt="" src="figures/USA_CO2_totals.png" /></p><h2>#8 (USA_UNFCCC_AI_1)</h2>
-<p><img alt="" src="figures/USA_UNFCCC_AI_1.png" /></p><h2>#9 (USA_EIA_1)</h2>
-<p><img alt="" src="figures/USA_EIA_1.png" /></p><h2>#10 (USA_CDIAC_1)</h2>
+<p><img alt="" src="figures/USA_GCP_1.png" /></p><h2>#7 (USA_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/USA_CAIT_lucf_vs_nolucf.png" /></p><h2>#8 (USA_CO2_totals)</h2>
+<p><img alt="" src="figures/USA_CO2_totals.png" /></p><h2>#9 (USA_UNFCCC_AI_1)</h2>
+<p><img alt="" src="figures/USA_UNFCCC_AI_1.png" /></p><h2>#10 (USA_EIA_1)</h2>
+<p><img alt="" src="figures/USA_EIA_1.png" /></p><h2>#11 (USA_CDIAC_1)</h2>
 <p><img alt="" src="figures/USA_CDIAC_1.png" /></p>

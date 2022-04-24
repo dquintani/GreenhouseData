@@ -17,5 +17,6 @@ Brunei Darussalam
 <p><img alt="" src="figures/BRN_EIA_1.png" /></p><h2>#5 (BRN_CDIAC_1)</h2>
 <p><img alt="" src="figures/BRN_CDIAC_1.png" /></p><h2>#6 (BRN_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/BRN_CAIT_gases_1.png" /></p><h2>#7 (BRN_IEA_1)</h2>
-<p><img alt="" src="figures/BRN_IEA_1.png" /></p><h2>#8 (BRN_GCP_1)</h2>
+<p><img alt="" src="figures/BRN_IEA_1.png" /></p><h2>#8 (BRN_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/BRN_CAIT_lucf_vs_nolucf.png" /></p><h2>#9 (BRN_GCP_1)</h2>
 <p><img alt="" src="figures/BRN_GCP_1.png" /></p>

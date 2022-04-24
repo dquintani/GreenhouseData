@@ -15,8 +15,9 @@ Morocco
 <p><img alt="" src="figures/MAR_CAIT_gases_1.png" /></p><h2>#3 (MAR_CDIAC_1)</h2>
 <p><img alt="" src="figures/MAR_CDIAC_1.png" /></p><h2>#4 (MAR_UNFCCC_NAI_1)</h2>
 <p><img alt="" src="figures/MAR_UNFCCC_NAI_1.png" /></p><h2>#5 (MAR_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/MAR_Minx_top20_subsectors.png" /></p><h2>#6 (MAR_GCP_1)</h2>
-<p><img alt="" src="figures/MAR_GCP_1.png" /></p><h2>#7 (MAR_IEA_1)</h2>
-<p><img alt="" src="figures/MAR_IEA_1.png" /></p><h2>#8 (MAR_EIA_1)</h2>
-<p><img alt="" src="figures/MAR_EIA_1.png" /></p><h2>#9 (MAR_CO2_totals)</h2>
+<p><img alt="" src="figures/MAR_Minx_top20_subsectors.png" /></p><h2>#6 (MAR_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/MAR_CAIT_lucf_vs_nolucf.png" /></p><h2>#7 (MAR_GCP_1)</h2>
+<p><img alt="" src="figures/MAR_GCP_1.png" /></p><h2>#8 (MAR_IEA_1)</h2>
+<p><img alt="" src="figures/MAR_IEA_1.png" /></p><h2>#9 (MAR_EIA_1)</h2>
+<p><img alt="" src="figures/MAR_EIA_1.png" /></p><h2>#10 (MAR_CO2_totals)</h2>
 <p><img alt="" src="figures/MAR_CO2_totals.png" /></p>

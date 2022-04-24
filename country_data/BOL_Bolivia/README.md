@@ -13,9 +13,10 @@ Bolivia
 <h1>Figures:</h1><h2>#1 (BOL_CO2_totals)</h2>
 <p><img alt="" src="figures/BOL_CO2_totals.png" /></p><h2>#2 (BOL_GCP_1)</h2>
 <p><img alt="" src="figures/BOL_GCP_1.png" /></p><h2>#3 (BOL_IEA_1)</h2>
-<p><img alt="" src="figures/BOL_IEA_1.png" /></p><h2>#4 (BOL_UNFCCC_NAI_1)</h2>
-<p><img alt="" src="figures/BOL_UNFCCC_NAI_1.png" /></p><h2>#5 (BOL_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/BOL_Minx_top20_subsectors.png" /></p><h2>#6 (BOL_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/BOL_CAIT_gases_1.png" /></p><h2>#7 (BOL_EIA_1)</h2>
-<p><img alt="" src="figures/BOL_EIA_1.png" /></p><h2>#8 (BOL_CDIAC_1)</h2>
+<p><img alt="" src="figures/BOL_IEA_1.png" /></p><h2>#4 (BOL_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/BOL_CAIT_lucf_vs_nolucf.png" /></p><h2>#5 (BOL_UNFCCC_NAI_1)</h2>
+<p><img alt="" src="figures/BOL_UNFCCC_NAI_1.png" /></p><h2>#6 (BOL_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/BOL_Minx_top20_subsectors.png" /></p><h2>#7 (BOL_CAIT_gases_1)</h2>
+<p><img alt="" src="figures/BOL_CAIT_gases_1.png" /></p><h2>#8 (BOL_EIA_1)</h2>
+<p><img alt="" src="figures/BOL_EIA_1.png" /></p><h2>#9 (BOL_CDIAC_1)</h2>
 <p><img alt="" src="figures/BOL_CDIAC_1.png" /></p>

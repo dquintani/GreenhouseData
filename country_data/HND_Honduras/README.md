@@ -13,9 +13,10 @@ Honduras
 <h1>Figures:</h1><h2>#1 (HND_CO2_totals)</h2>
 <p><img alt="" src="figures/HND_CO2_totals.png" /></p><h2>#2 (HND_EIA_1)</h2>
 <p><img alt="" src="figures/HND_EIA_1.png" /></p><h2>#3 (HND_IEA_1)</h2>
-<p><img alt="" src="figures/HND_IEA_1.png" /></p><h2>#4 (HND_CDIAC_1)</h2>
-<p><img alt="" src="figures/HND_CDIAC_1.png" /></p><h2>#5 (HND_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/HND_CAIT_gases_1.png" /></p><h2>#6 (HND_UNFCCC_NAI_1)</h2>
-<p><img alt="" src="figures/HND_UNFCCC_NAI_1.png" /></p><h2>#7 (HND_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/HND_Minx_top20_subsectors.png" /></p><h2>#8 (HND_GCP_1)</h2>
+<p><img alt="" src="figures/HND_IEA_1.png" /></p><h2>#4 (HND_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/HND_CAIT_lucf_vs_nolucf.png" /></p><h2>#5 (HND_CDIAC_1)</h2>
+<p><img alt="" src="figures/HND_CDIAC_1.png" /></p><h2>#6 (HND_CAIT_gases_1)</h2>
+<p><img alt="" src="figures/HND_CAIT_gases_1.png" /></p><h2>#7 (HND_UNFCCC_NAI_1)</h2>
+<p><img alt="" src="figures/HND_UNFCCC_NAI_1.png" /></p><h2>#8 (HND_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/HND_Minx_top20_subsectors.png" /></p><h2>#9 (HND_GCP_1)</h2>
 <p><img alt="" src="figures/HND_GCP_1.png" /></p>

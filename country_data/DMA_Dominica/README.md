@@ -17,4 +17,5 @@ Dominica
 <p><img alt="" src="figures/DMA_CDIAC_1.png" /></p><h2>#5 (DMA_GCP_1)</h2>
 <p><img alt="" src="figures/DMA_GCP_1.png" /></p><h2>#6 (DMA_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/DMA_CAIT_gases_1.png" /></p><h2>#7 (DMA_EIA_1)</h2>
-<p><img alt="" src="figures/DMA_EIA_1.png" /></p>
+<p><img alt="" src="figures/DMA_EIA_1.png" /></p><h2>#8 (DMA_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/DMA_CAIT_lucf_vs_nolucf.png" /></p>

@@ -19,4 +19,5 @@ Turkmenistan
 <p><img alt="" src="figures/TKM_IEA_1.png" /></p><h2>#7 (TKM_BP_1)</h2>
 <p><img alt="" src="figures/TKM_BP_1.png" /></p><h2>#8 (TKM_CDIAC_1)</h2>
 <p><img alt="" src="figures/TKM_CDIAC_1.png" /></p><h2>#9 (TKM_EIA_1)</h2>
-<p><img alt="" src="figures/TKM_EIA_1.png" /></p>
+<p><img alt="" src="figures/TKM_EIA_1.png" /></p><h2>#10 (TKM_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/TKM_CAIT_lucf_vs_nolucf.png" /></p>

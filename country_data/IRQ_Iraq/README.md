@@ -15,8 +15,9 @@ Iraq
 <p><img alt="" src="figures/IRQ_CO2_totals.png" /></p><h2>#3 (IRQ_EIA_1)</h2>
 <p><img alt="" src="figures/IRQ_EIA_1.png" /></p><h2>#4 (IRQ_IEA_1)</h2>
 <p><img alt="" src="figures/IRQ_IEA_1.png" /></p><h2>#5 (IRQ_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/IRQ_CAIT_gases_1.png" /></p><h2>#6 (IRQ_CDIAC_1)</h2>
-<p><img alt="" src="figures/IRQ_CDIAC_1.png" /></p><h2>#7 (IRQ_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/IRQ_Minx_top20_subsectors.png" /></p><h2>#8 (IRQ_UNFCCC_NAI_1)</h2>
-<p><img alt="" src="figures/IRQ_UNFCCC_NAI_1.png" /></p><h2>#9 (IRQ_GCP_1)</h2>
+<p><img alt="" src="figures/IRQ_CAIT_gases_1.png" /></p><h2>#6 (IRQ_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/IRQ_CAIT_lucf_vs_nolucf.png" /></p><h2>#7 (IRQ_CDIAC_1)</h2>
+<p><img alt="" src="figures/IRQ_CDIAC_1.png" /></p><h2>#8 (IRQ_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/IRQ_Minx_top20_subsectors.png" /></p><h2>#9 (IRQ_UNFCCC_NAI_1)</h2>
+<p><img alt="" src="figures/IRQ_UNFCCC_NAI_1.png" /></p><h2>#10 (IRQ_GCP_1)</h2>
 <p><img alt="" src="figures/IRQ_GCP_1.png" /></p>

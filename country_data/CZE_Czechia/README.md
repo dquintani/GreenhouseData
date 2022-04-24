@@ -16,7 +16,8 @@ Czechia
 <p><img alt="" src="figures/CZE_CDIAC_1.png" /></p><h2>#4 (CZE_BP_1)</h2>
 <p><img alt="" src="figures/CZE_BP_1.png" /></p><h2>#5 (CZE_UNFCCC_AI_1)</h2>
 <p><img alt="" src="figures/CZE_UNFCCC_AI_1.png" /></p><h2>#6 (CZE_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/CZE_Minx_top20_subsectors.png" /></p><h2>#7 (CZE_GCP_1)</h2>
-<p><img alt="" src="figures/CZE_GCP_1.png" /></p><h2>#8 (CZE_IEA_1)</h2>
-<p><img alt="" src="figures/CZE_IEA_1.png" /></p><h2>#9 (CZE_CAIT_gases_1)</h2>
+<p><img alt="" src="figures/CZE_Minx_top20_subsectors.png" /></p><h2>#7 (CZE_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/CZE_CAIT_lucf_vs_nolucf.png" /></p><h2>#8 (CZE_GCP_1)</h2>
+<p><img alt="" src="figures/CZE_GCP_1.png" /></p><h2>#9 (CZE_IEA_1)</h2>
+<p><img alt="" src="figures/CZE_IEA_1.png" /></p><h2>#10 (CZE_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/CZE_CAIT_gases_1.png" /></p>

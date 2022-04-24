@@ -13,8 +13,9 @@ Saint Vincent and the Grenadines
 <h1>Figures:</h1><h2>#1 (VCT_CDIAC_1)</h2>
 <p><img alt="" src="figures/VCT_CDIAC_1.png" /></p><h2>#2 (VCT_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/VCT_Minx_top20_subsectors.png" /></p><h2>#3 (VCT_UNFCCC_NAI_1)</h2>
-<p><img alt="" src="figures/VCT_UNFCCC_NAI_1.png" /></p><h2>#4 (VCT_CO2_totals)</h2>
-<p><img alt="" src="figures/VCT_CO2_totals.png" /></p><h2>#5 (VCT_EIA_1)</h2>
-<p><img alt="" src="figures/VCT_EIA_1.png" /></p><h2>#6 (VCT_GCP_1)</h2>
-<p><img alt="" src="figures/VCT_GCP_1.png" /></p><h2>#7 (VCT_CAIT_gases_1)</h2>
+<p><img alt="" src="figures/VCT_UNFCCC_NAI_1.png" /></p><h2>#4 (VCT_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/VCT_CAIT_lucf_vs_nolucf.png" /></p><h2>#5 (VCT_CO2_totals)</h2>
+<p><img alt="" src="figures/VCT_CO2_totals.png" /></p><h2>#6 (VCT_EIA_1)</h2>
+<p><img alt="" src="figures/VCT_EIA_1.png" /></p><h2>#7 (VCT_GCP_1)</h2>
+<p><img alt="" src="figures/VCT_GCP_1.png" /></p><h2>#8 (VCT_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/VCT_CAIT_gases_1.png" /></p>

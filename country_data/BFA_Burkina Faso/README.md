@@ -16,5 +16,6 @@ Burkina Faso
 <p><img alt="" src="figures/BFA_UNFCCC_NAI_1.png" /></p><h2>#4 (BFA_CDIAC_1)</h2>
 <p><img alt="" src="figures/BFA_CDIAC_1.png" /></p><h2>#5 (BFA_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/BFA_CAIT_gases_1.png" /></p><h2>#6 (BFA_EIA_1)</h2>
-<p><img alt="" src="figures/BFA_EIA_1.png" /></p><h2>#7 (BFA_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/BFA_EIA_1.png" /></p><h2>#7 (BFA_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/BFA_CAIT_lucf_vs_nolucf.png" /></p><h2>#8 (BFA_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/BFA_Minx_top20_subsectors.png" /></p>

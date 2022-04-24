@@ -16,7 +16,8 @@ Lithuania
 <p><img alt="" src="figures/LTU_CAIT_gases_1.png" /></p><h2>#4 (LTU_CDIAC_1)</h2>
 <p><img alt="" src="figures/LTU_CDIAC_1.png" /></p><h2>#5 (LTU_BP_1)</h2>
 <p><img alt="" src="figures/LTU_BP_1.png" /></p><h2>#6 (LTU_IEA_1)</h2>
-<p><img alt="" src="figures/LTU_IEA_1.png" /></p><h2>#7 (LTU_UNFCCC_AI_1)</h2>
-<p><img alt="" src="figures/LTU_UNFCCC_AI_1.png" /></p><h2>#8 (LTU_EIA_1)</h2>
-<p><img alt="" src="figures/LTU_EIA_1.png" /></p><h2>#9 (LTU_CO2_totals)</h2>
+<p><img alt="" src="figures/LTU_IEA_1.png" /></p><h2>#7 (LTU_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/LTU_CAIT_lucf_vs_nolucf.png" /></p><h2>#8 (LTU_UNFCCC_AI_1)</h2>
+<p><img alt="" src="figures/LTU_UNFCCC_AI_1.png" /></p><h2>#9 (LTU_EIA_1)</h2>
+<p><img alt="" src="figures/LTU_EIA_1.png" /></p><h2>#10 (LTU_CO2_totals)</h2>
 <p><img alt="" src="figures/LTU_CO2_totals.png" /></p>

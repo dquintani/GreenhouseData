@@ -14,9 +14,10 @@ Philippines
 <p><img alt="" src="figures/PHL_GCP_1.png" /></p><h2>#2 (PHL_UNFCCC_NAI_1)</h2>
 <p><img alt="" src="figures/PHL_UNFCCC_NAI_1.png" /></p><h2>#3 (PHL_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/PHL_CAIT_gases_1.png" /></p><h2>#4 (PHL_IEA_1)</h2>
-<p><img alt="" src="figures/PHL_IEA_1.png" /></p><h2>#5 (PHL_CO2_totals)</h2>
-<p><img alt="" src="figures/PHL_CO2_totals.png" /></p><h2>#6 (PHL_EIA_1)</h2>
-<p><img alt="" src="figures/PHL_EIA_1.png" /></p><h2>#7 (PHL_CDIAC_1)</h2>
-<p><img alt="" src="figures/PHL_CDIAC_1.png" /></p><h2>#8 (PHL_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/PHL_Minx_top20_subsectors.png" /></p><h2>#9 (PHL_BP_1)</h2>
+<p><img alt="" src="figures/PHL_IEA_1.png" /></p><h2>#5 (PHL_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/PHL_CAIT_lucf_vs_nolucf.png" /></p><h2>#6 (PHL_CO2_totals)</h2>
+<p><img alt="" src="figures/PHL_CO2_totals.png" /></p><h2>#7 (PHL_EIA_1)</h2>
+<p><img alt="" src="figures/PHL_EIA_1.png" /></p><h2>#8 (PHL_CDIAC_1)</h2>
+<p><img alt="" src="figures/PHL_CDIAC_1.png" /></p><h2>#9 (PHL_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/PHL_Minx_top20_subsectors.png" /></p><h2>#10 (PHL_BP_1)</h2>
 <p><img alt="" src="figures/PHL_BP_1.png" /></p>

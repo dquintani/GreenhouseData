@@ -16,7 +16,8 @@ Switzerland
 <p><img alt="" src="figures/CHE_BP_1.png" /></p><h2>#4 (CHE_EIA_1)</h2>
 <p><img alt="" src="figures/CHE_EIA_1.png" /></p><h2>#5 (CHE_CDIAC_1)</h2>
 <p><img alt="" src="figures/CHE_CDIAC_1.png" /></p><h2>#6 (CHE_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/CHE_Minx_top20_subsectors.png" /></p><h2>#7 (CHE_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/CHE_CAIT_gases_1.png" /></p><h2>#8 (CHE_GCP_1)</h2>
-<p><img alt="" src="figures/CHE_GCP_1.png" /></p><h2>#9 (CHE_IEA_1)</h2>
+<p><img alt="" src="figures/CHE_Minx_top20_subsectors.png" /></p><h2>#7 (CHE_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/CHE_CAIT_lucf_vs_nolucf.png" /></p><h2>#8 (CHE_CAIT_gases_1)</h2>
+<p><img alt="" src="figures/CHE_CAIT_gases_1.png" /></p><h2>#9 (CHE_GCP_1)</h2>
+<p><img alt="" src="figures/CHE_GCP_1.png" /></p><h2>#10 (CHE_IEA_1)</h2>
 <p><img alt="" src="figures/CHE_IEA_1.png" /></p>

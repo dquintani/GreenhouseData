@@ -15,8 +15,9 @@ Luxembourg
 <p><img alt="" src="figures/LUX_Minx_top20_subsectors.png" /></p><h2>#3 (LUX_BP_1)</h2>
 <p><img alt="" src="figures/LUX_BP_1.png" /></p><h2>#4 (LUX_CDIAC_1)</h2>
 <p><img alt="" src="figures/LUX_CDIAC_1.png" /></p><h2>#5 (LUX_UNFCCC_AI_1)</h2>
-<p><img alt="" src="figures/LUX_UNFCCC_AI_1.png" /></p><h2>#6 (LUX_CO2_totals)</h2>
-<p><img alt="" src="figures/LUX_CO2_totals.png" /></p><h2>#7 (LUX_GCP_1)</h2>
-<p><img alt="" src="figures/LUX_GCP_1.png" /></p><h2>#8 (LUX_EIA_1)</h2>
-<p><img alt="" src="figures/LUX_EIA_1.png" /></p><h2>#9 (LUX_CAIT_gases_1)</h2>
+<p><img alt="" src="figures/LUX_UNFCCC_AI_1.png" /></p><h2>#6 (LUX_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/LUX_CAIT_lucf_vs_nolucf.png" /></p><h2>#7 (LUX_CO2_totals)</h2>
+<p><img alt="" src="figures/LUX_CO2_totals.png" /></p><h2>#8 (LUX_GCP_1)</h2>
+<p><img alt="" src="figures/LUX_GCP_1.png" /></p><h2>#9 (LUX_EIA_1)</h2>
+<p><img alt="" src="figures/LUX_EIA_1.png" /></p><h2>#10 (LUX_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/LUX_CAIT_gases_1.png" /></p>

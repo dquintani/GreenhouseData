@@ -19,4 +19,5 @@ Venezuela
 <p><img alt="" src="figures/VEN_CAIT_gases_1.png" /></p><h2>#7 (VEN_BP_1)</h2>
 <p><img alt="" src="figures/VEN_BP_1.png" /></p><h2>#8 (VEN_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/VEN_Minx_top20_subsectors.png" /></p><h2>#9 (VEN_UNFCCC_NAI_1)</h2>
-<p><img alt="" src="figures/VEN_UNFCCC_NAI_1.png" /></p>
+<p><img alt="" src="figures/VEN_UNFCCC_NAI_1.png" /></p><h2>#10 (VEN_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/VEN_CAIT_lucf_vs_nolucf.png" /></p>

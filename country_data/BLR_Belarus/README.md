@@ -17,6 +17,7 @@ Belarus
 <p><img alt="" src="figures/BLR_EIA_1.png" /></p><h2>#5 (BLR_IEA_1)</h2>
 <p><img alt="" src="figures/BLR_IEA_1.png" /></p><h2>#6 (BLR_BP_1)</h2>
 <p><img alt="" src="figures/BLR_BP_1.png" /></p><h2>#7 (BLR_GCP_1)</h2>
-<p><img alt="" src="figures/BLR_GCP_1.png" /></p><h2>#8 (BLR_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/BLR_Minx_top20_subsectors.png" /></p><h2>#9 (BLR_CDIAC_1)</h2>
+<p><img alt="" src="figures/BLR_GCP_1.png" /></p><h2>#8 (BLR_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/BLR_CAIT_lucf_vs_nolucf.png" /></p><h2>#9 (BLR_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/BLR_Minx_top20_subsectors.png" /></p><h2>#10 (BLR_CDIAC_1)</h2>
 <p><img alt="" src="figures/BLR_CDIAC_1.png" /></p>

@@ -12,11 +12,12 @@ Argentina
 <br></p><p><a href="data/ARG_GCP.csv">GCP</a> || <a href="data/ARG_EIA.csv">EIA</a> || <a href="data/ARG_IEA.csv">IEA</a> || <a href="data/ARG_EPA.csv">EPA</a> || <a href="data/ARG_GCP_consupmption.csv">GCP_consupmption</a> || <a href="data/ARG_Minx_2021.csv">Minx_2021</a> || <a href="data/ARG_PRIMAP-hist.csv">PRIMAP-hist</a> || <a href="data/ARG_CAIT.csv">CAIT</a> || <a href="data/ARG_FAO.csv">FAO</a> || <a href="data/ARG_BP.csv">BP</a> || <a href="data/ARG_EDGAR.csv">EDGAR</a> || <a href="data/ARG_CDIAC.csv">CDIAC</a></p><p><br></p>
 <h1>Figures:</h1><h2>#1 (ARG_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/ARG_Minx_top20_subsectors.png" /></p><h2>#2 (ARG_CO2_totals)</h2>
-<p><img alt="" src="figures/ARG_CO2_totals.png" /></p><h2>#3 (ARG_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/ARG_CAIT_gases_1.png" /></p><h2>#4 (ARG_BP_1)</h2>
-<p><img alt="" src="figures/ARG_BP_1.png" /></p><h2>#5 (ARG_EIA_1)</h2>
-<p><img alt="" src="figures/ARG_EIA_1.png" /></p><h2>#6 (ARG_IEA_1)</h2>
-<p><img alt="" src="figures/ARG_IEA_1.png" /></p><h2>#7 (ARG_CDIAC_1)</h2>
-<p><img alt="" src="figures/ARG_CDIAC_1.png" /></p><h2>#8 (ARG_GCP_1)</h2>
-<p><img alt="" src="figures/ARG_GCP_1.png" /></p><h2>#9 (ARG_UNFCCC_NAI_1)</h2>
+<p><img alt="" src="figures/ARG_CO2_totals.png" /></p><h2>#3 (ARG_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/ARG_CAIT_lucf_vs_nolucf.png" /></p><h2>#4 (ARG_CAIT_gases_1)</h2>
+<p><img alt="" src="figures/ARG_CAIT_gases_1.png" /></p><h2>#5 (ARG_BP_1)</h2>
+<p><img alt="" src="figures/ARG_BP_1.png" /></p><h2>#6 (ARG_EIA_1)</h2>
+<p><img alt="" src="figures/ARG_EIA_1.png" /></p><h2>#7 (ARG_IEA_1)</h2>
+<p><img alt="" src="figures/ARG_IEA_1.png" /></p><h2>#8 (ARG_CDIAC_1)</h2>
+<p><img alt="" src="figures/ARG_CDIAC_1.png" /></p><h2>#9 (ARG_GCP_1)</h2>
+<p><img alt="" src="figures/ARG_GCP_1.png" /></p><h2>#10 (ARG_UNFCCC_NAI_1)</h2>
 <p><img alt="" src="figures/ARG_UNFCCC_NAI_1.png" /></p>

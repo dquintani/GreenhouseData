@@ -18,5 +18,6 @@ Finland
 <p><img alt="" src="figures/FIN_GCP_1.png" /></p><h2>#6 (FIN_BP_1)</h2>
 <p><img alt="" src="figures/FIN_BP_1.png" /></p><h2>#7 (FIN_CDIAC_1)</h2>
 <p><img alt="" src="figures/FIN_CDIAC_1.png" /></p><h2>#8 (FIN_EIA_1)</h2>
-<p><img alt="" src="figures/FIN_EIA_1.png" /></p><h2>#9 (FIN_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/FIN_EIA_1.png" /></p><h2>#9 (FIN_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/FIN_CAIT_lucf_vs_nolucf.png" /></p><h2>#10 (FIN_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/FIN_Minx_top20_subsectors.png" /></p>

@@ -17,4 +17,5 @@ Saint Lucia
 <p><img alt="" src="figures/LCA_CDIAC_1.png" /></p><h2>#5 (LCA_EIA_1)</h2>
 <p><img alt="" src="figures/LCA_EIA_1.png" /></p><h2>#6 (LCA_GCP_1)</h2>
 <p><img alt="" src="figures/LCA_GCP_1.png" /></p><h2>#7 (LCA_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/LCA_Minx_top20_subsectors.png" /></p>
+<p><img alt="" src="figures/LCA_Minx_top20_subsectors.png" /></p><h2>#8 (LCA_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/LCA_CAIT_lucf_vs_nolucf.png" /></p>

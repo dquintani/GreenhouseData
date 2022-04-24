@@ -13,10 +13,11 @@ Belgium
 <h1>Figures:</h1><h2>#1 (BEL_EIA_1)</h2>
 <p><img alt="" src="figures/BEL_EIA_1.png" /></p><h2>#2 (BEL_CO2_totals)</h2>
 <p><img alt="" src="figures/BEL_CO2_totals.png" /></p><h2>#3 (BEL_CDIAC_1)</h2>
-<p><img alt="" src="figures/BEL_CDIAC_1.png" /></p><h2>#4 (BEL_IEA_1)</h2>
-<p><img alt="" src="figures/BEL_IEA_1.png" /></p><h2>#5 (BEL_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/BEL_CAIT_gases_1.png" /></p><h2>#6 (BEL_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/BEL_Minx_top20_subsectors.png" /></p><h2>#7 (BEL_UNFCCC_AI_1)</h2>
-<p><img alt="" src="figures/BEL_UNFCCC_AI_1.png" /></p><h2>#8 (BEL_BP_1)</h2>
-<p><img alt="" src="figures/BEL_BP_1.png" /></p><h2>#9 (BEL_GCP_1)</h2>
+<p><img alt="" src="figures/BEL_CDIAC_1.png" /></p><h2>#4 (BEL_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/BEL_CAIT_lucf_vs_nolucf.png" /></p><h2>#5 (BEL_IEA_1)</h2>
+<p><img alt="" src="figures/BEL_IEA_1.png" /></p><h2>#6 (BEL_CAIT_gases_1)</h2>
+<p><img alt="" src="figures/BEL_CAIT_gases_1.png" /></p><h2>#7 (BEL_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/BEL_Minx_top20_subsectors.png" /></p><h2>#8 (BEL_UNFCCC_AI_1)</h2>
+<p><img alt="" src="figures/BEL_UNFCCC_AI_1.png" /></p><h2>#9 (BEL_BP_1)</h2>
+<p><img alt="" src="figures/BEL_BP_1.png" /></p><h2>#10 (BEL_GCP_1)</h2>
 <p><img alt="" src="figures/BEL_GCP_1.png" /></p>

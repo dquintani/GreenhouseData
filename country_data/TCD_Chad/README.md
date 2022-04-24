@@ -14,7 +14,8 @@ Chad
 <p><img alt="" src="figures/TCD_UNFCCC_NAI_1.png" /></p><h2>#2 (TCD_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/TCD_CAIT_gases_1.png" /></p><h2>#3 (TCD_EIA_1)</h2>
 <p><img alt="" src="figures/TCD_EIA_1.png" /></p><h2>#4 (TCD_CDIAC_1)</h2>
-<p><img alt="" src="figures/TCD_CDIAC_1.png" /></p><h2>#5 (TCD_GCP_1)</h2>
-<p><img alt="" src="figures/TCD_GCP_1.png" /></p><h2>#6 (TCD_CO2_totals)</h2>
-<p><img alt="" src="figures/TCD_CO2_totals.png" /></p><h2>#7 (TCD_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/TCD_CDIAC_1.png" /></p><h2>#5 (TCD_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/TCD_CAIT_lucf_vs_nolucf.png" /></p><h2>#6 (TCD_GCP_1)</h2>
+<p><img alt="" src="figures/TCD_GCP_1.png" /></p><h2>#7 (TCD_CO2_totals)</h2>
+<p><img alt="" src="figures/TCD_CO2_totals.png" /></p><h2>#8 (TCD_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/TCD_Minx_top20_subsectors.png" /></p>

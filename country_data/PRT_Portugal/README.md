@@ -17,6 +17,7 @@ Portugal
 <p><img alt="" src="figures/PRT_CO2_totals.png" /></p><h2>#5 (PRT_GCP_1)</h2>
 <p><img alt="" src="figures/PRT_GCP_1.png" /></p><h2>#6 (PRT_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/PRT_CAIT_gases_1.png" /></p><h2>#7 (PRT_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/PRT_Minx_top20_subsectors.png" /></p><h2>#8 (PRT_CDIAC_1)</h2>
-<p><img alt="" src="figures/PRT_CDIAC_1.png" /></p><h2>#9 (PRT_UNFCCC_AI_1)</h2>
+<p><img alt="" src="figures/PRT_Minx_top20_subsectors.png" /></p><h2>#8 (PRT_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/PRT_CAIT_lucf_vs_nolucf.png" /></p><h2>#9 (PRT_CDIAC_1)</h2>
+<p><img alt="" src="figures/PRT_CDIAC_1.png" /></p><h2>#10 (PRT_UNFCCC_AI_1)</h2>
 <p><img alt="" src="figures/PRT_UNFCCC_AI_1.png" /></p>

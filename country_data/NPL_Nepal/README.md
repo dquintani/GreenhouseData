@@ -17,5 +17,6 @@ Nepal
 <p><img alt="" src="figures/NPL_UNFCCC_NAI_1.png" /></p><h2>#5 (NPL_GCP_1)</h2>
 <p><img alt="" src="figures/NPL_GCP_1.png" /></p><h2>#6 (NPL_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/NPL_Minx_top20_subsectors.png" /></p><h2>#7 (NPL_CDIAC_1)</h2>
-<p><img alt="" src="figures/NPL_CDIAC_1.png" /></p><h2>#8 (NPL_IEA_1)</h2>
+<p><img alt="" src="figures/NPL_CDIAC_1.png" /></p><h2>#8 (NPL_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/NPL_CAIT_lucf_vs_nolucf.png" /></p><h2>#9 (NPL_IEA_1)</h2>
 <p><img alt="" src="figures/NPL_IEA_1.png" /></p>

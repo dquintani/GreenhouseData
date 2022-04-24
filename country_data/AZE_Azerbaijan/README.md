@@ -17,6 +17,7 @@ Azerbaijan
 <p><img alt="" src="figures/AZE_Minx_top20_subsectors.png" /></p><h2>#5 (AZE_BP_1)</h2>
 <p><img alt="" src="figures/AZE_BP_1.png" /></p><h2>#6 (AZE_GCP_1)</h2>
 <p><img alt="" src="figures/AZE_GCP_1.png" /></p><h2>#7 (AZE_EIA_1)</h2>
-<p><img alt="" src="figures/AZE_EIA_1.png" /></p><h2>#8 (AZE_UNFCCC_NAI_1)</h2>
-<p><img alt="" src="figures/AZE_UNFCCC_NAI_1.png" /></p><h2>#9 (AZE_CDIAC_1)</h2>
+<p><img alt="" src="figures/AZE_EIA_1.png" /></p><h2>#8 (AZE_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/AZE_CAIT_lucf_vs_nolucf.png" /></p><h2>#9 (AZE_UNFCCC_NAI_1)</h2>
+<p><img alt="" src="figures/AZE_UNFCCC_NAI_1.png" /></p><h2>#10 (AZE_CDIAC_1)</h2>
 <p><img alt="" src="figures/AZE_CDIAC_1.png" /></p>

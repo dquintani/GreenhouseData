@@ -18,4 +18,5 @@ Gabon
 <p><img alt="" src="figures/GAB_UNFCCC_NAI_1.png" /></p><h2>#6 (GAB_IEA_1)</h2>
 <p><img alt="" src="figures/GAB_IEA_1.png" /></p><h2>#7 (GAB_EIA_1)</h2>
 <p><img alt="" src="figures/GAB_EIA_1.png" /></p><h2>#8 (GAB_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/GAB_Minx_top20_subsectors.png" /></p>
+<p><img alt="" src="figures/GAB_Minx_top20_subsectors.png" /></p><h2>#9 (GAB_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/GAB_CAIT_lucf_vs_nolucf.png" /></p>

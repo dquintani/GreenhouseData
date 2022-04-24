@@ -19,4 +19,5 @@ Suriname
 <p><img alt="" src="figures/SUR_UNFCCC_NAI_1.png" /></p><h2>#7 (SUR_IEA_1)</h2>
 <p><img alt="" src="figures/SUR_IEA_1.png" /></p><h2>#8 (SUR_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/SUR_CAIT_gases_1.png" /></p><h2>#9 (SUR_EIA_1)</h2>
-<p><img alt="" src="figures/SUR_EIA_1.png" /></p>
+<p><img alt="" src="figures/SUR_EIA_1.png" /></p><h2>#10 (SUR_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/SUR_CAIT_lucf_vs_nolucf.png" /></p>

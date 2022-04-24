@@ -17,5 +17,6 @@ Uruguay
 <p><img alt="" src="figures/URY_GCP_1.png" /></p><h2>#5 (URY_EIA_1)</h2>
 <p><img alt="" src="figures/URY_EIA_1.png" /></p><h2>#6 (URY_IEA_1)</h2>
 <p><img alt="" src="figures/URY_IEA_1.png" /></p><h2>#7 (URY_CDIAC_1)</h2>
-<p><img alt="" src="figures/URY_CDIAC_1.png" /></p><h2>#8 (URY_CO2_totals)</h2>
+<p><img alt="" src="figures/URY_CDIAC_1.png" /></p><h2>#8 (URY_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/URY_CAIT_lucf_vs_nolucf.png" /></p><h2>#9 (URY_CO2_totals)</h2>
 <p><img alt="" src="figures/URY_CO2_totals.png" /></p>

@@ -16,6 +16,7 @@ Zimbabwe
 <p><img alt="" src="figures/ZWE_CAIT_gases_1.png" /></p><h2>#4 (ZWE_EIA_1)</h2>
 <p><img alt="" src="figures/ZWE_EIA_1.png" /></p><h2>#5 (ZWE_IEA_1)</h2>
 <p><img alt="" src="figures/ZWE_IEA_1.png" /></p><h2>#6 (ZWE_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/ZWE_Minx_top20_subsectors.png" /></p><h2>#7 (ZWE_UNFCCC_NAI_1)</h2>
-<p><img alt="" src="figures/ZWE_UNFCCC_NAI_1.png" /></p><h2>#8 (ZWE_CO2_totals)</h2>
+<p><img alt="" src="figures/ZWE_Minx_top20_subsectors.png" /></p><h2>#7 (ZWE_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/ZWE_CAIT_lucf_vs_nolucf.png" /></p><h2>#8 (ZWE_UNFCCC_NAI_1)</h2>
+<p><img alt="" src="figures/ZWE_UNFCCC_NAI_1.png" /></p><h2>#9 (ZWE_CO2_totals)</h2>
 <p><img alt="" src="figures/ZWE_CO2_totals.png" /></p>
