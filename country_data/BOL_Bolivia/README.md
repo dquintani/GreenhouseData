@@ -19,4 +19,5 @@ Bolivia
 <p><img alt="" src="figures/BOL_Minx_top20_subsectors.png" /></p><h2>#7 (BOL_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/BOL_CAIT_gases_1.png" /></p><h2>#8 (BOL_EIA_1)</h2>
 <p><img alt="" src="figures/BOL_EIA_1.png" /></p><h2>#9 (BOL_CDIAC_1)</h2>
-<p><img alt="" src="figures/BOL_CDIAC_1.png" /></p>
+<p><img alt="" src="figures/BOL_CDIAC_1.png" /></p><h2>#10 (BOL_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/BOL_GCP_Country_Highlight.png" /></p>

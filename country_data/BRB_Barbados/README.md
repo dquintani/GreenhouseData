@@ -14,8 +14,9 @@ Barbados
 <p><img alt="" src="figures/BRB_CAIT_gases_1.png" /></p><h2>#2 (BRB_CO2_totals)</h2>
 <p><img alt="" src="figures/BRB_CO2_totals.png" /></p><h2>#3 (BRB_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/BRB_Minx_top20_subsectors.png" /></p><h2>#4 (BRB_CDIAC_1)</h2>
-<p><img alt="" src="figures/BRB_CDIAC_1.png" /></p><h2>#5 (BRB_CAIT_lucf_vs_nolucf)</h2>
-<p><img alt="" src="figures/BRB_CAIT_lucf_vs_nolucf.png" /></p><h2>#6 (BRB_UNFCCC_NAI_1)</h2>
-<p><img alt="" src="figures/BRB_UNFCCC_NAI_1.png" /></p><h2>#7 (BRB_GCP_1)</h2>
-<p><img alt="" src="figures/BRB_GCP_1.png" /></p><h2>#8 (BRB_EIA_1)</h2>
+<p><img alt="" src="figures/BRB_CDIAC_1.png" /></p><h2>#5 (BRB_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/BRB_GCP_Country_Highlight.png" /></p><h2>#6 (BRB_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/BRB_CAIT_lucf_vs_nolucf.png" /></p><h2>#7 (BRB_UNFCCC_NAI_1)</h2>
+<p><img alt="" src="figures/BRB_UNFCCC_NAI_1.png" /></p><h2>#8 (BRB_GCP_1)</h2>
+<p><img alt="" src="figures/BRB_GCP_1.png" /></p><h2>#9 (BRB_EIA_1)</h2>
 <p><img alt="" src="figures/BRB_EIA_1.png" /></p>

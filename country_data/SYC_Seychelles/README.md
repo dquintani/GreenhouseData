@@ -15,7 +15,8 @@ Seychelles
 <p><img alt="" src="figures/SYC_EIA_1.png" /></p><h2>#3 (SYC_CDIAC_1)</h2>
 <p><img alt="" src="figures/SYC_CDIAC_1.png" /></p><h2>#4 (SYC_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/SYC_CAIT_gases_1.png" /></p><h2>#5 (SYC_CO2_totals)</h2>
-<p><img alt="" src="figures/SYC_CO2_totals.png" /></p><h2>#6 (SYC_CAIT_lucf_vs_nolucf)</h2>
-<p><img alt="" src="figures/SYC_CAIT_lucf_vs_nolucf.png" /></p><h2>#7 (SYC_UNFCCC_NAI_1)</h2>
-<p><img alt="" src="figures/SYC_UNFCCC_NAI_1.png" /></p><h2>#8 (SYC_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/SYC_CO2_totals.png" /></p><h2>#6 (SYC_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/SYC_GCP_Country_Highlight.png" /></p><h2>#7 (SYC_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/SYC_CAIT_lucf_vs_nolucf.png" /></p><h2>#8 (SYC_UNFCCC_NAI_1)</h2>
+<p><img alt="" src="figures/SYC_UNFCCC_NAI_1.png" /></p><h2>#9 (SYC_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/SYC_Minx_top20_subsectors.png" /></p>

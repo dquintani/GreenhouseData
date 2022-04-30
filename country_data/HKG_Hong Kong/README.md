@@ -14,7 +14,8 @@ Hong Kong
 <p><img alt="" src="figures/HKG_BP_1.png" /></p><h2>#2 (HKG_CO2_totals)</h2>
 <p><img alt="" src="figures/HKG_CO2_totals.png" /></p><h2>#3 (HKG_EIA_1)</h2>
 <p><img alt="" src="figures/HKG_EIA_1.png" /></p><h2>#4 (HKG_GCP_1)</h2>
-<p><img alt="" src="figures/HKG_GCP_1.png" /></p><h2>#5 (HKG_IEA_1)</h2>
-<p><img alt="" src="figures/HKG_IEA_1.png" /></p><h2>#6 (HKG_CDIAC_1)</h2>
-<p><img alt="" src="figures/HKG_CDIAC_1.png" /></p><h2>#7 (HKG_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/HKG_GCP_1.png" /></p><h2>#5 (HKG_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/HKG_GCP_Country_Highlight.png" /></p><h2>#6 (HKG_IEA_1)</h2>
+<p><img alt="" src="figures/HKG_IEA_1.png" /></p><h2>#7 (HKG_CDIAC_1)</h2>
+<p><img alt="" src="figures/HKG_CDIAC_1.png" /></p><h2>#8 (HKG_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/HKG_Minx_top20_subsectors.png" /></p>

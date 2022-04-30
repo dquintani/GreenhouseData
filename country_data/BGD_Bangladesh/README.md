@@ -20,4 +20,5 @@ Bangladesh
 <p><img alt="" src="figures/BGD_IEA_1.png" /></p><h2>#8 (BGD_CDIAC_1)</h2>
 <p><img alt="" src="figures/BGD_CDIAC_1.png" /></p><h2>#9 (BGD_UNFCCC_NAI_1)</h2>
 <p><img alt="" src="figures/BGD_UNFCCC_NAI_1.png" /></p><h2>#10 (BGD_BP_1)</h2>
-<p><img alt="" src="figures/BGD_BP_1.png" /></p>
+<p><img alt="" src="figures/BGD_BP_1.png" /></p><h2>#11 (BGD_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/BGD_GCP_Country_Highlight.png" /></p>

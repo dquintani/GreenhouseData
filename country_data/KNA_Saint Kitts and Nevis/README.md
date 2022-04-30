@@ -16,5 +16,6 @@ Saint Kitts and Nevis
 <p><img alt="" src="figures/KNA_CO2_totals.png" /></p><h2>#4 (KNA_EIA_1)</h2>
 <p><img alt="" src="figures/KNA_EIA_1.png" /></p><h2>#5 (KNA_GCP_1)</h2>
 <p><img alt="" src="figures/KNA_GCP_1.png" /></p><h2>#6 (KNA_UNFCCC_NAI_1)</h2>
-<p><img alt="" src="figures/KNA_UNFCCC_NAI_1.png" /></p><h2>#7 (KNA_CAIT_gases_1)</h2>
+<p><img alt="" src="figures/KNA_UNFCCC_NAI_1.png" /></p><h2>#7 (KNA_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/KNA_GCP_Country_Highlight.png" /></p><h2>#8 (KNA_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/KNA_CAIT_gases_1.png" /></p>

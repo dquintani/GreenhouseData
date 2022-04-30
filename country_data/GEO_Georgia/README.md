@@ -18,5 +18,6 @@ Georgia
 <p><img alt="" src="figures/GEO_GCP_1.png" /></p><h2>#6 (GEO_CDIAC_1)</h2>
 <p><img alt="" src="figures/GEO_CDIAC_1.png" /></p><h2>#7 (GEO_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/GEO_CAIT_gases_1.png" /></p><h2>#8 (GEO_UNFCCC_NAI_1)</h2>
-<p><img alt="" src="figures/GEO_UNFCCC_NAI_1.png" /></p><h2>#9 (GEO_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/GEO_UNFCCC_NAI_1.png" /></p><h2>#9 (GEO_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/GEO_GCP_Country_Highlight.png" /></p><h2>#10 (GEO_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/GEO_Minx_top20_subsectors.png" /></p>

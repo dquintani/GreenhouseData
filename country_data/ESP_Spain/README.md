@@ -13,12 +13,13 @@ Spain
 <h1>Figures:</h1><h2>#1 (ESP_EIA_1)</h2>
 <p><img alt="" src="figures/ESP_EIA_1.png" /></p><h2>#2 (ESP_IEA_1)</h2>
 <p><img alt="" src="figures/ESP_IEA_1.png" /></p><h2>#3 (ESP_Carbon_Monitor_1)</h2>
-<p><img alt="" src="figures/ESP_Carbon_Monitor_1.png" /></p><h2>#4 (ESP_CAIT_lucf_vs_nolucf)</h2>
-<p><img alt="" src="figures/ESP_CAIT_lucf_vs_nolucf.png" /></p><h2>#5 (ESP_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/ESP_Minx_top20_subsectors.png" /></p><h2>#6 (ESP_UNFCCC_AI_1)</h2>
-<p><img alt="" src="figures/ESP_UNFCCC_AI_1.png" /></p><h2>#7 (ESP_CO2_totals)</h2>
-<p><img alt="" src="figures/ESP_CO2_totals.png" /></p><h2>#8 (ESP_BP_1)</h2>
-<p><img alt="" src="figures/ESP_BP_1.png" /></p><h2>#9 (ESP_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/ESP_CAIT_gases_1.png" /></p><h2>#10 (ESP_CDIAC_1)</h2>
-<p><img alt="" src="figures/ESP_CDIAC_1.png" /></p><h2>#11 (ESP_GCP_1)</h2>
+<p><img alt="" src="figures/ESP_Carbon_Monitor_1.png" /></p><h2>#4 (ESP_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/ESP_GCP_Country_Highlight.png" /></p><h2>#5 (ESP_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/ESP_CAIT_lucf_vs_nolucf.png" /></p><h2>#6 (ESP_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/ESP_Minx_top20_subsectors.png" /></p><h2>#7 (ESP_UNFCCC_AI_1)</h2>
+<p><img alt="" src="figures/ESP_UNFCCC_AI_1.png" /></p><h2>#8 (ESP_CO2_totals)</h2>
+<p><img alt="" src="figures/ESP_CO2_totals.png" /></p><h2>#9 (ESP_BP_1)</h2>
+<p><img alt="" src="figures/ESP_BP_1.png" /></p><h2>#10 (ESP_CAIT_gases_1)</h2>
+<p><img alt="" src="figures/ESP_CAIT_gases_1.png" /></p><h2>#11 (ESP_CDIAC_1)</h2>
+<p><img alt="" src="figures/ESP_CDIAC_1.png" /></p><h2>#12 (ESP_GCP_1)</h2>
 <p><img alt="" src="figures/ESP_GCP_1.png" /></p>

@@ -15,8 +15,9 @@ Panama
 <p><img alt="" src="figures/PAN_GCP_1.png" /></p><h2>#3 (PAN_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/PAN_CAIT_gases_1.png" /></p><h2>#4 (PAN_CAIT_lucf_vs_nolucf)</h2>
 <p><img alt="" src="figures/PAN_CAIT_lucf_vs_nolucf.png" /></p><h2>#5 (PAN_CO2_totals)</h2>
-<p><img alt="" src="figures/PAN_CO2_totals.png" /></p><h2>#6 (PAN_EIA_1)</h2>
-<p><img alt="" src="figures/PAN_EIA_1.png" /></p><h2>#7 (PAN_CDIAC_1)</h2>
-<p><img alt="" src="figures/PAN_CDIAC_1.png" /></p><h2>#8 (PAN_UNFCCC_NAI_1)</h2>
-<p><img alt="" src="figures/PAN_UNFCCC_NAI_1.png" /></p><h2>#9 (PAN_IEA_1)</h2>
+<p><img alt="" src="figures/PAN_CO2_totals.png" /></p><h2>#6 (PAN_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/PAN_GCP_Country_Highlight.png" /></p><h2>#7 (PAN_EIA_1)</h2>
+<p><img alt="" src="figures/PAN_EIA_1.png" /></p><h2>#8 (PAN_CDIAC_1)</h2>
+<p><img alt="" src="figures/PAN_CDIAC_1.png" /></p><h2>#9 (PAN_UNFCCC_NAI_1)</h2>
+<p><img alt="" src="figures/PAN_UNFCCC_NAI_1.png" /></p><h2>#10 (PAN_IEA_1)</h2>
 <p><img alt="" src="figures/PAN_IEA_1.png" /></p>

@@ -17,4 +17,5 @@ Taiwan
 <p><img alt="" src="figures/TWN_GCP_1.png" /></p><h2>#5 (TWN_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/TWN_Minx_top20_subsectors.png" /></p><h2>#6 (TWN_IEA_1)</h2>
 <p><img alt="" src="figures/TWN_IEA_1.png" /></p><h2>#7 (TWN_EIA_1)</h2>
-<p><img alt="" src="figures/TWN_EIA_1.png" /></p>
+<p><img alt="" src="figures/TWN_EIA_1.png" /></p><h2>#8 (TWN_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/TWN_GCP_Country_Highlight.png" /></p>

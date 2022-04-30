@@ -16,6 +16,7 @@ Afghanistan
 <p><img alt="" src="figures/AFG_CDIAC_1.png" /></p><h2>#4 (AFG_GCP_1)</h2>
 <p><img alt="" src="figures/AFG_GCP_1.png" /></p><h2>#5 (AFG_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/AFG_CAIT_gases_1.png" /></p><h2>#6 (AFG_EIA_1)</h2>
-<p><img alt="" src="figures/AFG_EIA_1.png" /></p><h2>#7 (AFG_UNFCCC_NAI_1)</h2>
-<p><img alt="" src="figures/AFG_UNFCCC_NAI_1.png" /></p><h2>#8 (AFG_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/AFG_EIA_1.png" /></p><h2>#7 (AFG_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/AFG_GCP_Country_Highlight.png" /></p><h2>#8 (AFG_UNFCCC_NAI_1)</h2>
+<p><img alt="" src="figures/AFG_UNFCCC_NAI_1.png" /></p><h2>#9 (AFG_CAIT_lucf_vs_nolucf)</h2>
 <p><img alt="" src="figures/AFG_CAIT_lucf_vs_nolucf.png" /></p>

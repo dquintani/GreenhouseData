@@ -14,5 +14,6 @@ New Caledonia
 <p><img alt="" src="figures/NCL_CDIAC_1.png" /></p><h2>#2 (NCL_CO2_totals)</h2>
 <p><img alt="" src="figures/NCL_CO2_totals.png" /></p><h2>#3 (NCL_GCP_1)</h2>
 <p><img alt="" src="figures/NCL_GCP_1.png" /></p><h2>#4 (NCL_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/NCL_Minx_top20_subsectors.png" /></p><h2>#5 (NCL_EIA_1)</h2>
+<p><img alt="" src="figures/NCL_Minx_top20_subsectors.png" /></p><h2>#5 (NCL_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/NCL_GCP_Country_Highlight.png" /></p><h2>#6 (NCL_EIA_1)</h2>
 <p><img alt="" src="figures/NCL_EIA_1.png" /></p>

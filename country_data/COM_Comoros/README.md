@@ -17,5 +17,6 @@ Comoros
 <p><img alt="" src="figures/COM_CO2_totals.png" /></p><h2>#5 (COM_CAIT_lucf_vs_nolucf)</h2>
 <p><img alt="" src="figures/COM_CAIT_lucf_vs_nolucf.png" /></p><h2>#6 (COM_CDIAC_1)</h2>
 <p><img alt="" src="figures/COM_CDIAC_1.png" /></p><h2>#7 (COM_UNFCCC_NAI_1)</h2>
-<p><img alt="" src="figures/COM_UNFCCC_NAI_1.png" /></p><h2>#8 (COM_EIA_1)</h2>
+<p><img alt="" src="figures/COM_UNFCCC_NAI_1.png" /></p><h2>#8 (COM_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/COM_GCP_Country_Highlight.png" /></p><h2>#9 (COM_EIA_1)</h2>
 <p><img alt="" src="figures/COM_EIA_1.png" /></p>

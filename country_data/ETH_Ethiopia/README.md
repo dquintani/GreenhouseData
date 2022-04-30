@@ -18,5 +18,6 @@ Ethiopia
 <p><img alt="" src="figures/ETH_CAIT_gases_1.png" /></p><h2>#6 (ETH_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/ETH_Minx_top20_subsectors.png" /></p><h2>#7 (ETH_EIA_1)</h2>
 <p><img alt="" src="figures/ETH_EIA_1.png" /></p><h2>#8 (ETH_IEA_1)</h2>
-<p><img alt="" src="figures/ETH_IEA_1.png" /></p><h2>#9 (ETH_UNFCCC_NAI_1)</h2>
+<p><img alt="" src="figures/ETH_IEA_1.png" /></p><h2>#9 (ETH_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/ETH_GCP_Country_Highlight.png" /></p><h2>#10 (ETH_UNFCCC_NAI_1)</h2>
 <p><img alt="" src="figures/ETH_UNFCCC_NAI_1.png" /></p>

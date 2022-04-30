@@ -17,6 +17,7 @@ El Salvador
 <p><img alt="" src="figures/SLV_UNFCCC_NAI_1.png" /></p><h2>#5 (SLV_CAIT_lucf_vs_nolucf)</h2>
 <p><img alt="" src="figures/SLV_CAIT_lucf_vs_nolucf.png" /></p><h2>#6 (SLV_CDIAC_1)</h2>
 <p><img alt="" src="figures/SLV_CDIAC_1.png" /></p><h2>#7 (SLV_CO2_totals)</h2>
-<p><img alt="" src="figures/SLV_CO2_totals.png" /></p><h2>#8 (SLV_GCP_1)</h2>
-<p><img alt="" src="figures/SLV_GCP_1.png" /></p><h2>#9 (SLV_CAIT_gases_1)</h2>
+<p><img alt="" src="figures/SLV_CO2_totals.png" /></p><h2>#8 (SLV_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/SLV_GCP_Country_Highlight.png" /></p><h2>#9 (SLV_GCP_1)</h2>
+<p><img alt="" src="figures/SLV_GCP_1.png" /></p><h2>#10 (SLV_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/SLV_CAIT_gases_1.png" /></p>

@@ -13,5 +13,6 @@ Martinique
 <h1>Figures:</h1><h2>#1 (MTQ_GCP_1)</h2>
 <p><img alt="" src="figures/MTQ_GCP_1.png" /></p><h2>#2 (MTQ_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/MTQ_Minx_top20_subsectors.png" /></p><h2>#3 (MTQ_EIA_1)</h2>
-<p><img alt="" src="figures/MTQ_EIA_1.png" /></p><h2>#4 (MTQ_CO2_totals)</h2>
+<p><img alt="" src="figures/MTQ_EIA_1.png" /></p><h2>#4 (MTQ_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/MTQ_GCP_Country_Highlight.png" /></p><h2>#5 (MTQ_CO2_totals)</h2>
 <p><img alt="" src="figures/MTQ_CO2_totals.png" /></p>

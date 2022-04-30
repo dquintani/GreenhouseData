@@ -17,5 +17,6 @@ Rwanda
 <p><img alt="" src="figures/RWA_Minx_top20_subsectors.png" /></p><h2>#5 (RWA_CO2_totals)</h2>
 <p><img alt="" src="figures/RWA_CO2_totals.png" /></p><h2>#6 (RWA_UNFCCC_NAI_1)</h2>
 <p><img alt="" src="figures/RWA_UNFCCC_NAI_1.png" /></p><h2>#7 (RWA_GCP_1)</h2>
-<p><img alt="" src="figures/RWA_GCP_1.png" /></p><h2>#8 (RWA_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/RWA_GCP_1.png" /></p><h2>#8 (RWA_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/RWA_GCP_Country_Highlight.png" /></p><h2>#9 (RWA_CAIT_lucf_vs_nolucf)</h2>
 <p><img alt="" src="figures/RWA_CAIT_lucf_vs_nolucf.png" /></p>

@@ -20,4 +20,5 @@ Vietnam
 <p><img alt="" src="figures/VNM_GCP_1.png" /></p><h2>#8 (VNM_CO2_totals)</h2>
 <p><img alt="" src="figures/VNM_CO2_totals.png" /></p><h2>#9 (VNM_IEA_1)</h2>
 <p><img alt="" src="figures/VNM_IEA_1.png" /></p><h2>#10 (VNM_BP_1)</h2>
-<p><img alt="" src="figures/VNM_BP_1.png" /></p>
+<p><img alt="" src="figures/VNM_BP_1.png" /></p><h2>#11 (VNM_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/VNM_GCP_Country_Highlight.png" /></p>

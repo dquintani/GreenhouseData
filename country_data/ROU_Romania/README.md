@@ -18,6 +18,7 @@ Romania
 <p><img alt="" src="figures/ROU_IEA_1.png" /></p><h2>#6 (ROU_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/ROU_Minx_top20_subsectors.png" /></p><h2>#7 (ROU_GCP_1)</h2>
 <p><img alt="" src="figures/ROU_GCP_1.png" /></p><h2>#8 (ROU_CDIAC_1)</h2>
-<p><img alt="" src="figures/ROU_CDIAC_1.png" /></p><h2>#9 (ROU_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/ROU_CAIT_gases_1.png" /></p><h2>#10 (ROU_UNFCCC_AI_1)</h2>
+<p><img alt="" src="figures/ROU_CDIAC_1.png" /></p><h2>#9 (ROU_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/ROU_GCP_Country_Highlight.png" /></p><h2>#10 (ROU_CAIT_gases_1)</h2>
+<p><img alt="" src="figures/ROU_CAIT_gases_1.png" /></p><h2>#11 (ROU_UNFCCC_AI_1)</h2>
 <p><img alt="" src="figures/ROU_UNFCCC_AI_1.png" /></p>

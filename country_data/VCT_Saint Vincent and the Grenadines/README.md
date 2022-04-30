@@ -17,5 +17,6 @@ Saint Vincent and the Grenadines
 <p><img alt="" src="figures/VCT_CAIT_lucf_vs_nolucf.png" /></p><h2>#5 (VCT_CO2_totals)</h2>
 <p><img alt="" src="figures/VCT_CO2_totals.png" /></p><h2>#6 (VCT_EIA_1)</h2>
 <p><img alt="" src="figures/VCT_EIA_1.png" /></p><h2>#7 (VCT_GCP_1)</h2>
-<p><img alt="" src="figures/VCT_GCP_1.png" /></p><h2>#8 (VCT_CAIT_gases_1)</h2>
+<p><img alt="" src="figures/VCT_GCP_1.png" /></p><h2>#8 (VCT_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/VCT_GCP_Country_Highlight.png" /></p><h2>#9 (VCT_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/VCT_CAIT_gases_1.png" /></p>

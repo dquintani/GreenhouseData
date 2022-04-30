@@ -20,4 +20,5 @@ Iran, Islamic Republic of
 <p><img alt="" src="figures/IRN_IEA_1.png" /></p><h2>#8 (IRN_GCP_1)</h2>
 <p><img alt="" src="figures/IRN_GCP_1.png" /></p><h2>#9 (IRN_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/IRN_Minx_top20_subsectors.png" /></p><h2>#10 (IRN_CDIAC_1)</h2>
-<p><img alt="" src="figures/IRN_CDIAC_1.png" /></p>
+<p><img alt="" src="figures/IRN_CDIAC_1.png" /></p><h2>#11 (IRN_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/IRN_GCP_Country_Highlight.png" /></p>

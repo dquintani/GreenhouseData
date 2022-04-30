@@ -16,6 +16,7 @@ Tonga
 <p><img alt="" src="figures/TON_Minx_top20_subsectors.png" /></p><h2>#4 (TON_EIA_1)</h2>
 <p><img alt="" src="figures/TON_EIA_1.png" /></p><h2>#5 (TON_UNFCCC_NAI_1)</h2>
 <p><img alt="" src="figures/TON_UNFCCC_NAI_1.png" /></p><h2>#6 (TON_CO2_totals)</h2>
-<p><img alt="" src="figures/TON_CO2_totals.png" /></p><h2>#7 (TON_CAIT_lucf_vs_nolucf)</h2>
-<p><img alt="" src="figures/TON_CAIT_lucf_vs_nolucf.png" /></p><h2>#8 (TON_CDIAC_1)</h2>
+<p><img alt="" src="figures/TON_CO2_totals.png" /></p><h2>#7 (TON_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/TON_GCP_Country_Highlight.png" /></p><h2>#8 (TON_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/TON_CAIT_lucf_vs_nolucf.png" /></p><h2>#9 (TON_CDIAC_1)</h2>
 <p><img alt="" src="figures/TON_CDIAC_1.png" /></p>

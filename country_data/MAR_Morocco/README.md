@@ -19,5 +19,6 @@ Morocco
 <p><img alt="" src="figures/MAR_CAIT_lucf_vs_nolucf.png" /></p><h2>#7 (MAR_GCP_1)</h2>
 <p><img alt="" src="figures/MAR_GCP_1.png" /></p><h2>#8 (MAR_IEA_1)</h2>
 <p><img alt="" src="figures/MAR_IEA_1.png" /></p><h2>#9 (MAR_EIA_1)</h2>
-<p><img alt="" src="figures/MAR_EIA_1.png" /></p><h2>#10 (MAR_CO2_totals)</h2>
+<p><img alt="" src="figures/MAR_EIA_1.png" /></p><h2>#10 (MAR_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/MAR_GCP_Country_Highlight.png" /></p><h2>#11 (MAR_CO2_totals)</h2>
 <p><img alt="" src="figures/MAR_CO2_totals.png" /></p>

@@ -15,4 +15,5 @@ Palestine, State of
 <p><img alt="" src="figures/PSE_UNFCCC_NAI_1.png" /></p><h2>#3 (PSE_GCP_1)</h2>
 <p><img alt="" src="figures/PSE_GCP_1.png" /></p><h2>#4 (PSE_CDIAC_1)</h2>
 <p><img alt="" src="figures/PSE_CDIAC_1.png" /></p><h2>#5 (PSE_CO2_totals)</h2>
-<p><img alt="" src="figures/PSE_CO2_totals.png" /></p>
+<p><img alt="" src="figures/PSE_CO2_totals.png" /></p><h2>#6 (PSE_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/PSE_GCP_Country_Highlight.png" /></p>

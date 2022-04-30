@@ -17,6 +17,7 @@ Benin
 <p><img alt="" src="figures/BEN_UNFCCC_NAI_1.png" /></p><h2>#5 (BEN_CDIAC_1)</h2>
 <p><img alt="" src="figures/BEN_CDIAC_1.png" /></p><h2>#6 (BEN_CO2_totals)</h2>
 <p><img alt="" src="figures/BEN_CO2_totals.png" /></p><h2>#7 (BEN_CAIT_lucf_vs_nolucf)</h2>
-<p><img alt="" src="figures/BEN_CAIT_lucf_vs_nolucf.png" /></p><h2>#8 (BEN_IEA_1)</h2>
-<p><img alt="" src="figures/BEN_IEA_1.png" /></p><h2>#9 (BEN_EIA_1)</h2>
+<p><img alt="" src="figures/BEN_CAIT_lucf_vs_nolucf.png" /></p><h2>#8 (BEN_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/BEN_GCP_Country_Highlight.png" /></p><h2>#9 (BEN_IEA_1)</h2>
+<p><img alt="" src="figures/BEN_IEA_1.png" /></p><h2>#10 (BEN_EIA_1)</h2>
 <p><img alt="" src="figures/BEN_EIA_1.png" /></p>

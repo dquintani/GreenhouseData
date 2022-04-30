@@ -18,4 +18,5 @@ Belize
 <p><img alt="" src="figures/BLZ_GCP_1.png" /></p><h2>#6 (BLZ_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/BLZ_CAIT_gases_1.png" /></p><h2>#7 (BLZ_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/BLZ_Minx_top20_subsectors.png" /></p><h2>#8 (BLZ_CO2_totals)</h2>
-<p><img alt="" src="figures/BLZ_CO2_totals.png" /></p>
+<p><img alt="" src="figures/BLZ_CO2_totals.png" /></p><h2>#9 (BLZ_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/BLZ_GCP_Country_Highlight.png" /></p>

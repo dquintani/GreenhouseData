@@ -18,4 +18,5 @@ Nauru
 <p><img alt="" src="figures/NRU_CAIT_gases_1.png" /></p><h2>#6 (NRU_GCP_1)</h2>
 <p><img alt="" src="figures/NRU_GCP_1.png" /></p><h2>#7 (NRU_UNFCCC_NAI_1)</h2>
 <p><img alt="" src="figures/NRU_UNFCCC_NAI_1.png" /></p><h2>#8 (NRU_CO2_totals)</h2>
-<p><img alt="" src="figures/NRU_CO2_totals.png" /></p>
+<p><img alt="" src="figures/NRU_CO2_totals.png" /></p><h2>#9 (NRU_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/NRU_GCP_Country_Highlight.png" /></p>

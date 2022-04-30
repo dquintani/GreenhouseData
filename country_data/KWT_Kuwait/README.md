@@ -20,4 +20,5 @@ Kuwait
 <p><img alt="" src="figures/KWT_CAIT_gases_1.png" /></p><h2>#8 (KWT_CO2_totals)</h2>
 <p><img alt="" src="figures/KWT_CO2_totals.png" /></p><h2>#9 (KWT_GCP_1)</h2>
 <p><img alt="" src="figures/KWT_GCP_1.png" /></p><h2>#10 (KWT_EIA_1)</h2>
-<p><img alt="" src="figures/KWT_EIA_1.png" /></p>
+<p><img alt="" src="figures/KWT_EIA_1.png" /></p><h2>#11 (KWT_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/KWT_GCP_Country_Highlight.png" /></p>

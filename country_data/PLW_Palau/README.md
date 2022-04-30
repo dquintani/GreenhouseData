@@ -16,4 +16,5 @@ Palau
 <p><img alt="" src="figures/PLW_Minx_top20_subsectors.png" /></p><h2>#4 (PLW_CDIAC_1)</h2>
 <p><img alt="" src="figures/PLW_CDIAC_1.png" /></p><h2>#5 (PLW_CO2_totals)</h2>
 <p><img alt="" src="figures/PLW_CO2_totals.png" /></p><h2>#6 (PLW_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/PLW_CAIT_gases_1.png" /></p>
+<p><img alt="" src="figures/PLW_CAIT_gases_1.png" /></p><h2>#7 (PLW_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/PLW_GCP_Country_Highlight.png" /></p>

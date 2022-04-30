@@ -19,4 +19,5 @@ Costa Rica
 <p><img alt="" src="figures/CRI_CDIAC_1.png" /></p><h2>#7 (CRI_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/CRI_Minx_top20_subsectors.png" /></p><h2>#8 (CRI_UNFCCC_NAI_1)</h2>
 <p><img alt="" src="figures/CRI_UNFCCC_NAI_1.png" /></p><h2>#9 (CRI_GCP_1)</h2>
-<p><img alt="" src="figures/CRI_GCP_1.png" /></p>
+<p><img alt="" src="figures/CRI_GCP_1.png" /></p><h2>#10 (CRI_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/CRI_GCP_Country_Highlight.png" /></p>

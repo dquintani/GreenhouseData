@@ -14,5 +14,6 @@ Andorra
 <p><img alt="" src="figures/AND_CO2_totals.png" /></p><h2>#2 (AND_CAIT_lucf_vs_nolucf)</h2>
 <p><img alt="" src="figures/AND_CAIT_lucf_vs_nolucf.png" /></p><h2>#3 (AND_CDIAC_1)</h2>
 <p><img alt="" src="figures/AND_CDIAC_1.png" /></p><h2>#4 (AND_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/AND_CAIT_gases_1.png" /></p><h2>#5 (AND_GCP_1)</h2>
+<p><img alt="" src="figures/AND_CAIT_gases_1.png" /></p><h2>#5 (AND_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/AND_GCP_Country_Highlight.png" /></p><h2>#6 (AND_GCP_1)</h2>
 <p><img alt="" src="figures/AND_GCP_1.png" /></p>

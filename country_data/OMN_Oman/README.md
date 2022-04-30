@@ -16,8 +16,9 @@ Oman
 <p><img alt="" src="figures/OMN_EIA_1.png" /></p><h2>#4 (OMN_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/OMN_CAIT_gases_1.png" /></p><h2>#5 (OMN_CDIAC_1)</h2>
 <p><img alt="" src="figures/OMN_CDIAC_1.png" /></p><h2>#6 (OMN_BP_1)</h2>
-<p><img alt="" src="figures/OMN_BP_1.png" /></p><h2>#7 (OMN_CO2_totals)</h2>
-<p><img alt="" src="figures/OMN_CO2_totals.png" /></p><h2>#8 (OMN_IEA_1)</h2>
-<p><img alt="" src="figures/OMN_IEA_1.png" /></p><h2>#9 (OMN_GCP_1)</h2>
-<p><img alt="" src="figures/OMN_GCP_1.png" /></p><h2>#10 (OMN_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/OMN_BP_1.png" /></p><h2>#7 (OMN_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/OMN_GCP_Country_Highlight.png" /></p><h2>#8 (OMN_CO2_totals)</h2>
+<p><img alt="" src="figures/OMN_CO2_totals.png" /></p><h2>#9 (OMN_IEA_1)</h2>
+<p><img alt="" src="figures/OMN_IEA_1.png" /></p><h2>#10 (OMN_GCP_1)</h2>
+<p><img alt="" src="figures/OMN_GCP_1.png" /></p><h2>#11 (OMN_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/OMN_Minx_top20_subsectors.png" /></p>

@@ -18,6 +18,7 @@ Latvia
 <p><img alt="" src="figures/LVA_IEA_1.png" /></p><h2>#6 (LVA_BP_1)</h2>
 <p><img alt="" src="figures/LVA_BP_1.png" /></p><h2>#7 (LVA_UNFCCC_AI_1)</h2>
 <p><img alt="" src="figures/LVA_UNFCCC_AI_1.png" /></p><h2>#8 (LVA_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/LVA_CAIT_gases_1.png" /></p><h2>#9 (LVA_CO2_totals)</h2>
-<p><img alt="" src="figures/LVA_CO2_totals.png" /></p><h2>#10 (LVA_GCP_1)</h2>
+<p><img alt="" src="figures/LVA_CAIT_gases_1.png" /></p><h2>#9 (LVA_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/LVA_GCP_Country_Highlight.png" /></p><h2>#10 (LVA_CO2_totals)</h2>
+<p><img alt="" src="figures/LVA_CO2_totals.png" /></p><h2>#11 (LVA_GCP_1)</h2>
 <p><img alt="" src="figures/LVA_GCP_1.png" /></p>

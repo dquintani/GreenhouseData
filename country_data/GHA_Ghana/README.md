@@ -19,4 +19,5 @@ Ghana
 <p><img alt="" src="figures/GHA_Minx_top20_subsectors.png" /></p><h2>#7 (GHA_IEA_1)</h2>
 <p><img alt="" src="figures/GHA_IEA_1.png" /></p><h2>#8 (GHA_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/GHA_CAIT_gases_1.png" /></p><h2>#9 (GHA_EIA_1)</h2>
-<p><img alt="" src="figures/GHA_EIA_1.png" /></p>
+<p><img alt="" src="figures/GHA_EIA_1.png" /></p><h2>#10 (GHA_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/GHA_GCP_Country_Highlight.png" /></p>

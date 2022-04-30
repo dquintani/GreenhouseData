@@ -19,4 +19,5 @@ North Korea
 <p><img alt="" src="figures/PRK_UNFCCC_NAI_1.png" /></p><h2>#7 (PRK_CDIAC_1)</h2>
 <p><img alt="" src="figures/PRK_CDIAC_1.png" /></p><h2>#8 (PRK_GCP_1)</h2>
 <p><img alt="" src="figures/PRK_GCP_1.png" /></p><h2>#9 (PRK_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/PRK_CAIT_gases_1.png" /></p>
+<p><img alt="" src="figures/PRK_CAIT_gases_1.png" /></p><h2>#10 (PRK_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/PRK_GCP_Country_Highlight.png" /></p>

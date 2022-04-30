@@ -14,8 +14,9 @@ Solomon Islands
 <p><img alt="" src="figures/SLB_EIA_1.png" /></p><h2>#2 (SLB_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/SLB_Minx_top20_subsectors.png" /></p><h2>#3 (SLB_GCP_1)</h2>
 <p><img alt="" src="figures/SLB_GCP_1.png" /></p><h2>#4 (SLB_CO2_totals)</h2>
-<p><img alt="" src="figures/SLB_CO2_totals.png" /></p><h2>#5 (SLB_CDIAC_1)</h2>
-<p><img alt="" src="figures/SLB_CDIAC_1.png" /></p><h2>#6 (SLB_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/SLB_CAIT_gases_1.png" /></p><h2>#7 (SLB_CAIT_lucf_vs_nolucf)</h2>
-<p><img alt="" src="figures/SLB_CAIT_lucf_vs_nolucf.png" /></p><h2>#8 (SLB_UNFCCC_NAI_1)</h2>
+<p><img alt="" src="figures/SLB_CO2_totals.png" /></p><h2>#5 (SLB_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/SLB_GCP_Country_Highlight.png" /></p><h2>#6 (SLB_CDIAC_1)</h2>
+<p><img alt="" src="figures/SLB_CDIAC_1.png" /></p><h2>#7 (SLB_CAIT_gases_1)</h2>
+<p><img alt="" src="figures/SLB_CAIT_gases_1.png" /></p><h2>#8 (SLB_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/SLB_CAIT_lucf_vs_nolucf.png" /></p><h2>#9 (SLB_UNFCCC_NAI_1)</h2>
 <p><img alt="" src="figures/SLB_UNFCCC_NAI_1.png" /></p>

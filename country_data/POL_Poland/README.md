@@ -20,4 +20,5 @@ Poland
 <p><img alt="" src="figures/POL_CO2_totals.png" /></p><h2>#8 (POL_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/POL_CAIT_gases_1.png" /></p><h2>#9 (POL_CDIAC_1)</h2>
 <p><img alt="" src="figures/POL_CDIAC_1.png" /></p><h2>#10 (POL_EIA_1)</h2>
-<p><img alt="" src="figures/POL_EIA_1.png" /></p>
+<p><img alt="" src="figures/POL_EIA_1.png" /></p><h2>#11 (POL_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/POL_GCP_Country_Highlight.png" /></p>

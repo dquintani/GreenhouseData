@@ -15,4 +15,5 @@ Turks and Caicos Islands
 <p><img alt="" src="figures/TCA_EIA_1.png" /></p><h2>#3 (TCA_GCP_1)</h2>
 <p><img alt="" src="figures/TCA_GCP_1.png" /></p><h2>#4 (TCA_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/TCA_Minx_top20_subsectors.png" /></p><h2>#5 (TCA_CDIAC_1)</h2>
-<p><img alt="" src="figures/TCA_CDIAC_1.png" /></p>
+<p><img alt="" src="figures/TCA_CDIAC_1.png" /></p><h2>#6 (TCA_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/TCA_GCP_Country_Highlight.png" /></p>

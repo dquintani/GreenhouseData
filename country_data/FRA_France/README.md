@@ -20,5 +20,6 @@ France
 <p><img alt="" src="figures/FRA_CDIAC_1.png" /></p><h2>#8 (FRA_BP_1)</h2>
 <p><img alt="" src="figures/FRA_BP_1.png" /></p><h2>#9 (FRA_UNFCCC_AI_1)</h2>
 <p><img alt="" src="figures/FRA_UNFCCC_AI_1.png" /></p><h2>#10 (FRA_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/FRA_Minx_top20_subsectors.png" /></p><h2>#11 (FRA_GCP_1)</h2>
+<p><img alt="" src="figures/FRA_Minx_top20_subsectors.png" /></p><h2>#11 (FRA_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/FRA_GCP_Country_Highlight.png" /></p><h2>#12 (FRA_GCP_1)</h2>
 <p><img alt="" src="figures/FRA_GCP_1.png" /></p>

@@ -16,7 +16,8 @@ Albania
 <p><img alt="" src="figures/ALB_CAIT_lucf_vs_nolucf.png" /></p><h2>#4 (ALB_EIA_1)</h2>
 <p><img alt="" src="figures/ALB_EIA_1.png" /></p><h2>#5 (ALB_UNFCCC_NAI_1)</h2>
 <p><img alt="" src="figures/ALB_UNFCCC_NAI_1.png" /></p><h2>#6 (ALB_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/ALB_CAIT_gases_1.png" /></p><h2>#7 (ALB_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/ALB_Minx_top20_subsectors.png" /></p><h2>#8 (ALB_IEA_1)</h2>
-<p><img alt="" src="figures/ALB_IEA_1.png" /></p><h2>#9 (ALB_GCP_1)</h2>
+<p><img alt="" src="figures/ALB_CAIT_gases_1.png" /></p><h2>#7 (ALB_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/ALB_GCP_Country_Highlight.png" /></p><h2>#8 (ALB_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/ALB_Minx_top20_subsectors.png" /></p><h2>#9 (ALB_IEA_1)</h2>
+<p><img alt="" src="figures/ALB_IEA_1.png" /></p><h2>#10 (ALB_GCP_1)</h2>
 <p><img alt="" src="figures/ALB_GCP_1.png" /></p>

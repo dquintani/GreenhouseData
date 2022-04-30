@@ -17,7 +17,8 @@ Turkey
 <p><img alt="" src="figures/TUR_CDIAC_1.png" /></p><h2>#5 (TUR_CO2_totals)</h2>
 <p><img alt="" src="figures/TUR_CO2_totals.png" /></p><h2>#6 (TUR_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/TUR_Minx_top20_subsectors.png" /></p><h2>#7 (TUR_EIA_1)</h2>
-<p><img alt="" src="figures/TUR_EIA_1.png" /></p><h2>#8 (TUR_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/TUR_CAIT_gases_1.png" /></p><h2>#9 (TUR_BP_1)</h2>
-<p><img alt="" src="figures/TUR_BP_1.png" /></p><h2>#10 (TUR_UNFCCC_AI_1)</h2>
+<p><img alt="" src="figures/TUR_EIA_1.png" /></p><h2>#8 (TUR_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/TUR_GCP_Country_Highlight.png" /></p><h2>#9 (TUR_CAIT_gases_1)</h2>
+<p><img alt="" src="figures/TUR_CAIT_gases_1.png" /></p><h2>#10 (TUR_BP_1)</h2>
+<p><img alt="" src="figures/TUR_BP_1.png" /></p><h2>#11 (TUR_UNFCCC_AI_1)</h2>
 <p><img alt="" src="figures/TUR_UNFCCC_AI_1.png" /></p>

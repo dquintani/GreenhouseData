@@ -13,11 +13,12 @@ Hungary
 <h1>Figures:</h1><h2>#1 (HUN_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/HUN_Minx_top20_subsectors.png" /></p><h2>#2 (HUN_EIA_1)</h2>
 <p><img alt="" src="figures/HUN_EIA_1.png" /></p><h2>#3 (HUN_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/HUN_CAIT_gases_1.png" /></p><h2>#4 (HUN_CDIAC_1)</h2>
-<p><img alt="" src="figures/HUN_CDIAC_1.png" /></p><h2>#5 (HUN_CAIT_lucf_vs_nolucf)</h2>
-<p><img alt="" src="figures/HUN_CAIT_lucf_vs_nolucf.png" /></p><h2>#6 (HUN_GCP_1)</h2>
-<p><img alt="" src="figures/HUN_GCP_1.png" /></p><h2>#7 (HUN_BP_1)</h2>
-<p><img alt="" src="figures/HUN_BP_1.png" /></p><h2>#8 (HUN_UNFCCC_AI_1)</h2>
-<p><img alt="" src="figures/HUN_UNFCCC_AI_1.png" /></p><h2>#9 (HUN_CO2_totals)</h2>
-<p><img alt="" src="figures/HUN_CO2_totals.png" /></p><h2>#10 (HUN_IEA_1)</h2>
+<p><img alt="" src="figures/HUN_CAIT_gases_1.png" /></p><h2>#4 (HUN_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/HUN_GCP_Country_Highlight.png" /></p><h2>#5 (HUN_CDIAC_1)</h2>
+<p><img alt="" src="figures/HUN_CDIAC_1.png" /></p><h2>#6 (HUN_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/HUN_CAIT_lucf_vs_nolucf.png" /></p><h2>#7 (HUN_GCP_1)</h2>
+<p><img alt="" src="figures/HUN_GCP_1.png" /></p><h2>#8 (HUN_BP_1)</h2>
+<p><img alt="" src="figures/HUN_BP_1.png" /></p><h2>#9 (HUN_UNFCCC_AI_1)</h2>
+<p><img alt="" src="figures/HUN_UNFCCC_AI_1.png" /></p><h2>#10 (HUN_CO2_totals)</h2>
+<p><img alt="" src="figures/HUN_CO2_totals.png" /></p><h2>#11 (HUN_IEA_1)</h2>
 <p><img alt="" src="figures/HUN_IEA_1.png" /></p>

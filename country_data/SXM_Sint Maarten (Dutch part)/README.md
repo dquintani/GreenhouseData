@@ -13,4 +13,5 @@ Sint Maarten (Dutch part)
 <h1>Figures:</h1><h2>#1 (SXM_GCP_1)</h2>
 <p><img alt="" src="figures/SXM_GCP_1.png" /></p><h2>#2 (SXM_CO2_totals)</h2>
 <p><img alt="" src="figures/SXM_CO2_totals.png" /></p><h2>#3 (SXM_CDIAC_1)</h2>
-<p><img alt="" src="figures/SXM_CDIAC_1.png" /></p>
+<p><img alt="" src="figures/SXM_CDIAC_1.png" /></p><h2>#4 (SXM_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/SXM_GCP_Country_Highlight.png" /></p>

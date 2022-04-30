@@ -17,7 +17,8 @@ Cyprus
 <p><img alt="" src="figures/CYP_UNFCCC_AI_1.png" /></p><h2>#5 (CYP_IEA_1)</h2>
 <p><img alt="" src="figures/CYP_IEA_1.png" /></p><h2>#6 (CYP_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/CYP_Minx_top20_subsectors.png" /></p><h2>#7 (CYP_CAIT_lucf_vs_nolucf)</h2>
-<p><img alt="" src="figures/CYP_CAIT_lucf_vs_nolucf.png" /></p><h2>#8 (CYP_BP_1)</h2>
-<p><img alt="" src="figures/CYP_BP_1.png" /></p><h2>#9 (CYP_CO2_totals)</h2>
-<p><img alt="" src="figures/CYP_CO2_totals.png" /></p><h2>#10 (CYP_EIA_1)</h2>
+<p><img alt="" src="figures/CYP_CAIT_lucf_vs_nolucf.png" /></p><h2>#8 (CYP_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/CYP_GCP_Country_Highlight.png" /></p><h2>#9 (CYP_BP_1)</h2>
+<p><img alt="" src="figures/CYP_BP_1.png" /></p><h2>#10 (CYP_CO2_totals)</h2>
+<p><img alt="" src="figures/CYP_CO2_totals.png" /></p><h2>#11 (CYP_EIA_1)</h2>
 <p><img alt="" src="figures/CYP_EIA_1.png" /></p>

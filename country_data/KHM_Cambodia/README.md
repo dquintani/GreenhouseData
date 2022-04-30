@@ -17,6 +17,7 @@ Cambodia
 <p><img alt="" src="figures/KHM_CAIT_gases_1.png" /></p><h2>#5 (KHM_CAIT_lucf_vs_nolucf)</h2>
 <p><img alt="" src="figures/KHM_CAIT_lucf_vs_nolucf.png" /></p><h2>#6 (KHM_UNFCCC_NAI_1)</h2>
 <p><img alt="" src="figures/KHM_UNFCCC_NAI_1.png" /></p><h2>#7 (KHM_CO2_totals)</h2>
-<p><img alt="" src="figures/KHM_CO2_totals.png" /></p><h2>#8 (KHM_CDIAC_1)</h2>
-<p><img alt="" src="figures/KHM_CDIAC_1.png" /></p><h2>#9 (KHM_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/KHM_CO2_totals.png" /></p><h2>#8 (KHM_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/KHM_GCP_Country_Highlight.png" /></p><h2>#9 (KHM_CDIAC_1)</h2>
+<p><img alt="" src="figures/KHM_CDIAC_1.png" /></p><h2>#10 (KHM_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/KHM_Minx_top20_subsectors.png" /></p>

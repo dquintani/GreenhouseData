@@ -18,5 +18,6 @@ Mauritius
 <p><img alt="" src="figures/MUS_Minx_top20_subsectors.png" /></p><h2>#6 (MUS_IEA_1)</h2>
 <p><img alt="" src="figures/MUS_IEA_1.png" /></p><h2>#7 (MUS_EIA_1)</h2>
 <p><img alt="" src="figures/MUS_EIA_1.png" /></p><h2>#8 (MUS_GCP_1)</h2>
-<p><img alt="" src="figures/MUS_GCP_1.png" /></p><h2>#9 (MUS_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/MUS_GCP_1.png" /></p><h2>#9 (MUS_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/MUS_GCP_Country_Highlight.png" /></p><h2>#10 (MUS_CAIT_lucf_vs_nolucf)</h2>
 <p><img alt="" src="figures/MUS_CAIT_lucf_vs_nolucf.png" /></p>

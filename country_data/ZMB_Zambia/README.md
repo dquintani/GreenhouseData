@@ -18,5 +18,6 @@ Zambia
 <p><img alt="" src="figures/ZMB_CO2_totals.png" /></p><h2>#6 (ZMB_CAIT_lucf_vs_nolucf)</h2>
 <p><img alt="" src="figures/ZMB_CAIT_lucf_vs_nolucf.png" /></p><h2>#7 (ZMB_UNFCCC_NAI_1)</h2>
 <p><img alt="" src="figures/ZMB_UNFCCC_NAI_1.png" /></p><h2>#8 (ZMB_GCP_1)</h2>
-<p><img alt="" src="figures/ZMB_GCP_1.png" /></p><h2>#9 (ZMB_CDIAC_1)</h2>
+<p><img alt="" src="figures/ZMB_GCP_1.png" /></p><h2>#9 (ZMB_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/ZMB_GCP_Country_Highlight.png" /></p><h2>#10 (ZMB_CDIAC_1)</h2>
 <p><img alt="" src="figures/ZMB_CDIAC_1.png" /></p>

@@ -16,6 +16,7 @@ Maldives
 <p><img alt="" src="figures/MDV_CDIAC_1.png" /></p><h2>#4 (MDV_UNFCCC_NAI_1)</h2>
 <p><img alt="" src="figures/MDV_UNFCCC_NAI_1.png" /></p><h2>#5 (MDV_CAIT_lucf_vs_nolucf)</h2>
 <p><img alt="" src="figures/MDV_CAIT_lucf_vs_nolucf.png" /></p><h2>#6 (MDV_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/MDV_Minx_top20_subsectors.png" /></p><h2>#7 (MDV_GCP_1)</h2>
-<p><img alt="" src="figures/MDV_GCP_1.png" /></p><h2>#8 (MDV_CAIT_gases_1)</h2>
+<p><img alt="" src="figures/MDV_Minx_top20_subsectors.png" /></p><h2>#7 (MDV_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/MDV_GCP_Country_Highlight.png" /></p><h2>#8 (MDV_GCP_1)</h2>
+<p><img alt="" src="figures/MDV_GCP_1.png" /></p><h2>#9 (MDV_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/MDV_CAIT_gases_1.png" /></p>

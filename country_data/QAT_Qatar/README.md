@@ -18,6 +18,7 @@ Qatar
 <p><img alt="" src="figures/QAT_UNFCCC_NAI_1.png" /></p><h2>#6 (QAT_IEA_1)</h2>
 <p><img alt="" src="figures/QAT_IEA_1.png" /></p><h2>#7 (QAT_EIA_1)</h2>
 <p><img alt="" src="figures/QAT_EIA_1.png" /></p><h2>#8 (QAT_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/QAT_CAIT_gases_1.png" /></p><h2>#9 (QAT_CO2_totals)</h2>
-<p><img alt="" src="figures/QAT_CO2_totals.png" /></p><h2>#10 (QAT_CDIAC_1)</h2>
+<p><img alt="" src="figures/QAT_CAIT_gases_1.png" /></p><h2>#9 (QAT_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/QAT_GCP_Country_Highlight.png" /></p><h2>#10 (QAT_CO2_totals)</h2>
+<p><img alt="" src="figures/QAT_CO2_totals.png" /></p><h2>#11 (QAT_CDIAC_1)</h2>
 <p><img alt="" src="figures/QAT_CDIAC_1.png" /></p>

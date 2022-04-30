@@ -17,6 +17,7 @@ Jordan
 <p><img alt="" src="figures/JOR_CAIT_lucf_vs_nolucf.png" /></p><h2>#5 (JOR_EIA_1)</h2>
 <p><img alt="" src="figures/JOR_EIA_1.png" /></p><h2>#6 (JOR_GCP_1)</h2>
 <p><img alt="" src="figures/JOR_GCP_1.png" /></p><h2>#7 (JOR_UNFCCC_NAI_1)</h2>
-<p><img alt="" src="figures/JOR_UNFCCC_NAI_1.png" /></p><h2>#8 (JOR_CO2_totals)</h2>
-<p><img alt="" src="figures/JOR_CO2_totals.png" /></p><h2>#9 (JOR_CAIT_gases_1)</h2>
+<p><img alt="" src="figures/JOR_UNFCCC_NAI_1.png" /></p><h2>#8 (JOR_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/JOR_GCP_Country_Highlight.png" /></p><h2>#9 (JOR_CO2_totals)</h2>
+<p><img alt="" src="figures/JOR_CO2_totals.png" /></p><h2>#10 (JOR_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/JOR_CAIT_gases_1.png" /></p>

@@ -15,4 +15,5 @@ Bermuda
 <p><img alt="" src="figures/BMU_GCP_1.png" /></p><h2>#3 (BMU_EIA_1)</h2>
 <p><img alt="" src="figures/BMU_EIA_1.png" /></p><h2>#4 (BMU_CDIAC_1)</h2>
 <p><img alt="" src="figures/BMU_CDIAC_1.png" /></p><h2>#5 (BMU_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/BMU_Minx_top20_subsectors.png" /></p>
+<p><img alt="" src="figures/BMU_Minx_top20_subsectors.png" /></p><h2>#6 (BMU_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/BMU_GCP_Country_Highlight.png" /></p>

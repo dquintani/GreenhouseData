@@ -20,4 +20,5 @@ Mexico
 <p><img alt="" src="figures/MEX_Minx_top20_subsectors.png" /></p><h2>#8 (MEX_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/MEX_CAIT_gases_1.png" /></p><h2>#9 (MEX_CAIT_lucf_vs_nolucf)</h2>
 <p><img alt="" src="figures/MEX_CAIT_lucf_vs_nolucf.png" /></p><h2>#10 (MEX_IEA_1)</h2>
-<p><img alt="" src="figures/MEX_IEA_1.png" /></p>
+<p><img alt="" src="figures/MEX_IEA_1.png" /></p><h2>#11 (MEX_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/MEX_GCP_Country_Highlight.png" /></p>

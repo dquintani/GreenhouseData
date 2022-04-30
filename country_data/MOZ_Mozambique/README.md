@@ -16,7 +16,8 @@ Mozambique
 <p><img alt="" src="figures/MOZ_Minx_top20_subsectors.png" /></p><h2>#4 (MOZ_UNFCCC_NAI_1)</h2>
 <p><img alt="" src="figures/MOZ_UNFCCC_NAI_1.png" /></p><h2>#5 (MOZ_EIA_1)</h2>
 <p><img alt="" src="figures/MOZ_EIA_1.png" /></p><h2>#6 (MOZ_CO2_totals)</h2>
-<p><img alt="" src="figures/MOZ_CO2_totals.png" /></p><h2>#7 (MOZ_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/MOZ_CAIT_gases_1.png" /></p><h2>#8 (MOZ_CAIT_lucf_vs_nolucf)</h2>
-<p><img alt="" src="figures/MOZ_CAIT_lucf_vs_nolucf.png" /></p><h2>#9 (MOZ_IEA_1)</h2>
+<p><img alt="" src="figures/MOZ_CO2_totals.png" /></p><h2>#7 (MOZ_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/MOZ_GCP_Country_Highlight.png" /></p><h2>#8 (MOZ_CAIT_gases_1)</h2>
+<p><img alt="" src="figures/MOZ_CAIT_gases_1.png" /></p><h2>#9 (MOZ_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/MOZ_CAIT_lucf_vs_nolucf.png" /></p><h2>#10 (MOZ_IEA_1)</h2>
 <p><img alt="" src="figures/MOZ_IEA_1.png" /></p>

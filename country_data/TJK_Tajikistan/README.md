@@ -16,7 +16,8 @@ Tajikistan
 <p><img alt="" src="figures/TJK_UNFCCC_NAI_1.png" /></p><h2>#4 (TJK_CO2_totals)</h2>
 <p><img alt="" src="figures/TJK_CO2_totals.png" /></p><h2>#5 (TJK_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/TJK_Minx_top20_subsectors.png" /></p><h2>#6 (TJK_IEA_1)</h2>
-<p><img alt="" src="figures/TJK_IEA_1.png" /></p><h2>#7 (TJK_EIA_1)</h2>
-<p><img alt="" src="figures/TJK_EIA_1.png" /></p><h2>#8 (TJK_CDIAC_1)</h2>
-<p><img alt="" src="figures/TJK_CDIAC_1.png" /></p><h2>#9 (TJK_CAIT_gases_1)</h2>
+<p><img alt="" src="figures/TJK_IEA_1.png" /></p><h2>#7 (TJK_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/TJK_GCP_Country_Highlight.png" /></p><h2>#8 (TJK_EIA_1)</h2>
+<p><img alt="" src="figures/TJK_EIA_1.png" /></p><h2>#9 (TJK_CDIAC_1)</h2>
+<p><img alt="" src="figures/TJK_CDIAC_1.png" /></p><h2>#10 (TJK_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/TJK_CAIT_gases_1.png" /></p>

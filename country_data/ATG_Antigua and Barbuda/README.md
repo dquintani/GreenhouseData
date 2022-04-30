@@ -16,5 +16,6 @@ Antigua and Barbuda
 <p><img alt="" src="figures/ATG_UNFCCC_NAI_1.png" /></p><h2>#4 (ATG_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/ATG_CAIT_gases_1.png" /></p><h2>#5 (ATG_CDIAC_1)</h2>
 <p><img alt="" src="figures/ATG_CDIAC_1.png" /></p><h2>#6 (ATG_CO2_totals)</h2>
-<p><img alt="" src="figures/ATG_CO2_totals.png" /></p><h2>#7 (ATG_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/ATG_CO2_totals.png" /></p><h2>#7 (ATG_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/ATG_GCP_Country_Highlight.png" /></p><h2>#8 (ATG_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/ATG_Minx_top20_subsectors.png" /></p>

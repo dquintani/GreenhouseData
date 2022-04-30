@@ -21,4 +21,5 @@ Japan
 <p><img alt="" src="figures/JPN_EIA_1.png" /></p><h2>#9 (JPN_UNFCCC_AI_1)</h2>
 <p><img alt="" src="figures/JPN_UNFCCC_AI_1.png" /></p><h2>#10 (JPN_CAIT_lucf_vs_nolucf)</h2>
 <p><img alt="" src="figures/JPN_CAIT_lucf_vs_nolucf.png" /></p><h2>#11 (JPN_CDIAC_1)</h2>
-<p><img alt="" src="figures/JPN_CDIAC_1.png" /></p>
+<p><img alt="" src="figures/JPN_CDIAC_1.png" /></p><h2>#12 (JPN_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/JPN_GCP_Country_Highlight.png" /></p>

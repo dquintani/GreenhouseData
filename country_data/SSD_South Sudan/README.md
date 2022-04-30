@@ -17,5 +17,6 @@ South Sudan
 <p><img alt="" src="figures/SSD_UNFCCC_NAI_1.png" /></p><h2>#5 (SSD_CAIT_lucf_vs_nolucf)</h2>
 <p><img alt="" src="figures/SSD_CAIT_lucf_vs_nolucf.png" /></p><h2>#6 (SSD_EIA_1)</h2>
 <p><img alt="" src="figures/SSD_EIA_1.png" /></p><h2>#7 (SSD_IEA_1)</h2>
-<p><img alt="" src="figures/SSD_IEA_1.png" /></p><h2>#8 (SSD_GCP_1)</h2>
+<p><img alt="" src="figures/SSD_IEA_1.png" /></p><h2>#8 (SSD_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/SSD_GCP_Country_Highlight.png" /></p><h2>#9 (SSD_GCP_1)</h2>
 <p><img alt="" src="figures/SSD_GCP_1.png" /></p>
