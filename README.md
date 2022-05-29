@@ -24,8 +24,22 @@ Created by Diego Acevedo Quintanilla
 <h1><a href="country_data/CHN_China/">China 🇨🇳</a></h1>
 <h1><a href="country_data/BOL_Bolivia/">Bolivia 🇧🇴</a></h1>
 <h1><a href="country_data/IND_India/">India 🇮🇳</a></h1>
-<p><br>
-<br></p>
+<p><br></p>
+<h1 align="center">
+    NOAA GHG Summary:
+<br>
+<br>
+<p style="font-size: 12px">
+(checks for updates daily)
+</p>
+
+<img width="1200" src="global/NOAA_summary.png">
+<br>
+<br>
+
+
+<br>
+<br>
 <h1 align="center">
     Random figure:
 <br>
