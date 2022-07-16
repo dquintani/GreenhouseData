@@ -33,7 +33,7 @@ Created by Diego Acevedo Quintanilla
 (checks for updates daily)
 </p>
 
-<img width="1200" src="global/NOAA_summary.png">
+<img width="1200" src="https://raw.githubusercontent.com/dquintani/update/main/Greenhouse_Data/NOAA_Updates/figures/NOAA_summary.png">
 <br>
 <br>
 
@@ -48,7 +48,7 @@ Created by Diego Acevedo Quintanilla
 Updated every 3 hours
 </p>
 
-<img width="1200" src="supplemental/random_daily_fig.png">
+<img width="1200" src="https://raw.githubusercontent.com/dquintani/update/main/Greenhouse_Data/Random_Fig_Daily/random_daily_fig.png">
 <br>
 <br>
 

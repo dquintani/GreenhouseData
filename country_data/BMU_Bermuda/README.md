@@ -9,11 +9,11 @@ Bermuda
 </h1>
 <h2>Datasets:</h2>
 <p><a href="https://github.com/dquintani/GreenhouseData/tree/master/country_data/BMU_Bermuda/data">View on Github</a>
-<br></p><p><a href="data/BMU_EDGAR.csv">EDGAR</a> || <a href="data/BMU_GCP.csv">GCP</a> || <a href="data/BMU_Minx_2021.csv">Minx_2021</a> || <a href="data/BMU_FAO.csv">FAO</a> || <a href="data/BMU_EIA.csv">EIA</a> || <a href="data/BMU_CDIAC.csv">CDIAC</a> || <a href="data/BMU_GCP_consupmption.csv">GCP_consupmption</a></p><p><br></p>
-<h1>Figures:</h1><h2>#1 (BMU_CO2_totals)</h2>
-<p><img alt="" src="figures/BMU_CO2_totals.png" /></p><h2>#2 (BMU_GCP_1)</h2>
-<p><img alt="" src="figures/BMU_GCP_1.png" /></p><h2>#3 (BMU_EIA_1)</h2>
-<p><img alt="" src="figures/BMU_EIA_1.png" /></p><h2>#4 (BMU_CDIAC_1)</h2>
-<p><img alt="" src="figures/BMU_CDIAC_1.png" /></p><h2>#5 (BMU_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/BMU_Minx_top20_subsectors.png" /></p><h2>#6 (BMU_GCP_Country_Highlight)</h2>
+<br></p><p><a href="data/BMU_GCP_consupmption.csv">GCP_consupmption</a> || <a href="data/BMU_EIA.csv">EIA</a> || <a href="data/BMU_EDGAR.csv">EDGAR</a> || <a href="data/BMU_CDIAC.csv">CDIAC</a> || <a href="data/BMU_Minx_2021.csv">Minx_2021</a> || <a href="data/BMU_GCP.csv">GCP</a> || <a href="data/BMU_FAO.csv">FAO</a></p><p><br></p>
+<h1>Figures:</h1><h2>#1 (BMU_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/BMU_Minx_top20_subsectors.png" /></p><h2>#2 (BMU_CDIAC_1)</h2>
+<p><img alt="" src="figures/BMU_CDIAC_1.png" /></p><h2>#3 (BMU_GCP_1)</h2>
+<p><img alt="" src="figures/BMU_GCP_1.png" /></p><h2>#4 (BMU_CO2_totals)</h2>
+<p><img alt="" src="figures/BMU_CO2_totals.png" /></p><h2>#5 (BMU_EIA_1)</h2>
+<p><img alt="" src="figures/BMU_EIA_1.png" /></p><h2>#6 (BMU_GCP_Country_Highlight)</h2>
 <p><img alt="" src="figures/BMU_GCP_Country_Highlight.png" /></p>
