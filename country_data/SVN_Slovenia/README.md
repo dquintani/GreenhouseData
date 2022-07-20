@@ -20,5 +20,6 @@ Slovenia
 <p><img alt="" src="figures/SVN_Minx_top20_subsectors.png" /></p><h2>#8 (SVN_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/SVN_CAIT_gases_1.png" /></p><h2>#9 (SVN_CAIT_lucf_vs_nolucf)</h2>
 <p><img alt="" src="figures/SVN_CAIT_lucf_vs_nolucf.png" /></p><h2>#10 (SVN_UNFCCC_AI_1)</h2>
-<p><img alt="" src="figures/SVN_UNFCCC_AI_1.png" /></p><h2>#11 (SVN_EIA_1)</h2>
+<p><img alt="" src="figures/SVN_UNFCCC_AI_1.png" /></p><h2>#11 (SVN_relative_totals)</h2>
+<p><img alt="" src="figures/SVN_relative_totals.png" /></p><h2>#12 (SVN_EIA_1)</h2>
 <p><img alt="" src="figures/SVN_EIA_1.png" /></p>

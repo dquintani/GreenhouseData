@@ -17,4 +17,5 @@ Palau
 <p><img alt="" src="figures/PLW_CO2_totals.png" /></p><h2>#5 (PLW_GCP_Country_Highlight)</h2>
 <p><img alt="" src="figures/PLW_GCP_Country_Highlight.png" /></p><h2>#6 (PLW_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/PLW_CAIT_gases_1.png" /></p><h2>#7 (PLW_GCP_1)</h2>
-<p><img alt="" src="figures/PLW_GCP_1.png" /></p>
+<p><img alt="" src="figures/PLW_GCP_1.png" /></p><h2>#8 (PLW_relative_totals)</h2>
+<p><img alt="" src="figures/PLW_relative_totals.png" /></p>

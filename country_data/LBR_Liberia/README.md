@@ -18,5 +18,6 @@ Liberia
 <p><img alt="" src="figures/LBR_CAIT_lucf_vs_nolucf.png" /></p><h2>#6 (LBR_CO2_totals)</h2>
 <p><img alt="" src="figures/LBR_CO2_totals.png" /></p><h2>#7 (LBR_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/LBR_CAIT_gases_1.png" /></p><h2>#8 (LBR_UNFCCC_NAI_1)</h2>
-<p><img alt="" src="figures/LBR_UNFCCC_NAI_1.png" /></p><h2>#9 (LBR_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/LBR_UNFCCC_NAI_1.png" /></p><h2>#9 (LBR_relative_totals)</h2>
+<p><img alt="" src="figures/LBR_relative_totals.png" /></p><h2>#10 (LBR_GCP_Country_Highlight)</h2>
 <p><img alt="" src="figures/LBR_GCP_Country_Highlight.png" /></p>

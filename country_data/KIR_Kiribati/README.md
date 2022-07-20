@@ -16,6 +16,7 @@ Kiribati
 <p><img alt="" src="figures/KIR_GCP_Country_Highlight.png" /></p><h2>#4 (KIR_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/KIR_Minx_top20_subsectors.png" /></p><h2>#5 (KIR_GCP_1)</h2>
 <p><img alt="" src="figures/KIR_GCP_1.png" /></p><h2>#6 (KIR_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/KIR_CAIT_gases_1.png" /></p><h2>#7 (KIR_CDIAC_1)</h2>
-<p><img alt="" src="figures/KIR_CDIAC_1.png" /></p><h2>#8 (KIR_EIA_1)</h2>
+<p><img alt="" src="figures/KIR_CAIT_gases_1.png" /></p><h2>#7 (KIR_relative_totals)</h2>
+<p><img alt="" src="figures/KIR_relative_totals.png" /></p><h2>#8 (KIR_CDIAC_1)</h2>
+<p><img alt="" src="figures/KIR_CDIAC_1.png" /></p><h2>#9 (KIR_EIA_1)</h2>
 <p><img alt="" src="figures/KIR_EIA_1.png" /></p>

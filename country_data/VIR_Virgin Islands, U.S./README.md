@@ -13,4 +13,6 @@ Virgin Islands, U.S.
 <h1>Figures:</h1><h2>#1 (VIR_EIA_1)</h2>
 <p><img alt="" src="figures/VIR_EIA_1.png" /></p><h2>#2 (VIR_CO2_totals)</h2>
 <p><img alt="" src="figures/VIR_CO2_totals.png" /></p><h2>#3 (VIR_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/VIR_Minx_top20_subsectors.png" /></p>
+<p><img alt="" src="figures/VIR_Minx_top20_subsectors.png" /></p><h2>#4 (VIR_BP_1)</h2>
+<p><img alt="" src="figures/VIR_BP_1.png" /></p><h2>#5 (VIR_relative_totals)</h2>
+<p><img alt="" src="figures/VIR_relative_totals.png" /></p>

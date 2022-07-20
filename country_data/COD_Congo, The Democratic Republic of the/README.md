@@ -19,5 +19,6 @@ Congo, The Democratic Republic of the
 <p><img alt="" src="figures/COD_Minx_top20_subsectors.png" /></p><h2>#7 (COD_GCP_Country_Highlight)</h2>
 <p><img alt="" src="figures/COD_GCP_Country_Highlight.png" /></p><h2>#8 (COD_UNFCCC_NAI_1)</h2>
 <p><img alt="" src="figures/COD_UNFCCC_NAI_1.png" /></p><h2>#9 (COD_EIA_1)</h2>
-<p><img alt="" src="figures/COD_EIA_1.png" /></p><h2>#10 (COD_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/COD_EIA_1.png" /></p><h2>#10 (COD_relative_totals)</h2>
+<p><img alt="" src="figures/COD_relative_totals.png" /></p><h2>#11 (COD_CAIT_lucf_vs_nolucf)</h2>
 <p><img alt="" src="figures/COD_CAIT_lucf_vs_nolucf.png" /></p>

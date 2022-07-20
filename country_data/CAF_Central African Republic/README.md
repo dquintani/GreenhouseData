@@ -17,6 +17,7 @@ Central African Republic
 <p><img alt="" src="figures/CAF_GCP_1.png" /></p><h2>#5 (CAF_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/CAF_Minx_top20_subsectors.png" /></p><h2>#6 (CAF_UNFCCC_NAI_1)</h2>
 <p><img alt="" src="figures/CAF_UNFCCC_NAI_1.png" /></p><h2>#7 (CAF_CAIT_lucf_vs_nolucf)</h2>
-<p><img alt="" src="figures/CAF_CAIT_lucf_vs_nolucf.png" /></p><h2>#8 (CAF_GCP_Country_Highlight)</h2>
-<p><img alt="" src="figures/CAF_GCP_Country_Highlight.png" /></p><h2>#9 (CAF_EIA_1)</h2>
+<p><img alt="" src="figures/CAF_CAIT_lucf_vs_nolucf.png" /></p><h2>#8 (CAF_relative_totals)</h2>
+<p><img alt="" src="figures/CAF_relative_totals.png" /></p><h2>#9 (CAF_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/CAF_GCP_Country_Highlight.png" /></p><h2>#10 (CAF_EIA_1)</h2>
 <p><img alt="" src="figures/CAF_EIA_1.png" /></p>

@@ -20,4 +20,5 @@ Moldova
 <p><img alt="" src="figures/MDA_GCP_1.png" /></p><h2>#8 (MDA_CO2_totals)</h2>
 <p><img alt="" src="figures/MDA_CO2_totals.png" /></p><h2>#9 (MDA_GCP_Country_Highlight)</h2>
 <p><img alt="" src="figures/MDA_GCP_Country_Highlight.png" /></p><h2>#10 (MDA_CDIAC_1)</h2>
-<p><img alt="" src="figures/MDA_CDIAC_1.png" /></p>
+<p><img alt="" src="figures/MDA_CDIAC_1.png" /></p><h2>#11 (MDA_relative_totals)</h2>
+<p><img alt="" src="figures/MDA_relative_totals.png" /></p>

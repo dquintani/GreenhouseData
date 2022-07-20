@@ -15,4 +15,5 @@ Cayman Islands
 <p><img alt="" src="figures/CYM_CDIAC_1.png" /></p><h2>#3 (CYM_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/CYM_Minx_top20_subsectors.png" /></p><h2>#4 (CYM_EIA_1)</h2>
 <p><img alt="" src="figures/CYM_EIA_1.png" /></p><h2>#5 (CYM_CO2_totals)</h2>
-<p><img alt="" src="figures/CYM_CO2_totals.png" /></p>
+<p><img alt="" src="figures/CYM_CO2_totals.png" /></p><h2>#6 (CYM_relative_totals)</h2>
+<p><img alt="" src="figures/CYM_relative_totals.png" /></p>

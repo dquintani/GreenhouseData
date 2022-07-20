@@ -21,4 +21,5 @@ Latvia
 <p><img alt="" src="figures/LVA_CO2_totals.png" /></p><h2>#9 (LVA_CAIT_lucf_vs_nolucf)</h2>
 <p><img alt="" src="figures/LVA_CAIT_lucf_vs_nolucf.png" /></p><h2>#10 (LVA_CDIAC_1)</h2>
 <p><img alt="" src="figures/LVA_CDIAC_1.png" /></p><h2>#11 (LVA_EIA_1)</h2>
-<p><img alt="" src="figures/LVA_EIA_1.png" /></p>
+<p><img alt="" src="figures/LVA_EIA_1.png" /></p><h2>#12 (LVA_relative_totals)</h2>
+<p><img alt="" src="figures/LVA_relative_totals.png" /></p>

@@ -17,7 +17,8 @@ Nepal
 <p><img alt="" src="figures/NPL_EIA_1.png" /></p><h2>#5 (NPL_CO2_totals)</h2>
 <p><img alt="" src="figures/NPL_CO2_totals.png" /></p><h2>#6 (NPL_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/NPL_Minx_top20_subsectors.png" /></p><h2>#7 (NPL_GCP_Country_Highlight)</h2>
-<p><img alt="" src="figures/NPL_GCP_Country_Highlight.png" /></p><h2>#8 (NPL_UNFCCC_NAI_1)</h2>
-<p><img alt="" src="figures/NPL_UNFCCC_NAI_1.png" /></p><h2>#9 (NPL_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/NPL_CAIT_gases_1.png" /></p><h2>#10 (NPL_IEA_1)</h2>
+<p><img alt="" src="figures/NPL_GCP_Country_Highlight.png" /></p><h2>#8 (NPL_relative_totals)</h2>
+<p><img alt="" src="figures/NPL_relative_totals.png" /></p><h2>#9 (NPL_UNFCCC_NAI_1)</h2>
+<p><img alt="" src="figures/NPL_UNFCCC_NAI_1.png" /></p><h2>#10 (NPL_CAIT_gases_1)</h2>
+<p><img alt="" src="figures/NPL_CAIT_gases_1.png" /></p><h2>#11 (NPL_IEA_1)</h2>
 <p><img alt="" src="figures/NPL_IEA_1.png" /></p>

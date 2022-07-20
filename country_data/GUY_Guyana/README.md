@@ -19,5 +19,6 @@ Guyana
 <p><img alt="" src="figures/GUY_GCP_1.png" /></p><h2>#7 (GUY_CO2_totals)</h2>
 <p><img alt="" src="figures/GUY_CO2_totals.png" /></p><h2>#8 (GUY_IEA_1)</h2>
 <p><img alt="" src="figures/GUY_IEA_1.png" /></p><h2>#9 (GUY_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/GUY_CAIT_gases_1.png" /></p><h2>#10 (GUY_EIA_1)</h2>
+<p><img alt="" src="figures/GUY_CAIT_gases_1.png" /></p><h2>#10 (GUY_relative_totals)</h2>
+<p><img alt="" src="figures/GUY_relative_totals.png" /></p><h2>#11 (GUY_EIA_1)</h2>
 <p><img alt="" src="figures/GUY_EIA_1.png" /></p>

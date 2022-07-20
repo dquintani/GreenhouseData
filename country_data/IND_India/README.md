@@ -19,7 +19,8 @@ India
 <p><img alt="" src="figures/IND_GCP_Country_Highlight.png" /></p><h2>#7 (IND_Carbon_Monitor_1)</h2>
 <p><img alt="" src="figures/IND_Carbon_Monitor_1.png" /></p><h2>#8 (IND_GCP_1)</h2>
 <p><img alt="" src="figures/IND_GCP_1.png" /></p><h2>#9 (IND_BP_1)</h2>
-<p><img alt="" src="figures/IND_BP_1.png" /></p><h2>#10 (IND_CAIT_lucf_vs_nolucf)</h2>
-<p><img alt="" src="figures/IND_CAIT_lucf_vs_nolucf.png" /></p><h2>#11 (IND_CO2_totals)</h2>
-<p><img alt="" src="figures/IND_CO2_totals.png" /></p><h2>#12 (IND_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/IND_BP_1.png" /></p><h2>#10 (IND_relative_totals)</h2>
+<p><img alt="" src="figures/IND_relative_totals.png" /></p><h2>#11 (IND_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/IND_CAIT_lucf_vs_nolucf.png" /></p><h2>#12 (IND_CO2_totals)</h2>
+<p><img alt="" src="figures/IND_CO2_totals.png" /></p><h2>#13 (IND_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/IND_Minx_top20_subsectors.png" /></p>

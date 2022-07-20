@@ -21,4 +21,5 @@ Singapore
 <p><img alt="" src="figures/SGP_GCP_1.png" /></p><h2>#9 (SGP_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/SGP_CAIT_gases_1.png" /></p><h2>#10 (SGP_UNFCCC_NAI_1)</h2>
 <p><img alt="" src="figures/SGP_UNFCCC_NAI_1.png" /></p><h2>#11 (SGP_BP_1)</h2>
-<p><img alt="" src="figures/SGP_BP_1.png" /></p>
+<p><img alt="" src="figures/SGP_BP_1.png" /></p><h2>#12 (SGP_relative_totals)</h2>
+<p><img alt="" src="figures/SGP_relative_totals.png" /></p>

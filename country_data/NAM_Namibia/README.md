@@ -14,10 +14,11 @@ Namibia
 <p><img alt="" src="figures/NAM_CAIT_lucf_vs_nolucf.png" /></p><h2>#2 (NAM_IEA_1)</h2>
 <p><img alt="" src="figures/NAM_IEA_1.png" /></p><h2>#3 (NAM_GCP_Country_Highlight)</h2>
 <p><img alt="" src="figures/NAM_GCP_Country_Highlight.png" /></p><h2>#4 (NAM_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/NAM_CAIT_gases_1.png" /></p><h2>#5 (NAM_GCP_1)</h2>
-<p><img alt="" src="figures/NAM_GCP_1.png" /></p><h2>#6 (NAM_UNFCCC_NAI_1)</h2>
-<p><img alt="" src="figures/NAM_UNFCCC_NAI_1.png" /></p><h2>#7 (NAM_CDIAC_1)</h2>
-<p><img alt="" src="figures/NAM_CDIAC_1.png" /></p><h2>#8 (NAM_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/NAM_Minx_top20_subsectors.png" /></p><h2>#9 (NAM_EIA_1)</h2>
-<p><img alt="" src="figures/NAM_EIA_1.png" /></p><h2>#10 (NAM_CO2_totals)</h2>
+<p><img alt="" src="figures/NAM_CAIT_gases_1.png" /></p><h2>#5 (NAM_relative_totals)</h2>
+<p><img alt="" src="figures/NAM_relative_totals.png" /></p><h2>#6 (NAM_GCP_1)</h2>
+<p><img alt="" src="figures/NAM_GCP_1.png" /></p><h2>#7 (NAM_UNFCCC_NAI_1)</h2>
+<p><img alt="" src="figures/NAM_UNFCCC_NAI_1.png" /></p><h2>#8 (NAM_CDIAC_1)</h2>
+<p><img alt="" src="figures/NAM_CDIAC_1.png" /></p><h2>#9 (NAM_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/NAM_Minx_top20_subsectors.png" /></p><h2>#10 (NAM_EIA_1)</h2>
+<p><img alt="" src="figures/NAM_EIA_1.png" /></p><h2>#11 (NAM_CO2_totals)</h2>
 <p><img alt="" src="figures/NAM_CO2_totals.png" /></p>

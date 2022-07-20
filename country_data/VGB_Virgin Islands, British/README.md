@@ -16,4 +16,5 @@ Virgin Islands, British
 <p><img alt="" src="figures/VGB_CO2_totals.png" /></p><h2>#4 (VGB_GCP_1)</h2>
 <p><img alt="" src="figures/VGB_GCP_1.png" /></p><h2>#5 (VGB_EIA_1)</h2>
 <p><img alt="" src="figures/VGB_EIA_1.png" /></p><h2>#6 (VGB_GCP_Country_Highlight)</h2>
-<p><img alt="" src="figures/VGB_GCP_Country_Highlight.png" /></p>
+<p><img alt="" src="figures/VGB_GCP_Country_Highlight.png" /></p><h2>#7 (VGB_relative_totals)</h2>
+<p><img alt="" src="figures/VGB_relative_totals.png" /></p>

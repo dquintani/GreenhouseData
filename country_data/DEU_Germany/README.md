@@ -19,7 +19,8 @@ Germany
 <p><img alt="" src="figures/DEU_CDIAC_1.png" /></p><h2>#7 (DEU_BP_1)</h2>
 <p><img alt="" src="figures/DEU_BP_1.png" /></p><h2>#8 (DEU_UNFCCC_AI_1)</h2>
 <p><img alt="" src="figures/DEU_UNFCCC_AI_1.png" /></p><h2>#9 (DEU_GCP_1)</h2>
-<p><img alt="" src="figures/DEU_GCP_1.png" /></p><h2>#10 (DEU_Carbon_Monitor_1)</h2>
-<p><img alt="" src="figures/DEU_Carbon_Monitor_1.png" /></p><h2>#11 (DEU_GCP_Country_Highlight)</h2>
-<p><img alt="" src="figures/DEU_GCP_Country_Highlight.png" /></p><h2>#12 (DEU_IEA_1)</h2>
+<p><img alt="" src="figures/DEU_GCP_1.png" /></p><h2>#10 (DEU_relative_totals)</h2>
+<p><img alt="" src="figures/DEU_relative_totals.png" /></p><h2>#11 (DEU_Carbon_Monitor_1)</h2>
+<p><img alt="" src="figures/DEU_Carbon_Monitor_1.png" /></p><h2>#12 (DEU_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/DEU_GCP_Country_Highlight.png" /></p><h2>#13 (DEU_IEA_1)</h2>
 <p><img alt="" src="figures/DEU_IEA_1.png" /></p>

@@ -15,10 +15,11 @@ Chile
 <p><img alt="" src="figures/CHL_EIA_1.png" /></p><h2>#3 (CHL_CAIT_lucf_vs_nolucf)</h2>
 <p><img alt="" src="figures/CHL_CAIT_lucf_vs_nolucf.png" /></p><h2>#4 (CHL_GCP_Country_Highlight)</h2>
 <p><img alt="" src="figures/CHL_GCP_Country_Highlight.png" /></p><h2>#5 (CHL_UNFCCC_NAI_1)</h2>
-<p><img alt="" src="figures/CHL_UNFCCC_NAI_1.png" /></p><h2>#6 (CHL_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/CHL_CAIT_gases_1.png" /></p><h2>#7 (CHL_CO2_totals)</h2>
-<p><img alt="" src="figures/CHL_CO2_totals.png" /></p><h2>#8 (CHL_BP_1)</h2>
-<p><img alt="" src="figures/CHL_BP_1.png" /></p><h2>#9 (CHL_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/CHL_Minx_top20_subsectors.png" /></p><h2>#10 (CHL_IEA_1)</h2>
-<p><img alt="" src="figures/CHL_IEA_1.png" /></p><h2>#11 (CHL_GCP_1)</h2>
+<p><img alt="" src="figures/CHL_UNFCCC_NAI_1.png" /></p><h2>#6 (CHL_relative_totals)</h2>
+<p><img alt="" src="figures/CHL_relative_totals.png" /></p><h2>#7 (CHL_CAIT_gases_1)</h2>
+<p><img alt="" src="figures/CHL_CAIT_gases_1.png" /></p><h2>#8 (CHL_CO2_totals)</h2>
+<p><img alt="" src="figures/CHL_CO2_totals.png" /></p><h2>#9 (CHL_BP_1)</h2>
+<p><img alt="" src="figures/CHL_BP_1.png" /></p><h2>#10 (CHL_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/CHL_Minx_top20_subsectors.png" /></p><h2>#11 (CHL_IEA_1)</h2>
+<p><img alt="" src="figures/CHL_IEA_1.png" /></p><h2>#12 (CHL_GCP_1)</h2>
 <p><img alt="" src="figures/CHL_GCP_1.png" /></p>

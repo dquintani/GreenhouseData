@@ -21,4 +21,5 @@ Iran, Islamic Republic of
 <p><img alt="" src="figures/IRN_CAIT_gases_1.png" /></p><h2>#9 (IRN_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/IRN_Minx_top20_subsectors.png" /></p><h2>#10 (IRN_GCP_Country_Highlight)</h2>
 <p><img alt="" src="figures/IRN_GCP_Country_Highlight.png" /></p><h2>#11 (IRN_IEA_1)</h2>
-<p><img alt="" src="figures/IRN_IEA_1.png" /></p>
+<p><img alt="" src="figures/IRN_IEA_1.png" /></p><h2>#12 (IRN_relative_totals)</h2>
+<p><img alt="" src="figures/IRN_relative_totals.png" /></p>

@@ -19,6 +19,7 @@ Canada
 <p><img alt="" src="figures/CAN_GCP_1.png" /></p><h2>#7 (CAN_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/CAN_CAIT_gases_1.png" /></p><h2>#8 (CAN_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/CAN_Minx_top20_subsectors.png" /></p><h2>#9 (CAN_CAIT_lucf_vs_nolucf)</h2>
-<p><img alt="" src="figures/CAN_CAIT_lucf_vs_nolucf.png" /></p><h2>#10 (CAN_BP_1)</h2>
-<p><img alt="" src="figures/CAN_BP_1.png" /></p><h2>#11 (CAN_UNFCCC_AI_1)</h2>
+<p><img alt="" src="figures/CAN_CAIT_lucf_vs_nolucf.png" /></p><h2>#10 (CAN_relative_totals)</h2>
+<p><img alt="" src="figures/CAN_relative_totals.png" /></p><h2>#11 (CAN_BP_1)</h2>
+<p><img alt="" src="figures/CAN_BP_1.png" /></p><h2>#12 (CAN_UNFCCC_AI_1)</h2>
 <p><img alt="" src="figures/CAN_UNFCCC_AI_1.png" /></p>

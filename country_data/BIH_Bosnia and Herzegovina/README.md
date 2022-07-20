@@ -18,6 +18,7 @@ Bosnia and Herzegovina
 <p><img alt="" src="figures/BIH_GCP_1.png" /></p><h2>#6 (BIH_CAIT_lucf_vs_nolucf)</h2>
 <p><img alt="" src="figures/BIH_CAIT_lucf_vs_nolucf.png" /></p><h2>#7 (BIH_IEA_1)</h2>
 <p><img alt="" src="figures/BIH_IEA_1.png" /></p><h2>#8 (BIH_UNFCCC_NAI_1)</h2>
-<p><img alt="" src="figures/BIH_UNFCCC_NAI_1.png" /></p><h2>#9 (BIH_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/BIH_CAIT_gases_1.png" /></p><h2>#10 (BIH_CO2_totals)</h2>
+<p><img alt="" src="figures/BIH_UNFCCC_NAI_1.png" /></p><h2>#9 (BIH_relative_totals)</h2>
+<p><img alt="" src="figures/BIH_relative_totals.png" /></p><h2>#10 (BIH_CAIT_gases_1)</h2>
+<p><img alt="" src="figures/BIH_CAIT_gases_1.png" /></p><h2>#11 (BIH_CO2_totals)</h2>
 <p><img alt="" src="figures/BIH_CO2_totals.png" /></p>

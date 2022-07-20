@@ -19,4 +19,5 @@ Cook Islands
 <p><img alt="" src="figures/COK_GCP_1.png" /></p><h2>#7 (COK_EIA_1)</h2>
 <p><img alt="" src="figures/COK_EIA_1.png" /></p><h2>#8 (COK_CDIAC_1)</h2>
 <p><img alt="" src="figures/COK_CDIAC_1.png" /></p><h2>#9 (COK_CO2_totals)</h2>
-<p><img alt="" src="figures/COK_CO2_totals.png" /></p>
+<p><img alt="" src="figures/COK_CO2_totals.png" /></p><h2>#10 (COK_relative_totals)</h2>
+<p><img alt="" src="figures/COK_relative_totals.png" /></p>

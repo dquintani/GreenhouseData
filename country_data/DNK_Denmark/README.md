@@ -20,5 +20,6 @@ Denmark
 <p><img alt="" src="figures/DNK_EIA_1.png" /></p><h2>#8 (DNK_CDIAC_1)</h2>
 <p><img alt="" src="figures/DNK_CDIAC_1.png" /></p><h2>#9 (DNK_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/DNK_Minx_top20_subsectors.png" /></p><h2>#10 (DNK_CAIT_lucf_vs_nolucf)</h2>
-<p><img alt="" src="figures/DNK_CAIT_lucf_vs_nolucf.png" /></p><h2>#11 (DNK_CO2_totals)</h2>
+<p><img alt="" src="figures/DNK_CAIT_lucf_vs_nolucf.png" /></p><h2>#11 (DNK_relative_totals)</h2>
+<p><img alt="" src="figures/DNK_relative_totals.png" /></p><h2>#12 (DNK_CO2_totals)</h2>
 <p><img alt="" src="figures/DNK_CO2_totals.png" /></p>

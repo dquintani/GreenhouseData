@@ -21,4 +21,5 @@ Luxembourg
 <p><img alt="" src="figures/LUX_CDIAC_1.png" /></p><h2>#9 (LUX_CAIT_lucf_vs_nolucf)</h2>
 <p><img alt="" src="figures/LUX_CAIT_lucf_vs_nolucf.png" /></p><h2>#10 (LUX_UNFCCC_AI_1)</h2>
 <p><img alt="" src="figures/LUX_UNFCCC_AI_1.png" /></p><h2>#11 (LUX_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/LUX_CAIT_gases_1.png" /></p>
+<p><img alt="" src="figures/LUX_CAIT_gases_1.png" /></p><h2>#12 (LUX_relative_totals)</h2>
+<p><img alt="" src="figures/LUX_relative_totals.png" /></p>

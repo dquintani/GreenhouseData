@@ -18,7 +18,8 @@ Switzerland
 <p><img alt="" src="figures/CHE_CAIT_lucf_vs_nolucf.png" /></p><h2>#6 (CHE_CDIAC_1)</h2>
 <p><img alt="" src="figures/CHE_CDIAC_1.png" /></p><h2>#7 (CHE_BP_1)</h2>
 <p><img alt="" src="figures/CHE_BP_1.png" /></p><h2>#8 (CHE_GCP_Country_Highlight)</h2>
-<p><img alt="" src="figures/CHE_GCP_Country_Highlight.png" /></p><h2>#9 (CHE_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/CHE_CAIT_gases_1.png" /></p><h2>#10 (CHE_IEA_1)</h2>
-<p><img alt="" src="figures/CHE_IEA_1.png" /></p><h2>#11 (CHE_GCP_1)</h2>
+<p><img alt="" src="figures/CHE_GCP_Country_Highlight.png" /></p><h2>#9 (CHE_relative_totals)</h2>
+<p><img alt="" src="figures/CHE_relative_totals.png" /></p><h2>#10 (CHE_CAIT_gases_1)</h2>
+<p><img alt="" src="figures/CHE_CAIT_gases_1.png" /></p><h2>#11 (CHE_IEA_1)</h2>
+<p><img alt="" src="figures/CHE_IEA_1.png" /></p><h2>#12 (CHE_GCP_1)</h2>
 <p><img alt="" src="figures/CHE_GCP_1.png" /></p>

@@ -16,9 +16,10 @@ South Africa
 <p><img alt="" src="figures/ZAF_CAIT_gases_1.png" /></p><h2>#4 (ZAF_CDIAC_1)</h2>
 <p><img alt="" src="figures/ZAF_CDIAC_1.png" /></p><h2>#5 (ZAF_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/ZAF_Minx_top20_subsectors.png" /></p><h2>#6 (ZAF_GCP_1)</h2>
-<p><img alt="" src="figures/ZAF_GCP_1.png" /></p><h2>#7 (ZAF_EIA_1)</h2>
-<p><img alt="" src="figures/ZAF_EIA_1.png" /></p><h2>#8 (ZAF_BP_1)</h2>
-<p><img alt="" src="figures/ZAF_BP_1.png" /></p><h2>#9 (ZAF_GCP_Country_Highlight)</h2>
-<p><img alt="" src="figures/ZAF_GCP_Country_Highlight.png" /></p><h2>#10 (ZAF_UNFCCC_NAI_1)</h2>
-<p><img alt="" src="figures/ZAF_UNFCCC_NAI_1.png" /></p><h2>#11 (ZAF_CO2_totals)</h2>
+<p><img alt="" src="figures/ZAF_GCP_1.png" /></p><h2>#7 (ZAF_relative_totals)</h2>
+<p><img alt="" src="figures/ZAF_relative_totals.png" /></p><h2>#8 (ZAF_EIA_1)</h2>
+<p><img alt="" src="figures/ZAF_EIA_1.png" /></p><h2>#9 (ZAF_BP_1)</h2>
+<p><img alt="" src="figures/ZAF_BP_1.png" /></p><h2>#10 (ZAF_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/ZAF_GCP_Country_Highlight.png" /></p><h2>#11 (ZAF_UNFCCC_NAI_1)</h2>
+<p><img alt="" src="figures/ZAF_UNFCCC_NAI_1.png" /></p><h2>#12 (ZAF_CO2_totals)</h2>
 <p><img alt="" src="figures/ZAF_CO2_totals.png" /></p>

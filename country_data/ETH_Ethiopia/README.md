@@ -16,8 +16,9 @@ Ethiopia
 <p><img alt="" src="figures/ETH_CAIT_gases_1.png" /></p><h2>#4 (ETH_UNFCCC_NAI_1)</h2>
 <p><img alt="" src="figures/ETH_UNFCCC_NAI_1.png" /></p><h2>#5 (ETH_CDIAC_1)</h2>
 <p><img alt="" src="figures/ETH_CDIAC_1.png" /></p><h2>#6 (ETH_EIA_1)</h2>
-<p><img alt="" src="figures/ETH_EIA_1.png" /></p><h2>#7 (ETH_IEA_1)</h2>
-<p><img alt="" src="figures/ETH_IEA_1.png" /></p><h2>#8 (ETH_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/ETH_Minx_top20_subsectors.png" /></p><h2>#9 (ETH_CAIT_lucf_vs_nolucf)</h2>
-<p><img alt="" src="figures/ETH_CAIT_lucf_vs_nolucf.png" /></p><h2>#10 (ETH_CO2_totals)</h2>
+<p><img alt="" src="figures/ETH_EIA_1.png" /></p><h2>#7 (ETH_relative_totals)</h2>
+<p><img alt="" src="figures/ETH_relative_totals.png" /></p><h2>#8 (ETH_IEA_1)</h2>
+<p><img alt="" src="figures/ETH_IEA_1.png" /></p><h2>#9 (ETH_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/ETH_Minx_top20_subsectors.png" /></p><h2>#10 (ETH_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/ETH_CAIT_lucf_vs_nolucf.png" /></p><h2>#11 (ETH_CO2_totals)</h2>
 <p><img alt="" src="figures/ETH_CO2_totals.png" /></p>

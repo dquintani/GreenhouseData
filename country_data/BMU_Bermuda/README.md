@@ -15,5 +15,6 @@ Bermuda
 <p><img alt="" src="figures/BMU_CDIAC_1.png" /></p><h2>#3 (BMU_GCP_1)</h2>
 <p><img alt="" src="figures/BMU_GCP_1.png" /></p><h2>#4 (BMU_CO2_totals)</h2>
 <p><img alt="" src="figures/BMU_CO2_totals.png" /></p><h2>#5 (BMU_EIA_1)</h2>
-<p><img alt="" src="figures/BMU_EIA_1.png" /></p><h2>#6 (BMU_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/BMU_EIA_1.png" /></p><h2>#6 (BMU_relative_totals)</h2>
+<p><img alt="" src="figures/BMU_relative_totals.png" /></p><h2>#7 (BMU_GCP_Country_Highlight)</h2>
 <p><img alt="" src="figures/BMU_GCP_Country_Highlight.png" /></p>

@@ -17,7 +17,8 @@ Benin
 <p><img alt="" src="figures/BEN_CO2_totals.png" /></p><h2>#5 (BEN_CDIAC_1)</h2>
 <p><img alt="" src="figures/BEN_CDIAC_1.png" /></p><h2>#6 (BEN_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/BEN_CAIT_gases_1.png" /></p><h2>#7 (BEN_GCP_1)</h2>
-<p><img alt="" src="figures/BEN_GCP_1.png" /></p><h2>#8 (BEN_EIA_1)</h2>
-<p><img alt="" src="figures/BEN_EIA_1.png" /></p><h2>#9 (BEN_CAIT_lucf_vs_nolucf)</h2>
-<p><img alt="" src="figures/BEN_CAIT_lucf_vs_nolucf.png" /></p><h2>#10 (BEN_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/BEN_GCP_1.png" /></p><h2>#8 (BEN_relative_totals)</h2>
+<p><img alt="" src="figures/BEN_relative_totals.png" /></p><h2>#9 (BEN_EIA_1)</h2>
+<p><img alt="" src="figures/BEN_EIA_1.png" /></p><h2>#10 (BEN_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/BEN_CAIT_lucf_vs_nolucf.png" /></p><h2>#11 (BEN_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/BEN_Minx_top20_subsectors.png" /></p>

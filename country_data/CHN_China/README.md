@@ -13,13 +13,14 @@ China
 <h1>Figures:</h1><h2>#1 (CHN_EIA_1)</h2>
 <p><img alt="" src="figures/CHN_EIA_1.png" /></p><h2>#2 (CHN_CAIT_lucf_vs_nolucf)</h2>
 <p><img alt="" src="figures/CHN_CAIT_lucf_vs_nolucf.png" /></p><h2>#3 (CHN_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/CHN_Minx_top20_subsectors.png" /></p><h2>#4 (CHN_GCP_1)</h2>
-<p><img alt="" src="figures/CHN_GCP_1.png" /></p><h2>#5 (CHN_IEA_1)</h2>
-<p><img alt="" src="figures/CHN_IEA_1.png" /></p><h2>#6 (CHN_BP_1)</h2>
-<p><img alt="" src="figures/CHN_BP_1.png" /></p><h2>#7 (CHN_Carbon_Monitor_1)</h2>
-<p><img alt="" src="figures/CHN_Carbon_Monitor_1.png" /></p><h2>#8 (CHN_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/CHN_CAIT_gases_1.png" /></p><h2>#9 (CHN_CO2_totals)</h2>
-<p><img alt="" src="figures/CHN_CO2_totals.png" /></p><h2>#10 (CHN_UNFCCC_NAI_1)</h2>
-<p><img alt="" src="figures/CHN_UNFCCC_NAI_1.png" /></p><h2>#11 (CHN_CDIAC_1)</h2>
-<p><img alt="" src="figures/CHN_CDIAC_1.png" /></p><h2>#12 (CHN_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/CHN_Minx_top20_subsectors.png" /></p><h2>#4 (CHN_relative_totals)</h2>
+<p><img alt="" src="figures/CHN_relative_totals.png" /></p><h2>#5 (CHN_GCP_1)</h2>
+<p><img alt="" src="figures/CHN_GCP_1.png" /></p><h2>#6 (CHN_IEA_1)</h2>
+<p><img alt="" src="figures/CHN_IEA_1.png" /></p><h2>#7 (CHN_BP_1)</h2>
+<p><img alt="" src="figures/CHN_BP_1.png" /></p><h2>#8 (CHN_Carbon_Monitor_1)</h2>
+<p><img alt="" src="figures/CHN_Carbon_Monitor_1.png" /></p><h2>#9 (CHN_CAIT_gases_1)</h2>
+<p><img alt="" src="figures/CHN_CAIT_gases_1.png" /></p><h2>#10 (CHN_CO2_totals)</h2>
+<p><img alt="" src="figures/CHN_CO2_totals.png" /></p><h2>#11 (CHN_UNFCCC_NAI_1)</h2>
+<p><img alt="" src="figures/CHN_UNFCCC_NAI_1.png" /></p><h2>#12 (CHN_CDIAC_1)</h2>
+<p><img alt="" src="figures/CHN_CDIAC_1.png" /></p><h2>#13 (CHN_GCP_Country_Highlight)</h2>
 <p><img alt="" src="figures/CHN_GCP_Country_Highlight.png" /></p>

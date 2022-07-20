@@ -17,5 +17,6 @@ Vanuatu
 <p><img alt="" src="figures/VUT_GCP_Country_Highlight.png" /></p><h2>#5 (VUT_EIA_1)</h2>
 <p><img alt="" src="figures/VUT_EIA_1.png" /></p><h2>#6 (VUT_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/VUT_Minx_top20_subsectors.png" /></p><h2>#7 (VUT_GCP_1)</h2>
-<p><img alt="" src="figures/VUT_GCP_1.png" /></p><h2>#8 (VUT_CO2_totals)</h2>
+<p><img alt="" src="figures/VUT_GCP_1.png" /></p><h2>#8 (VUT_relative_totals)</h2>
+<p><img alt="" src="figures/VUT_relative_totals.png" /></p><h2>#9 (VUT_CO2_totals)</h2>
 <p><img alt="" src="figures/VUT_CO2_totals.png" /></p>

@@ -13,7 +13,9 @@ Palestine, State of
 <h1>Figures:</h1><h2>#1 (PSE_CO2_totals)</h2>
 <p><img alt="" src="figures/PSE_CO2_totals.png" /></p><h2>#2 (PSE_GCP_Country_Highlight)</h2>
 <p><img alt="" src="figures/PSE_GCP_Country_Highlight.png" /></p><h2>#3 (PSE_EIA_1)</h2>
-<p><img alt="" src="figures/PSE_EIA_1.png" /></p><h2>#4 (PSE_UNFCCC_NAI_1)</h2>
-<p><img alt="" src="figures/PSE_UNFCCC_NAI_1.png" /></p><h2>#5 (PSE_GCP_1)</h2>
-<p><img alt="" src="figures/PSE_GCP_1.png" /></p><h2>#6 (PSE_CDIAC_1)</h2>
+<p><img alt="" src="figures/PSE_EIA_1.png" /></p><h2>#4 (PSE_relative_totals)</h2>
+<p><img alt="" src="figures/PSE_relative_totals.png" /></p><h2>#5 (PSE_BP_1)</h2>
+<p><img alt="" src="figures/PSE_BP_1.png" /></p><h2>#6 (PSE_UNFCCC_NAI_1)</h2>
+<p><img alt="" src="figures/PSE_UNFCCC_NAI_1.png" /></p><h2>#7 (PSE_GCP_1)</h2>
+<p><img alt="" src="figures/PSE_GCP_1.png" /></p><h2>#8 (PSE_CDIAC_1)</h2>
 <p><img alt="" src="figures/PSE_CDIAC_1.png" /></p>

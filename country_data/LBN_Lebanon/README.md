@@ -20,4 +20,5 @@ Lebanon
 <p><img alt="" src="figures/LBN_EIA_1.png" /></p><h2>#8 (LBN_CO2_totals)</h2>
 <p><img alt="" src="figures/LBN_CO2_totals.png" /></p><h2>#9 (LBN_IEA_1)</h2>
 <p><img alt="" src="figures/LBN_IEA_1.png" /></p><h2>#10 (LBN_GCP_1)</h2>
-<p><img alt="" src="figures/LBN_GCP_1.png" /></p>
+<p><img alt="" src="figures/LBN_GCP_1.png" /></p><h2>#11 (LBN_relative_totals)</h2>
+<p><img alt="" src="figures/LBN_relative_totals.png" /></p>

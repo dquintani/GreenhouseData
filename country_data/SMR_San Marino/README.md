@@ -12,4 +12,5 @@ San Marino
 <br></p><p><a href="data/SMR_FAO.csv">FAO</a> || <a href="data/SMR_PRIMAP-hist.csv">PRIMAP-hist</a> || <a href="data/SMR_EPA.csv">EPA</a></p><p><br></p>
 <h1>Figures:</h1><h2>#1 (SMR_UNFCCC_NAI_1)</h2>
 <p><img alt="" src="figures/SMR_UNFCCC_NAI_1.png" /></p><h2>#2 (SMR_CO2_totals)</h2>
-<p><img alt="" src="figures/SMR_CO2_totals.png" /></p>
+<p><img alt="" src="figures/SMR_CO2_totals.png" /></p><h2>#3 (SMR_relative_totals)</h2>
+<p><img alt="" src="figures/SMR_relative_totals.png" /></p>

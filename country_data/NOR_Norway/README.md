@@ -15,10 +15,11 @@ Norway
 <p><img alt="" src="figures/NOR_BP_1.png" /></p><h2>#3 (NOR_GCP_1)</h2>
 <p><img alt="" src="figures/NOR_GCP_1.png" /></p><h2>#4 (NOR_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/NOR_CAIT_gases_1.png" /></p><h2>#5 (NOR_GCP_Country_Highlight)</h2>
-<p><img alt="" src="figures/NOR_GCP_Country_Highlight.png" /></p><h2>#6 (NOR_EIA_1)</h2>
-<p><img alt="" src="figures/NOR_EIA_1.png" /></p><h2>#7 (NOR_CDIAC_1)</h2>
-<p><img alt="" src="figures/NOR_CDIAC_1.png" /></p><h2>#8 (NOR_CAIT_lucf_vs_nolucf)</h2>
-<p><img alt="" src="figures/NOR_CAIT_lucf_vs_nolucf.png" /></p><h2>#9 (NOR_UNFCCC_AI_1)</h2>
-<p><img alt="" src="figures/NOR_UNFCCC_AI_1.png" /></p><h2>#10 (NOR_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/NOR_Minx_top20_subsectors.png" /></p><h2>#11 (NOR_IEA_1)</h2>
+<p><img alt="" src="figures/NOR_GCP_Country_Highlight.png" /></p><h2>#6 (NOR_relative_totals)</h2>
+<p><img alt="" src="figures/NOR_relative_totals.png" /></p><h2>#7 (NOR_EIA_1)</h2>
+<p><img alt="" src="figures/NOR_EIA_1.png" /></p><h2>#8 (NOR_CDIAC_1)</h2>
+<p><img alt="" src="figures/NOR_CDIAC_1.png" /></p><h2>#9 (NOR_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/NOR_CAIT_lucf_vs_nolucf.png" /></p><h2>#10 (NOR_UNFCCC_AI_1)</h2>
+<p><img alt="" src="figures/NOR_UNFCCC_AI_1.png" /></p><h2>#11 (NOR_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/NOR_Minx_top20_subsectors.png" /></p><h2>#12 (NOR_IEA_1)</h2>
 <p><img alt="" src="figures/NOR_IEA_1.png" /></p>

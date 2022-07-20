@@ -17,8 +17,9 @@ United Kingdom
 <p><img alt="" src="figures/GBR_CAIT_gases_1.png" /></p><h2>#5 (GBR_EIA_1)</h2>
 <p><img alt="" src="figures/GBR_EIA_1.png" /></p><h2>#6 (GBR_CAIT_lucf_vs_nolucf)</h2>
 <p><img alt="" src="figures/GBR_CAIT_lucf_vs_nolucf.png" /></p><h2>#7 (GBR_UNFCCC_AI_1)</h2>
-<p><img alt="" src="figures/GBR_UNFCCC_AI_1.png" /></p><h2>#8 (GBR_CO2_totals)</h2>
-<p><img alt="" src="figures/GBR_CO2_totals.png" /></p><h2>#9 (GBR_GCP_Country_Highlight)</h2>
-<p><img alt="" src="figures/GBR_GCP_Country_Highlight.png" /></p><h2>#10 (GBR_GCP_1)</h2>
-<p><img alt="" src="figures/GBR_GCP_1.png" /></p><h2>#11 (GBR_BP_1)</h2>
+<p><img alt="" src="figures/GBR_UNFCCC_AI_1.png" /></p><h2>#8 (GBR_relative_totals)</h2>
+<p><img alt="" src="figures/GBR_relative_totals.png" /></p><h2>#9 (GBR_CO2_totals)</h2>
+<p><img alt="" src="figures/GBR_CO2_totals.png" /></p><h2>#10 (GBR_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/GBR_GCP_Country_Highlight.png" /></p><h2>#11 (GBR_GCP_1)</h2>
+<p><img alt="" src="figures/GBR_GCP_1.png" /></p><h2>#12 (GBR_BP_1)</h2>
 <p><img alt="" src="figures/GBR_BP_1.png" /></p>

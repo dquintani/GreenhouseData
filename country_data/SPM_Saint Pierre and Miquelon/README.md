@@ -16,4 +16,5 @@ Saint Pierre and Miquelon
 <p><img alt="" src="figures/SPM_EIA_1.png" /></p><h2>#4 (SPM_GCP_Country_Highlight)</h2>
 <p><img alt="" src="figures/SPM_GCP_Country_Highlight.png" /></p><h2>#5 (SPM_CO2_totals)</h2>
 <p><img alt="" src="figures/SPM_CO2_totals.png" /></p><h2>#6 (SPM_CDIAC_1)</h2>
-<p><img alt="" src="figures/SPM_CDIAC_1.png" /></p>
+<p><img alt="" src="figures/SPM_CDIAC_1.png" /></p><h2>#7 (SPM_relative_totals)</h2>
+<p><img alt="" src="figures/SPM_relative_totals.png" /></p>

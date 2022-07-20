@@ -15,9 +15,10 @@ South Korea
 <p><img alt="" src="figures/KOR_GCP_1.png" /></p><h2>#3 (KOR_UNFCCC_NAI_1)</h2>
 <p><img alt="" src="figures/KOR_UNFCCC_NAI_1.png" /></p><h2>#4 (KOR_CO2_totals)</h2>
 <p><img alt="" src="figures/KOR_CO2_totals.png" /></p><h2>#5 (KOR_CDIAC_1)</h2>
-<p><img alt="" src="figures/KOR_CDIAC_1.png" /></p><h2>#6 (KOR_BP_1)</h2>
-<p><img alt="" src="figures/KOR_BP_1.png" /></p><h2>#7 (KOR_CAIT_lucf_vs_nolucf)</h2>
-<p><img alt="" src="figures/KOR_CAIT_lucf_vs_nolucf.png" /></p><h2>#8 (KOR_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/KOR_CAIT_gases_1.png" /></p><h2>#9 (KOR_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/KOR_Minx_top20_subsectors.png" /></p><h2>#10 (KOR_EIA_1)</h2>
+<p><img alt="" src="figures/KOR_CDIAC_1.png" /></p><h2>#6 (KOR_relative_totals)</h2>
+<p><img alt="" src="figures/KOR_relative_totals.png" /></p><h2>#7 (KOR_BP_1)</h2>
+<p><img alt="" src="figures/KOR_BP_1.png" /></p><h2>#8 (KOR_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/KOR_CAIT_lucf_vs_nolucf.png" /></p><h2>#9 (KOR_CAIT_gases_1)</h2>
+<p><img alt="" src="figures/KOR_CAIT_gases_1.png" /></p><h2>#10 (KOR_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/KOR_Minx_top20_subsectors.png" /></p><h2>#11 (KOR_EIA_1)</h2>
 <p><img alt="" src="figures/KOR_EIA_1.png" /></p>

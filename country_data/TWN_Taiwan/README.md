@@ -18,4 +18,5 @@ Taiwan
 <p><img alt="" src="figures/TWN_GCP_Country_Highlight.png" /></p><h2>#6 (TWN_CO2_totals)</h2>
 <p><img alt="" src="figures/TWN_CO2_totals.png" /></p><h2>#7 (TWN_EIA_1)</h2>
 <p><img alt="" src="figures/TWN_EIA_1.png" /></p><h2>#8 (TWN_IEA_1)</h2>
-<p><img alt="" src="figures/TWN_IEA_1.png" /></p>
+<p><img alt="" src="figures/TWN_IEA_1.png" /></p><h2>#9 (TWN_relative_totals)</h2>
+<p><img alt="" src="figures/TWN_relative_totals.png" /></p>

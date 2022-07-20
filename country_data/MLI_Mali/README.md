@@ -18,5 +18,7 @@ Mali
 <p><img alt="" src="figures/MLI_CAIT_gases_1.png" /></p><h2>#6 (MLI_CDIAC_1)</h2>
 <p><img alt="" src="figures/MLI_CDIAC_1.png" /></p><h2>#7 (MLI_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/MLI_Minx_top20_subsectors.png" /></p><h2>#8 (MLI_EIA_1)</h2>
-<p><img alt="" src="figures/MLI_EIA_1.png" /></p><h2>#9 (MLI_CO2_totals)</h2>
-<p><img alt="" src="figures/MLI_CO2_totals.png" /></p>
+<p><img alt="" src="figures/MLI_EIA_1.png" /></p><h2>#9 (MLI_BP_1)</h2>
+<p><img alt="" src="figures/MLI_BP_1.png" /></p><h2>#10 (MLI_CO2_totals)</h2>
+<p><img alt="" src="figures/MLI_CO2_totals.png" /></p><h2>#11 (MLI_relative_totals)</h2>
+<p><img alt="" src="figures/MLI_relative_totals.png" /></p>

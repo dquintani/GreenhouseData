@@ -20,5 +20,6 @@ Vietnam
 <p><img alt="" src="figures/VNM_CDIAC_1.png" /></p><h2>#8 (VNM_UNFCCC_NAI_1)</h2>
 <p><img alt="" src="figures/VNM_UNFCCC_NAI_1.png" /></p><h2>#9 (VNM_CO2_totals)</h2>
 <p><img alt="" src="figures/VNM_CO2_totals.png" /></p><h2>#10 (VNM_EIA_1)</h2>
-<p><img alt="" src="figures/VNM_EIA_1.png" /></p><h2>#11 (VNM_CAIT_gases_1)</h2>
+<p><img alt="" src="figures/VNM_EIA_1.png" /></p><h2>#11 (VNM_relative_totals)</h2>
+<p><img alt="" src="figures/VNM_relative_totals.png" /></p><h2>#12 (VNM_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/VNM_CAIT_gases_1.png" /></p>

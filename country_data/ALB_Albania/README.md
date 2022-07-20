@@ -20,4 +20,5 @@ Albania
 <p><img alt="" src="figures/ALB_EIA_1.png" /></p><h2>#8 (ALB_IEA_1)</h2>
 <p><img alt="" src="figures/ALB_IEA_1.png" /></p><h2>#9 (ALB_CDIAC_1)</h2>
 <p><img alt="" src="figures/ALB_CDIAC_1.png" /></p><h2>#10 (ALB_GCP_1)</h2>
-<p><img alt="" src="figures/ALB_GCP_1.png" /></p>
+<p><img alt="" src="figures/ALB_GCP_1.png" /></p><h2>#11 (ALB_relative_totals)</h2>
+<p><img alt="" src="figures/ALB_relative_totals.png" /></p>

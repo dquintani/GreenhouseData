@@ -19,4 +19,5 @@ Madagascar
 <p><img alt="" src="figures/MDG_GCP_1.png" /></p><h2>#7 (MDG_CO2_totals)</h2>
 <p><img alt="" src="figures/MDG_CO2_totals.png" /></p><h2>#8 (MDG_EIA_1)</h2>
 <p><img alt="" src="figures/MDG_EIA_1.png" /></p><h2>#9 (MDG_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/MDG_Minx_top20_subsectors.png" /></p>
+<p><img alt="" src="figures/MDG_Minx_top20_subsectors.png" /></p><h2>#10 (MDG_relative_totals)</h2>
+<p><img alt="" src="figures/MDG_relative_totals.png" /></p>

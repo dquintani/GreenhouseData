@@ -16,8 +16,9 @@ North Korea
 <p><img alt="" src="figures/PRK_CAIT_gases_1.png" /></p><h2>#4 (PRK_GCP_1)</h2>
 <p><img alt="" src="figures/PRK_GCP_1.png" /></p><h2>#5 (PRK_IEA_1)</h2>
 <p><img alt="" src="figures/PRK_IEA_1.png" /></p><h2>#6 (PRK_GCP_Country_Highlight)</h2>
-<p><img alt="" src="figures/PRK_GCP_Country_Highlight.png" /></p><h2>#7 (PRK_CDIAC_1)</h2>
-<p><img alt="" src="figures/PRK_CDIAC_1.png" /></p><h2>#8 (PRK_EIA_1)</h2>
-<p><img alt="" src="figures/PRK_EIA_1.png" /></p><h2>#9 (PRK_CO2_totals)</h2>
-<p><img alt="" src="figures/PRK_CO2_totals.png" /></p><h2>#10 (PRK_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/PRK_GCP_Country_Highlight.png" /></p><h2>#7 (PRK_relative_totals)</h2>
+<p><img alt="" src="figures/PRK_relative_totals.png" /></p><h2>#8 (PRK_CDIAC_1)</h2>
+<p><img alt="" src="figures/PRK_CDIAC_1.png" /></p><h2>#9 (PRK_EIA_1)</h2>
+<p><img alt="" src="figures/PRK_EIA_1.png" /></p><h2>#10 (PRK_CO2_totals)</h2>
+<p><img alt="" src="figures/PRK_CO2_totals.png" /></p><h2>#11 (PRK_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/PRK_Minx_top20_subsectors.png" /></p>

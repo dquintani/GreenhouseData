@@ -20,5 +20,6 @@ Peru
 <p><img alt="" src="figures/PER_EIA_1.png" /></p><h2>#8 (PER_BP_1)</h2>
 <p><img alt="" src="figures/PER_BP_1.png" /></p><h2>#9 (PER_CAIT_lucf_vs_nolucf)</h2>
 <p><img alt="" src="figures/PER_CAIT_lucf_vs_nolucf.png" /></p><h2>#10 (PER_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/PER_CAIT_gases_1.png" /></p><h2>#11 (PER_CO2_totals)</h2>
+<p><img alt="" src="figures/PER_CAIT_gases_1.png" /></p><h2>#11 (PER_relative_totals)</h2>
+<p><img alt="" src="figures/PER_relative_totals.png" /></p><h2>#12 (PER_CO2_totals)</h2>
 <p><img alt="" src="figures/PER_CO2_totals.png" /></p>

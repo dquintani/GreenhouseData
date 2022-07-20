@@ -16,8 +16,9 @@ Paraguay
 <p><img alt="" src="figures/PRY_IEA_1.png" /></p><h2>#4 (PRY_CO2_totals)</h2>
 <p><img alt="" src="figures/PRY_CO2_totals.png" /></p><h2>#5 (PRY_GCP_1)</h2>
 <p><img alt="" src="figures/PRY_GCP_1.png" /></p><h2>#6 (PRY_CAIT_lucf_vs_nolucf)</h2>
-<p><img alt="" src="figures/PRY_CAIT_lucf_vs_nolucf.png" /></p><h2>#7 (PRY_UNFCCC_NAI_1)</h2>
-<p><img alt="" src="figures/PRY_UNFCCC_NAI_1.png" /></p><h2>#8 (PRY_EIA_1)</h2>
-<p><img alt="" src="figures/PRY_EIA_1.png" /></p><h2>#9 (PRY_GCP_Country_Highlight)</h2>
-<p><img alt="" src="figures/PRY_GCP_Country_Highlight.png" /></p><h2>#10 (PRY_CAIT_gases_1)</h2>
+<p><img alt="" src="figures/PRY_CAIT_lucf_vs_nolucf.png" /></p><h2>#7 (PRY_relative_totals)</h2>
+<p><img alt="" src="figures/PRY_relative_totals.png" /></p><h2>#8 (PRY_UNFCCC_NAI_1)</h2>
+<p><img alt="" src="figures/PRY_UNFCCC_NAI_1.png" /></p><h2>#9 (PRY_EIA_1)</h2>
+<p><img alt="" src="figures/PRY_EIA_1.png" /></p><h2>#10 (PRY_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/PRY_GCP_Country_Highlight.png" /></p><h2>#11 (PRY_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/PRY_CAIT_gases_1.png" /></p>

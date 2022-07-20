@@ -18,7 +18,8 @@ Azerbaijan
 <p><img alt="" src="figures/AZE_Minx_top20_subsectors.png" /></p><h2>#6 (AZE_CDIAC_1)</h2>
 <p><img alt="" src="figures/AZE_CDIAC_1.png" /></p><h2>#7 (AZE_IEA_1)</h2>
 <p><img alt="" src="figures/AZE_IEA_1.png" /></p><h2>#8 (AZE_BP_1)</h2>
-<p><img alt="" src="figures/AZE_BP_1.png" /></p><h2>#9 (AZE_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/AZE_CAIT_gases_1.png" /></p><h2>#10 (AZE_CO2_totals)</h2>
-<p><img alt="" src="figures/AZE_CO2_totals.png" /></p><h2>#11 (AZE_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/AZE_BP_1.png" /></p><h2>#9 (AZE_relative_totals)</h2>
+<p><img alt="" src="figures/AZE_relative_totals.png" /></p><h2>#10 (AZE_CAIT_gases_1)</h2>
+<p><img alt="" src="figures/AZE_CAIT_gases_1.png" /></p><h2>#11 (AZE_CO2_totals)</h2>
+<p><img alt="" src="figures/AZE_CO2_totals.png" /></p><h2>#12 (AZE_GCP_Country_Highlight)</h2>
 <p><img alt="" src="figures/AZE_GCP_Country_Highlight.png" /></p>

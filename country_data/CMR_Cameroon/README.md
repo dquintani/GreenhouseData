@@ -19,5 +19,6 @@ Cameroon
 <p><img alt="" src="figures/CMR_CAIT_lucf_vs_nolucf.png" /></p><h2>#7 (CMR_GCP_1)</h2>
 <p><img alt="" src="figures/CMR_GCP_1.png" /></p><h2>#8 (CMR_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/CMR_CAIT_gases_1.png" /></p><h2>#9 (CMR_UNFCCC_NAI_1)</h2>
-<p><img alt="" src="figures/CMR_UNFCCC_NAI_1.png" /></p><h2>#10 (CMR_IEA_1)</h2>
+<p><img alt="" src="figures/CMR_UNFCCC_NAI_1.png" /></p><h2>#10 (CMR_relative_totals)</h2>
+<p><img alt="" src="figures/CMR_relative_totals.png" /></p><h2>#11 (CMR_IEA_1)</h2>
 <p><img alt="" src="figures/CMR_IEA_1.png" /></p>

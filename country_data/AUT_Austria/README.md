@@ -13,12 +13,13 @@ Austria
 <h1>Figures:</h1><h2>#1 (AUT_GCP_1)</h2>
 <p><img alt="" src="figures/AUT_GCP_1.png" /></p><h2>#2 (AUT_EIA_1)</h2>
 <p><img alt="" src="figures/AUT_EIA_1.png" /></p><h2>#3 (AUT_BP_1)</h2>
-<p><img alt="" src="figures/AUT_BP_1.png" /></p><h2>#4 (AUT_CAIT_lucf_vs_nolucf)</h2>
-<p><img alt="" src="figures/AUT_CAIT_lucf_vs_nolucf.png" /></p><h2>#5 (AUT_GCP_Country_Highlight)</h2>
-<p><img alt="" src="figures/AUT_GCP_Country_Highlight.png" /></p><h2>#6 (AUT_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/AUT_CAIT_gases_1.png" /></p><h2>#7 (AUT_CDIAC_1)</h2>
-<p><img alt="" src="figures/AUT_CDIAC_1.png" /></p><h2>#8 (AUT_UNFCCC_AI_1)</h2>
-<p><img alt="" src="figures/AUT_UNFCCC_AI_1.png" /></p><h2>#9 (AUT_IEA_1)</h2>
-<p><img alt="" src="figures/AUT_IEA_1.png" /></p><h2>#10 (AUT_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/AUT_Minx_top20_subsectors.png" /></p><h2>#11 (AUT_CO2_totals)</h2>
+<p><img alt="" src="figures/AUT_BP_1.png" /></p><h2>#4 (AUT_relative_totals)</h2>
+<p><img alt="" src="figures/AUT_relative_totals.png" /></p><h2>#5 (AUT_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/AUT_CAIT_lucf_vs_nolucf.png" /></p><h2>#6 (AUT_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/AUT_GCP_Country_Highlight.png" /></p><h2>#7 (AUT_CAIT_gases_1)</h2>
+<p><img alt="" src="figures/AUT_CAIT_gases_1.png" /></p><h2>#8 (AUT_CDIAC_1)</h2>
+<p><img alt="" src="figures/AUT_CDIAC_1.png" /></p><h2>#9 (AUT_UNFCCC_AI_1)</h2>
+<p><img alt="" src="figures/AUT_UNFCCC_AI_1.png" /></p><h2>#10 (AUT_IEA_1)</h2>
+<p><img alt="" src="figures/AUT_IEA_1.png" /></p><h2>#11 (AUT_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/AUT_Minx_top20_subsectors.png" /></p><h2>#12 (AUT_CO2_totals)</h2>
 <p><img alt="" src="figures/AUT_CO2_totals.png" /></p>

@@ -13,13 +13,14 @@ Brazil
 <h1>Figures:</h1><h2>#1 (BRA_UNFCCC_NAI_1)</h2>
 <p><img alt="" src="figures/BRA_UNFCCC_NAI_1.png" /></p><h2>#2 (BRA_CO2_totals)</h2>
 <p><img alt="" src="figures/BRA_CO2_totals.png" /></p><h2>#3 (BRA_Carbon_Monitor_1)</h2>
-<p><img alt="" src="figures/BRA_Carbon_Monitor_1.png" /></p><h2>#4 (BRA_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/BRA_CAIT_gases_1.png" /></p><h2>#5 (BRA_IEA_1)</h2>
-<p><img alt="" src="figures/BRA_IEA_1.png" /></p><h2>#6 (BRA_EIA_1)</h2>
-<p><img alt="" src="figures/BRA_EIA_1.png" /></p><h2>#7 (BRA_BP_1)</h2>
-<p><img alt="" src="figures/BRA_BP_1.png" /></p><h2>#8 (BRA_CAIT_lucf_vs_nolucf)</h2>
-<p><img alt="" src="figures/BRA_CAIT_lucf_vs_nolucf.png" /></p><h2>#9 (BRA_CDIAC_1)</h2>
-<p><img alt="" src="figures/BRA_CDIAC_1.png" /></p><h2>#10 (BRA_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/BRA_Minx_top20_subsectors.png" /></p><h2>#11 (BRA_GCP_Country_Highlight)</h2>
-<p><img alt="" src="figures/BRA_GCP_Country_Highlight.png" /></p><h2>#12 (BRA_GCP_1)</h2>
+<p><img alt="" src="figures/BRA_Carbon_Monitor_1.png" /></p><h2>#4 (BRA_relative_totals)</h2>
+<p><img alt="" src="figures/BRA_relative_totals.png" /></p><h2>#5 (BRA_CAIT_gases_1)</h2>
+<p><img alt="" src="figures/BRA_CAIT_gases_1.png" /></p><h2>#6 (BRA_IEA_1)</h2>
+<p><img alt="" src="figures/BRA_IEA_1.png" /></p><h2>#7 (BRA_EIA_1)</h2>
+<p><img alt="" src="figures/BRA_EIA_1.png" /></p><h2>#8 (BRA_BP_1)</h2>
+<p><img alt="" src="figures/BRA_BP_1.png" /></p><h2>#9 (BRA_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/BRA_CAIT_lucf_vs_nolucf.png" /></p><h2>#10 (BRA_CDIAC_1)</h2>
+<p><img alt="" src="figures/BRA_CDIAC_1.png" /></p><h2>#11 (BRA_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/BRA_Minx_top20_subsectors.png" /></p><h2>#12 (BRA_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/BRA_GCP_Country_Highlight.png" /></p><h2>#13 (BRA_GCP_1)</h2>
 <p><img alt="" src="figures/BRA_GCP_1.png" /></p>

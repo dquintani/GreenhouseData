@@ -17,9 +17,10 @@ Russian Federation
 <p><img alt="" src="figures/RUS_Minx_top20_subsectors.png" /></p><h2>#5 (RUS_IEA_1)</h2>
 <p><img alt="" src="figures/RUS_IEA_1.png" /></p><h2>#6 (RUS_GCP_1)</h2>
 <p><img alt="" src="figures/RUS_GCP_1.png" /></p><h2>#7 (RUS_CAIT_lucf_vs_nolucf)</h2>
-<p><img alt="" src="figures/RUS_CAIT_lucf_vs_nolucf.png" /></p><h2>#8 (RUS_UNFCCC_AI_1)</h2>
-<p><img alt="" src="figures/RUS_UNFCCC_AI_1.png" /></p><h2>#9 (RUS_EIA_1)</h2>
-<p><img alt="" src="figures/RUS_EIA_1.png" /></p><h2>#10 (RUS_CDIAC_1)</h2>
-<p><img alt="" src="figures/RUS_CDIAC_1.png" /></p><h2>#11 (RUS_Carbon_Monitor_1)</h2>
-<p><img alt="" src="figures/RUS_Carbon_Monitor_1.png" /></p><h2>#12 (RUS_BP_1)</h2>
+<p><img alt="" src="figures/RUS_CAIT_lucf_vs_nolucf.png" /></p><h2>#8 (RUS_relative_totals)</h2>
+<p><img alt="" src="figures/RUS_relative_totals.png" /></p><h2>#9 (RUS_UNFCCC_AI_1)</h2>
+<p><img alt="" src="figures/RUS_UNFCCC_AI_1.png" /></p><h2>#10 (RUS_EIA_1)</h2>
+<p><img alt="" src="figures/RUS_EIA_1.png" /></p><h2>#11 (RUS_CDIAC_1)</h2>
+<p><img alt="" src="figures/RUS_CDIAC_1.png" /></p><h2>#12 (RUS_Carbon_Monitor_1)</h2>
+<p><img alt="" src="figures/RUS_Carbon_Monitor_1.png" /></p><h2>#13 (RUS_BP_1)</h2>
 <p><img alt="" src="figures/RUS_BP_1.png" /></p>

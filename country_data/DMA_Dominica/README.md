@@ -14,9 +14,10 @@ Dominica
 <p><img alt="" src="figures/DMA_GCP_1.png" /></p><h2>#2 (DMA_CAIT_lucf_vs_nolucf)</h2>
 <p><img alt="" src="figures/DMA_CAIT_lucf_vs_nolucf.png" /></p><h2>#3 (DMA_CDIAC_1)</h2>
 <p><img alt="" src="figures/DMA_CDIAC_1.png" /></p><h2>#4 (DMA_EIA_1)</h2>
-<p><img alt="" src="figures/DMA_EIA_1.png" /></p><h2>#5 (DMA_CO2_totals)</h2>
-<p><img alt="" src="figures/DMA_CO2_totals.png" /></p><h2>#6 (DMA_CAIT_gases_1)</h2>
-<p><img alt="" src="figures/DMA_CAIT_gases_1.png" /></p><h2>#7 (DMA_UNFCCC_NAI_1)</h2>
-<p><img alt="" src="figures/DMA_UNFCCC_NAI_1.png" /></p><h2>#8 (DMA_GCP_Country_Highlight)</h2>
-<p><img alt="" src="figures/DMA_GCP_Country_Highlight.png" /></p><h2>#9 (DMA_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/DMA_EIA_1.png" /></p><h2>#5 (DMA_relative_totals)</h2>
+<p><img alt="" src="figures/DMA_relative_totals.png" /></p><h2>#6 (DMA_CO2_totals)</h2>
+<p><img alt="" src="figures/DMA_CO2_totals.png" /></p><h2>#7 (DMA_CAIT_gases_1)</h2>
+<p><img alt="" src="figures/DMA_CAIT_gases_1.png" /></p><h2>#8 (DMA_UNFCCC_NAI_1)</h2>
+<p><img alt="" src="figures/DMA_UNFCCC_NAI_1.png" /></p><h2>#9 (DMA_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/DMA_GCP_Country_Highlight.png" /></p><h2>#10 (DMA_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/DMA_Minx_top20_subsectors.png" /></p>

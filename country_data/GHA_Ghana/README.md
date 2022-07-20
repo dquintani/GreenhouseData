@@ -18,6 +18,7 @@ Ghana
 <p><img alt="" src="figures/GHA_GCP_Country_Highlight.png" /></p><h2>#6 (GHA_GCP_1)</h2>
 <p><img alt="" src="figures/GHA_GCP_1.png" /></p><h2>#7 (GHA_Minx_top20_subsectors)</h2>
 <p><img alt="" src="figures/GHA_Minx_top20_subsectors.png" /></p><h2>#8 (GHA_CAIT_lucf_vs_nolucf)</h2>
-<p><img alt="" src="figures/GHA_CAIT_lucf_vs_nolucf.png" /></p><h2>#9 (GHA_CO2_totals)</h2>
-<p><img alt="" src="figures/GHA_CO2_totals.png" /></p><h2>#10 (GHA_UNFCCC_NAI_1)</h2>
+<p><img alt="" src="figures/GHA_CAIT_lucf_vs_nolucf.png" /></p><h2>#9 (GHA_relative_totals)</h2>
+<p><img alt="" src="figures/GHA_relative_totals.png" /></p><h2>#10 (GHA_CO2_totals)</h2>
+<p><img alt="" src="figures/GHA_CO2_totals.png" /></p><h2>#11 (GHA_UNFCCC_NAI_1)</h2>
 <p><img alt="" src="figures/GHA_UNFCCC_NAI_1.png" /></p>

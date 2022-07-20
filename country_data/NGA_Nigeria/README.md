@@ -16,8 +16,9 @@ Nigeria
 <p><img alt="" src="figures/NGA_GCP_1.png" /></p><h2>#4 (NGA_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/NGA_CAIT_gases_1.png" /></p><h2>#5 (NGA_IEA_1)</h2>
 <p><img alt="" src="figures/NGA_IEA_1.png" /></p><h2>#6 (NGA_CDIAC_1)</h2>
-<p><img alt="" src="figures/NGA_CDIAC_1.png" /></p><h2>#7 (NGA_GCP_Country_Highlight)</h2>
-<p><img alt="" src="figures/NGA_GCP_Country_Highlight.png" /></p><h2>#8 (NGA_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/NGA_Minx_top20_subsectors.png" /></p><h2>#9 (NGA_CAIT_lucf_vs_nolucf)</h2>
-<p><img alt="" src="figures/NGA_CAIT_lucf_vs_nolucf.png" /></p><h2>#10 (NGA_UNFCCC_NAI_1)</h2>
+<p><img alt="" src="figures/NGA_CDIAC_1.png" /></p><h2>#7 (NGA_relative_totals)</h2>
+<p><img alt="" src="figures/NGA_relative_totals.png" /></p><h2>#8 (NGA_GCP_Country_Highlight)</h2>
+<p><img alt="" src="figures/NGA_GCP_Country_Highlight.png" /></p><h2>#9 (NGA_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/NGA_Minx_top20_subsectors.png" /></p><h2>#10 (NGA_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/NGA_CAIT_lucf_vs_nolucf.png" /></p><h2>#11 (NGA_UNFCCC_NAI_1)</h2>
 <p><img alt="" src="figures/NGA_UNFCCC_NAI_1.png" /></p>

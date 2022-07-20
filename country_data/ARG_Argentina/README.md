@@ -15,10 +15,11 @@ Argentina
 <p><img alt="" src="figures/ARG_CDIAC_1.png" /></p><h2>#3 (ARG_BP_1)</h2>
 <p><img alt="" src="figures/ARG_BP_1.png" /></p><h2>#4 (ARG_CAIT_gases_1)</h2>
 <p><img alt="" src="figures/ARG_CAIT_gases_1.png" /></p><h2>#5 (ARG_EIA_1)</h2>
-<p><img alt="" src="figures/ARG_EIA_1.png" /></p><h2>#6 (ARG_Minx_top20_subsectors)</h2>
-<p><img alt="" src="figures/ARG_Minx_top20_subsectors.png" /></p><h2>#7 (ARG_IEA_1)</h2>
-<p><img alt="" src="figures/ARG_IEA_1.png" /></p><h2>#8 (ARG_GCP_1)</h2>
-<p><img alt="" src="figures/ARG_GCP_1.png" /></p><h2>#9 (ARG_CAIT_lucf_vs_nolucf)</h2>
-<p><img alt="" src="figures/ARG_CAIT_lucf_vs_nolucf.png" /></p><h2>#10 (ARG_UNFCCC_NAI_1)</h2>
-<p><img alt="" src="figures/ARG_UNFCCC_NAI_1.png" /></p><h2>#11 (ARG_CO2_totals)</h2>
+<p><img alt="" src="figures/ARG_EIA_1.png" /></p><h2>#6 (ARG_relative_totals)</h2>
+<p><img alt="" src="figures/ARG_relative_totals.png" /></p><h2>#7 (ARG_Minx_top20_subsectors)</h2>
+<p><img alt="" src="figures/ARG_Minx_top20_subsectors.png" /></p><h2>#8 (ARG_IEA_1)</h2>
+<p><img alt="" src="figures/ARG_IEA_1.png" /></p><h2>#9 (ARG_GCP_1)</h2>
+<p><img alt="" src="figures/ARG_GCP_1.png" /></p><h2>#10 (ARG_CAIT_lucf_vs_nolucf)</h2>
+<p><img alt="" src="figures/ARG_CAIT_lucf_vs_nolucf.png" /></p><h2>#11 (ARG_UNFCCC_NAI_1)</h2>
+<p><img alt="" src="figures/ARG_UNFCCC_NAI_1.png" /></p><h2>#12 (ARG_CO2_totals)</h2>
 <p><img alt="" src="figures/ARG_CO2_totals.png" /></p>
