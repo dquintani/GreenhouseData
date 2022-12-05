@@ -33,7 +33,7 @@ Created by Diego Acevedo Quintanilla
 (checks for updates daily)
 </p>
 
-<img width="1200" src="https://raw.githubusercontent.com/dquintani/update/main/Greenhouse_Data/NOAA_Updates/figures/NOAA_summary.png">
+<img width="1200" src="https://raw.githubusercontent.com/dquintani/update/main/Greenhouse_Data/NOAA_updates/figures/NOAA_summary.png">
 <br>
 <br>
 
@@ -48,7 +48,7 @@ Created by Diego Acevedo Quintanilla
 Updated every 3 hours
 </p>
 
-<img width="1200" src="https://raw.githubusercontent.com/dquintani/update/main/Greenhouse_Data/Random_Fig_Daily/random_daily_fig.png">
+<img width="1200" src="https://raw.githubusercontent.com/dquintani/update/main/Greenhouse_Data/random_fig/random_daily_fig.png">
 <br>
 <br>
 
@@ -77,7 +77,7 @@ Updated every 3 hours
 <br>
 <a href="https://twitter.com/greenhousedata?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @greenhousedata</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br>
-<a class="twitter-timeline" data-height="1200" data-width="60%" data-theme="dark" href="https://twitter.com/GreenhouseData?ref_src=twsrc%5Etfw">Tweets by GreenhouseData</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-heigUnicodeEncodeError: 'charmap' codec can't encode character '🌍' in position 329: character maps to <undefined>UnicodeEncodeError: 'charmap' codec can't encode character '🌍' in position 329: character maps to <undefined>UnicodeEncodeError: 'charmap' codec can't encode character '🌍' in position 329: character maps to <undefined>UnicodeEncodeError: 'charmap' codec can't encode character '🌍' in position 329: character maps to <undefined>UnicodeEncodeError: 'charmap' codec can't encode character '🌍' in position 329: character maps to <undefined>UnicodeEncodeError: 'charmap' codec can't encode character '🌍' in position 329: character maps to <undefined>ht="1200" data-width="60%" data-theme="dark" href="https://twitter.com/GreenhouseData?ref_src=twsrc%5Etfw">Tweets by GreenhouseData</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br>
 <br><h1>Explore figures and data by Country:</h1><h1>
 <center>

@@ -10,6 +10,6 @@ South Georgia and the South Sandwich Islands
 <h2>Datasets:</h2>
 <p><a href="https://github.com/dquintani/GreenhouseData/tree/master/country_data/SGS_South Georgia and the South Sandwich Islands/data">View on Github</a>
 <br></p><p><a href="data/SGS_EDGAR.csv">EDGAR</a></p><p><br></p>
-<h1>Figures:</h1><h2>#1 (SGS_relative_totals)</h2>
-<p><img alt="" src="figures/SGS_relative_totals.png" /></p><h2>#2 (SGS_CO2_totals)</h2>
-<p><img alt="" src="figures/SGS_CO2_totals.png" /></p>
+<h1>Figures:</h1><h2>#1 (SGS_CO2_totals)</h2>
+<p><img alt="" src="figures/SGS_CO2_totals.png" /></p><h2>#2 (SGS_relative_totals)</h2>
+<p><img alt="" src="figures/SGS_relative_totals.png" /></p>
